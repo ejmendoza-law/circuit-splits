@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4978313,
+ "cite": "Whole Woman's Health v. Ken Paxton, No. 17-51060 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-08-19",
+ "url": "https://www.courtlistener.com/opinion/4978313/whole-womans-health-v-ken-paxton/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

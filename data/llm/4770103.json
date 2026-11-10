@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "This court has not assessed Neal's continuing vitality in the wake of Wilson,5 and we need not do so today.",
+ "cluster_id": 4770103,
+ "cite": "Erica Sheppard v. Lorie Davis, Director, 967 F.3d 458 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-07-22",
+ "url": "https://www.courtlistener.com/opinion/4770103/erica-sheppard-v-lorie-davis-director/",
+ "usage": {
+  "in": 1316,
+  "out": 477
+ }
+}

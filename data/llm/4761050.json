@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under \u00a7 404 of the First Step Act, may a district court resentencing a covered offense consider intervening changes in case law, not just the Fair Sentencing Act's changes, when recalculating the sentence?",
+ "provision": "First Step Act of 2018, \u00a7 404 (Fair Sentencing Act \u00a7\u00a7 2 and 3)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "No. The court must place itself in the counterfactual world where only Fair Sentencing Act \u00a7\u00a7 2 and 3 applied and must not consider other legal changes, including intervening case law. The First Step Act does not authorize a plenary resentencing.",
+   "circuits": [
+    "9th",
+    "5th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Kelley, 962 F.3d 470 (9th Cir. 2020)",
+    "United States v. Hegwood, 934 F.3d 414 (5th Cir. 2019)",
+    "United States v. Smith, 958 F.3d 494 (6th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Yes. A court may consider at least some intervening changes in case law when recalculating a prisoner's sentence under the First Step Act, because the statute contains no limiting language barring it.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Chambers, 956 F.3d 667 (4th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "No. The Ninth Circuit holds that a district court may consider only the Fair Sentencing Act changes in its counterfactual inquiry, and it rejects Chambers.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "In reaching this conclusion, we deepen a circuit split.",
+ "cluster_id": 4761050,
+ "cite": "United States v. Ezralee Kelley, 962 F.3d 470 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-06-15",
+ "url": "https://www.courtlistener.com/opinion/4761050/united-states-v-ezralee-kelley/",
+ "usage": {
+  "in": 1316,
+  "out": 2340
+ }
+}

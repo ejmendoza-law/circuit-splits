@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal prisoner whose sentence was enhanced under the mandatory Sentencing Guidelines residual clause obtain relief under 28 U.S.C. \u00a7 2255 based on Johnson, and is such a motion timely?",
+ "provision": "28 U.S.C. \u00a7 2255",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A defendant sentenced under the mandatory Guidelines residual clause may bring a successful Section 2255 motion in light of Johnson.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Cross v. United States, 892 F.3d 288 (7th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "Such Section 2255 motions are untimely and cannot succeed.",
+   "circuits": [
+    "3d",
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. London, 937 F.3d 502 (5th Cir. 2019)",
+    "Russo v. United States, 902 F.3d 880 (8th Cir. 2018)",
+    "United States v. Green, 898 F.3d 315 (3d Cir. 2018)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The circuits have split over this same question.",
+ "cluster_id": 4692534,
+ "cite": "United States v. Brian Carr, 946 F.3d 598 (D.C. Cir. 2020)",
+ "court": "D.C.",
+ "date": "2020-01-07",
+ "url": "https://www.courtlistener.com/opinion/4692534/united-states-v-brian-carr/",
+ "usage": {
+  "in": 1315,
+  "out": 1456
+ }
+}

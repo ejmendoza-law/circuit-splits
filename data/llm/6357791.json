@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6357791,
+ "cite": "United States v. Brown, 26 F.4th 48 (1st Cir. 2022)",
+ "court": "1st",
+ "date": "2022-02-16",
+ "url": "https://www.courtlistener.com/opinion/6357791/united-states-v-brown/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

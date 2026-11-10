@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 18 U.S.C. \u00a7 1114 apply to the murder or attempted murder of a U.S. officer committed outside U.S. territory?",
+ "provision": "18 U.S.C. \u00a7 1114",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Section 1114 does not apply outside U.S. sovereign territory.",
+   "circuits": [
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Garcia Sota, 948 F.3d 356 (D.C. Cir. 2020)",
+    "United States v. Flores, 995 F.3d 214 (D.C. Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Section 1114 applies beyond the sovereign territory of the United States.",
+   "circuits": [
+    "2d",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Al Kassar, 660 F.3d 108 (2d Cir. 2011)",
+    "United States v. Benitez, 741 F.2d 1312 (11th Cir. 1984)",
+    "United States v. Flores, 995 F.3d 214 (D.C. Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Holds that \u00a7 1114 does not apply outside U.S. territory, following Garcia Sota. The majority applied that rule to vacate the \u00a7 1114 convictions; the dissent disputes that result and argues the issue was not preserved and was invited error.",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "Two circuits disagree with this court\u2019s decision in Garcia Sota and hold that \u00a7 1114 applies beyond the sovereign territory of the United States.",
+ "cluster_id": 4876719,
+ "cite": "United States v. Francisco Flores, 995 F.3d 214 (D.C. Cir. 2021)",
+ "court": "D.C.",
+ "date": "2021-04-23",
+ "url": "https://www.courtlistener.com/opinion/4876719/united-states-v-francisco-flores/",
+ "usage": {
+  "in": 1876,
+  "out": 1683
+ }
+}

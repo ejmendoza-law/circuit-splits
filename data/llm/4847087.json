@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "By adopting the more intrusive professional judgment standard, the majority also creates a circuit split.",
+ "cluster_id": 4847087,
+ "cite": "John Doe 4 v. Shenandoah Valley Juvenile, 985 F.3d 327 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-01-12",
+ "url": "https://www.courtlistener.com/opinion/4847087/john-doe-4-v-shenandoah-valley-juvenile/",
+ "usage": {
+  "in": 2321,
+  "out": 587
+ }
+}

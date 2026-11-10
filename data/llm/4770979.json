@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4770979,
+ "cite": "Nima Nassiri v. Thomas Mackie, 967 F.3d 544 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-07-27",
+ "url": "https://www.courtlistener.com/opinion/4770979/nima-nassiri-v-thomas-mackie/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

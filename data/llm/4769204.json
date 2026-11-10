@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a prior state drug conviction count as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b) when the substance is controlled under state law but not under the federal Controlled Substances Act?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "'Controlled substance' in \u00a7 4B1.2(b) refers to the federal definition, so a state conviction involving a substance not federally controlled does not qualify.",
+   "circuits": [
+    "2d",
+    "5th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Townsend, 897 F.3d 66 (2d Cir. 2018)",
+    "Leal-Vega, 680 F.3d 1160 (9th Cir. 2012)"
+   ]
+  },
+  {
+   "position": "'Controlled substance' in \u00a7 4B1.2(b) is not limited to federally controlled substances, so a state drug conviction can qualify under the state-law approach.",
+   "circuits": [
+    "6th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Sheffey, 2020 WL 3495944 (6th Cir. June 29, 2020)",
+    "United States v. Whitfield, 726 F. App'x 373 (6th Cir. 2018)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We recognize that a circuit split exists on this issue, and that the weight of authority favors Ruth.",
+ "cluster_id": 4769204,
+ "cite": "United States v. Nathaniel Ruth, 966 F.3d 642 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-07-20",
+ "url": "https://www.courtlistener.com/opinion/4769204/united-states-v-nathaniel-ruth/",
+ "usage": {
+  "in": 1870,
+  "out": 2903
+ }
+}

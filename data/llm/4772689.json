@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "In this instance, we need not dive more deeply into this question nor comment on the merit of Washington's argument.",
+ "cluster_id": 4772689,
+ "cite": "United States v. Sean Washington, 968 F.3d 860 (8th Cir. 2020)",
+ "court": "8th",
+ "date": "2020-08-04",
+ "url": "https://www.courtlistener.com/opinion/4772689/united-states-v-sean-washington/",
+ "usage": {
+  "in": 1314,
+  "out": 478
+ }
+}

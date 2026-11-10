@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Sentencing Commission Amendment 786 (effective Nov. 1, 2014), which amended Application Note 1 to exclude 18 U.S.C. \u00a7 2250 from the definition of 'sex offense' in U.S.S.G. \u00a7 5D1.2.",
+ "issue": "Is a failure-to-register conviction under 18 U.S.C. \u00a7 2250 a 'sex offense' for purposes of the Guidelines recommendation on the length of supervised release under U.S.S.G. \u00a7 5D1.2?",
+ "provision": "U.S.S.G. \u00a7 5D1.2 (Application Note 1); 18 U.S.C. \u00a7 3583(k)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Because failure to register is not a 'sex offense,' the Guidelines recommendation for supervised release is only the five-year minimum, not five years to life.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Putnam, 806 F.3d 853 (5th Cir. 2015)",
+    "United States v. Floss, 42 F.4th 854 (8th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "The Guidelines range for supervised release in a failure-to-register case is five years to life, with the statutory maximum recommended.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. James, 792 F.3d 962 (8th Cir. 2015)",
+    "United States v. Floss, 42 F.4th 854 (8th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "In Amendment 786, effective November 1, 2014, the Sentencing Commission, to resolve a perceived circuit conflict, amended Application Note 1 to provide, \"Such term does not include an offense under 18 U.S.C. \u00a7 2250 (Failure to register).\"",
+ "cluster_id": 7686245,
+ "cite": "United States v. Brian Floss, 42 F.4th 854 (8th Cir. 2022)",
+ "court": "8th",
+ "date": "2022-07-29",
+ "url": "https://www.courtlistener.com/opinion/7686245/united-states-v-brian-floss/",
+ "usage": {
+  "in": 1314,
+  "out": 1474
+ }
+}

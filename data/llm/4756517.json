@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a sentencing enhancement turns on an offense involving child pornography under 18 U.S.C. \u00a7 2252, should the statute's listed actus reus terms be read by their ordinary, generic meaning or by reference to the federal statutory definitions?",
+ "provision": "18 U.S.C. \u00a7 2252",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Statutory terms in \u00a7 2252 should be defined by reference to the federal statutory definition of 'child pornography' in the same chapter.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Reinhart, 893 F.3d 606 (8th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "Terms in \u00a7 2252 should be given their ordinary, contemporary, and common meaning, not defined strictly by federal counterparts.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Sullivan, 797 F.3d 623 (9th Cir. 2015)",
+    "United States v. Portanova, 961 F.3d 252 (3d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The offense should be read generically, as commonly understood and informed by its constituent terms, but not strictly cabined by them as under the formal categorical approach.",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "As we explain in Section II.A.2, infra, other circuits have split on the appropriate treatment of individual terms in \u00a7 2252.",
+ "cluster_id": 4756517,
+ "cite": "United States v. Michael Portanova, 961 F.3d 252 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-05-27",
+ "url": "https://www.courtlistener.com/opinion/4756517/united-states-v-michael-portanova/",
+ "usage": {
+  "in": 1316,
+  "out": 2418
+ }
+}

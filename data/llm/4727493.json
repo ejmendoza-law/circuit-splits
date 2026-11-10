@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is morphed child pornography, which depicts identifiable real children's faces on sexually explicit images of others, categorically excluded from First Amendment protection, so that it can be criminalized like real child pornography?",
+ "provision": "U.S. Const. amend. I; 18 U.S.C. \u00a7 2252A",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Morphed child pornography is unprotected speech, like real child pornography, because it causes the same reputational and emotional harm to children that justifies excluding real child pornography from the First Amendment.",
+   "circuits": [
+    "2d",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Hotaling, 634 F.3d 725 (2d Cir. 2011)",
+    "Doe, 698 F.3d 877 (6th Cir. 2012)",
+    "United States v. Mecham, No. 19-40319 (5th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Stevens cautions against categorical exclusion of speech based on a balancing of harms and value, so the Supreme Court's child pornography decisions should not be extended to morphed images without more; the Seventh Circuit reads Stevens as limiting that extension.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Price, 775 F.3d 828 (7th Cir. 2014)"
+   ]
+  }
+ ],
+ "this_court": "Excerpts end mid-analysis, but the court declines to read Stevens as overruling the Supreme Court's child pornography decisions, which suggests it leans toward the view that morphed child pornography falls outside First Amendment protection. It does not clearly hold so in the excerpts.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "As is typically the case when a circuit split exists, there are reasoned arguments on both sides of this issue.",
+ "cluster_id": 4727493,
+ "cite": "United States v. Clifford Mecham, Jr., No. 19-40319 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-02-14",
+ "url": "https://www.courtlistener.com/opinion/4727493/united-states-v-clifford-mecham-jr/",
+ "usage": {
+  "in": 1851,
+  "out": 2575
+ }
+}

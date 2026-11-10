@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "see also United States v. Whab, 355 F.3d 155, 158 n.1 (2d Cir. 2004) (plain error impossible without Supreme Court or controlling precedent from the same circuit, no matter if other circuits are split on the issue).",
+ "cluster_id": 4799937,
+ "cite": "United States v. Clough, 978 F.3d 810 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-10-23",
+ "url": "https://www.courtlistener.com/opinion/4799937/united-states-v-clough/",
+ "usage": {
+  "in": 1313,
+  "out": 1019
+ }
+}

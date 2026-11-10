@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Where a jury's special-interrogatory answer finds drug quantity below a statutory threshold, may the sentencing judge find by a preponderance of the evidence a larger quantity that increases the sentence?",
+ "provision": "21 U.S.C. \u00a7 841(b)(1); Apprendi v. New Jersey, 530 U.S. 466 (2000)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The jury's special-interrogatory finding is an affirmative finding of the actual drug quantity, so the judge cannot sentence on a higher quantity the jury did not find.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Pimentel-Lopez, 859 F.3d 1131 (9th Cir. 2017)"
+   ]
+  },
+  {
+   "position": "The special interrogatory only establishes the threshold the jury found beyond a reasonable doubt, and the judge may find a larger quantity at sentencing by a preponderance of the evidence.",
+   "circuits": [
+    "3d",
+    "8th",
+    "10th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Smith, 751 F.3d 107 (3d Cir. 2014)",
+    "United States v. Webb, 545 F.3d 667 (8th Cir. 2008)",
+    "United States v. Magallanez, 408 F.3d 672 (10th Cir. 2005)",
+    "Lopez-Esmurria, 714 F. App'x 127 (3d Cir.)",
+    "United States v. Leontaritis, 977 F.3d 447 (5th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the second position: the judge may find a quantity exceeding the jury's special-interrogatory threshold at sentencing (majority opinion, as characterized by the dissent).",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "The upshot is that the majority opinion joins what I believe is the wrong side of a deeply entrenched circuit split, which has developed without careful parsing of the actual words of the relevant special interrogatories.",
+ "cluster_id": 4795479,
+ "cite": "United States v. John Leontaritis, 977 F.3d 447 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-10-09",
+ "url": "https://www.courtlistener.com/opinion/4795479/united-states-v-john-leontaritis/",
+ "usage": {
+  "in": 1315,
+  "out": 2260
+ }
+}

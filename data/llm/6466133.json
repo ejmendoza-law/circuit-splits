@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6466133,
+ "cite": "United States v. Micky Rife, No. 20-5688 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-05-05",
+ "url": "https://www.courtlistener.com/opinion/6466133/united-states-v-micky-rife/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

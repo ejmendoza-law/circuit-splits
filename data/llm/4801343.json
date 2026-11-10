@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4801343,
+ "cite": "United States v. Clarke, 979 F.3d 82 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-10-29",
+ "url": "https://www.courtlistener.com/opinion/4801343/united-states-v-clarke/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

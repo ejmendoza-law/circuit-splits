@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Mr. Mjoness claims circuits are split on review of arguments not timely presented under Federal Rule of Criminal Procedure 12, and thus he seeks to preserve the argument that we should review his new theory for plain error, rather than hold it waived.",
+ "cluster_id": 4899381,
+ "cite": "United States v. Mjoness, 4 F.4th 967 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-07-13",
+ "url": "https://www.courtlistener.com/opinion/4899381/united-states-v-mjoness/",
+ "usage": {
+  "in": 1314,
+  "out": 832
+ }
+}

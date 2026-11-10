@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In reaching this conclusion, we acknowledged the Ninth Circuit's contrary holding in Federation of African American Contractors v. City of Oakland, 96 F.3d 1204 (9th Cir. 1996) \u2013 upon which Daniel relies in his brief \u2013 but found it unpersuasive.",
+ "cluster_id": 4984980,
+ "cite": "Smalls v. Collins Daniel v. Taylor, No. 20-1099-cv 20-1331-cv (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-08-20",
+ "url": "https://www.courtlistener.com/opinion/4984980/smalls-v-collins-daniel-v-taylor/",
+ "usage": {
+  "in": 1878,
+  "out": 739
+ }
+}

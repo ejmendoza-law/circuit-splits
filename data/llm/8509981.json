@@ -1,0 +1,53 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a prior conviction qualify as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b) only if the substance is listed in the federal Controlled Substances Act, or may the term be defined by reference to state law?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A 'controlled substance offense' under \u00a7 4B1.2(b) requires that the offense involve a substance listed in the federal Controlled Substances Act; the term is defined by federal law.",
+   "circuits": [
+    "1st",
+    "2d",
+    "5th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Townsend, 897 F.3d 66 (2d Cir. 2018)",
+    "United States v. Bautista, 989 F.3d 698 (9th Cir. 2021)",
+    "United States v. Crocco, 15 F.4th 20 (1st Cir. 2021)",
+    "United States v. Gomez-Alvarez, 781 F.3d 787 (5th Cir. 2015)"
+   ]
+  },
+  {
+   "position": "The term 'controlled substance' in \u00a7 4B1.2(b) is defined by reference to state law as well as federal law, so an offense involving a substance controlled under state law can qualify.",
+   "circuits": [
+    "4th",
+    "7th",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Ward, 972 F.3d 364 (4th Cir. 2020)",
+    "United States v. Ramirez, 52 F.4th 705 (7th Cir. 2022)",
+    "United States v. Henderson, 11 F.4th 713 (8th Cir. 2021)",
+    "United States v. Jones, 15 F.4th 1288 (10th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit adheres to the state-law approach from United States v. Ruth and declines to overrule it, so a state-law controlled substance can qualify under \u00a7 4B1.2(b).",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In contrast, the Fourth[,] \u2026 Seventh, Eighth, and Tenth Circuits[] define[] what qualifies as a \u201ccontrolled substance\u201d based on the relevant state law.",
+ "cluster_id": 8509981,
+ "cite": "United States v. Christopher Ramirez, 52 F.4th 705 (7th Cir. 2022)",
+ "court": "7th",
+ "date": "2022-11-08",
+ "url": "https://www.courtlistener.com/opinion/8509981/united-states-v-christopher-ramirez/",
+ "usage": {
+  "in": 4271,
+  "out": 1832
+ }
+}

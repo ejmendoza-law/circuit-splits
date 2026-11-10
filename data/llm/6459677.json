@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6459677,
+ "cite": "United States v. Saleem Hakim, 30 F.4th 1310 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-04-14",
+ "url": "https://www.courtlistener.com/opinion/6459677/united-states-v-saleem-hakim/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

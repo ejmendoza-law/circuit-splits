@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4693201,
+ "cite": "United States v. Marquise Bell, No. 17-3792 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-01-08",
+ "url": "https://www.courtlistener.com/opinion/4693201/united-states-v-marquise-bell/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

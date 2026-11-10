@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4860798,
+ "cite": "United States v. Trevino, No. 20-40249 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-03-03",
+ "url": "https://www.courtlistener.com/opinion/4860798/united-states-v-trevino/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

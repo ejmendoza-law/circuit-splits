@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4755922,
+ "cite": "Ricardo Woods v. Brian Cook, 960 F.3d 295 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-05-22",
+ "url": "https://www.courtlistener.com/opinion/4755922/ricardo-woods-v-brian-cook/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

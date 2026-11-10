@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In the wake of the X-Citement Video decision, all of the federal courts of appeals that have considered the issue of scienter under \u00a7 2251(a) have held that a defendant\u2019s knowledge of the minor\u2019s age is not an element of the offense.",
+ "cluster_id": 4695226,
+ "cite": "United States v. William Tyson, 947 F.3d 139 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-01-14",
+ "url": "https://www.courtlistener.com/opinion/4695226/united-states-v-william-tyson/",
+ "usage": {
+  "in": 2245,
+  "out": 756
+ }
+}

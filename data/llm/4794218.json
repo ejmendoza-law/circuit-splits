@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The states are divided on the question of how the trial court should instruct a jury in these circumstances.",
+ "cluster_id": 4794218,
+ "cite": "United States v. Candelario-Santana, 977 F.3d 146 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-10-08",
+ "url": "https://www.courtlistener.com/opinion/4794218/united-states-v-candelario-santana/",
+ "usage": {
+  "in": 1315,
+  "out": 415
+ }
+}

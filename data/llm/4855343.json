@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a state court's exclusion of defense evidence under a discretionary evidentiary rule be an unreasonable application of the Supreme Court's complete-defense cases (Chambers and Crane) under AEDPA, or do those cases reach only categorical exclusion rules?",
+ "provision": "28 U.S.C. \u00a7 2254(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Applying a discretionary evidentiary rule to exclude defense evidence does not violate the right to present a complete defense, so a state court's ruling to that effect is not an unreasonable application of Crane or Chambers.",
+   "circuits": [
+    "6th",
+    "8th",
+    "9th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "Moses v. Payne, 555 F.3d 742 (9th Cir. 2009)",
+    "Grant v. Royal, 886 F.3d 874 (10th Cir. 2018)",
+    "Troy v. Sec'y, Fla. Dep't of Corr., 763 F.3d 1305 (11th Cir. 2014)"
+   ]
+  },
+  {
+   "position": "A state court can unreasonably apply Crane and Chambers when it excludes critical defense evidence under a discretionary rule, so the complete-defense right is not limited to categorical exclusion rules.",
+   "circuits": [
+    "2d",
+    "5th",
+    "7th"
+   ],
+   "cases": [
+    "Fieldman v. Brannon, 969 F.3d 792 (7th Cir. 2020)",
+    "Scrimo v. Lee, 935 F.3d 103 (2d Cir. 2019)",
+    "Kittelson v. Dretke, 426 F.3d 306 (5th Cir. 2005)",
+    "Lucio v. Lumpkin, 987 F.3d 451 (5th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "Therefore, even if this case concerned a \"discretionary evidence rule\" (which it does not), our holding that the state habeas court unreasonably applied Crane and Chambers would not create a circuit split\u2014 the Ninth Circuit has already done so with a decision inconsistent with seven other circuits, including ours.",
+ "cluster_id": 4855343,
+ "cite": "Lucio v. Lumpkin, 987 F.3d 451 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-02-09",
+ "url": "https://www.courtlistener.com/opinion/4855343/lucio-v-lumpkin/",
+ "usage": {
+  "in": 3458,
+  "out": 3362
+ }
+}

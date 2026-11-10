@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Drug offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Contrary to Rodriguez\u2019s assertions, we do not today create a split with the Seventh Circuit.",
+ "cluster_id": 4780453,
+ "cite": "United States v. Francisca-Gamboa, 972 F.3d 1148 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-08-27",
+ "url": "https://www.courtlistener.com/opinion/4780453/united-states-v-francisca-gamboa/",
+ "usage": {
+  "in": 1315,
+  "out": 818
+ }
+}

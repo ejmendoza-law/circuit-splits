@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4751784,
+ "cite": "United States v. Lakento Smith, 958 F.3d 494 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-05-06",
+ "url": "https://www.courtlistener.com/opinion/4751784/united-states-v-lakento-smith/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

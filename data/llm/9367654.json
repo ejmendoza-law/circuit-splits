@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Supervised release & probation",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "This error, however, was not plain because at the time of appeal, the circuit had not decided the issue and there appeared to be a split in the circuits.",
+ "cluster_id": 9367654,
+ "cite": "USA V. JERRE NISHIDA, No. 21-10070 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-11-17",
+ "url": "https://www.courtlistener.com/opinion/9367654/usa-v-jerre-nishida/",
+ "usage": {
+  "in": 1313,
+  "out": 1873
+ }
+}

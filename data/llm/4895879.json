@@ -1,0 +1,36 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a defendant obtain appellate review of a suppression argument not raised in the district court, without showing good cause under Federal Rule of Criminal Procedure 12(c)(3)?",
+ "provision": "Fed. R. Crim. P. 12(c)(3)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Defendants may still obtain review of unpreserved suppression arguments under Rule 12 (the excerpt cuts off before stating this side's full rule).",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Unpreserved suppression arguments are unreviewable absent a showing of good cause under Rule 12(c)(3).",
+   "circuits": [],
+   "cases": [
+    "United States v. Centeno-Gonz\u00e1lez, 989 F.3d 36, 48 (1st Cir. 2021)",
+    "United States v. Lindsey, 3 F.4th 32 (1st Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "But we note that there is a circuit split as to whether under Federal Rule of Criminal Procedure 12 defendants may still",
+ "cluster_id": 4895879,
+ "cite": "United States v. Lindsey, 3 F.4th 32 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-06-29",
+ "url": "https://www.courtlistener.com/opinion/4895879/united-states-v-lindsey/",
+ "usage": {
+  "in": 1312,
+  "out": 1493
+ }
+}

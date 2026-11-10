@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The Kentucky Supreme Court addressed this issue in Haight IV, noting a \u201csplit of authority\u201d as to whether a criminal defendant has a right to introduce evidence of a withdrawn guilty plea as mitigation evidence in a capital trial.",
+ "cluster_id": 9374378,
+ "cite": "Randy Haight v. Scott Jordan, 59 F.4th 817 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-02-09",
+ "url": "https://www.courtlistener.com/opinion/9374378/randy-haight-v-scott-jordan/",
+ "usage": {
+  "in": 1314,
+  "out": 598
+ }
+}

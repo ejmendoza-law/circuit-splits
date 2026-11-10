@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "On plain-error review of a Rehaif claim (felon-in-possession knowledge-of-status element not charged or found at trial), may the appellate court look beyond the trial record to the whole record when deciding whether the error affected the fairness, integrity, or public reputation of judicial proceedings (prong four)?",
+ "provision": "Fed. R. Crim. P. 52(b); 18 U.S.C. \u00a7 922(g); 18 U.S.C. \u00a7 924(a)(2)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Appellate courts may review the whole record at plain-error prong four in assessing a Rehaif error's effect on fairness, integrity, or reputation of judicial proceedings. The dissent describes this as the position of most sister circuits; the Miller and Maez decisions, cited in the opinion, also took the discretionary approach.",
+   "circuits": [
+    "2d",
+    "7th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Reed, 941 F.3d 1018 (11th Cir. 2019)"
+   ]
+  },
+  {
+   "position": "At plain-error prong four, the court may not look beyond the trial record; judicial discretion cannot override the defendant's right to put the government to its proof, and the error is measured by the law at the time of appeal.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Nasir, 982 F.3d 144 (3d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit rejects whole-record review at prong four and holds that the court may not look beyond the trial record in that analysis.",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "By holding that we may not review the whole record at prong four, the majority positions us on the short end of a lopsided circuit split.",
+ "cluster_id": 4834881,
+ "cite": "United States v. Malik Nasir, 982 F.3d 144 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-12-01",
+ "url": "https://www.courtlistener.com/opinion/4834881/united-states-v-malik-nasir/",
+ "usage": {
+  "in": 1905,
+  "out": 3276
+ }
+}

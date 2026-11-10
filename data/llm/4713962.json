@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a defendant challenges the sufficiency of an indictment for the first time on appeal, without a pretrial motion under Rule 12, should the appellate court review for plain error or construe the challenge liberally in favor of sufficiency?",
+ "provision": "Fed. R. Crim. P. 12(b)(3)(B)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Untimely challenges to indictment sufficiency are reviewed for plain error",
+   "circuits": [
+    "5th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Fairley, 880 F.3d 198 (5th Cir. 2018)",
+    "United States v. Soto, 794 F.3d 635 (6th Cir. 2015)",
+    "United States v. Howard, 947 F.3d 936 (6th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Untimely challenges to indictment sufficiency are not reviewed for plain error but are construed liberally in favor of sufficiency",
+   "circuits": [
+    "9th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Spangler, 810 F.3d 702 (9th Cir. 2016)",
+    "United States v. Gibson, 409 F.3d 325 (6th Cir. 2005)",
+    "United States v. Kuehne, 547 F.3d 667 (6th Cir. 2008)",
+    "United States v. Howard, 947 F.3d 936 (6th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Applies plain-error review (majority, citing Soto). The concurrence rejects that approach and notes this court used liberal construction before the 2014 Rule 12 amendments, but the excerpt does not state the concurrence's replacement standard.",
+ "source": "concurrence",
+ "confidence": 0.7,
+ "quote": "But the circuits are split on how to review these challenges.",
+ "cluster_id": 4713962,
+ "cite": "United States v. Atrel Howard, Jr., 947 F.3d 936 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-01-21",
+ "url": "https://www.courtlistener.com/opinion/4713962/united-states-v-atrel-howard-jr/",
+ "usage": {
+  "in": 1316,
+  "out": 1973
+ }
+}

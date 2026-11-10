@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 8510715,
+ "cite": "Leanne Walters v. Richard Snyder, No. 22-1353 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-11-08",
+ "url": "https://www.courtlistener.com/opinion/8510715/leanne-walters-v-richard-snyder/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

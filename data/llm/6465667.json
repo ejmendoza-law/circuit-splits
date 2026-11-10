@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6465667,
+ "cite": "United States v. Jerrell Thomas, No. 20-6234 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-05-04",
+ "url": "https://www.courtlistener.com/opinion/6465667/united-states-v-jerrell-thomas/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

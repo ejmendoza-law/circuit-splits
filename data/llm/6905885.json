@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a state's law or parole policy determine whether a parolee's Fourth Amendment rights require reasonable suspicion for a search, or is the parolee's Fourth Amendment right fixed by federal law under Samson?",
+ "provision": "U.S. Const. amend. IV; Samson v. California, 547 U.S. 843 (2006)",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "State law, state regulation, or local policy determines a parolee's Fourth Amendment rights, so a parolee search requires reasonable suspicion only where state law requires it.",
+   "circuits": [
+    "3d",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Henley, 941 F.3d 646 (3d Cir. 2019)",
+    "United States v. Freeman (10th Cir.) (as cited in United States v. Sharp, 40 F.4th 749 (6th Cir. 2022))"
+   ]
+  },
+  {
+   "position": "The Fourth Amendment sets the parolee search standard under Samson, and state legislatures, state courts, or local administrators cannot create, diminish, or eliminate that federal right.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Sharp, 40 F.4th 749 (6th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.4,
+ "quote": "The Third Circuit disagreed and, like the Tenth Circuit in Freeman, read Sampson as holding that state law (or state regulation or local policy) determines a parolee's Fourth Amendment rights",
+ "cluster_id": 6905885,
+ "cite": "United States v. Ronald Sharp, 40 F.4th 749 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-07-22",
+ "url": "https://www.courtlistener.com/opinion/6905885/united-states-v-ronald-sharp/",
+ "usage": {
+  "in": 1320,
+  "out": 3035
+ }
+}

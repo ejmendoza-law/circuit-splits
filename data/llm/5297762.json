@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5297762,
+ "cite": "United States v. David Shulick, No. 18-3305 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-11-15",
+ "url": "https://www.courtlistener.com/opinion/5297762/united-states-v-david-shulick/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

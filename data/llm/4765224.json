@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "Adopts the statute-of-conviction approach to First Step Act \u00a7 404 eligibility and rejects the government's quantity-based approach; the opinion identifies no conflicting circuit holding.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "And sixth, the government's interpretation of \u00a7 404(a) is contrary to the clear weight of persuasive authority: no other court of appeals has adopted a quantity-based approach to \u00a7 404 eligibility.",
+ "cluster_id": 4765224,
+ "cite": "United States v. Anthony Jackson, 964 F.3d 197 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-07-01",
+ "url": "https://www.courtlistener.com/opinion/4765224/united-states-v-anthony-jackson/",
+ "usage": {
+  "in": 1314,
+  "out": 1368
+ }
+}

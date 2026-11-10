@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 3771",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Because the question we answer is different from the one presented in Dean, our decision creates no circuit split, as our dissenting colleagues imply.",
+ "cluster_id": 4873749,
+ "cite": "In re: Courtney Wild, 994 F.3d 1244 (11th Cir. 2021)",
+ "court": "11th",
+ "date": "2021-04-15",
+ "url": "https://www.courtlistener.com/opinion/4873749/in-re-courtney-wild/",
+ "usage": {
+  "in": 1870,
+  "out": 693
+ }
+}

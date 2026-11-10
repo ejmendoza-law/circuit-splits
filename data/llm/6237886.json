@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Whether a defendant who did not raise a Rule 12 suppression argument in the district court may still obtain plain error review on appeal.",
+ "provision": "Fed. R. Crim. P. 12(c)(3)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Plain error review remains available for Rule 12 arguments not made before the district court (position not specified in the excerpt).",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Lindsey, 3 F.4th 32 (1st Cir. 2021)",
+    "United States v. Reyes, 24 F.4th 1 (1st Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Plain error review is not available for untimely Rule 12 arguments not raised below (position not specified in the excerpt).",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Lindsey, 3 F.4th 32 (1st Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "While there is a circuit split as to whether defendants may still receive plain error review for Rule 12 arguments not made before the district court, see United States v. Lindsey, 3 F.4th 32, 41 n.6 (1st Cir. 2021) (collecting cases), we have recently clarified that in the",
+ "cluster_id": 6237886,
+ "cite": "United States v. Reyes, 24 F.4th 1 (1st Cir. 2022)",
+ "court": "1st",
+ "date": "2022-01-19",
+ "url": "https://www.courtlistener.com/opinion/6237886/united-states-v-reyes/",
+ "usage": {
+  "in": 1311,
+  "out": 1892
+ }
+}

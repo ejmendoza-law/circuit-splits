@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5093135,
+ "cite": "United States v. Vincent Witort, No. 18-2410 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-09-13",
+ "url": "https://www.courtlistener.com/opinion/5093135/united-states-v-vincent-witort/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

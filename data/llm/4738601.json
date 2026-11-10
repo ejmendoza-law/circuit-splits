@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We decline the government's invitation to create a circuit split merely to anticipate a change that the Commission, fully capable of doing so, has not yet made.",
+ "cluster_id": 4738601,
+ "cite": "United States v. Marlon Eason, 953 F.3d 1184 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-03-24",
+ "url": "https://www.courtlistener.com/opinion/4738601/united-states-v-marlon-eason/",
+ "usage": {
+  "in": 1745,
+  "out": 525
+ }
+}

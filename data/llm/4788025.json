@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When assessing prejudice under Olano's third prong on plain-error review, may the reviewing court consider the full record, or is its review confined to the trial record?",
+ "provision": "Fed. R. Crim. P. 52(b)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Reviewing court may consider the entire record (including materials beyond the trial record) when assessing whether a plain error affected substantial rights",
+   "circuits": [
+    "6th",
+    "8th",
+    "9th",
+    "11th",
+    "4th"
+   ],
+   "cases": [
+    "United States v. Ward, 957 F.3d 691 (6th Cir. 2020)",
+    "United States v. Reed, 941 F.3d 1018 (11th Cir. 2019)",
+    "United States v. Hollingshed, 940 F.3d 410 (8th Cir. 2019)",
+    "United States v. Benamor, 937 F.3d 1182 (9th Cir. 2019)",
+    "United States v. Medley, 972 F.3d 399 (4th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Review for plain-error prejudice is confined to the trial record",
+   "circuits": [
+    "7th",
+    "2d"
+   ],
+   "cases": [
+    "United States v. Maez, 960 F.3d 949 (7th Cir. 2020)",
+    "United States v. Miller, 954 F.3d 551 (2d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide (the opinion says the Fourth Circuit has yet to determine the question, and finds no reversible plain error even on the full record)",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "Our sister circuits are split on this issue.",
+ "cluster_id": 4788025,
+ "cite": "United States v. Jovon Medley, 972 F.3d 399 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-08-21",
+ "url": "https://www.courtlistener.com/opinion/4788025/united-states-v-jovon-medley/",
+ "usage": {
+  "in": 1875,
+  "out": 2384
+ }
+}

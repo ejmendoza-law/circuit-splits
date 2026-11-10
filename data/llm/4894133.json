@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We recently acknowledged, however, potential intra-circuit conflict on the standard of review for challenges to prosecutorial comments, suggesting that we might instead review the court's overruling of an objection to such comments \"for abuse of discretion.\"",
+ "cluster_id": 4894133,
+ "cite": "United States v. Alfred Velazquez, 1 F.4th 1132 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-06-23",
+ "url": "https://www.courtlistener.com/opinion/4894133/united-states-v-alfred-velazquez/",
+ "usage": {
+  "in": 1872,
+  "out": 523
+ }
+}

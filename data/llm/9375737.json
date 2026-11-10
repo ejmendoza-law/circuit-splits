@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The circuit courts have divided on identifying the elements of a Fourth Amendment malicious prosecution claim.",
+ "cluster_id": 9375737,
+ "cite": "Armstrong v. Ashley, 60 F.4th 262 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-02-15",
+ "url": "https://www.courtlistener.com/opinion/9375737/armstrong-v-ashley/",
+ "usage": {
+  "in": 1311,
+  "out": 569
+ }
+}

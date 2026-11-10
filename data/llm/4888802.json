@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The circuit split is not nearly as lopsided as the dissenters assert.",
+ "cluster_id": 4888802,
+ "cite": "Terence Tekoh v. County of Los Angeles, 997 F.3d 1260 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-06-03",
+ "url": "https://www.courtlistener.com/opinion/4888802/terence-tekoh-v-county-of-los-angeles/",
+ "usage": {
+  "in": 1316,
+  "out": 557
+ }
+}

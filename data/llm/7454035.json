@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 7454035,
+ "cite": "Deandre Markee King v. United States, 41 F.4th 1363 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-07-28",
+ "url": "https://www.courtlistener.com/opinion/7454035/deandre-markee-king-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

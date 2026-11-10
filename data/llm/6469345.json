@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a second-in-time habeas petition that challenges an undisturbed conviction, filed after the prisoner obtained relief only as to his sentence, barred as second or successive under AEDPA?",
+ "provision": "28 U.S.C. \u00a7 2244(b)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A second-in-time petition challenging an undisturbed conviction is barred as second or successive after the prisoner has already litigated a habeas petition, even if he obtained resentencing relief.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Suggs v. United States, 705 F.3d 279 (7th Cir. 2013)"
+   ]
+  },
+  {
+   "position": "A prisoner who receives relief as to his sentence is not barred from raising, in a second-in-time petition, a challenge to an undisturbed conviction, because a new judgment resets the count under Magwood.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "Lesko v. Secretary Pennsylvania Department of Corrections, 34 F.4th 211 (3d Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "A prisoner who receives relief as to his sentence is not barred from raising, in a second-in-time habeas petition, a challenge to an undisturbed conviction.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "the Seventh Circuit has adhered to its precedent and held that a second-in-time habeas petition is barred as second or successive where it attempts to challenge a prisoner's undisturbed conviction after he already litigated a habeas petition.",
+ "cluster_id": 6469345,
+ "cite": "John Lesko v. Secretary Pennsylvania Departm, 34 F.4th 211 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-05-17",
+ "url": "https://www.courtlistener.com/opinion/6469345/john-lesko-v-secretary-pennsylvania-departm/",
+ "usage": {
+  "in": 1321,
+  "out": 2145
+ }
+}

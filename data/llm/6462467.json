@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6462467,
+ "cite": "United States v. Salena Kolarich, No. 20-1272 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-04-25",
+ "url": "https://www.courtlistener.com/opinion/6462467/united-states-v-salena-kolarich/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

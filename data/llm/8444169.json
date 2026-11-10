@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under 18 U.S.C. \u00a7 3553(f)(1), does the introductory phrase \"does not have\" distribute across the three conjunctive criminal-history conditions, so that a defendant who has any one of them (such as a prior 3-point offense) is ineligible for safety valve relief?",
+ "provision": "18 U.S.C. \u00a7 3553(f)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The phrase \"does not have\" distributes across each condition in \u00a7 3553(f)(1)(A)-(C), so a defendant is ineligible for safety valve relief if she has any one of the three disqualifying characteristics.",
+   "circuits": [
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Palomares, 52 F.4th 640 (5th Cir. 2022)",
+    "United States v. Pulsifer, 39 F.4th 1018 (8th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "The distributive reading is rejected. Section 3553(f)(1) is read disjunctively, or otherwise not as distributing \"does not have\" across each condition, so a defendant who has only one disqualifying characteristic may still be eligible.",
+   "circuits": [
+    "7th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Lopez, 998 F.3d 431 (9th Cir. 2021)",
+    "United States v. Pace, 48 F.4th 741 (7th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "The Fifth Circuit adopts the distributive reading. A defendant with a prior 3-point offense is ineligible for safety valve relief, so the court affirms.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "A circuit split has emerged over this issue.",
+ "cluster_id": 8444169,
+ "cite": "United States v. Palomares, 52 F.4th 640 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-11-02",
+ "url": "https://www.courtlistener.com/opinion/8444169/united-states-v-palomares/",
+ "usage": {
+  "in": 1313,
+  "out": 2505
+ }
+}

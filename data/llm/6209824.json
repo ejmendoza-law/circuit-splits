@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6209824,
+ "cite": "Ronald Sanders v. Ron Davis, 23 F.4th 966 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-01-13",
+ "url": "https://www.courtlistener.com/opinion/6209824/ronald-sanders-v-ron-davis/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

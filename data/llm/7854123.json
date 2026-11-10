@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "On plain-error review of a Rehaif claim, may the court of appeals supplement the record under Federal Rule of Appellate Procedure 10(e)(2) with evidence the government never introduced in the district court?",
+ "provision": "Fed. R. App. P. 10(e)(2)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Yes. Rule 10(e)(2) permits the government to supplement the appellate record with evidence not first introduced in the district court on plain-error Rehaif review, because it is not the government's fault that it did not proffer evidence of the defendant's knowledge of his felon status.",
+   "circuits": [
+    "1st",
+    "2d",
+    "5th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Lara, 970 F.3d 68 (1st Cir. 2020)",
+    "United States v. Miller, 954 F.3d 551 (2d Cir. 2020)",
+    "United States v. Brandon, 965 F.3d 427 (5th Cir. 2020)",
+    "United States v. Maez, 960 F.3d 949 (7th Cir. 2020)",
+    "United States v. Heyward, 42 F.4th 460 (4th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "No. The supplemental evidence was not omitted from the record 'by error or accident' under Rule 10(e)(2), so the court will not consider it on plain-error review.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Heyward, 42 F.4th 460 (4th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "Before today, each circuit to have applied this rule to plain-error Rehaif claims permitted the Government to introduce evidence not first introduced in the district court.",
+ "cluster_id": 7854123,
+ "cite": "United States v. Antwan Heyward, 42 F.4th 460 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-08-03",
+ "url": "https://www.courtlistener.com/opinion/7854123/united-states-v-antwan-heyward/",
+ "usage": {
+  "in": 2694,
+  "out": 1692
+ }
+}

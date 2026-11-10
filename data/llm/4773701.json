@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In short, we are all alone, and we are not leading the pack.",
+ "cluster_id": 4773701,
+ "cite": "Green Valley Special Util Dist v. Donna Nelson, et, 969 F.3d 460 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-08-07",
+ "url": "https://www.courtlistener.com/opinion/4773701/green-valley-special-util-dist-v-donna-nelson-et/",
+ "usage": {
+  "in": 1319,
+  "out": 340
+ }
+}

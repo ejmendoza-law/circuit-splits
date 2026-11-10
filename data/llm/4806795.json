@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4806795,
+ "cite": "United States v. Richard Mukes, 980 F.3d 526 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-11-17",
+ "url": "https://www.courtlistener.com/opinion/4806795/united-states-v-richard-mukes/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

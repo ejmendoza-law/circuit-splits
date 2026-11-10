@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4875254,
+ "cite": "Matthew Horner v. Jeffery Nines, 995 F.3d 185 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-04-20",
+ "url": "https://www.courtlistener.com/opinion/4875254/matthew-horner-v-jeffery-nines/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

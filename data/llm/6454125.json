@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Kisor v. Wilkie's limit on deference to agency interpretations apply to the Sentencing Guidelines commentary, so that a court may refuse to follow commentary that conflicts with the guideline text?",
+ "provision": "U.S.S.G. \u00a7 1B1.7; Stinson v. United States, 508 U.S. 36 (1993)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Kisor does not apply to Guidelines commentary; under Stinson, commentary interpreting a guideline is binding unless plainly erroneous or inconsistent with the guideline, so courts should follow it.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Moses, No. 21-4067 (4th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Guidelines commentary cannot override or expand the guideline text, and courts need not defer to commentary that departs from it (Kisor-style limits apply).",
+   "circuits": [
+    "3d",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Nasir, 17 F.4th 459 (3d Cir. 2021) (en banc)",
+    "United States v. Riccardi, 989 F.3d 476 (6th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Moses holds that Kisor does not apply to the Guidelines commentary and follows Stinson; the dissent notes this departs from the Third and Sixth Circuits. The denial of rehearing en banc leaves that position in place, and the dissent says it also conflicts with Campbell (an intra-circuit conflict, not a split).",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "And Moses frankly acknowledged that its holding departed from the law of the Third and Sixth Circuits.",
+ "cluster_id": 6454125,
+ "cite": "United States v. Lenair Moses, No. 21-4067 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-03-23",
+ "url": "https://www.courtlistener.com/opinion/6454125/united-states-v-lenair-moses/",
+ "usage": {
+  "in": 2468,
+  "out": 2797
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "That reasoning seriously misreads the D.C. Circuit's decision and federal law.",
+ "cluster_id": 4767288,
+ "cite": "Earlene Branch Peterson v. William P. Barr, 965 F.3d 549 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-07-12",
+ "url": "https://www.courtlistener.com/opinion/4767288/earlene-branch-peterson-v-william-p-barr/",
+ "usage": {
+  "in": 1317,
+  "out": 934
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4850098,
+ "cite": "United States v. Paul Hamilton, Jr., 986 F.3d 413 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-01-22",
+ "url": "https://www.courtlistener.com/opinion/4850098/united-states-v-paul-hamilton-jr/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

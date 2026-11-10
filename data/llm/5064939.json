@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the First Step Act's amendment to the \u00a7 924(c) stacking penalty (\u00a7 403(a)) apply when a defendant whose pre-Act sentence was vacated is resentenced after a remand?",
+ "provision": "First Step Act \u00a7 403(a) (amending 18 U.S.C. \u00a7 924(c)(1)(C))",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "The First Step Act's \u00a7 924(c) stacking amendment applies at resentencing after a remand, because a vacated pre-Act sentence is a legal nullity (the excerpt names only the Fourth Circuit as holding this).",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Bethea, 841 F. App'x 544 (4th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The First Step Act's \u00a7 924(c) stacking amendment does not apply at resentencing after a remand. The excerpt says courts are split but does not name the circuits on this side, so no circuits are identified.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "While various courts of appeals are split on whether \u00a7 403(a) applies at resentencing following a remand, they are unanimous in holding that \u201cFirst Step Act \u00a7 403 does not extend to defendants who were sentenced prior to the Act\u2019s enactment but ha[ve] not yet exhausted their direct appeals.\u201d",
+ "cluster_id": 5064939,
+ "cite": "United States v. Waite, 12 F.4th 204 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-08-31",
+ "url": "https://www.courtlistener.com/opinion/5064939/united-states-v-waite/",
+ "usage": {
+  "in": 1864,
+  "out": 2146
+ }
+}

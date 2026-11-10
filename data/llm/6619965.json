@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6619965,
+ "cite": "United States v. David Ziesel, 38 F.4th 512 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-06-29",
+ "url": "https://www.courtlistener.com/opinion/6619965/united-states-v-david-ziesel/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

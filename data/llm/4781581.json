@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Honeycutt v. United States bar joint and several liability for forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C), given that \u00a7 981(a)(1)(C) lacks \u00a7 853(a)'s 'the person obtained' language?",
+ "provision": "18 U.S.C. \u00a7 981(a)(1)(C)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Honeycutt does not apply to forfeiture under \u00a7 981(a)(1)(C), so joint and several forfeiture liability remains permissible because the 'the person obtained' language that drove Honeycutt is absent from that statute.",
+   "circuits": [
+    "6th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Sexton, 894 F.3d 787, 799 (6th Cir. 2018)",
+    "United States v. Peithman, 917 F.3d 635, 652 (8th Cir. 2019)"
+   ]
+  },
+  {
+   "position": "Honeycutt applies to forfeiture under \u00a7 981(a)(1)(C), so a court may no longer impose joint and several liability for proceeds a co-conspirator obtained.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Gjeli, 867 F.3d 418, 427 n.16, 428 (3d Cir. 2017)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We note that a circuit split has developed over whether Honeycutt applies to a forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C).",
+ "cluster_id": 4781581,
+ "cite": "United States v. Channon (Brandi), 973 F.3d 1105 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-09-01",
+ "url": "https://www.courtlistener.com/opinion/4781581/united-states-v-channon-brandi/",
+ "usage": {
+  "in": 2267,
+  "out": 1635
+ }
+}

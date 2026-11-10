@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a Rehaif error (failure to require proof that a defendant knew of his felon status under 18 U.S.C. \u00a7 922(g)) structural, so that it is not subject to harmless-error or plain-error review, or must the defendant show an effect on substantial rights under plain-error review?",
+ "provision": "18 U.S.C. \u00a7 922(g); Rehaif v. United States, 139 S. Ct. 2191 (2019)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "A Rehaif error is structural and is not amenable to harmless-error or plain-error review.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Gary, 963 F.3d 420 (4th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "A Rehaif error is reviewed for plain error, and the defendant cannot show an effect on substantial rights where the evidence shows he knew of his felon status when he possessed the gun.",
+   "circuits": [
+    "1st",
+    "2d",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Burghardt, 939 F.3d 397 (1st Cir. 2019)",
+    "United States v. Balde, 943 F.3d 73 (2d Cir. 2019)",
+    "United States v. Denson, 774 F. App'x 184 (5th Cir. 2019)"
+   ]
+  }
+ ],
+ "this_court": "Rehaif error is structural and not amenable to harmless or plain-error review.",
+ "source": "concurrence",
+ "confidence": 0.75,
+ "quote": "It not only creates a circuit split of yawning proportions, but also an equally profound schism with the Supreme Court's whole approach to error review and remediation.",
+ "cluster_id": 4787522,
+ "cite": "United States v. Michael Gary, 963 F.3d 420 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-07-07",
+ "url": "https://www.courtlistener.com/opinion/4787522/united-states-v-michael-gary/",
+ "usage": {
+  "in": 1316,
+  "out": 1836
+ }
+}

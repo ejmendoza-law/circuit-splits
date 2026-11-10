@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "But this makes no difference for our purposes because the new policy requires asylum officers to apply local circuit law in every circumstance, thus \"eliminat[ing] the most-favorable-interpretation rule on every issue,\" not just on \"specific issue[s]\" for which the agency has issued guidance.",
+ "cluster_id": 4768788,
+ "cite": "Grace v. William Barr, 965 F.3d 883 (D.C. Cir. 2020)",
+ "court": "D.C.",
+ "date": "2020-07-17",
+ "url": "https://www.courtlistener.com/opinion/4768788/grace-v-william-barr/",
+ "usage": {
+  "in": 1320,
+  "out": 478
+ }
+}

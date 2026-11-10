@@ -1,0 +1,47 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Barton doctrine, which requires leave of the appointing court before suing a bankruptcy trustee or receiver, still apply after the trusteeship has ended?",
+ "provision": "",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "The Barton doctrine continues to apply after the bankruptcy trusteeship ends, because it protects court-appointed trustees from suits by disappointed litigants and preserves the ability to attract qualified trustees.",
+   "circuits": [
+    "1st",
+    "7th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "Satterfield v. Malloy, 700 F.3d 1231 (10th Cir. 2012)",
+    "Muratore v. Darr, 375 F.3d 140 (1st Cir. 2004)",
+    "Linton, 136 F.3d 545 (7th Cir.)",
+    "In re Crown Vantage, Inc., 421 F.3d 963 (9th Cir. 2005)"
+   ]
+  },
+  {
+   "position": "The Barton doctrine does not extend past the end of the trusteeship. Its basis is the exclusive nature of in rem jurisdiction, not a policy of protecting trustees or receivers, and court-appointed receivers already have judicial immunity.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Chua v. Ekonomou, 1 F.4th 948 (11th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Barton doctrine does not protect conduct after the trusteeship ends; the court rejects the policy rationale the other circuits rely on",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We disagree with our sister circuits that the need to protect court-appointed receivers and bankruptcy trustees is relevant to the Barton doctrine.",
+ "cluster_id": 4891775,
+ "cite": "Noel N. Chua, M.D. v. Andrew J. Ekonomou, 1 F.4th 948 (11th Cir. 2021)",
+ "court": "11th",
+ "date": "2021-06-15",
+ "url": "https://www.courtlistener.com/opinion/4891775/noel-n-chua-md-v-andrew-j-ekonomou/",
+ "usage": {
+  "in": 1321,
+  "out": 1871
+ }
+}

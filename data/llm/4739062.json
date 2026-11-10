@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4739062,
+ "cite": "United States v. Edward Wass, 954 F.3d 184 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-03-25",
+ "url": "https://www.courtlistener.com/opinion/4739062/united-states-v-edward-wass/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

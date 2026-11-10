@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4851346,
+ "cite": "United States v. Cruz-Ramos, 987 F.3d 27 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-01-27",
+ "url": "https://www.courtlistener.com/opinion/4851346/united-states-v-cruz-ramos/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

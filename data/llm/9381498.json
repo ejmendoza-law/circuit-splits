@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "For an ACCA sentence, should a prior state drug conviction be checked against the federal drug schedules in effect when the defendant committed the federal offense, or those in effect at federal sentencing?",
+ "provision": "18 U.S.C. \u00a7 924(e)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Compare the prior state drug conviction to the federal Controlled Substances Act as it existed at the time of the federal offense.",
+   "circuits": [
+    "3d",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Brown, 47 F.4th 147 (3d Cir. 2022)",
+    "United States v. Perez, 46 F.4th 691 (8th Cir. 2022)",
+    "United States v. Williams, 61 F.4th 799 (10th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Compare the prior state drug conviction to the federal Controlled Substances Act as it existed at the time of federal sentencing.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Hope, 28 F.4th 501 (4th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide (the excerpts do not state the holding, but the reasoning favors the time-of-federal-offense comparison)",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "Next, the Third Circuit explicitly parted ways with the Fourth Circuit\u2019s decision in Hope and held \u201cthat courts must look to the federal law in effect when the defendant committed the federal offense.\u201d United States v. Brown, 47 F.4th 147, 153 (3d Cir. 2022).",
+ "cluster_id": 9381498,
+ "cite": "United States v. Williams, 61 F.4th 799 (10th Cir. 2023)",
+ "court": "10th",
+ "date": "2023-03-06",
+ "url": "https://www.courtlistener.com/opinion/9381498/united-states-v-williams/",
+ "usage": {
+  "in": 1318,
+  "out": 2901
+ }
+}

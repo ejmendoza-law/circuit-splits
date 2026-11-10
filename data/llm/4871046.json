@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What standard of appellate review applies to a challenge to the adequacy of a district court's sentencing explanation: de novo, or abuse of discretion?",
+ "provision": "18 U.S.C. \u00a7 3553(c)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Review de novo whether the district court adequately explained the chosen sentence",
+   "circuits": [
+    "7th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Davis, 764 F.3d 690, 694 (7th Cir. 2014)",
+    "United States v. Upshaw, 918 F.2d 789, 792 (9th Cir. 1990)"
+   ]
+  },
+  {
+   "position": "Review the adequacy of the sentencing explanation for abuse of discretion",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Lynn, 592 F.3d 572, 575-76 (4th Cir. 2010)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "And there is a circuit split as to the proper standard of review for this issue.",
+ "cluster_id": 4871046,
+ "cite": "United States v. Otis Mays, Jr., 993 F.3d 607 (8th Cir. 2021)",
+ "court": "8th",
+ "date": "2021-04-06",
+ "url": "https://www.courtlistener.com/opinion/4871046/united-states-v-otis-mays-jr/",
+ "usage": {
+  "in": 1314,
+  "out": 1022
+ }
+}

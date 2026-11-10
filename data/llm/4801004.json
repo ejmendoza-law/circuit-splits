@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4801004,
+ "cite": "United States v. Ravneet Singh, 979 F.3d 697 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-10-28",
+ "url": "https://www.courtlistener.com/opinion/4801004/united-states-v-ravneet-singh/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

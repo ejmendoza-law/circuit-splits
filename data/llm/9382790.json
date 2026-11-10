@@ -1,0 +1,55 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the relitigation bar in 28 U.S.C. \u00a7 2244(b)(1), which applies to claims in second or successive \u00a7 2254 applications, also apply to second or successive \u00a7 2255 motions filed by federal prisoners?",
+ "provision": "28 U.S.C. \u00a7 2244(b)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Section 2244(b)(1)'s strict relitigation bar applies to second or successive \u00a7 2255 motions by federal prisoners, incorporated through \u00a7 2255(h)'s certification requirement.",
+   "circuits": [
+    "2d",
+    "3d",
+    "5th",
+    "7th",
+    "8th",
+    "11th"
+   ],
+   "cases": [
+    "Gallagher v. United States, 711 F.3d 315 (2d Cir. 2013)",
+    "United States v. Winkelman, 746 F.3d 134 (3d Cir. 2014)",
+    "In re Bourgeois, 902 F.3d 446 (5th Cir. 2018)",
+    "Taylor v. Gilkey, 314 F.3d 832 (7th Cir. 2002)",
+    "Winarske v. United States, 913 F.3d 765 (8th Cir. 2019)",
+    "In re Baptiste, 828 F.3d 1337 (11th Cir. 2016)"
+   ]
+  },
+  {
+   "position": "Section 2244(b)(1) does not apply to second or successive \u00a7 2255 motions by federal prisoners, because its text is limited to \u00a7 2254 applications.",
+   "circuits": [
+    "4th",
+    "6th",
+    "9th"
+   ],
+   "cases": [
+    "Williams v. United States, 927 F.3d 427 (6th Cir. 2019)",
+    "Jones v. United States, 36 F.4th 974 (9th Cir. 2022)",
+    "In re Graham, 61 F.4th 433 (4th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "Section 2244(b)(1) does not apply to second or successive \u00a7 2255 motions; the Fourth Circuit joins the Sixth and Ninth Circuits.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Despite the plain language of the provision limiting its application to the former set of cases, the Second, Third, Fifth, Seventh, Eighth, and Eleventh Circuits have determined that it applies to second or successive habeas applications by both state and federal prisoners.",
+ "cluster_id": 9382790,
+ "cite": "In re: Kenneth Graham, 61 F.4th 433 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-03-08",
+ "url": "https://www.courtlistener.com/opinion/9382790/in-re-kenneth-graham/",
+ "usage": {
+  "in": 1390,
+  "out": 1719
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5301663,
+ "cite": "Jean Pugin v. Merrick Garland, 19 F. 4th 437 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-11-30",
+ "url": "https://www.courtlistener.com/opinion/5301663/jean-pugin-v-merrick-garland/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

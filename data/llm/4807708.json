@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can the Government withhold a U.S.S.G. \u00a7 3E1.1(b) motion for the third acceptance-of-responsibility level because the defendant insisted on a pretrial suppression hearing?",
+ "provision": "U.S.S.G. \u00a7 3E1.1(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The Government may justify withholding the third-level motion because a defendant's insistence on a suppression hearing requires Government resources, which is a valid basis under \u00a7 3E1.1(b) (Eleventh Circuit precedent so holds, and Amendment 775 did not clearly overrule it).",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Johnson, 980 F.3d 1364 (11th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "A defendant's insistence on a suppression hearing cannot justify the Government's refusal to move for the third level. The excerpts say three circuits took this view before Amendment 775 but do not name them.",
+   "circuits": [],
+   "cases": [
+    "United States v. Johnson, 980 F.3d 1364 (11th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "As to the breadth of a timeliness assessment, the circuits are not uniform as to whether the defendant's insistence on a suppression hearing can justify the Government's refusal to make a \u00a7 3E1.1(b) motion.",
+ "cluster_id": 4807708,
+ "cite": "United States v. Sanford Eugene Johnson, III, 980 F.3d 1364 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-11-19",
+ "url": "https://www.courtlistener.com/opinion/4807708/united-states-v-sanford-eugene-johnson-iii/",
+ "usage": {
+  "in": 1873,
+  "out": 2685
+ }
+}

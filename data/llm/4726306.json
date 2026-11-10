@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does federal second-degree murder qualify as a crime of violence under 18 U.S.C. \u00a7 924(c)'s elements clause even though it requires no showing of recklessness?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(A)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Federal second-degree murder is not a crime of violence under \u00a7 924(c), because it can be committed without the mens rea needed for a categorical match.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Begay, 934 F.3d 1033 (9th Cir. 2019)"
+   ]
+  },
+  {
+   "position": "Federal second-degree murder is a crime of violence under \u00a7 924(c), even though it does not require recklessness.",
+   "circuits": [
+    "1st",
+    "4th"
+   ],
+   "cases": [
+    "In re Irby, 858 F.3d 231 (4th Cir. 2017)",
+    "United States v. Baez-Martinez, 950 F.3d 119 (1st Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Holds that federal second-degree murder is a crime of violence, declining to follow the Ninth Circuit's Begay decision and aligning with the Fourth Circuit's Irby decision.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "We therefore decline to follow the majority in the Ninth Circuit's decision in Begay, 934 F.3d at 1038\u201341 (holding that federal second-degree murder is not a crime of violence for purposes of \u00a7 924(c)), and align instead with the Fourth Circuit's decision in In re Irby, 858 F.3d 231, 237 (4th Cir. 2017) (holding that federal second-degree murder is a crime of violence, although not considering the precise argument made here).",
+ "cluster_id": 4726306,
+ "cite": "United States v. Baez-Martinez, 950 F.3d 119 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-02-11",
+ "url": "https://www.courtlistener.com/opinion/4726306/united-states-v-baez-martinez/",
+ "usage": {
+  "in": 1324,
+  "out": 2403
+ }
+}

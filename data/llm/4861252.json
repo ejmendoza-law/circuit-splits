@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a conspiracy to commit a drug offense under 21 U.S.C. \u00a7 846, which has no overt-act element, qualify as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b) and Application Note 1?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b) and cmt. n.1; 21 U.S.C. \u00a7 846",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A \u00a7 846 conspiracy qualifies as a controlled substance offense under \u00a7 4B1.2(b) and Application Note 1, even without an overt-act element.",
+   "circuits": [
+    "2d",
+    "9th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Tabb, 949 F.3d 81 (2d Cir. 2020)",
+    "United States v. Rivera-Constantino, 798 F.3d 900 (9th Cir. 2015)",
+    "United States v. Sanbria-Bueno, 549 F. App'x 434 (6th Cir.)",
+    "United States v. Rodriguez-Rivera, 989 F.3d 183 (1st Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "To date, the six circuits that have addressed this issue have split four to two1 in deciding whether the absence of an overt act requirement precludes section 846 conspiracies from qualifying as",
+ "cluster_id": 4861252,
+ "cite": "United States v. Rodriguez-Rivera, 989 F.3d 183 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-03-04",
+ "url": "https://www.courtlistener.com/opinion/4861252/united-states-v-rodriguez-rivera/",
+ "usage": {
+  "in": 1315,
+  "out": 1767
+ }
+}

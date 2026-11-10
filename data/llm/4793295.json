@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "we join our sister circuit in holding that Amendment 741 did not materially change \u00a7 1B1.1 and thus is not an amendment that overrules our prior case law.",
+ "cluster_id": 4793295,
+ "cite": "United States v. Gary Peterson, 977 F.3d 381 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-10-06",
+ "url": "https://www.courtlistener.com/opinion/4793295/united-states-v-gary-peterson/",
+ "usage": {
+  "in": 1314,
+  "out": 650
+ }
+}

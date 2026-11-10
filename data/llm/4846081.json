@@ -1,0 +1,38 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does an extradition treaty's 'for prosecution' requirement call for a formal charging instrument, or is an arrest warrant plus clear signals of intent to prosecute enough?",
+ "provision": "18 U.S.C. \u00a7 3184; 2015 U.S.-Dominican Republic Extradition Treaty",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "The 'for prosecution' requirement is satisfied by an arrest warrant and clear signals that the requesting state intends to prosecute; a formal charging document is not required (Emami and Assarsson, as the dissent reads them).",
+   "circuits": [],
+   "cases": [
+    "Emami",
+    "Assarsson"
+   ]
+  },
+  {
+   "position": "The 'for prosecution' requirement means more than an arrest warrant is needed, and the request must include a document setting forth the charges.",
+   "circuits": [],
+   "cases": [
+    "Aguasvivas v. Pompeo, 984 F.3d 1047 (1st Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "requires more than an arrest warrant; the request must set forth the charges",
+ "source": "dissent",
+ "confidence": 0.3,
+ "quote": "In light of Emami and Assarsson, the majority's ruling in this case will create a circuit split suitable for Supreme Court review.",
+ "cluster_id": 4846081,
+ "cite": "Aguasvivas v. Pompeo, 984 F.3d 1047 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-01-07",
+ "url": "https://www.courtlistener.com/opinion/4846081/aguasvivas-v-pompeo/",
+ "usage": {
+  "in": 1314,
+  "out": 2659
+ }
+}

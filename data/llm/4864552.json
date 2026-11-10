@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can police form reasonable suspicion of criminal activity by corroborating innocent-seeming details of an anonymous tip, when they never observed any illegal activity?",
+ "provision": "U.S. Const. amend. IV; Terry v. Ohio, 392 U.S. 1 (1968)",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Reasonable suspicion can rest on corroborated tip details, even if the officers observed no illegal activity (the majority's rule, as the dissent describes it).",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Norbert, 990 F.3d 968 (5th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The dissent contends this rule conflicts with other circuits, which it cites for the proposition that reasonable suspicion need not rule out innocent conduct and that suspicion may arise from observing only legal activity. The excerpts do not state explicitly how these holdings differ from the majority's rule.",
+   "circuits": [
+    "2d",
+    "7th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Wanjiku, 919 F.3d 472 (7th Cir. 2019)",
+    "United States v. Matchett, 802 F.3d 1185 (11th Cir. 2015)",
+    "United States v. Diaz, 802 F.3d 234 (2d Cir. 2015)",
+    "United States v. Alvarez, 899 F.2d 833 (9th Cir. 1990)"
+   ]
+  }
+ ],
+ "this_court": "The majority holds that corroborated tip details can supply reasonable suspicion without observed illegal activity, relying on White.",
+ "source": "dissent",
+ "confidence": 0.5,
+ "quote": "Second, the majority\u2019s criminal-corroboration rule creates a circuit split.",
+ "cluster_id": 4864552,
+ "cite": "United States v. Norbert, 990 F.3d 968 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-03-16",
+ "url": "https://www.courtlistener.com/opinion/4864552/united-states-v-norbert/",
+ "usage": {
+  "in": 1315,
+  "out": 2005
+ }
+}

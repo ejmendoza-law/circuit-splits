@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a federal offense that can be committed with only recklessness qualify as a 'crime of violence' under the elements clause of 18 U.S.C. \u00a7 924(c)(3)(A)?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(A)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "A crime involving ordinary recklessness can satisfy the elements clause (use of physical force) and so qualifies as a crime of violence.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Borden, 769 F. App'x 266 (6th Cir. 2019), cert. granted, 140 S. Ct. 1262 (2020)"
+   ]
+  },
+  {
+   "position": "A crime that can be committed with only recklessness does not qualify as a crime of violence under the elements clause; the minimum-conduct rule requires presuming recklessness.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "Bennett v. United States, 868 F.3d 1 (1st Cir. 2017)",
+    "United States v. Windley, 864 F.3d 36 (1st Cir. 2017)",
+    "United States v. Tsarnaev, 968 F.3d 24 (1st Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Recklessness does not suffice under the elements clause, so Dzhokhar Tsarnaev's arson convictions are not crimes of violence under \u00a7 924(c)'s elements clause, at least under existing circuit precedent.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The Supreme Court granted certiorari to resolve a circuit split regarding whether a crime involving \"ordinary recklessness can satisfy the ACCA's [elements] clause.\"",
+ "cluster_id": 4772270,
+ "cite": "United States v. Tsarnaev, 968 F.3d 24 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-07-31",
+ "url": "https://www.courtlistener.com/opinion/4772270/united-states-v-tsarnaev/",
+ "usage": {
+  "in": 1312,
+  "out": 2307
+ }
+}

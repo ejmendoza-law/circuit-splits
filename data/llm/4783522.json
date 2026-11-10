@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4783522,
+ "cite": "United States v. Fridman, 974 F.3d 163 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-09-09",
+ "url": "https://www.courtlistener.com/opinion/4783522/united-states-v-fridman/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

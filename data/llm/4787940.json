@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4787940,
+ "cite": "United States v. George McLeod, III, 972 F.3d 637 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-08-27",
+ "url": "https://www.courtlistener.com/opinion/4787940/united-states-v-george-mcleod-iii/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

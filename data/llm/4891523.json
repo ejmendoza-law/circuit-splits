@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a defendant who is proceeding pro se, or who is represented but fails to raise his own competency at a Faretta hearing, does the court review a failure to inquire into competency under \u00a7 4241(a) for plain error?",
+ "provision": "18 U.S.C. \u00a7 4241(a)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Applies plain-error review to a claim that the court should have sua sponte inquired into competency where the defendant did not raise competency, including at a Faretta hearing while represented by counsel.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Bernard, 708 F.3d 583 (4th Cir. 2013)",
+    "United States v. Ziegler, 1 F.4th 219 (4th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Does not apply plain-error review to a pro se defendant's failure to raise his own competency, reasoning that a defendant should not be expected to recognize his own mental infirmity and object to his own pro se motion. The excerpt says this view is the subject of thoughtful debate and a circuit split, but it does not name the circuits that hold it.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "Applies plain-error review (following Bernard) and states that it must do so, while acknowledging the contrary view and split.",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "Applying plain error in this arena is the subject of thoughtful debate and has led to a circuit split.",
+ "cluster_id": 4891523,
+ "cite": "United States v. Joseph Ziegler, 1 F.4th 219 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-06-14",
+ "url": "https://www.courtlistener.com/opinion/4891523/united-states-v-joseph-ziegler/",
+ "usage": {
+  "in": 1314,
+  "out": 1868
+ }
+}

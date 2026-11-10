@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must the government prove that a defendant knew the person he persuaded, induced, or enticed was a minor for a conviction under 18 U.S.C. \u00a7 2422(b), or is mistake of age a available defense?",
+ "provision": "18 U.S.C. \u00a7 2422(b)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The government must prove the defendant knew or believed the target was a minor (knowledge of minority is an element).",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Mistake of age is an available defense, so the defendant need not know the target was a minor.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "We note the circuits have divided concerning whether a defendant must know the individual being persuaded, induced, or enticed was a minor.",
+ "cluster_id": 7855853,
+ "cite": "United States v. Soler-Montalvo, No. 20-1311P (1st Cir. 2022)",
+ "court": "1st",
+ "date": "2022-08-10",
+ "url": "https://www.courtlistener.com/opinion/7855853/united-states-v-soler-montalvo/",
+ "usage": {
+  "in": 1316,
+  "out": 1459
+ }
+}

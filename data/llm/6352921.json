@@ -1,0 +1,32 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Mathis v. United States, 579 U.S. 500 (2016), which held the modified categorical approach is unavailable when a statute lists multiple means to satisfy one element, rejecting the Eighth Circuit's approach",
+ "issue": "Does the modified categorical approach apply when a statute lists alternative means rather than alternative elements, for purposes of determining whether a prior conviction qualifies as a predicate offense?",
+ "provision": "Armed Career Criminal Act (18 U.S.C. \u00a7 924(e)); 28 U.S.C. \u00a7 2255(e) saving clause and \u00a7 2241",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Courts must apply the modified categorical approach whether a statute lists alternative elements or alternative means, with no means-elements distinction",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Mathis, 786 F.3d 1068, 1074\u201375 (8th Cir. 2015), rev'd, 579 U.S. 500 (2016)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Before Mathis was decided, there was a circuit split over the \u201celements\u201d versus \u201cmeans\u201d distinction in the context of predicate o\ufb00enses under the Armed Career Criminal Act.",
+ "cluster_id": 6352921,
+ "cite": "Michael Gamboa v. Charles Daniels, 26 F.4th 410 (7th Cir. 2022)",
+ "court": "7th",
+ "date": "2022-02-14",
+ "url": "https://www.courtlistener.com/opinion/6352921/michael-gamboa-v-charles-daniels/",
+ "usage": {
+  "in": 1314,
+  "out": 1477
+ }
+}

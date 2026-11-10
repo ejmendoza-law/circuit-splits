@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What standard determines whether venue lies in a district for a federal wire fraud prosecution: must the wire transmission have a direct or causal connection to the misuse of wires, or may venue lie wherever the transmission originated, passed through, or was received?",
+ "provision": "18 U.S.C. \u00a7 3237(a)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Venue for wire fraud lies only where there is a direct or causal connection to the misuse of wires; the counts may be prosecuted in a district where the relevant transmission originated, passed through, was received, or was orchestrated.",
+   "circuits": [
+    "9th",
+    "4th",
+    "2d"
+   ],
+   "cases": [
+    "United States v. Pace, 314 F.3d 344, 349-50 (9th Cir. 2002)",
+    "United States v. Jefferson, 674 F.3d 332, 368-69 (4th Cir. 2012)",
+    "United States v. Ramirez, 420 F.3d 134, 145-46 (2d Cir. 2005)",
+    "United States v. Johnson, No. 17-3776 (8th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "There is a circuit split regarding the standard to determine venue in wire fraud cases.",
+ "cluster_id": 4744107,
+ "cite": "United States v. Ronald David Johnson, No. 17-3776 (8th Cir. 2020)",
+ "court": "8th",
+ "date": "2020-04-10",
+ "url": "https://www.courtlistener.com/opinion/4744107/united-states-v-ronald-david-johnson/",
+ "usage": {
+  "in": 1315,
+  "out": 2150
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Brady due process disclosure requirement apply to evidence that is material only to a pretrial motion to suppress?",
+ "provision": "Brady v. Maryland, 373 U.S. 83 (1963)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Brady extends to evidence material to a motion to suppress",
+   "circuits": [
+    "5th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Gamez-Ordu\u00f1o, 235 F.3d 453 (9th Cir. 2000)",
+    "Smith v. Black, 904 F.2d 950 (5th Cir. 1990)"
+   ]
+  },
+  {
+   "position": "Brady does not reach evidence material only to a motion to suppress; the Tenth Circuit has hinted at this view but has not held it",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Muhtorov, 20 F.4th 558 (10th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "Although some courts have extended Brady to evidence that is material to suppression",
+ "cluster_id": 5304320,
+ "cite": "United States v. Muhtorov, 20 F.4th 558 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-12-08",
+ "url": "https://www.courtlistener.com/opinion/5304320/united-states-v-muhtorov/",
+ "usage": {
+  "in": 1313,
+  "out": 2082
+ }
+}

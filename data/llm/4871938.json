@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4871938,
+ "cite": "United States v. Patricia Aruda, 993 F.3d 797 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-04-08",
+ "url": "https://www.courtlistener.com/opinion/4871938/united-states-v-patricia-aruda/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

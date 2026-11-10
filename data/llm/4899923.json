@@ -1,0 +1,55 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When ruling on a motion for a sentence reduction under \u00a7 404 of the First Step Act, must the district court consider the 18 U.S.C. \u00a7 3553(a) sentencing factors?",
+ "provision": "First Step Act of 2018, Pub. L. 115-391, \u00a7 404",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "Yes, the district court must consider the \u00a7 3553(a) factors when ruling on a \u00a7 404 motion.",
+   "circuits": [
+    "3d",
+    "4th",
+    "6th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Easter, 975 F.3d 318 (3d Cir. 2020)",
+    "United States v. Chambers, 956 F.3d 667 (4th Cir. 2020)",
+    "United States v. Boulding, 960 F.3d 774 (6th Cir. 2020)",
+    "United States v. White, 984 F.3d 76 (D.C. Cir. 2020)",
+    "United States v. Lawrence, No. 20-3061, 2021 WL 2425959 (D.C. Cir. June 15, 2021)"
+   ]
+  },
+  {
+   "position": "No, the district court is not required to consider the \u00a7 3553(a) factors when ruling on a \u00a7 404 motion.",
+   "circuits": [
+    "1st",
+    "2d",
+    "8th",
+    "10th",
+    "11th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Concepcion, 991 F.3d 279 (1st Cir. 2021)",
+    "United States v. Moore, 963 F.3d 725 (8th Cir. 2020)",
+    "United States v. Moyhernandez, 5 F.4th 195 (2d Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "No, the district court is not required to consider the \u00a7 3553(a) factors when ruling on a \u00a7 404 motion.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The Third, Fourth, Sixth, and D.C. Circuits require consideration of the \u00a7 3553(a) factors; the First, Eighth, Tenth, and Eleventh Circuits, along with the Ninth Circuit (in an unpublished decision), rule that consideration of those factors is not required.",
+ "cluster_id": 4899923,
+ "cite": "United States v. Moyhernandez, 5 F.4th 195 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-07-15",
+ "url": "https://www.courtlistener.com/opinion/4899923/united-states-v-moyhernandez/",
+ "usage": {
+  "in": 1871,
+  "out": 2305
+ }
+}

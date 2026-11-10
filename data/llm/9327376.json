@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9327376,
+ "cite": "United States v. Alexander Smith, 54 F.4th 755 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-12-01",
+ "url": "https://www.courtlistener.com/opinion/9327376/united-states-v-alexander-smith/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

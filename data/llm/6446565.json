@@ -1,0 +1,50 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a conviction for intentionally causing bodily harm, without a separate element of physical force, a violent felony under the ACCA or a crime of violence under the career offender Guideline?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(a); 18 U.S.C. \u00a7 924(e)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Intentionally causing bodily harm without overt violent force is NOT a violent felony or crime of violence.",
+   "circuits": [
+    "3d",
+    "5th",
+    "6th",
+    "9th"
+   ],
+   "cases": []
+  },
+  {
+   "position": "Intentionally causing bodily harm IS a violent felony or crime of violence, even without a separate force element.",
+   "circuits": [
+    "1st",
+    "2d",
+    "7th",
+    "8th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Scott, 990 F.3d 94 (2d Cir. 2021) (en banc)",
+    "LaGuerre v. Mukasey, 526 F.3d 1037 (7th Cir. 2008)",
+    "De Leon Castellanos v. Holder, 652 F.3d 762 (7th Cir. 2011)",
+    "United States v. Thomas, 27 F.4th 556 (7th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Intentionally causing bodily harm is a crime of violence under the Seventh Circuit's precedent, which the panel follows without reconsidering the split.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "As Mr. Thomas characterizes the split, the Third, Fifth, Sixth, and Ninth Circuits have held that such offenses cannot be considered violent felonies or crimes of violence, while the First, Second, Seventh, Eighth, Tenth, and Eleventh Circuits on the other hand have held that they can be.",
+ "cluster_id": 6446565,
+ "cite": "United States v. Phillip Thomas, 27 F.4th 556 (7th Cir. 2022)",
+ "court": "7th",
+ "date": "2022-03-01",
+ "url": "https://www.courtlistener.com/opinion/6446565/united-states-v-phillip-thomas/",
+ "usage": {
+  "in": 1869,
+  "out": 2251
+ }
+}

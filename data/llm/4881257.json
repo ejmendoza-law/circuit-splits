@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "Evidence obtained in violation of 8 U.S.C. \u00a7 1357(a) is not suppressed, because the statute creates no exclusionary remedy and the court declines to create a judicial one.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We find these authorities persuasive and decline to create a circuit split.",
+ "cluster_id": 4881257,
+ "cite": "United States v. Marcio Santos-Portillo, 997 F.3d 159 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-05-07",
+ "url": "https://www.courtlistener.com/opinion/4881257/united-states-v-marcio-santos-portillo/",
+ "usage": {
+  "in": 1876,
+  "out": 769
+ }
+}

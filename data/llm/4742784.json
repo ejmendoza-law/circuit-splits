@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4742784,
+ "cite": "United States v. Adams, 955 F.3d 238 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-04-07",
+ "url": "https://www.courtlistener.com/opinion/4742784/united-states-v-adams/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

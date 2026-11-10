@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under First Step Act \u00a7 404(b), may or must a district court apply a judicial decision issued after the defendant's original sentencing when ruling on a motion to reduce a crack cocaine sentence?",
+ "provision": "First Step Act of 2018, Pub. L. No. 115-391, \u00a7 404(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Section 404(b) authorizes but does not require a district court to apply intervening judicial decisions when ruling on a First Step Act motion.",
+   "circuits": [
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Kelley, 962 F.3d 470 (6th Cir. 2020)",
+    "United States v. Fowowe, 1 F.4th 522 (7th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "A district court ruling on a First Step Act motion is not free to reduce a covered offense sentence based on changes in law beyond those mandated by \u00a7\u00a7 2 and 3 of the Fair Sentencing Act.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Denson, 963 F.3d 1080 (11th Cir. 2020)",
+    "United States v. Taylor, 982 F.3d 1296 (11th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Authorizes but does not require application of intervening judicial decisions, joining the Sixth Circuit and rejecting the Eleventh Circuit's narrower reading.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "This question is one narrow issue within a broader, emerging circuit split on the parameters of district court \u00a7 404(b) motion evaluation.",
+ "cluster_id": 4892423,
+ "cite": "United States v. Olaitan Fowowe, 1 F.4th 522 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-06-16",
+ "url": "https://www.courtlistener.com/opinion/4892423/united-states-v-olaitan-fowowe/",
+ "usage": {
+  "in": 1876,
+  "out": 2555
+ }
+}

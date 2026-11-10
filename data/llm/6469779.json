@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After Kisor v. Wilkie, should courts defer to the Sentencing Guidelines commentary only when the Guidelines text is genuinely ambiguous, or should they apply the more deferential Stinson approach?",
+ "provision": "U.S.S.G. \u00a7 2L1.2 cmt. n.3 (deference to Guidelines commentary under Stinson v. United States and Kisor v. Wilkie)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "After Kisor, courts should not defer to the Guidelines commentary absent genuine ambiguity in the Guidelines text.",
+   "circuits": [
+    "3d",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Riccardi, 989 F.3d 476 (6th Cir. 2021)",
+    "United States v. Nasir, 982 F.3d 144 (3d Cir. 2020) (en banc), vacated on other grounds, 142 S. Ct. 56 (2021)"
+   ]
+  },
+  {
+   "position": "Kisor does not apply to the Sentencing Commission's official commentary; courts should defer to the commentary under Stinson v. United States.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Moses, 23 F.4th 347 (4th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "This contention is the subject of a circuit split.",
+ "cluster_id": 6469779,
+ "cite": "United States v. Cordova-Lopez, 34 F.4th 442 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-05-18",
+ "url": "https://www.courtlistener.com/opinion/6469779/united-states-v-cordova-lopez/",
+ "usage": {
+  "in": 1523,
+  "out": 1863
+ }
+}

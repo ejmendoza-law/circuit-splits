@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6449522,
+ "cite": "United States v. Soterio Hope, No. 20-4420 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-03-09",
+ "url": "https://www.courtlistener.com/opinion/6449522/united-states-v-soterio-hope/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

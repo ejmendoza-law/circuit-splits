@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We have considered whether applying a preponderance standard creates a circuit split requiring circulation under Circuit Rule 40(e), but conclude it does not.",
+ "cluster_id": 4901659,
+ "cite": "Tracy Conley v. United States, 5 F. 4th 781 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-07-21",
+ "url": "https://www.courtlistener.com/opinion/4901659/tracy-conley-v-united-states/",
+ "usage": {
+  "in": 1316,
+  "out": 633
+ }
+}

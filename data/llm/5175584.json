@@ -1,0 +1,42 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Fair Debt Collection Practices Act apply to a debt owed to the United States that arises from a criminal restitution order, where the United States is neither the formal owner nor the direct beneficiary of the debt?",
+ "provision": "15 U.S.C. \u00a7 1692a(5)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "The FDCPA does not reach restitution owed to a private party, because the United States is not the holder of the debt in any legally cognizable sense and is neither its formal owner nor its direct beneficiary (Bongiorno; Sobranes).",
+   "circuits": [
+    "1st",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Bongiorno (1st Cir.)",
+    "United States v. Sobranes, 509 F.3d 223 (5th Cir. 2007)",
+    "United States v. Bedi, 15 F.4th 222 (2d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The FDCPA can apply to a debt the Government collects on behalf of a private beneficiary, as held in E.D.P. (the opinion says E.D.P. is a majority opinion that the Second Circuit has cited only once, and that the First and Fifth Circuits have expressly rejected it).",
+   "circuits": [],
+   "cases": [
+    "E.D.P. (cited in Bedi; circuit not identified in the excerpts)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "In Bongiorno, the First Circuit held that the Government could not use the FDCPA to collect unpaid child support ordered as restitution in a criminal case.",
+ "cluster_id": 5175584,
+ "cite": "United States v. Bedi, 15 F.4th 222 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-09-30",
+ "url": "https://www.courtlistener.com/opinion/5175584/united-states-v-bedi/",
+ "usage": {
+  "in": 1314,
+  "out": 2390
+ }
+}

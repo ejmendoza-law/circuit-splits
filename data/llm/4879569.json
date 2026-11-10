@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4879569,
+ "cite": "Joshua Simons v. Heidi Washington, 996 F.3d 350 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-05-03",
+ "url": "https://www.courtlistener.com/opinion/4879569/joshua-simons-v-heidi-washington/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

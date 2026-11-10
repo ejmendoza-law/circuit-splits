@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "",
+ "cluster_id": 4777242,
+ "cite": "Pankajkumar Patel v. U.S. Attorney General, No. 17-10636 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-08-19",
+ "url": "https://www.courtlistener.com/opinion/4777242/pankajkumar-patel-v-us-attorney-general/",
+ "usage": {
+  "in": 1324,
+  "out": 525
+ }
+}

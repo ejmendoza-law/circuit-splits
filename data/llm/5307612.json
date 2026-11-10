@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5307612,
+ "cite": "United States v. Janhoi Cole, 21 F.4th 421 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-12-17",
+ "url": "https://www.courtlistener.com/opinion/5307612/united-states-v-janhoi-cole/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

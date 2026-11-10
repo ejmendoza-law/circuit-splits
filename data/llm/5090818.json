@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "But Miller admits that he is making this argument in order \u201cto preserve it in the event the Supreme Court favorably resolves the Circuit split.\u201d",
+ "cluster_id": 5090818,
+ "cite": "United States v. Levi Miller, 11 F.4th 944 (8th Cir. 2021)",
+ "court": "8th",
+ "date": "2021-09-03",
+ "url": "https://www.courtlistener.com/opinion/5090818/united-states-v-levi-miller/",
+ "usage": {
+  "in": 1313,
+  "out": 784
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Do the federal mail fraud, wire fraud, and health care fraud statutes require that the misrepresentation converge with the deceived victim, meaning the defendant must intend to obtain money or property from the person deceived?",
+ "provision": "18 U.S.C. \u00a7\u00a7 1341, 1343, 1347",
+ "topic": "Fraud & white-collar",
+ "sides": [
+  {
+   "position": "The fraud statutes do not require convergence between the misrepresentations and the defrauded victims.",
+   "circuits": [],
+   "cases": [
+    "United States v. Seidling, 737 F.3d 1155 (circuit not stated in excerpt)"
+   ]
+  },
+  {
+   "position": "The intent must be to obtain money or property from the one who is deceived, so convergence is required.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Lew, 875 F.2d 219 (9th Cir. 1989)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Other circuits are split on whether the statutes at issue here\u201418 U.S.C. \u00a7\u00a7 1341, 1343, 1347\u2014require convergence.",
+ "cluster_id": 6623984,
+ "cite": "United States v. Tarek Abou-Khatwa, 40 F.4th 666 (D.C. Cir. 2022)",
+ "court": "D.C.",
+ "date": "2022-07-15",
+ "url": "https://www.courtlistener.com/opinion/6623984/united-states-v-tarek-abou-khatwa/",
+ "usage": {
+  "in": 1317,
+  "out": 1748
+ }
+}

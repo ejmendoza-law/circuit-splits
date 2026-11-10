@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4784906,
+ "cite": "United States v. Delgado-Lopez, 974 F.3d 1188 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-09-14",
+ "url": "https://www.courtlistener.com/opinion/4784906/united-states-v-delgado-lopez/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

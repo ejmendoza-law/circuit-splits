@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4865874,
+ "cite": "United States v. Hassan Ali, 991 F.3d 561 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-03-19",
+ "url": "https://www.courtlistener.com/opinion/4865874/united-states-v-hassan-ali/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

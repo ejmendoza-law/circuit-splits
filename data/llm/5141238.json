@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.95,
+ "quote": "There is a circuit split on whether this federal agency has immunity1 and, given the panel\u2019s conclusion that the plaintiffs have no cause of action \u2014 with which I agree \u2014 I think it was improper to take a position on that question.",
+ "cluster_id": 5141238,
+ "cite": "Klint L. Mowrer v. DOT, 14 F.4th 723 (D.C. Cir. 2021)",
+ "court": "D.C.",
+ "date": "2021-09-24",
+ "url": "https://www.courtlistener.com/opinion/5141238/klint-l-mowrer-v-dot/",
+ "usage": {
+  "in": 1565,
+  "out": 622
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When resentencing under \u00a7 404 of the First Step Act, must the court recalculate the defendant's Guidelines range from scratch under current law, or may it only apply the reduced statutory penalties from the Fair Sentencing Act?",
+ "provision": "First Step Act \u00a7 404(b); 18 U.S.C. \u00a7 3582(c)(1)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The court cannot recalculate the Guidelines range from scratch; it may only account for the new statutory penalties under the Fair Sentencing Act.",
+   "circuits": [
+    "5th",
+    "11th"
+   ],
+   "cases": [
+    "Hegwood, 934 F.3d 413 (5th Cir. 2019)",
+    "Kelley, 962 F.3d (11th Cir. 2020)",
+    "Denson, 963 F.3d 1080 (11th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "The court must recalculate the Guidelines range under current law, reflecting other changes in law as well as the new statutory penalties.",
+   "circuits": [
+    "4th",
+    "6th"
+   ],
+   "cases": [
+    "Chambers, 956 F.3d 667 (4th Cir. 2020)",
+    "Boulding, 960 F.3d 774 (6th Cir. 2020)",
+    "Brown, 974 F.3d 1137 (circuit not identified in the excerpt)",
+    "United States v. Murphy, No. 20-1411 (3d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The court may consider a fully updated Guidelines range but is not required to do so.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "Concepcion (2d Cir.)",
+    "Moore, 975 F.3d 84 (2d Cir. 2020)",
+    "White, 984 F.3d 80 (2d Cir. 2020) (dictum)",
+    "Hudson, 967 F.3d 605 (circuit not identified in the excerpt)",
+    "Harris, 960 F.3d 1097 (circuit not identified in the excerpt)"
+   ]
+  }
+ ],
+ "this_court": "Must recalculate: the majority vacates and remands so the district court can recalculate the Guidelines range to reflect the career-offender designation under current law, joining the second group.",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "All eleven other circuits have taken sides in a three-way conflict.",
+ "cluster_id": 4886904,
+ "cite": "United States v. James Murphy, No. 20-1411 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-05-27",
+ "url": "https://www.courtlistener.com/opinion/4886904/united-states-v-james-murphy/",
+ "usage": {
+  "in": 1617,
+  "out": 3031
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5311689,
+ "cite": "United States v. Orvil Hassebrock, 21 F.4th 494 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-12-23",
+ "url": "https://www.courtlistener.com/opinion/5311689/united-states-v-orvil-hassebrock/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

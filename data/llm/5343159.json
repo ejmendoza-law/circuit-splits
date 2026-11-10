@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a defendant's supervised release is revoked and the defendant was serving multiple concurrent supervised release terms from a multi-count conviction, does the Revocation Table under the Guidelines require a separate revocation sentence for each term, or a single sentence for the violation?",
+ "provision": "U.S.S.G. \u00a7 7B1.4(a)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "A separate revocation sentence must be calculated for each concurrent supervised release term revoked, because the Revocation Table's range applies to each term of supervised release that is revoked.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Campbell, 937 F.3d at 1259 (9th Cir.)"
+   ]
+  },
+  {
+   "position": "Violations of supervised release are punished once, regardless of the number of counts in the prior conviction or the number of concurrent supervised release terms; the Revocation Table applies to the revocation of supervised release as a whole, not to each term.",
+   "circuits": [
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Turner, 21 F.4th 862 (D.C. Cir. 2022)",
+    "In re Sealed Case, 527 F.3d 188 (D.C. Cir. 2008)",
+    "United States v. Agramonte, 276 F.3d 594 (D.C. Cir. 2001)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the single-sentence position and expressly declines to follow the Ninth Circuit.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Convinced that our instinct in these cases was correct, we decline to follow the Ninth Circuit down its \u201cbaffling\u201d path.",
+ "cluster_id": 5343159,
+ "cite": "United States v. Lorenzo Turner, 21 F.4th 862 (D.C. Cir. 2022)",
+ "court": "D.C.",
+ "date": "2022-01-04",
+ "url": "https://www.courtlistener.com/opinion/5343159/united-states-v-lorenzo-turner/",
+ "usage": {
+  "in": 1320,
+  "out": 1682
+ }
+}

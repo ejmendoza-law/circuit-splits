@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4884351,
+ "cite": "United States v. Young, 998 F.3d 43 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-05-19",
+ "url": "https://www.courtlistener.com/opinion/4884351/united-states-v-young/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

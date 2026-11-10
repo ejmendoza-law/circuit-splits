@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under Rehaif, must the government prove a \u00a7 922(g)(9) defendant knew he had been convicted of a misdemeanor crime of domestic violence, and can the complexity of that statutory definition make a claim of unawareness plausible enough to warrant remand on plain-error review?",
+ "provision": "18 U.S.C. \u00a7 922(g)(9)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "The complexity of the misdemeanor-crime-of-domestic-violence definition gives a defendant at least a plausible argument that he did not know he had been convicted of such an offense, so a Rehaif knowledge error can warrant remand even where the prior conviction record is not messy.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Triggs, 963 F.3d 710 (7th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "The government need only show the defendant knew the facts making him a domestic-violence misdemeanant. Where the record establishes that knowledge, a Rehaif error does not affect substantial rights and no remand is required, even if the statutory definition is complex.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Deangelo Lenard Johnson, 981 F.3d 1171 (11th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The majority takes the second position: the record shows Johnson knew he had a prior misdemeanor crime of domestic violence, so the plain error did not affect substantial rights. It rejects the dissent's view that this creates a split with Triggs.",
+ "source": "dissent",
+ "confidence": 0.5,
+ "quote": "I also believe the majority\u2019s decision does all that while conducting a flawed plain error review and creating a split with the Seventh Circuit in Triggs.",
+ "cluster_id": 4835093,
+ "cite": "United States v. Deangelo Lenard Johnson, 981 F.3d 1171 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-12-02",
+ "url": "https://www.courtlistener.com/opinion/4835093/united-states-v-deangelo-lenard-johnson/",
+ "usage": {
+  "in": 2414,
+  "out": 1729
+ }
+}

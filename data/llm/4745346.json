@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4745346,
+ "cite": "James Smith v. Brian Cook, 956 F.3d 377 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-04-15",
+ "url": "https://www.courtlistener.com/opinion/4745346/james-smith-v-brian-cook/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in McQuiggin v. Perkins, 569 U.S. 383 (2013), which granted certiorari to resolve the circuit split and held that actual innocence serves as a gateway around AEDPA's statute of limitations.",
+ "issue": "Does a showing of actual innocence excuse a federal habeas petitioner from AEDPA's one-year statute of limitations?",
+ "provision": "28 U.S.C. \u00a7 2244(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "The court applies McQuiggin and treats the actual-innocence gateway as an exception to the AEDPA limitations period. The excerpts do not show the court taking a position on the pre-McQuiggin split.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The Supreme Court granted certiorari to resolve a Circuit split concerning whether there is an exception to AEDPA\u2019s one-year statute of limitations for a claim of actual innocence.",
+ "cluster_id": 4893725,
+ "cite": "Joseph Wallace v. Superintendent Mahanoy SCI, 2 F.4th 133 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-06-22",
+ "url": "https://www.courtlistener.com/opinion/4893725/joseph-wallace-v-superintendent-mahanoy-sci/",
+ "usage": {
+  "in": 1317,
+  "out": 1030
+ }
+}

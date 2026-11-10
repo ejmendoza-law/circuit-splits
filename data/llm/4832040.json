@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Guidelines Amendment 795 (USSG App. C), which added \u00a7 4A1.2 cmt. n.3(A) to respond to the circuit conflict",
+ "issue": "Whether a prior sentence treated as part of a single sentence under the Guidelines' single-sentence rule can serve as a predicate offense for a Guidelines enhancement.",
+ "provision": "U.S.S.G. \u00a7 4A1.2 cmt. n.3(A)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "respond[] to a circuit conflict regarding the meaning of the \u2018single sentence\u2019 rule . . . and its implications for the career offender guideline and other guidelines that provide sentencing enhancements for predicate offenses.",
+ "cluster_id": 4832040,
+ "cite": "United States v. Silva, 981 F.3d 794 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-11-24",
+ "url": "https://www.courtlistener.com/opinion/4832040/united-states-v-silva/",
+ "usage": {
+  "in": 1869,
+  "out": 1706
+ }
+}

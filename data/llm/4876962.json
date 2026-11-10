@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Congress amended 18 U.S.C. \u00a7 3164(b) in the Speedy Trial Act Amendments of 1979, Pub. L. No. 96-43, 93 Stat. 327, 329, to provide that \u00a7 3161(h) delays are excluded from the detention clock.",
+ "issue": "Do ends-of-justice delays excludable under the Speedy Trial Act's \u00a7 3161(h) also toll the 90-day pretrial detention clock under \u00a7 3164?",
+ "provision": "18 U.S.C. \u00a7 3164",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Excludable \u00a7 3161(h) delays toll the \u00a7 3164 ninety-day detention clock (as the statute was amended in 1979 and as this court reads it now)",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Torres, 995 F.3d 695 (9th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Detainees must be tried or released after ninety days of continuous detention, with no tolling under \u00a7 3161(h) (the pre-1979 rule)",
+   "circuits": [
+    "9th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Tirasso, 532 F.2d 1298 (9th Cir. 1976)",
+    "United States v. Corley, 548 F.2d 1043 (D.C. Cir. 1976)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "As a result, a circuit split arose as to whether the \u00a7 3161(h) tolling provisions applied to the ninety-day detention clock in \u00a7 3164\u2014some courts permitted tolling while others, including this Court, held that detainees must be tried or released after ninety days of continuous detention.",
+ "cluster_id": 4876962,
+ "cite": "United States v. Paul Torres, III, 995 F.3d 695 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-04-23",
+ "url": "https://www.courtlistener.com/opinion/4876962/united-states-v-paul-torres-iii/",
+ "usage": {
+  "in": 1315,
+  "out": 2493
+ }
+}

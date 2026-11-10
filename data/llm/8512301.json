@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "By changing course, the majority today creates a lopsided 1-to-10 circuit split.",
+ "cluster_id": 8512301,
+ "cite": "Damien Williams v. Merrick Garland, 59 F.4th 620 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-11-16",
+ "url": "https://www.courtlistener.com/opinion/8512301/damien-williams-v-merrick-garland/",
+ "usage": {
+  "in": 1322,
+  "out": 476
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "All of these circuits hold the statutes do not conflict: pretrial release under the BRA does not preclude pre-removal detention under the INA.",
+ "cluster_id": 4863128,
+ "cite": "United States v. Baltazar-Sebastian, 990 F. 3d 939 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-03-10",
+ "url": "https://www.courtlistener.com/opinion/4863128/united-states-v-baltazar-sebastian/",
+ "usage": {
+  "in": 1318,
+  "out": 723
+ }
+}

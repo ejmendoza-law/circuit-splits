@@ -1,0 +1,32 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a state sentence imposed after a federal sentence but before resentencing, for conduct that predates the original federal sentence, be counted as a 'prior sentence' in calculating criminal history?",
+ "provision": "U.S.S.G. \u00a7 4A1.2",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "An intervening sentence imposed before resentencing, for conduct that predates the initial sentencing, does not fall within the rule against considering post-sentencing conduct and may be counted.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Klump, 57 F.3d 801 (9th Cir. 1995)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "Initially, because our court has not yet had the occasion to address the interpretative issue addressed by the other circuits, it is difficult for Mr. Hopper to assert successfully that the district court committed plain error.",
+ "cluster_id": 5044114,
+ "cite": "United States v. Rex A. Hopper, 11 F.4th 561 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-08-25",
+ "url": "https://www.courtlistener.com/opinion/5044114/united-states-v-rex-a-hopper/",
+ "usage": {
+  "in": 1528,
+  "out": 1682
+ }
+}

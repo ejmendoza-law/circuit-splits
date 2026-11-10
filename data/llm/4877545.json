@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.75,
+ "quote": "So while Heron appears to have created an intra-circuit split (and an inter-split circuit) on the precedential effect of Seibert, it is not clear exactly where the Seventh Circuit stands on the issue.",
+ "cluster_id": 4877545,
+ "cite": "United States v. Guillen, 995 F.3d 1095 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-04-27",
+ "url": "https://www.courtlistener.com/opinion/4877545/united-states-v-guillen/",
+ "usage": {
+  "in": 1322,
+  "out": 1084
+ }
+}

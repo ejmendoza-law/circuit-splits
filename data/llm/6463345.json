@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6463345,
+ "cite": "United States v. Carsten Rosenow, 50 F.4th 715 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-04-27",
+ "url": "https://www.courtlistener.com/opinion/6463345/united-states-v-carsten-rosenow/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

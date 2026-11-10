@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6452164,
+ "cite": "Cesar Gonzalez v. United States, 28 F.4th 973 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-03-17",
+ "url": "https://www.courtlistener.com/opinion/6452164/cesar-gonzalez-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

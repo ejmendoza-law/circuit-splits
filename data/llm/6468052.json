@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "In fact, neither the District Court nor Gaines cites a case\u2014and we are aware of none\u2014in which a tactical decision",
+ "cluster_id": 6468052,
+ "cite": "Lawrence Gaines v. Superintendent Benner Township, 33 F.4th 705 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-05-12",
+ "url": "https://www.courtlistener.com/opinion/6468052/lawrence-gaines-v-superintendent-benner-township/",
+ "usage": {
+  "in": 1323,
+  "out": 649
+ }
+}

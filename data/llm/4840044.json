@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We therefore decline to follow the Ninth Circuit's decision in Singh and hold instead that Gicharu's claims \"aris[e] from\" his removal proceedings within the meaning of section 1252(b)(9).",
+ "cluster_id": 4840044,
+ "cite": "Gicharu v. Carr, 983 F.3d 13 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-12-16",
+ "url": "https://www.courtlistener.com/opinion/4840044/gicharu-v-carr/",
+ "usage": {
+  "in": 1315,
+  "out": 788
+ }
+}

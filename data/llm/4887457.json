@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a fact that only increases the maximum sentence, such as a 'death results' allegation, an element of the offense of conviction for purposes of the statutory elements and divisibility analysis?",
+ "provision": "18 U.S.C. \u00a7 1962(d); Sixth Amendment jury-trial right (Apprendi v. New Jersey, 530 U.S. 466 (2000))",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A fact relevant only to an enhanced statutory penalty, such as 'death results,' is an element of the crime of conviction, so the statute is divisible by that fact.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Tsarnaev, 968 F.3d 24 (1st Cir. 2020)"
+   ]
+  },
+  {
+   "position": "An 'element' relevant only to an enhanced sentence is not necessarily an element of the crime of conviction; Apprendi's 'element' language rests on the Sixth Amendment jury-trial guarantee and does not define the range of criminal conduct.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Antonio Simmons, 999 F.3d 199 (4th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Fourth Circuit's position: an element relevant only to an enhanced sentence is not necessarily an element of the crime of conviction. The court rejects the First Circuit's contrary premise.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We disagree with the First Circuit\u2019s premise that an \u201celement\u201d relevant only to an enhanced sentence is necessarily an element of the crime of conviction.",
+ "cluster_id": 4887457,
+ "cite": "United States v. Antonio Simmons, 999 F.3d 199 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-05-28",
+ "url": "https://www.courtlistener.com/opinion/4887457/united-states-v-antonio-simmons/",
+ "usage": {
+  "in": 1878,
+  "out": 2225
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "To begin, as we read them, our same-evidence-test cases have never held that Blockburger's test is controlling double-jeopardy precedent in the context of separate conspiracy prosecutions involving the same statute; therefore, Leal's pronouncement, insofar as it declares Blockburger is not controlling in this context, does not engender a real conflict with those cases.",
+ "cluster_id": 4771201,
+ "cite": "United States v. Mier-Garces, 967 F.3d 1003 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-07-28",
+ "url": "https://www.courtlistener.com/opinion/4771201/united-states-v-mier-garces/",
+ "usage": {
+  "in": 1386,
+  "out": 591
+ }
+}

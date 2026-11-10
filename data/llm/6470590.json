@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the $5,000 special assessment under the Justice for Victims of Trafficking Act apply once per defendant per case, or once for each qualifying conviction?",
+ "provision": "18 U.S.C. \u00a7 3014(a)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The $5,000 assessment under \u00a7 3014(a) applies on a per-count basis, so one assessment is imposed for each eligible conviction.",
+   "circuits": [
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Johnman, 948 F.3d 612 (3d Cir. 2020)",
+    "United States v. Randall, 34 F.4th 867 (9th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "The $5,000 assessment under \u00a7 3014(a) applies on a per-offender basis, so only one assessment is imposed per defendant per case regardless of the number of convictions.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Haverkamp, 958 F.3d 145 (2d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Per-count basis: the court holds that \u00a7 3014(a) requires a $5,000 assessment for each qualifying conviction, following Johnman and rejecting Haverkamp.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The Third Circuit agrees with the government, see United States v. Johnman, 948 F.3d 612, 616\u201320 (3d Cir. 2020), while the Second Circuit concurs with Randall, see United States v. Haverkamp, 958 F.3d 145, 149 (2d Cir. 2020).",
+ "cluster_id": 6470590,
+ "cite": "United States v. Dustin Randall, 34 F.4th 867 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-05-20",
+ "url": "https://www.courtlistener.com/opinion/6470590/united-states-v-dustin-randall/",
+ "usage": {
+  "in": 2998,
+  "out": 1595
+ }
+}

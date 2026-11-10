@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The Sixth Circuit has deemed it \u201cuncertain\u201d whether CVRA protections apply \u201cprior to [the] filing of . . . charges.\u201d In re Acker, 596 F.3d 370, 373 (6th Cir. 2010).",
+ "cluster_id": 4744692,
+ "cite": "In re: Courtney Wild, 955 F.3d 1196 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-04-14",
+ "url": "https://www.courtlistener.com/opinion/4744692/in-re-courtney-wild/",
+ "usage": {
+  "in": 1312,
+  "out": 889
+ }
+}

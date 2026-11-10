@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Other circuits have held that similar surveillance does not violate the Fourth Amendment.",
+ "cluster_id": 7441167,
+ "cite": "United States v. Dennis, 41 F.4th 732 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-07-27",
+ "url": "https://www.courtlistener.com/opinion/7441167/united-states-v-dennis/",
+ "usage": {
+  "in": 1313,
+  "out": 462
+ }
+}

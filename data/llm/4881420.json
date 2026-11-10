@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When the victim is Indian, is the defendant's Indian or non-Indian status under the intra-Indian carve-out of 18 U.S.C. \u00a7 1152 an essential element the government must allege and prove, or an affirmative defense the defendant must raise?",
+ "provision": "18 U.S.C. \u00a7 1152",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The defendant's Indian/non-Indian status is not an essential element. It is an affirmative defense the defendant must properly raise, after which the government keeps the ultimate burden of proof.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Hester, 719 F.2d 1041, 1043 (9th Cir. 1983)"
+   ]
+  },
+  {
+   "position": "Both the victim's and the defendant's Indian/non-Indian status are essential elements. The government must allege them and bear the burden of production and persuasion at trial.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Prentiss, 256 F.3d 971, 975-80 (10th Cir. 2001) (en banc)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "A circuit split exists on this issue.",
+ "cluster_id": 4881420,
+ "cite": "United States v. Haggerty, 997 F.3d 292 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-05-07",
+ "url": "https://www.courtlistener.com/opinion/4881420/united-states-v-haggerty/",
+ "usage": {
+  "in": 1870,
+  "out": 1321
+ }
+}

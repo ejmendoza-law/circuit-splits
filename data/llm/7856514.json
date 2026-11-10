@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 7856514,
+ "cite": "Villarreal v. City of Laredo, 44 F.4th 363 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-08-12",
+ "url": "https://www.courtlistener.com/opinion/7856514/villarreal-v-city-of-laredo/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

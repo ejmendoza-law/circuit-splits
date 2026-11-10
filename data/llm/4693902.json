@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the physical restraint enhancement under U.S.S.G. \u00a7 2B3.1(b)(4)(B) require that the restraint be sustained, with a focus on the victim for more than a brief moment, or can a brief restraint suffice?",
+ "provision": "U.S.S.G. \u00a7 2B3.1(b)(4)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The restraint must be sustained, with a focus on the victim for a meaningful duration; a few seconds of restraint is not enough (the narrow view).",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Bell, No. 17-3792 (3d Cir. 2020)"
+   ]
+  },
+  {
+   "position": "A brief restraint can satisfy the physical restraint enhancement, even if it lasts only moments (the broader \"sustained focus\" standard applied in Coleman).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Coleman, 664 F.3d 1047 (6th Cir. 2012)"
+   ]
+  }
+ ],
+ "this_court": "adopts the narrow Ninth Circuit view on duration (majority adopts the narrow view and finds no sustained focus on the victim); the dissent disagrees on application to these facts",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "Although I refrain from commenting on the propriety of adopting this factor \u2014 that is, whether the majority was correct to adopt the narrow view of the Court of Appeals for the Ninth Circuit in the circuit split on this issue \u2014 I believe that Bell\u2019s conduct also satisfies this factor.",
+ "cluster_id": 4693902,
+ "cite": "United States v. Marquise Bell, No. 17-3792 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-01-09",
+ "url": "https://www.courtlistener.com/opinion/4693902/united-states-v-marquise-bell/",
+ "usage": {
+  "in": 1313,
+  "out": 2135
+ }
+}

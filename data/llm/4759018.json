@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4759018,
+ "cite": "United States v. Davis, 961 F.3d 181 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-06-05",
+ "url": "https://www.courtlistener.com/opinion/4759018/united-states-v-davis/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

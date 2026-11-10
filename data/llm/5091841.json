@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5091841,
+ "cite": "United States v. Edward Soybel, 13 F.4th 584 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-09-08",
+ "url": "https://www.courtlistener.com/opinion/5091841/united-states-v-edward-soybel/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Evidence",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Although previous rulings from this Court suggest \u201can intra-circuit split\u201d over the standard of review for Rule 404(b) evidence, using the three-step test and reviewing for abuse of discretion are not necessarily inconsistent.",
+ "cluster_id": 4766197,
+ "cite": "United States v. Steve Pritchard, 964 F.3d 513 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-07-07",
+ "url": "https://www.courtlistener.com/opinion/4766197/united-states-v-steve-pritchard/",
+ "usage": {
+  "in": 1314,
+  "out": 534
+ }
+}

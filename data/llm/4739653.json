@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court in Dean v. United States resolved the split by holding that sentencing courts may consider \u00a7 924(c) mandatory minimums when sentencing for the predicate offenses. The Seventh Circuit treats Dean as the resolution.",
+ "issue": "Did the Supreme Court's Dean decision announce a new rule that applies retroactively on collateral review, so that a federal prisoner whose sentence was set under the prior Eighth Circuit rule can use it?",
+ "provision": "18 U.S.C. \u00a7 924(c); 28 U.S.C. \u00a7 2255 (retroactivity under Teague v. Lane)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Before Dean, sentencing courts in the Eighth Circuit were precluded from exercising discretion to account for \u00a7 924(c) mandatory minimums when sentencing on the predicate offenses.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Dean, 810 F.3d 521 (8th Cir. 2015)",
+    "Worman v. Entzel, No. 19-2048 (7th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Put di\ufb00erently, it took the Supreme Court deciding Dean to reveal the error in the Eighth Circuit\u2019s law, settle a circuit split, and announce a new rule.",
+ "cluster_id": 4739653,
+ "cite": "John Worman v. Frederick Entzel, No. 19-2048 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-03-26",
+ "url": "https://www.courtlistener.com/opinion/4739653/john-worman-v-frederick-entzel/",
+ "usage": {
+  "in": 1314,
+  "out": 1481
+ }
+}

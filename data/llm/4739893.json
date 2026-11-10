@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "Judge Bade further wrote that, even if the district court had jurisdiction to issue injunctive relief, the preliminary injunction is overbroad and exceeds what the constitution demands.",
+ "cluster_id": 4739893,
+ "cite": "Yolany Padilla v. Ice, 953 F.3d 1134 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-03-27",
+ "url": "https://www.courtlistener.com/opinion/4739893/yolany-padilla-v-ice/",
+ "usage": {
+  "in": 2430,
+  "out": 892
+ }
+}

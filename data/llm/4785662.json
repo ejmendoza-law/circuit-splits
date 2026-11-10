@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "On federal habeas review of a state conviction, must a state court's harmless-error determination receive AEDPA deference under 28 U.S.C. \u00a7 2254(d)(1), or may a federal court skip AEDPA and grant relief under Brecht alone?",
+ "provision": "28 U.S.C. \u00a7 2254(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Brecht alone governs; AEDPA deference does not apply to a state court's harmless-error determination, and a federal court may grant relief on a showing of actual prejudice under Brecht without first finding the state ruling unreasonable.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Davenport v. MacLaren, 964 F.3d 448 (6th Cir. 2020)",
+    "Reiner v. Woods, 955 F.3d 549 (6th Cir. 2020)",
+    "Ruelas v. Wolfenbarger, 580 F.3d 403 (6th Cir. 2009)"
+   ]
+  },
+  {
+   "position": "Courts must apply both Brecht and AEDPA when reviewing a state court's harmless-error determination; the petitioner must show the state court's ruling was an unreasonable application of clearly established federal law.",
+   "circuits": [
+    "3d",
+    "7th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "Johnson v. Lamas, 850 F.3d 119 (3d Cir. 2017)",
+    "Johnson v. Acevedo, 572 F.3d 398 (7th Cir. 2009)",
+    "Malone v. Carpenter, 911 F.3d 1022 (10th Cir. 2018)",
+    "Mansfield v. Sec'y, Dep't of Corr., 679 F.3d 1301 (11th Cir. 2012)"
+   ]
+  }
+ ],
+ "this_court": "Brecht alone governs; AEDPA deference does not apply to state harmless-error determinations (the panel majority, Davenport, adhered to this view on rehearing en banc denial).",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "It appears that we are alone in taking a \u201cstraight to Brecht approach\u201d in determining on habeas review whether a state court\u2019s constitutional error was harmless.",
+ "cluster_id": 4785662,
+ "cite": "Ervine Davenport v. Duncan MacLaren, No. 17-2267 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-09-15",
+ "url": "https://www.courtlistener.com/opinion/4785662/ervine-davenport-v-duncan-maclaren/",
+ "usage": {
+  "in": 4273,
+  "out": 2547
+ }
+}

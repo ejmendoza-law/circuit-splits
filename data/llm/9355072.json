@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under U.S.S.G. \u00a7\u00a7 4B1.1 and 4B1.2(b), must 'controlled substance' be defined by the federal Controlled Substances Act, or can a state drug conviction count as a controlled-substance offense even if the state law covers substances not listed in the CSA?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "'Controlled substance' refers only to substances defined in the federal Controlled Substances Act, so a state conviction involving non-CSA substances does not qualify",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "A state drug conviction may be a controlled-substance offense even if the state criminalizes substances not listed in the CSA",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Jones, 15 F.4th 1288 (10th Cir. 2021)",
+    "United States v. Harbin, 56 F.4th 843 (10th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Does not resolve the definitional split. It holds that any error in applying the state law as of the prior conviction, rather than current state law, was not plain, and it treats the existing split as weighing against plain error.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "The circuits have split on the question of how to define controlled-substance offenses under \u00a7\u00a7 4B1.1 and 4B1.2(b).",
+ "cluster_id": 9355072,
+ "cite": "United States v. Harbin, 56 F.4th 843 (10th Cir. 2022)",
+ "court": "10th",
+ "date": "2022-12-27",
+ "url": "https://www.courtlistener.com/opinion/9355072/united-states-v-harbin/",
+ "usage": {
+  "in": 3097,
+  "out": 3218
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6467515,
+ "cite": "United States v. Chikosi Legins, 34 F.4th 304 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-05-11",
+ "url": "https://www.courtlistener.com/opinion/6467515/united-states-v-chikosi-legins/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

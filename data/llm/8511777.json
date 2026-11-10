@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "As to such cases, the Supreme Court recently resolved a circuit split by adopting a broad interpretation of the statutory jurisdictional bar.",
+ "cluster_id": 8511777,
+ "cite": "Jose Llanas-Trejo v. Merrick B. Garland, 53 F.4th 458 (8th Cir. 2022)",
+ "court": "8th",
+ "date": "2022-11-16",
+ "url": "https://www.courtlistener.com/opinion/8511777/jose-llanas-trejo-v-merrick-b-garland/",
+ "usage": {
+  "in": 1316,
+  "out": 526
+ }
+}

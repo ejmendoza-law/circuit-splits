@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Wooden v. United States, 142 S. Ct. 1063 (2022), which abrogated United States v. Abbott, 794 F.3d 896 (8th Cir. 2015), and adopted the multi-factored 'occasions' inquiry.",
+ "issue": "Under the ACCA occasions clause, may predicate offenses be treated as committed on different occasions merely because they were committed at different moments in time, or must the court apply a holistic, multi-factored inquiry?",
+ "provision": "18 U.S.C. \u00a7 924(e)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Offenses are committed on different occasions if some time elapsed between them; a temporal separation alone is sufficient.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Abbott, 794 F.3d 896 (8th Cir. 2015)",
+    "United States v. Stowell, 40 F.4th 882 (8th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.5,
+ "quote": "Wooden resolved a split of authority between circuits\u2014including the Eighth\u2014that found the ACCA occasions clause satisfied \u201cwhenever crimes take place at different moments in time,\u201d and those that undertook \u201ca more holistic inquiry.\u201d",
+ "cluster_id": 7356801,
+ "cite": "United States v. Christopher Stowell, 40 F.4th 882 (8th Cir. 2022)",
+ "court": "8th",
+ "date": "2022-07-25",
+ "url": "https://www.courtlistener.com/opinion/7356801/united-states-v-christopher-stowell/",
+ "usage": {
+  "in": 1321,
+  "out": 1695
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5299044,
+ "cite": "United States v. Thomas Owens, 18 F.4th 928 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-11-19",
+ "url": "https://www.courtlistener.com/opinion/5299044/united-states-v-thomas-owens/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

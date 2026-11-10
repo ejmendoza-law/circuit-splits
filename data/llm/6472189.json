@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a government motion in limine count as a 'pretrial motion' that excludes time from the Speedy Trial Act clock under 18 U.S.C. \u00a7 3161(h)(1)(D)?",
+ "provision": "18 U.S.C. \u00a7 3161(h)(1)(D)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Motions in limine are not 'pretrial motions' that toll the Speedy Trial Act clock. They are better treated as notices of intent to offer evidence at trial. Treating them as tolling motions would let the Government stop the clock indefinitely.",
+   "circuits": [
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Van Smith, 530 F.3d 967 (D.C. Cir. 2008)",
+    "United States v. Taplet, 776 F.3d 875 (D.C. Cir. 2015)"
+   ]
+  },
+  {
+   "position": "Motions in limine can be 'pretrial motions' that exclude time under \u00a7 3161(h)(1)(D). The excerpt describes this side only as the contrary view and does not name the circuits that hold it.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "Our sister circuits are split concerning the speedy trial implications of motions in limine.",
+ "cluster_id": 6472189,
+ "cite": "United States v. Nakia Adams, No. 19-1811 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-05-26",
+ "url": "https://www.courtlistener.com/opinion/6472189/united-states-v-nakia-adams/",
+ "usage": {
+  "in": 1316,
+  "out": 1735
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under \u00a7 403(b) of the First Step Act, is a sentence that was later vacated on direct appeal because of a constitutional defect 'imposed' before the Act's enactment, so that the defendant is excluded from the Act's sentencing relief?",
+ "provision": "First Step Act of 2018, Pub. L. No. 115-391, \u00a7 403(b), 132 Stat. 5194, 5222",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A vacated sentence is not 'imposed' for \u00a7 403(b) purposes because vacatur voids the sentence ab initio, so defendants whose pre-Act sentences were vacated for a constitutional defect may receive the Act's resentencing relief",
+   "circuits": [
+    "4th",
+    "6th",
+    "7th",
+    "9th",
+    "3d"
+   ],
+   "cases": [
+    "United States v. Uriarte, 975 F.3d 596 (7th Cir. 2020) (en banc)",
+    "United States v. Bethea, 841 F. App'x 544 (4th Cir. 2021)",
+    "United States v. Henry, 983 F.3d 214 (6th Cir. 2020)",
+    "United States v. Merrell, 2022 WL 2092588 (9th Cir. June 10, 2022)",
+    "United States v. Mitchell, 38 F.4th 382 (3d Cir. 2022)"
+   ]
+  },
+  {
+   "position": "A sentence vacated on appeal is 'imposed' for \u00a7 403(b) purposes because vacatur only erases its legal effect going forward, so defendants whose pre-Act sentences were later vacated are not covered by the Act",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Jackson, 995 F.3d 522 (6th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit holds that a vacated sentence is not 'imposed,' so \u00a7 403(b) applies to the defendant's resentencing, joining the Uriarte side and rejecting Jackson.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our sister circuits have split on this question under the Act.",
+ "cluster_id": 6619923,
+ "cite": "United States v. Tyrone Mitchell, 38 F.4th 382 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-06-29",
+ "url": "https://www.courtlistener.com/opinion/6619923/united-states-v-tyrone-mitchell/",
+ "usage": {
+  "in": 1878,
+  "out": 2592
+ }
+}

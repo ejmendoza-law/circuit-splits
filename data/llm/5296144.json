@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5296144,
+ "cite": "United States v. Radu Miclaus, No. 19-4273 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-11-09",
+ "url": "https://www.courtlistener.com/opinion/5296144/united-states-v-radu-miclaus/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

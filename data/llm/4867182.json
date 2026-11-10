@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "While our sister circuits have grappled with\u2014and disagreed over\u2014the question of whether public firearms carry falls within the inner \"core\" of the Second Amendment, we now become the first and only court of appeals to hold that public carry falls entirely outside the scope of the Amendment's protections.",
+ "cluster_id": 4867182,
+ "cite": "George Young, Jr. v. State of Hawaii, 992 F.3d 765 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-03-24",
+ "url": "https://www.courtlistener.com/opinion/4867182/george-young-jr-v-state-of-hawaii/",
+ "usage": {
+  "in": 1324,
+  "out": 1125
+ }
+}

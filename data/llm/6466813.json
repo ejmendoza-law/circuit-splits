@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the term \"controlled substance\" in U.S.S.G. \u00a7 4B1.2(b) have a uniform federal meaning, or does its meaning vary according to the state of conviction?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "\"Controlled substance\" in \u00a7 4B1.2(b) varies with the state of conviction, so a state drug conviction counts under the Guidelines if it fits that state's definition, read by plain language.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Jones, 15 F.4th 1288 (10th Cir. 2021)",
+    "United States v. Jones, 32 F.4th 1290 (10th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "\"Controlled substance\" in \u00a7 4B1.2(b) has a uniform federal definition, consistent with the categorical approach and Taylor's national-uniformity principle.",
+   "circuits": [],
+   "cases": [
+    "Taylor v. United States, 495 U.S. 575 (1990)",
+    "United States v. Jones, 32 F.4th 1290 (10th Cir. 2022) (Tymkovich, C.J., dissenting from denial of rehearing en banc)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the state-of-conviction position in the panel decision, which the court declined to revisit en banc",
+ "source": "dissent",
+ "confidence": 0.35,
+ "quote": "Our sister circuits are sharply divided on the question presented in Jones and the correct approach to answering it.",
+ "cluster_id": 6466813,
+ "cite": "United States v. Jones, 32 F.4th 1290 (10th Cir. 2022)",
+ "court": "10th",
+ "date": "2022-05-09",
+ "url": "https://www.courtlistener.com/opinion/6466813/united-states-v-jones/",
+ "usage": {
+  "in": 1967,
+  "out": 2717
+ }
+}

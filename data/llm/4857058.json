@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission resolved the split by promulgating Amendment 794 (effective Nov. 1, 2015), which revised the \u00a7 3B1.2 commentary to compare the defendant only with other participants in the same criminal activity.",
+ "issue": "When deciding whether a defendant qualifies for a mitigating-role reduction under U.S.S.G. \u00a7 3B1.2, is the 'average participant' limited to those who took part in the same criminal activity, or does it also include the universe of persons who commit similar crimes?",
+ "provision": "U.S.S.G. \u00a7 3B1.2",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The 'average participant' means only those who actually participated in the criminal activity at issue, so the defendant's culpability is measured only against co-participants in the case (the approach the Commission adopted in Amendment 794).",
+   "circuits": [],
+   "cases": [
+    "United States v. Nkome, 987 F.3d 1262 (10th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The 'average participant' also includes the universe of persons participating in similar crimes, so the defendant's culpability is considered relative both to co-participants and to the typical offender.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Santos, 357 F.3d 136 (1st Cir. 2004)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "But others \u201cconcluded that the \u2018average participant\u2019 also includes the \u2018universe of persons participating in similar crimes.\u2019\u201d Id.",
+ "cluster_id": 4857058,
+ "cite": "United States v. Nkome, 987 F.3d 1262 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-02-17",
+ "url": "https://www.courtlistener.com/opinion/4857058/united-states-v-nkome/",
+ "usage": {
+  "in": 1313,
+  "out": 1762
+ }
+}

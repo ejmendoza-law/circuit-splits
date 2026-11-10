@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5450498,
+ "cite": "United States v. Trey Campbell, 22 F.4th 438 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-01-07",
+ "url": "https://www.courtlistener.com/opinion/5450498/united-states-v-trey-campbell/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

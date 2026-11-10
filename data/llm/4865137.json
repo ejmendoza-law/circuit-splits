@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 'controlled substance' in U.S.S.G. \u00a7 4B1.2(b) mean only substances listed in the federal Controlled Substances Act, or does it reach a broader 'natural meaning' of the term, including state-law-controlled substances?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "'Controlled substance' in \u00a7 4B1.2(b) is limited to substances controlled under the federal Controlled Substances Act (the excerpts do not state this holding expressly for these cases).",
+   "circuits": [
+    "9th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Bautista, No. 19-10448, 2021 WL 769601 (9th Cir. Feb. 26, 2021)",
+    "United States v. Hudson, 618 F.3d 700 (7th Cir. 2010)"
+   ]
+  },
+  {
+   "position": "'Controlled substance' in \u00a7 4B1.2(b) takes its natural meaning, a broader definition than the federal Controlled Substances Act.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Ruth, 966 F.3d 642 (7th Cir. 2020)",
+    "United States v. Wallace, 991 F.3d 810 (7th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the broader 'natural meaning' definition from Ruth and holds that Wallace's 2004 Illinois drug conviction is a controlled substance offense under the Guidelines.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "As we did in Ruth, we recognize that there is already a circuit split on this issue.",
+ "cluster_id": 4865137,
+ "cite": "United States v. Antoine Wallace, 991 F.3d 810 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-03-17",
+ "url": "https://www.courtlistener.com/opinion/4865137/united-states-v-antoine-wallace/",
+ "usage": {
+  "in": 1869,
+  "out": 2404
+ }
+}

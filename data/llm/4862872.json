@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "At least two circuits have answered that question yes, but both did so over dissenting opinions.",
+ "cluster_id": 4862872,
+ "cite": "Jesus Ruiz v. United States, 990 F.3d 1025 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-03-10",
+ "url": "https://www.courtlistener.com/opinion/4862872/jesus-ruiz-v-united-states/",
+ "usage": {
+  "in": 1328,
+  "out": 636
+ }
+}

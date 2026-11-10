@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a defendant bring a constitutional claim (under the Sixth Amendment speedy-trial right or the Fourteenth Amendment's Due Process Clause) based on unreasonable delay between conviction and sentencing?",
+ "provision": "U.S. Const. amend. VI; U.S. Const. amend. XIV (Due Process Clause)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Pre-sentencing delay may support a constitutional claim analyzed under the Sixth Amendment speedy-trial framework (Barker v. Wingo factors) applied to sentencing",
+   "circuits": [
+    "5th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Abou-Kassem, 78 F.3d 161 (5th Cir. 1996)",
+    "United States v. Yelverton, 197 F.3d 531 (D.C. Cir. 1999)",
+    "Deck v. Jennings, 978 F.3d 578 (8th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Pre-sentencing delay may support a claim under a due-process framework under the Fourteenth Amendment",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Sanders, 452 F.3d 572 (6th Cir. 2006)",
+    "Deck v. Jennings, 978 F.3d 578 (8th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "But these cases were not controlling; did not reflect a single unified framework; and largely relied on the Sixth Amendment's Speedy Trial Clause, not the Fourteenth Amendment's Due Process Clause.",
+ "cluster_id": 4797909,
+ "cite": "Carman Deck v. Richard Jennings, 978 F.3d 578 (8th Cir. 2020)",
+ "court": "8th",
+ "date": "2020-10-19",
+ "url": "https://www.courtlistener.com/opinion/4797909/carman-deck-v-richard-jennings/",
+ "usage": {
+  "in": 1315,
+  "out": 2407
+ }
+}

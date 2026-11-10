@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a defendant was sentenced under a mandatory guidelines scheme in violation of the Sixth Amendment, must the court grant full resentencing, or is a Crosby hearing (resentencing only if the judge would have imposed a materially different sentence) enough?",
+ "provision": "U.S. Const. amend. VI",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A Sixth Amendment violation requires full resentencing, or at least remedies other than a Crosby remand are available.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Morrell v. Warden, No. 20-1238 (6th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "A Crosby hearing is the appropriate remedy for a Sixth Amendment violation under a mandatory guidelines scheme.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "[T]he Supreme Court has not spoken to this issue, and there is a circuit split concerning whether violations of the Sixth Amendment require a full resentencing or a Crosby hearing.",
+ "cluster_id": 5090861,
+ "cite": "Ronald Morrell v. Warden, No. 20-1238 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-09-03",
+ "url": "https://www.courtlistener.com/opinion/5090861/ronald-morrell-v-warden/",
+ "usage": {
+  "in": 1312,
+  "out": 2239
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is attempted Hobbs Act robbery categorically a 'crime of violence' under the elements clause of 18 U.S.C. \u00a7 924(c)(3)(A)?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(A)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Attempted Hobbs Act robbery is categorically a crime of violence under the elements clause, because an attempt to commit a crime of violence (with intent and a substantial step) qualifies as an attempted use or threatened use of force.",
+   "circuits": [
+    "5th",
+    "7th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Smith, 957 F.3d 590 (5th Cir. 2020)",
+    "United States v. Ingram, 947 F.3d 1021 (7th Cir. 2020)",
+    "United States v. Dominguez, 954 F.3d 1251 (9th Cir. 2020)",
+    "United States v. St. Hubert, 909 F.3d 335 (11th Cir. 2018)",
+    "United States v. Walker, 990 F.3d 316 (3d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Attempted Hobbs Act robbery is not categorically a crime of violence, because a nonviolent substantial step toward threatening force does not involve the use, attempted use, or threatened use of physical force under the plain text of \u00a7 924(c)(3)(A).",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Taylor, 979 F.3d 203 (4th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Our sister courts of appeals are split on the answer to that question.",
+ "cluster_id": 4861532,
+ "cite": "United States v. Marcus Walker, 990 F.3d 316 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-03-05",
+ "url": "https://www.courtlistener.com/opinion/4861532/united-states-v-marcus-walker/",
+ "usage": {
+  "in": 1875,
+  "out": 2417
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What standard of appellate review applies to a sufficiency-of-the-evidence challenge that was not preserved by a specific Rule 29 motion: full waiver, a manifest-miscarriage-of-justice or clear-and-gross-injustice standard, or plain error?",
+ "provision": "Fed. R. Crim. P. 29",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Full waiver: an unpreserved sufficiency argument is not reviewed at all",
+   "circuits": [],
+   "cases": [
+    "United States v. Porter, 886 F.3d at 566"
+   ]
+  },
+  {
+   "position": "Review only for a manifest miscarriage of justice",
+   "circuits": [],
+   "cases": [
+    "United States v. Chong Lam, 677 F.3d at 200 n.10",
+    "United States v. Graf, 610 F.3d at 1166"
+   ]
+  },
+  {
+   "position": "Review only for clear and gross injustice",
+   "circuits": [],
+   "cases": [
+    "United States v. Marston, 694 F.3d at 134"
+   ]
+  },
+  {
+   "position": "Plain-error review under Olano",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Samuels, 874 F.3d at 1036",
+    "United States v. Baston, 818 F.3d at 664",
+    "United States v. Hosseini, 679 F.3d at 550",
+    "United States v. Goode, 483 F.3d at 681",
+    "United States v. Spinner, 152 F.3d at 955",
+    "United States v. Husmann, 765 F.3d 169, 172 (3d Cir. 2014)",
+    "United States v. Sussman, 709 F.3d 155, 162 (3d Cir. 2013)",
+    "United States v. Williams, 974 F.3d 320 (3d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Plain-error review (the Third Circuit reviews unpreserved sufficiency arguments for plain error)",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "The circuits are more divided on this question than on the preservation standard itself.",
+ "cluster_id": 4784203,
+ "cite": "United States v. Jabree Williams, 974 F.3d 320 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-09-10",
+ "url": "https://www.courtlistener.com/opinion/4784203/united-states-v-jabree-williams/",
+ "usage": {
+  "in": 1317,
+  "out": 2733
+ }
+}

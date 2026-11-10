@@ -1,0 +1,54 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When deciding whether to authorize a second or successive federal habeas petition under 28 U.S.C. \u00a7 2244(b)(3), may the court of appeals consider whether the petition is time-barred under \u00a7 2244(d)?",
+ "provision": "28 U.S.C. \u00a7 2244(b)(3)(C)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The court of appeals' gatekeeping review is limited to the \u00a7 2244(b) requirements (new claim, newly discovered facts or new retroactive rule). Timeliness under \u00a7 2244(d) is left to the district court.",
+   "circuits": [
+    "6th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "In re McDonald, 514 F.3d 539, 543\u201344 (6th Cir. 2008)",
+    "Henry v. Spearman, 899 F.3d 703, 710 (9th Cir. 2018)",
+    "Ochoa v. Sirmons, 485 F.3d 538, 542\u201344 (10th Cir. 2007)"
+   ]
+  },
+  {
+   "position": "The court of appeals may, in its discretion, consider \u00a7 2244(d) timeliness at the gatekeeping stage, because \u00a7 2244(b)(3)(C) says the court 'may' authorize a petition only if the \u00a7 2244(b) showing is made.",
+   "circuits": [
+    "4th",
+    "5th",
+    "7th",
+    "11th",
+    "D.C."
+   ],
+   "cases": [
+    "In re Vassell, 751 F.3d 267, 271 (4th Cir. 2014)",
+    "In re Campbell, 750 F.3d 523, 533\u201334 (5th Cir. 2014)",
+    "Johnson v. Robert, 431 F.3d 992, 992\u201393 (7th Cir. 2005) (per curiam)",
+    "In re Hill, 437 F.3d 1080, 1083 (11th Cir. 2006) (per curiam)",
+    "In re Williams, 759 F.3d 66, 68\u201369 (D.C. Cir. 2014)",
+    "Felix Rosado v., 7 F.4th 152 (3d Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "May consider \u00a7 2244(d) timeliness at the gatekeeping stage in its discretion, siding with the five circuits that take that approach.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our sister circuits are split on the scope of our gatekeeping review.",
+ "cluster_id": 4904608,
+ "cite": "Felix Rosado v., 7 F.4th 152 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-08-02",
+ "url": "https://www.courtlistener.com/opinion/4904608/felix-rosado-v/",
+ "usage": {
+  "in": 1313,
+  "out": 1914
+ }
+}

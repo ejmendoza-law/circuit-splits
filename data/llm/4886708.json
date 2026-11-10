@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4886708,
+ "cite": "United States v. De La Cruz, 998 F.3d 508 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-05-26",
+ "url": "https://www.courtlistener.com/opinion/4886708/united-states-v-de-la-cruz/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

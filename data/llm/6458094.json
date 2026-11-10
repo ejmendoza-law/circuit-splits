@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Evidence",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Our precedent reflects an intra-circuit split about the appropriate standard of review when reviewing evidentiary rulings under Rule 404(b).",
+ "cluster_id": 6458094,
+ "cite": "United States v. Sylvia Hofstetter, No. 20-6245 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-04-11",
+ "url": "https://www.courtlistener.com/opinion/6458094/united-states-v-sylvia-hofstetter/",
+ "usage": {
+  "in": 1315,
+  "out": 525
+ }
+}

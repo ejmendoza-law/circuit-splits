@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "And here, there is none\u2014every circuit to have addressed the issue has rejected the theory of divergence when it comes to personal jurisdiction.",
+ "cluster_id": 7857277,
+ "cite": "Douglass v. Nippon Yusen Kabushiki, 46 F.4th 226 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-08-16",
+ "url": "https://www.courtlistener.com/opinion/7857277/douglass-v-nippon-yusen-kabushiki/",
+ "usage": {
+  "in": 1315,
+  "out": 493
+ }
+}

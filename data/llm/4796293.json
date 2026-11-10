@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4796293,
+ "cite": "United States v. Justin Taylor, 979 F.3d 203 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-10-14",
+ "url": "https://www.courtlistener.com/opinion/4796293/united-states-v-justin-taylor/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

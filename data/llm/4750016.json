@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4750016,
+ "cite": "Lezmond Mitchell v. United States, 958 F.3d 775 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-04-30",
+ "url": "https://www.courtlistener.com/opinion/4750016/lezmond-mitchell-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

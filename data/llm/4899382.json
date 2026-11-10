@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under Schlup's actual-innocence gateway, does 'new reliable evidence' mean only evidence that was newly discovered after trial, or any evidence not presented to the fact-finder at trial, including evidence that was available but not introduced?",
+ "provision": "28 U.S.C. \u00a7 2254; Schlup v. Delo, 513 U.S. 298 (1995) actual-innocence gateway",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "'New' evidence means only newly discovered evidence that was not available at the time of trial.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "'New' evidence means any evidence not presented to the fact-finder at trial, i.e., newly presented evidence, even if it was available at trial.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "[t]here is a circuit split about whether the 'new' evidence required under Schlup includes only newly discovered evidence that was not available at the time of trial, or broadly encompasses all evidence that was not presented to the fact-finder during the trial, i.e., newly presented evidence.\u201d",
+ "cluster_id": 4899382,
+ "cite": "Fontenot v. Crow, 4 F.4th 982 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-07-13",
+ "url": "https://www.courtlistener.com/opinion/4899382/fontenot-v-crow/",
+ "usage": {
+  "in": 1866,
+  "out": 2428
+ }
+}

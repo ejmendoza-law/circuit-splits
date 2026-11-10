@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "To start, that Davis created a new rule of constitutional law is not subject to reasonable dispute.",
+ "cluster_id": 9368915,
+ "cite": "Hall v. United States, 58 F.4th 55 (2d Cir. 2023)",
+ "court": "2d",
+ "date": "2023-01-19",
+ "url": "https://www.courtlistener.com/opinion/9368915/hall-v-united-states/",
+ "usage": {
+  "in": 1311,
+  "out": 910
+ }
+}

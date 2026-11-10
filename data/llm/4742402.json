@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Some panels of this Court have applied an abuse of discretion standard, e.g., United States v. Lasley, 917 F.3d 661, 664 (8th Cir. 2019) (per curiam), while others have applied de novo review, e.g., United States v. Stuckey, 220 F.3d 976, 979 (8th Cir. 2000).",
+ "cluster_id": 4742402,
+ "cite": "United States v. Marcell Shavers, 955 F.3d 685 (8th Cir. 2020)",
+ "court": "8th",
+ "date": "2020-04-06",
+ "url": "https://www.courtlistener.com/opinion/4742402/united-states-v-marcell-shavers/",
+ "usage": {
+  "in": 1315,
+  "out": 756
+ }
+}

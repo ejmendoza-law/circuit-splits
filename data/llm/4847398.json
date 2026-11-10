@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a released prisoner's 28 U.S.C. \u00a7 2241 challenge to an allegedly excessive prison term remain live (not moot) when the only relief is a speculative possible modification of supervised release under 18 U.S.C. \u00a7 3583(e)?",
+ "provision": "28 U.S.C. \u00a7 2241; 18 U.S.C. \u00a7 3583(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A released prisoner's over-incarceration claim is not moot because the sentencing court could modify the supervised-release term under \u00a7 3583(e) to provide relief.",
+   "circuits": [
+    "5th",
+    "9th"
+   ],
+   "cases": [
+    "Johnson v. Pettiford (5th Cir.)",
+    "Reynolds v. Thomas, 603 F.3d 1144 (9th Cir. 2010)"
+   ]
+  },
+  {
+   "position": "A released prisoner's over-incarceration claim is moot or too speculative to decide, because a possible future modification of supervised release under \u00a7 3583(e) does not provide a live case or controversy.",
+   "circuits": [
+    "3d",
+    "10th",
+    "D.C.",
+    "5th"
+   ],
+   "cases": [
+    "Rhodes v. Judiscak, 676 F.3d 931 (10th Cir. 2012)",
+    "Burkey v. Marberry, 556 F.3d 142 (3d Cir. 2009)",
+    "United States v. Bundy, 391 F. App'x 886 (D.C. Cir. 2010)",
+    "Herndon v. Upton, 985 F.3d 443 (5th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Side 2: this court expressly departs from its own prior decision in Johnson v. Pettiford and holds the speculative possibility of a \u00a7 3583(e) modification does not keep the claim alive.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Moreover, Johnson v. Pettiford sits at the center of a circuit split.",
+ "cluster_id": 4847398,
+ "cite": "Herndon v. Upton, 985 F.3d 443 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-01-13",
+ "url": "https://www.courtlistener.com/opinion/4847398/herndon-v-upton/",
+ "usage": {
+  "in": 1310,
+  "out": 2297
+ }
+}

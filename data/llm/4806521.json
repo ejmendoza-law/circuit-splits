@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a Rule 60(b) motion filed while an appeal from the denial of an initial federal habeas petition is still pending a 'second or successive' habeas petition under 28 U.S.C. \u00a7 2244(b), given that the initial petition has not yet been finally adjudicated?",
+ "provision": "28 U.S.C. \u00a7 2244(b)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A Rule 60(b) motion filed while an appeal from the denial of the initial habeas petition is pending is a second or successive habeas petition under \u00a7 2244(b), following Beaty v. Schriro.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Beaty v. Schriro, 554 F.3d 780, 783 n.1 (9th Cir. 2009)",
+    "Balbuena v. Sullivan, 970 F.3d 1176 (9th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "An initial habeas petition is not finally adjudicated while an appeal is pending, so a Rule 60(b) motion filed during that appeal is not a second or successive petition under \u00a7 2244(b).",
+   "circuits": [
+    "2d",
+    "3d"
+   ],
+   "cases": [
+    "Ching v. United States, 298 F.3d 174, 178 (2d Cir. 2002)",
+    "United States v. Santarelli, 929 F.3d 95, 104\u201305 (3d Cir. 2019)"
+   ]
+  }
+ ],
+ "this_court": "The Ninth Circuit follows Beaty and holds that the Rule 60(b) motion was a second or successive habeas petition, though Judge Fletcher concurs only in the result and disagrees with Beaty.",
+ "source": "concurrence",
+ "confidence": 0.85,
+ "quote": "He wrote separately to register his disagreement with Beaty and to urge the Supreme Court to recognize the circuit split and to adopt the rule stated in Ching v. United States, 298 F.3d 174, 178 (2d Cir. 2002), and United States v. Santarelli, 929 F.3d 95, 104\u2013 05 (3d Cir. 2019).",
+ "cluster_id": 4806521,
+ "cite": "Alexander Balbuena v. William Sullivan, No. 12-16414 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-11-17",
+ "url": "https://www.courtlistener.com/opinion/4806521/alexander-balbuena-v-william-sullivan/",
+ "usage": {
+  "in": 1871,
+  "out": 1634
+ }
+}

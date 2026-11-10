@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "On federal habeas review of a state conviction, must the court apply AEDPA deference under 28 U.S.C. \u00a7 2254(d)(1) to the state court's harmless-error determination before granting relief under Brecht, or may it go straight to Brecht's actual-prejudice test?",
+ "provision": "28 U.S.C. \u00a7 2254(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Courts must apply both AEDPA deference and Brecht when reviewing a state court's harmless-error determination; a petitioner cannot obtain relief without showing the state court's ruling was an unreasonable application of clearly established federal law.",
+   "circuits": [
+    "3d",
+    "7th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "Johnson v. Lamas, 850 F.3d 119 (3d Cir. 2017)",
+    "Johnson v. Acevedo, 572 F.3d 398 (7th Cir. 2009)",
+    "Malone v. Carpenter, 911 F.3d 1022 (10th Cir. 2018)",
+    "Mansfield v. Sec'y, Dep't of Corr., 679 F.3d 1301 (11th Cir. 2012)"
+   ]
+  },
+  {
+   "position": "A federal court may go straight to Brecht's actual-prejudice test and grant habeas relief without first applying AEDPA deference to the state court's harmless-error determination; if the petitioner shows actual prejudice, the state court's harmlessness ruling was necessarily unreasonable.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Davenport v. MacLaren, 964 F.3d 448 (6th Cir. 2020)",
+    "Davenport v. MacLaren, 975 F.3d 537 (6th Cir. 2020)",
+    "Sifuentes v. Brazelton, 825 F.3d 506 (9th Cir. 2016) (cited by the majority as consistent with this reading)"
+   ]
+  }
+ ],
+ "this_court": "The Sixth Circuit panel majority holds that AEDPA deference does not apply to a state court's harmless-error determination once the petitioner shows Brecht actual prejudice, so the court may go straight to Brecht.",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "One set of circuits generally holds that courts must apply both Brecht and AEDPA when reviewing state court harmless-error determinations.",
+ "cluster_id": 4785401,
+ "cite": "Ervine Davenport v. Duncan MacLaren, 975 F.3d 537 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-09-15",
+ "url": "https://www.courtlistener.com/opinion/4785401/ervine-davenport-v-duncan-maclaren/",
+ "usage": {
+  "in": 4273,
+  "out": 3092
+ }
+}

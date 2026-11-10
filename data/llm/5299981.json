@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Because Davis did not prove her actual innocence, we need not wade into the circuit split interpreting \u201cmisconduct or neglect\u201d in that same prong.",
+ "cluster_id": 5299981,
+ "cite": "United States v. Davis, No. 20-30593 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-11-22",
+ "url": "https://www.courtlistener.com/opinion/5299981/united-states-v-davis/",
+ "usage": {
+  "in": 1312,
+  "out": 843
+ }
+}

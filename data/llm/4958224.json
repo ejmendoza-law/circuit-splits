@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a district court waive accrued interest on a restitution order after sentencing, based on the defendant's changed ability to pay, under 18 U.S.C. \u00a7 3612(f)(3)?",
+ "provision": "18 U.S.C. \u00a7 3612(f)(3)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A district court may waive restitution interest post-sentencing in light of changed circumstances regarding the defendant's ability to pay.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Phillips, 9 F.4th 382 (6th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "A district court may not waive restitution interest after initial sentencing; the power exists only at the initial sentencing (contrary view, as implied by the opinion's acknowledgment of a split).",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The Sixth Circuit holds that the district court's power to waive restitution interest for inability to pay can be exercised after initial sentencing in light of changed circumstances.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Although the circuits are split on the issue, and the statutory language is not clear, the fairest reading of the statute is that the district court\u2019s power to waive interest on restitution because of a defendant\u2019s inability to pay can be exercised not only at initial sentencing but also at a point after initial sentencing in light of changed circumstances regarding ability to pay.",
+ "cluster_id": 4958224,
+ "cite": "United States v. Edmund Phillips, 9 F.4th 382 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-08-17",
+ "url": "https://www.courtlistener.com/opinion/4958224/united-states-v-edmund-phillips/",
+ "usage": {
+  "in": 1315,
+  "out": 1453
+ }
+}

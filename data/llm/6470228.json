@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "",
+ "cluster_id": 6470228,
+ "cite": "Marvin Miranda v. Merrick Garland, No. 20-1828 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-05-19",
+ "url": "https://www.courtlistener.com/opinion/6470228/marvin-miranda-v-merrick-garland/",
+ "usage": {
+  "in": 2438,
+  "out": 566
+ }
+}

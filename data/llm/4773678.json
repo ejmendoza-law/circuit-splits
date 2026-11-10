@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Notwithstanding this intra-circuit split, however, we need not decide the issue on the facts of this case.",
+ "cluster_id": 4773678,
+ "cite": "United States v. Sanmina Corporation, 968 F.3d 1107 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-08-07",
+ "url": "https://www.courtlistener.com/opinion/4773678/united-states-v-sanmina-corporation/",
+ "usage": {
+  "in": 1315,
+  "out": 487
+ }
+}

@@ -33,6 +33,11 @@ Reply with ONLY JSON:
  "note": "one sentence on anything a practitioner should know, e.g. a pending en banc or cert petition mentioned in the records; else empty"}"""
 
 
+STALE_SYS = """You are a federal criminal appellate lawyer. Below is a circuit split that court of appeals opinions acknowledged, with the date of the most recent such opinion. From your own knowledge, say whether the split has since been resolved: by a Supreme Court decision, an act of Congress, or an amendment to the Sentencing Guidelines or federal rules that took effect after that date or that the opinions did not account for. Answer "yes" only if you can name the specific decision or amendment and it squarely settles this question. If you are not sure, answer "unsure". Otherwise answer "no".
+
+Reply with ONLY JSON: {"resolved": "yes" | "no" | "unsure", "by": "the decision or amendment, with year; empty unless yes"}"""
+
+
 def load(name, default):
     f = OUT / name
     return json.loads(f.read_text()) if f.exists() else default
@@ -101,6 +106,16 @@ def make(sid, recs, cache):
         conf = min(1.0, conf + 0.05)      # more than one court noticed it
     if sum(1 for s in e["sides"] if s["circuits"]) < 2:
         conf = min(conf, 0.6)             # can't show both sides: send to review
+    try:   # has the split been resolved since these opinions were written?
+        st, _ = ask(STALE_SYS, json.dumps({"question": e["issue"], "provision": e.get("provision", ""),
+                    "sides": e["sides"], "most_recent_opinion": recs[0]["date"]}, indent=1), model=SMART)
+    except Exception:
+        st = {"resolved": "unsure"}
+    if st.get("resolved") == "yes" and st.get("by"):
+        conf = min(conf, 0.5)             # a lawyer should confirm before it is published or dropped
+        e["note"] = ("Possibly resolved by " + st["by"].rstrip(".") + ". Confirm before relying on this split. "
+                     + (e.get("note") or "")).strip()
+        e["possibly_resolved"] = True
     e.update(
         id=sid, confidence=round(conf, 2),
         status="unreviewed" if conf >= AUTO_PUBLISH else "needs_review",

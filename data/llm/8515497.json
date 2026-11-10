@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Underlying that mixed question are \"mixed messages\" as to the appropriate standard of review. Rosales, 990 F.3d at 998 n.2 (describing our intra-circuit split).",
+ "cluster_id": 8515497,
+ "cite": "United States v. Troy Edward Bush, No. 21-1408 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-11-18",
+ "url": "https://www.courtlistener.com/opinion/8515497/united-states-v-troy-edward-bush/",
+ "usage": {
+  "in": 1314,
+  "out": 524
+ }
+}

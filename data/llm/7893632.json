@@ -1,0 +1,55 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When an appellate court remands for resentencing without specifying the scope, is the district court's resentencing presumptively de novo, or is it limited to the issues the remand made relevant?",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Absent explicit instructions from the appellate court, a remand for resentencing is de novo, so the district court may revisit every component of the sentence.",
+   "circuits": [
+    "6th",
+    "8th",
+    "9th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Jennings, 83 F.3d 145 (6th Cir. 1996)",
+    "United States v. Cornelius, 968 F.2d 703 (8th Cir. 1992)",
+    "United States v. Ponce, 51 F.3d 820 (9th Cir. 1995)",
+    "United States v. Smith, 930 F.2d 1450 (10th Cir. 1991)",
+    "United States v. Stinson, 97 F.3d 466 (11th Cir. 1996)"
+   ]
+  },
+  {
+   "position": "When the remand is silent, resentencing is limited to the facts and issues made relevant by the remand unless the appellate court instructs otherwise.",
+   "circuits": [
+    "D.C.",
+    "1st",
+    "5th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Whren, 111 F.3d 956 (D.C. Cir. 1997)",
+    "United States v. Wallace, 573 F.3d 82 (1st Cir. 2009)",
+    "United States v. Lee, 358 F.3d 315 (5th Cir. 2004)",
+    "United States v. Husband, 312 F.3d 247 (7th Cir. 2002)"
+   ]
+  }
+ ],
+ "this_court": "does not decide the default rule; it holds that because the 2013 order was silent on scope and vacated only the 2012 sentencing order, not the underlying judgment, restitution was not disturbed (see United States v. Norwood, 49 F.4th 189 (3d Cir. 2022))",
+ "source": "majority",
+ "confidence": 0.75,
+ "quote": "When a remand is silent as to the scope of resentencing, our sister circuits are divided.",
+ "cluster_id": 7893632,
+ "cite": "United States v. Michael Norwood, 49 F.4th 189 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-09-08",
+ "url": "https://www.courtlistener.com/opinion/7893632/united-states-v-michael-norwood/",
+ "usage": {
+  "in": 1318,
+  "out": 1891
+ }
+}

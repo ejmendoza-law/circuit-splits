@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6463020,
+ "cite": "United States v. Eric Sears, 32 F.4th 569 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-04-26",
+ "url": "https://www.courtlistener.com/opinion/6463020/united-states-v-eric-sears/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

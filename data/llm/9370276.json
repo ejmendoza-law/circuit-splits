@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9370276,
+ "cite": "United States v. Boudreau, 58 F.4th 26 (1st Cir. 2023)",
+ "court": "1st",
+ "date": "2023-01-24",
+ "url": "https://www.courtlistener.com/opinion/9370276/united-states-v-boudreau/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

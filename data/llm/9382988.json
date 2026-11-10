@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a post-plea government intrusion into attorney-client communications violates the Sixth Amendment, who bears the burden of proving prejudice or the lack of prejudice?",
+ "provision": "U.S. Const. amend. VI; 28 U.S.C. \u00a7 2255",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "The defendant must show actual prejudice from the intrusion.",
+   "circuits": [],
+   "cases": [
+    "Cutillo v. Cinelli, 485 U.S. 1037 (1988) (White, J., dissenting from denial of cert.)",
+    "United States v. Orduno-Ramirez, 61 F.4th 1263 (10th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "The government must show the lack of prejudice once an intrusion is shown.",
+   "circuits": [],
+   "cases": [
+    "Cutillo v. Cinelli, 485 U.S. 1037 (1988) (White, J., dissenting from denial of cert.)",
+    "United States v. Orduno-Ramirez, 61 F.4th 1263 (10th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "see Cutillo v. Cinelli, 485 U.S. 1037, 1037-38 (1988) (White, J., dissenting from denial of cert.) (noting circuit split on who bears the burden to prove prejudice).",
+ "cluster_id": 9382988,
+ "cite": "United States v. Orduno-Ramirez, 61 F.4th 1263 (10th Cir. 2023)",
+ "court": "10th",
+ "date": "2023-03-10",
+ "url": "https://www.courtlistener.com/opinion/9382988/united-states-v-orduno-ramirez/",
+ "usage": {
+  "in": 1870,
+  "out": 2565
+ }
+}

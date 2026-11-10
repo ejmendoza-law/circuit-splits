@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4802251,
+ "cite": "In Re: Orlando Hall, 979 F.3d 339 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-10-30",
+ "url": "https://www.courtlistener.com/opinion/4802251/in-re-orlando-hall/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

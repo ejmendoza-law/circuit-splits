@@ -1,0 +1,53 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a district court consider an intervening First Step Act sentencing change that Congress made expressly nonretroactive (here, the \u00a7 924(c) stacking amendment) when deciding whether extraordinary and compelling reasons support compassionate release?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "Such nonretroactive sentencing statutes may neither support nor contribute to a finding of extraordinary and compelling reasons for compassionate release.",
+   "circuits": [
+    "3d",
+    "7th",
+    "8th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Crandall, 25 F.4th 582, 586 (8th Cir. 2022)",
+    "United States v. Andrews, 12 F.4th 255, 261 (3d Cir. 2021)",
+    "United States v. Thacker, 4 F.4th 569, 574 (7th Cir. 2021)",
+    "United States v. Jenkins, 50 F.4th 1185 (D.C. Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Such nonretroactive sentencing statutes may be considered in connection with other factors when assessing extraordinary and compelling reasons.",
+   "circuits": [
+    "1st",
+    "4th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Ruvalcaba, 26 F.4th 14 (1st Cir. 2022)",
+    "United States v. McCoy, 981 F.3d 271 (4th Cir. 2020)",
+    "United States v. Chen, No. 20-50333, 2022 WL 4231313 (9th Cir. Sept. 14, 2022)",
+    "United States v. McGee, 992 F.3d 1035, 1047\u201348 (10th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the Third, Seventh, and Eighth Circuits' position: nonretroactive sentencing statutes may not support a finding of extraordinary and compelling reasons.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The circuits have split on whether courts may consider such intervening but expressly nonretroactive sentencing statutes.",
+ "cluster_id": 8247828,
+ "cite": "United States v. Curtis Jenkins, 50 F.4th 1185 (D.C. Cir. 2022)",
+ "court": "D.C.",
+ "date": "2022-10-11",
+ "url": "https://www.courtlistener.com/opinion/8247828/united-states-v-curtis-jenkins/",
+ "usage": {
+  "in": 1316,
+  "out": 1790
+ }
+}

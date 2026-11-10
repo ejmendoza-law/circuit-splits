@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4742153,
+ "cite": "United States v. Robert Fall, 955 F.3d 363 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-04-03",
+ "url": "https://www.courtlistener.com/opinion/4742153/united-states-v-robert-fall/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

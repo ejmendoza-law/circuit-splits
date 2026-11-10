@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a district court's failure to advise a defendant of the knowledge-of-status element (Rehaif) at a plea colloquy a structural error that requires reversal without a showing of prejudice?",
+ "provision": "18 U.S.C. \u00a7 922(g); 18 U.S.C. \u00a7 924(a)(2); Fed. R. Crim. P. 11",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "The Rehaif knowledge-of-status error is structural and requires reversal without a showing that the defendant would have pleaded differently.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Gary, 2020 WL 1443528 (4th Cir. Mar. 25, 2020)"
+   ]
+  },
+  {
+   "position": "The Rehaif knowledge-of-status error is not structural; the defendant must show a reasonable probability he would have pleaded not guilty absent the error.",
+   "circuits": [
+    "7th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Williams, 946 F.3d 968 (7th Cir. 2020)",
+    "United States v. Trujillo, 960 F.3d 1196 (10th Cir. 2020)",
+    "United States v. Tignor, 981 F.3d 826 (10th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The error is not structural, following Williams (7th Cir.) and Trujillo, and the defendant must show a reasonable probability he would have pleaded not guilty.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "At the time, we hadn't decided whether to characterize this error as a structural error and a circuit split existed elsewhere.",
+ "cluster_id": 4834697,
+ "cite": "United States v. Tignor, 981 F.3d 826 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-12-01",
+ "url": "https://www.courtlistener.com/opinion/4834697/united-states-v-tignor/",
+ "usage": {
+  "in": 1523,
+  "out": 2507
+ }
+}

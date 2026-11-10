@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the 'in connection with' requirement of U.S.S.G. \u00a7 2K2.1(b)(6)(B) reach a firearm whose presence was merely accidental or coincidental to the offense?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(b)(6)(B)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "The enhancement requires that the firearm's presence not be accidental or coincidental, consistent with Application Note 14(B) (the Commission's commentary, which this court defers to under Kisor).",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Perez, 5 F.4th 390 (3d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The phrase 'in connection with' can reach cases where the firearm's presence was merely accidental or coincidental, so no such limit applies.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Young, 115 F.3d 834 (11th Cir. 1997)",
+    "United States v. Perez, 5 F.4th 390 (3d Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "The excerpt does not finish step two of Kisor, but the court treats Note 14(B) as meeting steps one and three and appears to be moving toward deferring to its accident-or-coincidence limit.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "And this disagreement continues among circuit courts today.",
+ "cluster_id": 4901866,
+ "cite": "United States v. Lesandro Perez, 5 F.4th 390 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-07-22",
+ "url": "https://www.courtlistener.com/opinion/4901866/united-states-v-lesandro-perez/",
+ "usage": {
+  "in": 1408,
+  "out": 2144
+ }
+}

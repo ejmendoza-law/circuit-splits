@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6620478,
+ "cite": "United States v. Antoinette Adair, 38 F.4th 341 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-06-30",
+ "url": "https://www.courtlistener.com/opinion/6620478/united-states-v-antoinette-adair/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

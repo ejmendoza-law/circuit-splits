@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4900124,
+ "cite": "United States v. Alexander Bebris, 4 F.4th 551 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-07-15",
+ "url": "https://www.courtlistener.com/opinion/4900124/united-states-v-alexander-bebris/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

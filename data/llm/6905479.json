@@ -1,0 +1,55 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is the Sentencing Guidelines commentary to \u00a7 4B1.2 (Application Note 1), which treats attempt, conspiracy, and aiding-and-abetting as 'controlled substance offenses,' consistent with the guideline text, which does not list inchoate offenses?",
+ "provision": "USSG \u00a7 4B1.2(b) & cmt. n.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The commentary is consistent with the guideline text and may properly include inchoate offenses in the definition of controlled substance offense.",
+   "circuits": [
+    "1st",
+    "2d",
+    "7th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Lewis, 963 F.3d 16 (1st Cir. 2020)",
+    "United States v. Richardson, 958 F.3d 151 (2d Cir. 2020)",
+    "United States v. Smith, 989 F.3d 575 (7th Cir. 2021)",
+    "United States v. Vea-Gonzales, 999 F.2d 1326 (9th Cir. 1993)",
+    "United States v. Smith, 54 F.3d 690 (11th Cir. 1995)"
+   ]
+  },
+  {
+   "position": "The commentary is inconsistent with \u00a7 4B1.2(b) because the guideline does not enumerate inchoate offenses, so the commentary cannot expand the definition.",
+   "circuits": [
+    "3d",
+    "4th",
+    "6th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Nasir, 982 F.3d 144 (3d Cir. 2020) (en banc)",
+    "United States v. Campbell, 22 F.4th 438 (4th Cir. 2022)",
+    "United States v. Havis, 927 F.3d 382 (6th Cir. 2019) (en banc)",
+    "United States v. Winstead, 890 F.3d 1082 (D.C. Cir. 2018)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The circuit courts are divided on the legitimacy of this application note, with a slight majority finding the guideline text and application note consistent with one another.",
+ "cluster_id": 6905479,
+ "cite": "United States v. Babcock, 40 F.4th 1172 (10th Cir. 2022)",
+ "court": "10th",
+ "date": "2022-07-21",
+ "url": "https://www.courtlistener.com/opinion/6905479/united-states-v-babcock/",
+ "usage": {
+  "in": 2383,
+  "out": 2196
+ }
+}

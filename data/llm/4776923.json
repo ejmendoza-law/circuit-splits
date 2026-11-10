@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under Federal Rule of Evidence 404(b), may the government introduce uncharged, practice-wide prior acts (here, uncharged prescriptions) without showing a nexus to the charged healthcare fraud, and must it meet a heightened burden for that evidence?",
+ "provision": "Fed. R. Evid. 404(b)",
+ "topic": "Evidence",
+ "sides": [
+  {
+   "position": "Uncharged practice-wide acts are admissible under Rule 404(b) irrespective of any nexus to the charged fraud. The government need only lay a factual foundation from which a jury could reasonably conclude the defendant committed the similar acts with the requisite intent, not prove them by a preponderance.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Merrill (11th Cir.)",
+    "United States v. Lague, 971 F.3d 1032 (9th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Jones treats the government's burden for admitting other-act evidence as a pre-Rules standard that requires more than the relaxed Rules-era showing. The court rejects the view that Merrill is different from Jones because of a clear-and-convincing standard.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Jones, 570 F.2d 762 (8th Cir. 1978)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the Eleventh Circuit's Merrill position. It holds that Merrill better comports with the text and purpose of Rule 404(b), and it rejects Jones and the Tenth Circuit's suggestion in MacKay that Merrill is limited to fraud charges.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Simply put, Merrill and Jones are irreconcilable.",
+ "cluster_id": 4776923,
+ "cite": "United States v. David Lague, 971 F.3d 1032 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-08-20",
+ "url": "https://www.courtlistener.com/opinion/4776923/united-states-v-david-lague/",
+ "usage": {
+  "in": 1315,
+  "out": 1972
+ }
+}

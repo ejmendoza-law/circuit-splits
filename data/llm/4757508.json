@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal habeas petitioner under 28 U.S.C. \u00a7 2255 rely on Johnson II's vagueness holding to challenge a career-offender designation made under the pre-Booker mandatory Guidelines, where the same residual-clause language appeared?",
+ "provision": "28 U.S.C. \u00a7 2255; U.S.S.G. \u00a7 4B1.2 (career offender)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Johnson II's vagueness holding applies to career-offender determinations made under the pre-Booker mandatory Guidelines, so such sentences may be challenged on collateral review (described in Brown v. United States as the view that Justice Sotomayor's dissent favored, and which the First Circuit in Moore v. United States, 871 F.3d 72 (1st Cir. 2017), was said to have 'strongly hint[ed]' at).",
+   "circuits": [],
+   "cases": [
+    "Moore v. United States, 871 F.3d 72 (1st Cir. 2017)",
+    "Brown v. United States, 139 S. Ct. 14 (2018) (Sotomayor, J., dissenting from denial of certiorari)",
+    "Bartolomeo v. United States, 960 F.3d 34 (1st Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Johnson II's vagueness holding does not extend to career-offender determinations made under the pre-Booker mandatory Guidelines, so such claims are not cognizable on collateral review. The excerpts do not identify which circuits take this view.",
+   "circuits": [],
+   "cases": [
+    "Bartolomeo v. United States, 960 F.3d 34 (1st Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "presents an important question of federal law that has divided the courts of appeals and in theory could determine the liberty of over 1,000 people",
+ "cluster_id": 4757508,
+ "cite": "Bartolomeo v. United States, 960 F.3d 34 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-05-29",
+ "url": "https://www.courtlistener.com/opinion/4757508/bartolomeo-v-united-states/",
+ "usage": {
+  "in": 1509,
+  "out": 2009
+ }
+}

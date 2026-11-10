@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a district court consider non-retroactive First Step Act changes in sentencing law (such as the \u00a7 924(c) stacking amendments in FSA \u00a7 403) when deciding whether an extraordinary and compelling reason exists for a sentence reduction under 18 U.S.C. \u00a7 3582(c)(1)(A)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A district court may not treat non-retroactive changes in sentencing law as an extraordinary and compelling reason for a sentence reduction (categorical prohibition).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Jarvis, 999 F.3d 442 (6th Cir. 2021)",
+    "United States v. McKinnie (6th Cir. 2022) (endorsing Jarvis as law of circuit)"
+   ]
+  },
+  {
+   "position": "A district court may consider non-retroactive sentencing changes in its extraordinary-and-compelling analysis; there is no categorical prohibition. The opinion says the Third, Seventh, and Eighth Circuits align with the prohibition side, so the opinion's holding conflicts with them.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Ruvalcaba, No. 21-1064 (1st Cir. 2022)",
+    "United States v. Owens, 996 F.3d 755 (6th Cir. 2021) (6th Cir. holding on this side, since displaced by McKinnie)"
+   ]
+  }
+ ],
+ "this_court": "The First Circuit rejects a categorical prohibition and holds that district courts may consider non-retroactive changes in sentencing law.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "A panel has recently endorsed a decision that aligns the court with the Third, Seventh, and Eighth Circuits.",
+ "cluster_id": 6357472,
+ "cite": "United States v. Ruvalcaba, No. 21-1064P (1st Cir. 2022)",
+ "court": "1st",
+ "date": "2022-02-16",
+ "url": "https://www.courtlistener.com/opinion/6357472/united-states-v-ruvalcaba/",
+ "usage": {
+  "in": 1313,
+  "out": 2640
+ }
+}

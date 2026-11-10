@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6447705,
+ "cite": "Kevin Cooper v. Gavin Newsom, 26 F.4th 1104 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-03-02",
+ "url": "https://www.courtlistener.com/opinion/6447705/kevin-cooper-v-gavin-newsom/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

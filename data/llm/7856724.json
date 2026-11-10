@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 7856724,
+ "cite": "United States v. Reynaldo Sanchez, 44 F.4th 1100 (8th Cir. 2022)",
+ "court": "8th",
+ "date": "2022-08-15",
+ "url": "https://www.courtlistener.com/opinion/7856724/united-states-v-reynaldo-sanchez/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After the Supreme Court struck down the FDAMA's compounding advertising provisions in Thompson v. Western States, do the remaining FDAMA provisions that exempt compounded drugs from the FDCA's new-drug requirements survive, or was the whole statute invalid?",
+ "provision": "21 U.S.C. \u00a7 353a",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The FDAMA was invalid as a whole after Western States, so the compounding safe harbor does not survive.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Western States Med. Ctr. v. Shalala, 238 F.3d 1090 (9th Cir. 2001)"
+   ]
+  },
+  {
+   "position": "Only the unconstitutional provisions were severed, and the remaining FDAMA compounding provisions remain viable.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "Med. Ctr. Pharmacy v. Mukasey, 536 F.3d 383 (5th Cir. 2008)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "But, thereafter, a circuit split ensued as to what, if anything, remained of the FDAMA and its provisions regulating compounders.",
+ "cluster_id": 5173765,
+ "cite": "United States v. Conigliaro, 15 F.4th 26 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-09-27",
+ "url": "https://www.courtlistener.com/opinion/5173765/united-states-v-conigliaro/",
+ "usage": {
+  "in": 1312,
+  "out": 1478
+ }
+}

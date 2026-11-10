@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Resisting this conclusion, the government argues that our instruction in Brown to begin with the correct Guidelines calculation conflicts with\u2014and is accordingly negated by\u2014our earlier decision in Mannie.",
+ "cluster_id": 6456027,
+ "cite": "United States v. Burris, 29 F.4th 1232 (10th Cir. 2022)",
+ "court": "10th",
+ "date": "2022-03-30",
+ "url": "https://www.courtlistener.com/opinion/6456027/united-states-v-burris/",
+ "usage": {
+  "in": 1313,
+  "out": 953
+ }
+}

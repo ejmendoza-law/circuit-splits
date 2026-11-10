@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "Notably, no other circuit has adopted the majority's position in the context of immigration habeas actions. Rather, the majority's novel interpretation of the EAJA creates a circuit split with the approaches taken by the Second and Ninth Circuits.",
+ "cluster_id": 4887467,
+ "cite": "Jose Obando-Segura v. Merrick Garland, 999 F.3d 190 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-05-28",
+ "url": "https://www.courtlistener.com/opinion/4887467/jose-obando-segura-v-merrick-garland/",
+ "usage": {
+  "in": 1372,
+  "out": 670
+ }
+}

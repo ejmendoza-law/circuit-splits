@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4800815,
+ "cite": "United States v. Abran Martinez, 979 F.3d 271 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-10-27",
+ "url": "https://www.courtlistener.com/opinion/4800815/united-states-v-abran-martinez/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

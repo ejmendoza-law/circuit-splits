@@ -1,0 +1,50 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does forcing robbery victims from a store's sales floor to a back room of the same store count as accompanying them to a 'different location' under the abduction enhancement in U.S.S.G. \u00a7 2B3.1(b)(4)(A)?",
+ "provision": "U.S.S.G. \u00a7 2B3.1(b)(4)(A)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Movement between areas of the same store or bank (e.g., sales floor to back room or vault) is not a 'different location.' The robbed premises are the relevant location, so the enhancement does not apply and the physical-restraint enhancement may apply instead. Dissenting judges in Archuleta (10th Cir.) and Reynos (3d Cir.) also took this view.",
+   "circuits": [
+    "11th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Whatley, 719 F.3d 1206 (11th Cir. 2013)",
+    "United States v. Eubanks, 593 F.3d 645",
+    "United States v. Hill, 963 F.3d 528 (6th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Any different position or area within a building counts as a 'different location,' so forced movement from one room or position to another inside the same store or bank satisfies the abduction enhancement.",
+   "circuits": [
+    "10th",
+    "5th",
+    "3d",
+    "4th"
+   ],
+   "cases": [
+    "United States v. Archuleta, 865 F.3d (10th Cir. 2017)",
+    "United States v. Buck, 847 F.3d 267 (5th Cir. 2017)",
+    "United States v. Reynos, 680 F.3d 283 (3d Cir. 2012)",
+    "United States v. Osborne, 514 F.3d 377 (4th Cir. 2008)"
+   ]
+  }
+ ],
+ "this_court": "Takes the first position: a store's back room is not a 'different location' from the store, so the abduction enhancement does not apply.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "A \"split of authority\" has developed over \"whether the forced movement of victims from one room or area to another room or area within the same building constitutes an abduction for purposes of \u00a7 2B3.1(b)(4)(A).\"",
+ "cluster_id": 4763670,
+ "cite": "United States v. Tramain Hill, 963 F.3d 528 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-06-25",
+ "url": "https://www.courtlistener.com/opinion/4763670/united-states-v-tramain-hill/",
+ "usage": {
+  "in": 1870,
+  "out": 3312
+ }
+}

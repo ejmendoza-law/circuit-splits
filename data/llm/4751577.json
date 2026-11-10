@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can the government withhold its motion for the third acceptance-of-responsibility point under U.S.S.G. \u00a7 3E1.1(b) because the defendant's pretrial suppression motion would require a government hearing?",
+ "provision": "U.S.S.G. \u00a7 3E1.1(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The government may withhold the third-point motion when a suppression hearing (or similar pretrial litigation) would be required, and Amendment 775 did not displace existing circuit precedent to the contrary.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Longoria, 958 F.3d 372 (5th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "The government may not withhold the third-point motion merely because a suppression hearing would be required.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "And while the amendment expressly resolves a circuit split on whether the government can withhold the motion because the defendant refused to sign an appeal waiver, it tellingly does not directly address the circuit split that has long existed on whether the government\u2019s having to go through a suppression hearing is a valid basis for not requesting the third point.",
+ "cluster_id": 4751577,
+ "cite": "United States v. Martin Longoria, 958 F.3d 372 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-05-05",
+ "url": "https://www.courtlistener.com/opinion/4751577/united-states-v-martin-longoria/",
+ "usage": {
+  "in": 1713,
+  "out": 2055
+ }
+}

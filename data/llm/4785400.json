@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a district court consider the 18 U.S.C. \u00a7 3553(a) sentencing factors when deciding whether to reduce a sentence under \u00a7 404 of the First Step Act, or may it decline to do so?",
+ "provision": "First Step Act \u00a7 404(b); 18 U.S.C. \u00a7 3553(a)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "District courts must consider all applicable \u00a7 3553(a) factors when resolving a \u00a7 404 sentence-reduction motion.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Easter, 975 F.3d 318 (3d Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Consideration of the \u00a7 3553(a) factors is discretionary; a court may consider them but is not required to (the Eighth Circuit says 'may, but need not'; the Seventh Circuit describes using them as permissible).",
+   "circuits": [
+    "8th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Moore, 963 F.3d 725 (8th Cir. 2020)",
+    "United States v. Williams, 943 F.3d 841 (8th Cir. 2019)",
+    "United States v. Shaw, 957 F.3d 734 (7th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "must consider all applicable \u00a7 3553(a) factors (the court expressly declines to follow the Eighth Circuit's reading in Moore)",
+ "source": "majority",
+ "confidence": 0.75,
+ "quote": "We decline to follow our sister circuits for four reasons.",
+ "cluster_id": 4785400,
+ "cite": "United States v. Jamel Easter, 975 F.3d 318 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-09-15",
+ "url": "https://www.courtlistener.com/opinion/4785400/united-states-v-jamel-easter/",
+ "usage": {
+  "in": 1878,
+  "out": 2315
+ }
+}

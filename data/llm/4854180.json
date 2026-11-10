@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4854180,
+ "cite": "United States v. Jose Antonio Morales, 987 F.3d 966 (11th Cir. 2021)",
+ "court": "11th",
+ "date": "2021-02-05",
+ "url": "https://www.courtlistener.com/opinion/4854180/united-states-v-jose-antonio-morales/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

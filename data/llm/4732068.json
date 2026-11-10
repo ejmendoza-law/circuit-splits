@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After United States v. Cotton, does a defect in an indictment that fails to allege any federal crime deprive the court of jurisdiction, or are all indictment defects non-jurisdictional?",
+ "provision": "18 U.S.C. \u00a7 3231",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Cotton's rule that indictment defects are non-jurisdictional does not extend to an indictment that fails to allege any federal crime at all, so such a defect remains jurisdictional.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. McIntosh, 704 F.3d 894, 901\u201303 (11th Cir. 2013)"
+   ]
+  },
+  {
+   "position": "Cotton applies broadly. Defects in an indictment, including failure to state an offense, are not jurisdictional.",
+   "circuits": [
+    "5th",
+    "10th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. De Vaughn, 694 F.3d 1141, 1148\u201349 (10th Cir. 2012)",
+    "United States v. Cothran, 302 F.3d 279, 283 (5th Cir. 2002)",
+    "United States v. Muresanu, No. 18-3690 (7th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the Fifth and Tenth Circuits' broad reading: defects in an indictment are not jurisdictional, rejecting the Eleventh Circuit's narrower view.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The circuits are split on the proper interpretation of Cotton.",
+ "cluster_id": 4732068,
+ "cite": "United States v. Ionel Muresanu, No. 18-3690 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-03-03",
+ "url": "https://www.courtlistener.com/opinion/4732068/united-states-v-ionel-muresanu/",
+ "usage": {
+  "in": 1315,
+  "out": 1294
+ }
+}

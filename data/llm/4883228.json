@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "and recognized a split of authority in the district courts as to whether that category may be used by the courts or only by the BOP.",
+ "cluster_id": 4883228,
+ "cite": "United States v. Jeffery Wills, 997 F.3d 685 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-05-14",
+ "url": "https://www.courtlistener.com/opinion/4883228/united-states-v-jeffery-wills/",
+ "usage": {
+  "in": 1315,
+  "out": 638
+ }
+}

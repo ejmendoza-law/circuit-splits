@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a defendant eligible for resentencing under the First Step Act's \u00a7 924(c) stacking amendment when his \u00a7 924(c) sentence was imposed before the Act passed and a later limited remand did not disturb that sentence?",
+ "provision": "First Step Act \u00a7 403; 18 U.S.C. \u00a7 924(c)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "A defendant whose \u00a7 924(c) sentence was imposed before the First Step Act is ineligible for resentencing under the Act where a later limited remand did not vacate or disturb that sentence (the position the dissent attributes to Hodge and says the majority departs from)",
+   "circuits": [],
+   "cases": [
+    "Hodge (cited in excerpt; full citation not given)"
+   ]
+  },
+  {
+   "position": "The First Step Act's \u00a7 924(c) amendment reaches a defendant whose \u00a7 924(c) sentence was imposed before the Act where a later remand reopened sentencing on the predicate offense; the court declines to treat Hodge as controlling",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Henry, 983 F.3d 214 (6th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The Sixth Circuit majority holds Henry eligible for First Step Act resentencing; the dissent says this creates a conflict with Hodge.",
+ "source": "dissent",
+ "confidence": 0.45,
+ "quote": "The majority creates a circuit conflict where none should exist.",
+ "cluster_id": 4840896,
+ "cite": "United States v. Michael Henry, 983 F.3d 214 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-12-18",
+ "url": "https://www.courtlistener.com/opinion/4840896/united-states-v-michael-henry/",
+ "usage": {
+  "in": 1315,
+  "out": 3576
+ }
+}

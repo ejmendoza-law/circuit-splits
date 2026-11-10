@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Amendments to Fed. R. Crim. P. 32.1 effective 2005, which incorporated the Rule 32 allocution requirements into revocation and modification hearings",
+ "issue": "Does a defendant's right of allocution under Rule 32 extend to supervised-release revocation sentencing, such that the opportunity to speak must come before the sentence is imposed?",
+ "provision": "Fed. R. Crim. P. 32.1(b)(2)",
+ "topic": "Supervised release & probation",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The Advisory Committee Notes to the 2005 Amendments addressed a circuit split over whether the Rule 32 allocution requirements should be incorporated into Rule 32.1",
+ "cluster_id": 4748422,
+ "cite": "United States v. Sylvan Abney, 957 F.3d 241 (D.C. Cir. 2020)",
+ "court": "D.C.",
+ "date": "2020-04-24",
+ "url": "https://www.courtlistener.com/opinion/4748422/united-states-v-sylvan-abney/",
+ "usage": {
+  "in": 1314,
+  "out": 1143
+ }
+}

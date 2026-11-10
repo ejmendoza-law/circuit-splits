@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must the government prove intent to defraud as an element of a 18 U.S.C. \u00a7 912 impersonation offense, even though Congress removed that language in 1948?",
+ "provision": "18 U.S.C. \u00a7 912",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Intent to defraud remains an essential element of a \u00a7 912 violation, despite its removal from the statute in 1948.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Gayle, 967 F.2d 483 (11th Cir. 1992)"
+   ]
+  },
+  {
+   "position": "Intent to defraud is not a separate element of a \u00a7 912 violation, so the government need not prove it (the implied position the 1st Circuit does not adopt or reject here).",
+   "circuits": [],
+   "cases": [
+    "United States v. Vazquez-Rosario, 45 F.4th 565 (1st Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "Specifically, he argues the \"intent to defraud\" remains an inherent part of a \u00a7 912 violation which the government must prove, despite the removal of that language by Congress in 1948, a position which is supported by some of our sister circuits.",
+ "cluster_id": 7857662,
+ "cite": "United States v. Vazquez-Rosario, 45 F.4th 565 (1st Cir. 2022)",
+ "court": "1st",
+ "date": "2022-08-17",
+ "url": "https://www.courtlistener.com/opinion/7857662/united-states-v-vazquez-rosario/",
+ "usage": {
+  "in": 1314,
+  "out": 2186
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What standard of appellate review applies to a district court's denial of a Franks hearing on an affidavit's alleged falsity or recklessness?",
+ "provision": "Franks v. Delaware, 438 U.S. 154 (1978); U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "There is also a circuit split on the question.",
+ "cluster_id": 5092475,
+ "cite": "United States v. Oniel McKenzie, 13 F.4th 223 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-09-09",
+ "url": "https://www.courtlistener.com/opinion/5092475/united-states-v-oniel-mckenzie/",
+ "usage": {
+  "in": 1313,
+  "out": 1044
+ }
+}

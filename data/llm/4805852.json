@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4805852,
+ "cite": "United States v. Komron Allahyari, 980 F.3d 684 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-11-13",
+ "url": "https://www.courtlistener.com/opinion/4805852/united-states-v-komron-allahyari/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

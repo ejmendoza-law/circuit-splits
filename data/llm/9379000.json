@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 18 U.S.C. \u00a7 666(a)(2) criminalize only quid pro quo bribery, or also gratuities given to local officials without any reciprocal exchange?",
+ "provision": "18 U.S.C. \u00a7 666(a)(2)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Section 666(a)(2) reaches only quid pro quo bribery; a gratuity without a reciprocal exchange is not covered.",
+   "circuits": [
+    "1st",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Hamilton, 62 F.4th 167 (5th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Section 666(a)(2) also criminalizes gratuities to local officials even in the absence of reciprocity.",
+   "circuits": [
+    "2d",
+    "6th",
+    "7th",
+    "8th",
+    "11th"
+   ],
+   "cases": []
+  }
+ ],
+ "this_court": "The panel held that \u00a7 666 applies only to quid pro quo bribery, placing the Fifth Circuit with the First Circuit; the excerpts show the dissent from denial of rehearing en banc disagreed with the panel's reach but do not show the holding was changed.",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "In doing so, the panel noted that it was putting our circuit on the short end of a \u201clopsided split\u201d on this issue\u2014joining the First Circuit against the Second, Sixth, Seventh, Eighth, and Eleventh Circuits.",
+ "cluster_id": 9379000,
+ "cite": "United States v. Hamilton, 62 F.4th 167 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-02-17",
+ "url": "https://www.courtlistener.com/opinion/9379000/united-states-v-hamilton/",
+ "usage": {
+  "in": 1759,
+  "out": 1877
+ }
+}

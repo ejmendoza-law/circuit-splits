@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5296792,
+ "cite": "Kevin Cooper v. Gavin Newsom, 13 F.4th 857 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-09-16",
+ "url": "https://www.courtlistener.com/opinion/5296792/kevin-cooper-v-gavin-newsom/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

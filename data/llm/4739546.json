@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court resolved the split in Dean v. United States (2017), which the opinion says settled a circuit split on the sentencing discretion a district court may exercise when a \u00a7 924(c) mandatory minimum runs alongside a sentence for the predicate offense.",
+ "issue": "May a district court, when sentencing a defendant for a predicate offense alongside a \u00a7 924(c) mandatory minimum, consider the \u00a7 924(c) sentence in setting the predicate sentence?",
+ "provision": "18 U.S.C. \u00a7 924(c)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Pre-Dean rule: the district court was precluded from exercising the sentencing discretion at issue.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Dean, 810 F.3d 521 (8th Cir. 2015)",
+    "Worman v. Entzel, 953 F.3d 1004 (7th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "Put di\ufb00erently, it took the Supreme Court deciding Dean to reveal the error in the Eighth Circuit\u2019s law, settle a circuit split, and announce a new rule.",
+ "cluster_id": 4739546,
+ "cite": "John Worman v. Frederick Entzel, 953 F.3d 1004 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-03-26",
+ "url": "https://www.courtlistener.com/opinion/4739546/john-worman-v-frederick-entzel/",
+ "usage": {
+  "in": 1314,
+  "out": 1899
+ }
+}

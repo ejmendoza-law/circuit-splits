@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does \u00a7 2254(e)(1)'s clear-and-convincing presumption of correctness provide the mechanism for proving that a state court's factual finding was unreasonable under \u00a7 2254(d)(2), or should the two provisions be synthesized differently?",
+ "provision": "28 U.S.C. \u00a7 2254(d)(2) and \u00a7 2254(e)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "\u00a7 2254(e)(1) provides the mechanism for proving unreasonableness under \u00a7 2254(d)(2); the petitioner must rebut the presumption of correctness by clear and convincing evidence.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Ben-Yisrayl v. Buss, 540 F.3d 542 (7th Cir. 2008)",
+    "Thurston v. Vanihel, 39 F.4th 921 (7th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Other circuits synthesize \u00a7 2254(d)(2) and \u00a7 2254(e)(1) differently. The excerpt does not state this rule, and the cited concurrence only describes the split.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Hayes v. Sec'y, Fla. Dep't of Corr., 10 F.4th 1203 (11th Cir. 2021) (Newsom, J., concurring)"
+   ]
+  }
+ ],
+ "this_court": "\u00a7 2254(e)(1) provides the mechanism for proving unreasonableness under \u00a7 2254(d)(2)",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "In our Circuit, we have decided that \u201c\u00a7 2254(e)(1) provides the mechanism for proving unreasonableness [under \u00a7 2254(d)(2)],\u201d see Ben\u2010Yisrayl v. Buss, 540 F.3d 542, 549 (7th Cir. 2008), although other circuits have taken different approaches, see Hayes v. Sec\u2019y, Fla. Dep\u2019t of Corr., 10 F.4th 1203, 1223 (11th Cir. 2021) (Newsom, J., concurring) (describing the circuit split on how to synthesize \u00a7 2254(d)(2) and \u00a7 2254(e)(1)).",
+ "cluster_id": 6623323,
+ "cite": "Ricky Thurston v. Frank Vanihel, 39 F.4th 921 (7th Cir. 2022)",
+ "court": "7th",
+ "date": "2022-07-13",
+ "url": "https://www.courtlistener.com/opinion/6623323/ricky-thurston-v-frank-vanihel/",
+ "usage": {
+  "in": 1314,
+  "out": 2451
+ }
+}

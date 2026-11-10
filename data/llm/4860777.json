@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission resolved the debate by promulgating Amendment 801, effective November 1, 2016, which revised \u00a7 2G2.2(b)(3)(F) to require that the defendant knowingly engaged in distribution.",
+ "issue": "Before Amendment 801, did the distribution enhancement in U.S.S.G. \u00a7 2G2.2(b)(3)(F) require proof that the defendant knew of the distribution (a mens rea element)?",
+ "provision": "U.S.S.G. \u00a7 2G2.2(b)(3)(F)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Pre-Amendment 801, the distribution enhancement required knowledge (a scienter requirement).",
+   "circuits": [
+    "2d",
+    "4th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Robinson, 714 F.3d 466 (7th Cir. 2013)",
+    "United States v. Baldwin, 743 F.3d 357 (2d Cir. 2014)",
+    "United States v. Layton, 564 F.3d 330 (4th Cir. 2009)"
+   ]
+  },
+  {
+   "position": "Pre-Amendment 801, the distribution enhancement's language unambiguously contained no scienter requirement, so it applied without proof of knowledge.",
+   "circuits": [
+    "5th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Baker, 742 F.3d 618 (5th Cir. 2014)",
+    "United States v. Ray, 704 F.3d 1307 (10th Cir. 2013)",
+    "United States v. Creel, 783 F.3d 1357 (11th Cir. 2015)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The United States Sentencing Commission resolved this debate by promulgating Amendment 801, effective on November 1, 2016.",
+ "cluster_id": 4860777,
+ "cite": "United States v. Maximus Prophet, 989 F.3d 231 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-03-03",
+ "url": "https://www.courtlistener.com/opinion/4860777/united-states-v-maximus-prophet/",
+ "usage": {
+  "in": 1952,
+  "out": 1983
+ }
+}

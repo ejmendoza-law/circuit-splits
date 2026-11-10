@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Whether Congress used \u201cclaims\u201d in the FCA-specific sense as \u201crequests for payment\u201d (i.e., underlying conduct) or generically to mean \u201ccases\u201d has engendered a Circuit split.",
+ "cluster_id": 4904607,
+ "cite": "International Brotherhood Elec v. Farfield Co, No. 20-1922 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-08-02",
+ "url": "https://www.courtlistener.com/opinion/4904607/international-brotherhood-elec-v-farfield-co/",
+ "usage": {
+  "in": 1317,
+  "out": 541
+ }
+}

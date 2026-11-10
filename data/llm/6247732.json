@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6247732,
+ "cite": "United States v. Teresa Barringer, 25 F.4th 239 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-02-02",
+ "url": "https://www.courtlistener.com/opinion/6247732/united-states-v-teresa-barringer/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

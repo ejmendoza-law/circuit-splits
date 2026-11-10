@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4740605,
+ "cite": "United States v. Scott, 954 F.3d 74 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-03-31",
+ "url": "https://www.courtlistener.com/opinion/4740605/united-states-v-scott/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

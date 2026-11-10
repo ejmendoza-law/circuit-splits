@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is the accessibility of a firearm (such as its strategic location near the drugs or the defendant) an absolute requirement for showing that the gun was possessed 'in furtherance of' a drug-trafficking crime under 18 U.S.C. \u00a7 924(c), or is it only one non-decisive factor in a holistic inquiry?",
+ "provision": "18 U.S.C. \u00a7 924(c)(1)(A)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Accessibility of the firearm is a mandatory element: the gun 'must be' readily available or strategically located to show possession in furtherance of the crime (the Sixth Circuit's earlier Mackey-line precedent, which the court says it must reconcile).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Mackey, 265 F.3d 457 (6th Cir. 2001)",
+    "United States v. Ham, 628 F.3d 805 (6th Cir. 2010)",
+    "United States v. Barnes, 822 F.3d 914 (6th Cir. 2016)"
+   ]
+  },
+  {
+   "position": "No single factor, including accessibility, is decisive; accessibility is a non-exclusive consideration in a holistic analysis of whether the firearm furthered the drug crime.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Shannon, 715 F. App'x 187 (3d Cir. 2017)",
+    "United States v. Brown, 724 F.3d 800 (cited by the Sixth Circuit at 803)",
+    "United States v. Maya, 966 F.3d 493 (6th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Does not decide. The court is skeptical of treating accessibility as an absolute mandate, notes that such a mandate would conflict with other circuits, and declines to reconcile its precedent because the evidence suffices under either approach.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Such a mandate would also create a circuit conflict.",
+ "cluster_id": 4769268,
+ "cite": "United States v. Andy Maya, 966 F.3d 493 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-07-20",
+ "url": "https://www.courtlistener.com/opinion/4769268/united-states-v-andy-maya/",
+ "usage": {
+  "in": 1314,
+  "out": 3440
+ }
+}

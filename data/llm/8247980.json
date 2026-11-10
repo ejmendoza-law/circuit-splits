@@ -1,0 +1,34 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a federal sentencing court defer to Application Note 1 to U.S.S.G. \u00a7 4B1.2 when deciding whether a prior conviction, such as attempted murder, is a career-offender 'crime of violence'?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(a) and comment. (n.1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Application Note 1 to \u00a7 4B1.2 is authoritative and binding, so inchoate offenses such as attempt are covered as enumerated offenses. The excerpts name only this circuit as holding this position, and do not identify the circuits on the opposing side.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Smith, 989 F.3d 575 (7th Cir. 2021)",
+    "United States v. Adams, 934 F.3d 720 (7th Cir. 2019)",
+    "United States v. Lomax, 51 F.4th 222 (7th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Follows Smith in treating Application Note 1 as authoritative. Lomax preserves his challenge for Supreme Court review rather than departing from circuit precedent.",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "We acknowledged that a circuit split exists \"as to whether courts are to defer to Application Note 1 when applying \u00a7 4B1.2.\"",
+ "cluster_id": 8247980,
+ "cite": "United States v. Anthony Lomax, 51 F.4th 222 (7th Cir. 2022)",
+ "court": "7th",
+ "date": "2022-10-11",
+ "url": "https://www.courtlistener.com/opinion/8247980/united-states-v-anthony-lomax/",
+ "usage": {
+  "in": 1452,
+  "out": 1767
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Third, Silver\u2019s manufactured circuit split regarding harmless error analysis lacks any precedential support.",
+ "cluster_id": 4740985,
+ "cite": "United States v. Silver, No. 18-2380 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-04-01",
+ "url": "https://www.courtlistener.com/opinion/4740985/united-states-v-silver/",
+ "usage": {
+  "in": 1867,
+  "out": 751
+ }
+}

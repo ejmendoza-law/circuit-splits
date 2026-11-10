@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "A two-court circuit split demonstrates that no \u201crobust consensus\u201d exists.",
+ "cluster_id": 6477965,
+ "cite": "Michael Rivera v. Kevin Monko, 37 F.4th 909 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-06-15",
+ "url": "https://www.courtlistener.com/opinion/6477965/michael-rivera-v-kevin-monko/",
+ "usage": {
+  "in": 1313,
+  "out": 647
+ }
+}

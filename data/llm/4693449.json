@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4693449,
+ "cite": "United States v. Corrine Brown, No. 17-15470 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-01-09",
+ "url": "https://www.courtlistener.com/opinion/4693449/united-states-v-corrine-brown/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

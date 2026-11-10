@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "The court follows the Third Circuit's reading in Bankoff and holds that 18 U.S.C. \u00a7 115(a)(1)(B) covers all individuals protected by 18 U.S.C. \u00a7 1114, including persons assisting federal employees.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Indeed, adoption of the dissent's reading of the statutes would create an unwarranted circuit split, a result we understandably avoid if at all possible.",
+ "cluster_id": 7860059,
+ "cite": "United States v. Jacqueline Anderson, No. 20-50207 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-08-25",
+ "url": "https://www.courtlistener.com/opinion/7860059/united-states-v-jacqueline-anderson/",
+ "usage": {
+  "in": 1956,
+  "out": 1171
+ }
+}

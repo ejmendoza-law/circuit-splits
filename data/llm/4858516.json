@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court resolved the split in United States v. Davis, 139 S. Ct. 2319 (2019), holding that \u00a7 924(c)'s residual clause is unconstitutionally vague.",
+ "issue": "Did Johnson and Dimaya render the crime-of-violence residual clause in 18 U.S.C. \u00a7 924(c) unconstitutionally vague?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(B)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Johnson and Dimaya render the \u00a7 924(c) residual clause unconstitutionally vague (pre-Davis; the opinion does not name the circuits on this side)",
+   "circuits": [],
+   "cases": [
+    "United States v. Davis, 139 S. Ct. 2319 (2019)",
+    "In re Thomas, 988 F.3d 783 (4th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Johnson and Dimaya do not reach the \u00a7 924(c) residual clause (pre-Davis; the opinion does not name the circuits on this side)",
+   "circuits": [],
+   "cases": [
+    "In re Thomas, 988 F.3d 783 (4th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "Circuit courts split over whether the principles of Johnson and Dimaya rendered \u00a7 924(c)'s crime-of-violence residual clause unconstitutional.",
+ "cluster_id": 4858516,
+ "cite": "In re: Dearnta Thomas, 988 F.3d 783 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-02-23",
+ "url": "https://www.courtlistener.com/opinion/4858516/in-re-dearnta-thomas/",
+ "usage": {
+  "in": 2297,
+  "out": 2080
+ }
+}

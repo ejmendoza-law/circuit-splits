@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Drug offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.85,
+ "quote": "No circuit split existed on the proximate cause issue.",
+ "cluster_id": 4752658,
+ "cite": "United States v. Jurmaine Jeffries, 958 F.3d 517 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-05-08",
+ "url": "https://www.courtlistener.com/opinion/4752658/united-states-v-jurmaine-jeffries/",
+ "usage": {
+  "in": 2153,
+  "out": 983
+ }
+}

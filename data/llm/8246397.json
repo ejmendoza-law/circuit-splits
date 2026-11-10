@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a state court's fact-finding procedures alone render its decision unreasonable under AEDPA's 28 U.S.C. \u00a7 2254(d)(2)?",
+ "provision": "28 U.S.C. \u00a7 2254(d)(2)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A state court's fact-finding procedures can render its decision unreasonable under AEDPA.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Taylor (9th Cir. 2004)"
+   ]
+  },
+  {
+   "position": "The Eleventh Circuit's approach, which declines to adopt the Ninth Circuit's rule that fact-finding procedures can render a state decision unreasonable under AEDPA.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Landers v. Warden, 776 F.3d 1288 (11th Cir. 2015)",
+    "Pye v. Warden, Georgia Diagnostic Prison, 50 F.4th 1025 (11th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "The Eleventh Circuit declines to adopt the Ninth Circuit's approach, reaffirming Landers.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "Even before Wilson, we had noted the circuit split over whether \u201cstate court\u2019s fact-finding procedures\u201d can render its decision unreasonable under AEDPA, and we declined to adopt the Ninth Circuit\u2019s approach in Taylor.",
+ "cluster_id": 8246397,
+ "cite": "Willie James Pye v. Warden, Georgia Diagnostic Prison, 50 F.4th 1025 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-10-04",
+ "url": "https://www.courtlistener.com/opinion/8246397/willie-james-pye-v-warden-georgia-diagnostic-prison/",
+ "usage": {
+  "in": 1879,
+  "out": 2857
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "How do 28 U.S.C. \u00a7 2254(d)(2) and \u00a7 2254(e)(1) interact in federal habeas review of a state court's factual determinations, including whether the \u00a7 2254(e)(1) presumption of correctness and clear-and-convincing rebuttal standard governs that review?",
+ "provision": "28 U.S.C. \u00a7 2254(d)(2), \u00a7 2254(e)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Section 2254(e)(1)'s presumption of correctness, rebuttable only by clear and convincing evidence, governs how deference to a state court's factual findings under \u00a7 2254(d)(2) is applied.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Section 2254(d)(2) reasonableness review of state-court factfinding operates differently from, or independently of, the \u00a7 2254(e)(1) presumption of correctness.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "And there appears to be a circuit split over their proper interpretation.",
+ "cluster_id": 4802848,
+ "cite": "Christopher Teasley v. Warden, Macon State Prison, 978 F.3d 1349 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-11-03",
+ "url": "https://www.courtlistener.com/opinion/4802848/christopher-teasley-v-warden-macon-state-prison/",
+ "usage": {
+  "in": 1319,
+  "out": 1629
+ }
+}

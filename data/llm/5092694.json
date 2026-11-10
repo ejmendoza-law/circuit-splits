@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "This court has previously acknowledged, without addressing, a potential circuit split on the question of whether a defendant may file a motion for compassionate release in federal court thirty days after submitting his administrative request, regardless of whether the BOP responds during that period.",
+ "cluster_id": 5092694,
+ "cite": "United States v. Garrett, No. 20-61083 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-09-09",
+ "url": "https://www.courtlistener.com/opinion/5092694/united-states-v-garrett/",
+ "usage": {
+  "in": 1312,
+  "out": 1366
+ }
+}

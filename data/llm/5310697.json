@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "28 U.S.C. \u00a7 2255",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "Futility of raising a statutory-change claim (here, Rehaif) does not establish cause to excuse procedural default; the court aligns with the circuits cited that reject futility as cause, and distinguishes the contrary cases as involving constitutional changes where the Supreme Court overruled itself.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "When other circuits have disagreed, the claims at issue generally addressed changes in constitutional law where the Supreme Court reversed itself.",
+ "cluster_id": 5310697,
+ "cite": "United States v. Tyronne Pollard, Jr., 20 F.4th 1252 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-12-21",
+ "url": "https://www.courtlistener.com/opinion/5310697/united-states-v-tyronne-pollard-jr/",
+ "usage": {
+  "in": 1873,
+  "out": 1620
+ }
+}

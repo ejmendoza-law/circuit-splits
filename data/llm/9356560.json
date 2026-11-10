@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9356560,
+ "cite": "United States v. Michael Heinrich, 57 F.4th 154 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-01-04",
+ "url": "https://www.courtlistener.com/opinion/9356560/united-states-v-michael-heinrich/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

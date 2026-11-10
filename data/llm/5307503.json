@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When deciding whether to give a lesser-included possession instruction in a possession-with-intent-to-distribute prosecution, may the district court weigh the evidence of distribution against the evidence of possession, or must it only ask whether any evidence fairly tends to bear on the lesser offense?",
+ "provision": "Fed. R. Crim. P. 31(c); 21 U.S.C. \u00a7 844",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "The court must only determine whether any evidence fairly tends to bear on the lesser-included offense, however weak; it may not weigh the probabilities, which is the jury's function (the dissent's view, citing Baker, Levy, and Nur).",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Smith, 21 F.4th 122 (4th Cir. 2021) (Diaz/dissent discussion)"
+   ]
+  },
+  {
+   "position": "The district court's standard permits it to weigh the evidence of distribution against that of possession in deciding whether to give the lesser-included instruction (the majority's approach, as the dissent characterizes it).",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Smith, 21 F.4th 122 (4th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.3,
+ "quote": "In doing so, it disregards binding precedent and creates a circuit split.",
+ "cluster_id": 5307503,
+ "cite": "United States v. Jabrell Smith, 21 F.4th 122 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-12-17",
+ "url": "https://www.courtlistener.com/opinion/5307503/united-states-v-jabrell-smith/",
+ "usage": {
+  "in": 1316,
+  "out": 2144
+ }
+}

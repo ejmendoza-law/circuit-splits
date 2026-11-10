@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4742862,
+ "cite": "United States v. Mayville, 955 F.3d 825 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-04-07",
+ "url": "https://www.courtlistener.com/opinion/4742862/united-states-v-mayville/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

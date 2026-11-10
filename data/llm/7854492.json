@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a sentence under 18 U.S.C. \u00a7 924(j) for discharging a firearm during a crime of violence resulting in death run consecutively to the sentences on the other counts, or may the court impose it concurrently?",
+ "provision": "18 U.S.C. \u00a7 924(j)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Section 924(j) mandates a consecutive sentence relative to the other counts (the view the district court followed).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Wallace, 772 F. App'x 320 (6th Cir. 2019)",
+    "Wallace v. United States, 43 F.4th 595 (6th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "A circuit conflict existed over whether a sentence under \u00a7 924(j) must run consecutively with the sentences for the other counts.",
+ "cluster_id": 7854492,
+ "cite": "Dominique Wallace v. United States, 43 F.4th 595 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-08-05",
+ "url": "https://www.courtlistener.com/opinion/7854492/dominique-wallace-v-united-states/",
+ "usage": {
+  "in": 1880,
+  "out": 2483
+ }
+}

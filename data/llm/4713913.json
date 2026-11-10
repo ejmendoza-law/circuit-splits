@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4713913,
+ "cite": "United States v. Silver, 954 F.3d 455 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-01-21",
+ "url": "https://www.courtlistener.com/opinion/4713913/united-states-v-silver/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

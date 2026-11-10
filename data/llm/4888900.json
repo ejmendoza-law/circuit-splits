@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4888900,
+ "cite": "United States v. Mark Hack, 999 F.3d 980 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-06-03",
+ "url": "https://www.courtlistener.com/opinion/4888900/united-states-v-mark-hack/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

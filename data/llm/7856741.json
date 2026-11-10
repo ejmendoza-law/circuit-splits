@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under Section 404 of the First Step Act, may a district court reduce the sentence on a non-covered offense that was grouped with a covered crack cocaine offense for Guidelines purposes, where the covered offense effectively controlled the aggregate sentence?",
+ "provision": "First Step Act of 2018, \u00a7 404; 18 U.S.C. \u00a7 3582(c)(2)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "The First Step Act bars a district court from reducing the sentence on a non-covered offense, even if it was grouped with a covered offense and the covered offense effectively controlled the sentence.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Mannie, 971 F.3d 1140 (10th Cir. 2020)",
+    "United States v. Gladney, 44 F.4th 1253 (10th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Section 404(b) of the First Step Act does not bar a court from reducing the sentence for a non-covered offense that was grouped with covered offenses and included in the resulting aggregate sentence.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Hudson, 967 F.3d 605 (7th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The Tenth Circuit follows Mannie and holds that the First Step Act prohibits reducing the sentence on a non-covered offense even when grouped with a covered offense that effectively controlled the sentence.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We note that this holding in Mannie created a circuit split because, approximately a month before Mannie was issued, the Seventh Circuit held that Section 404(b) of the First Step Act \u201cdoes not bar a court from reducing [the sentence for] a non-covered offense\u201d in cases where the non-covered offense \u201cwas grouped with [the] covered offenses for sentencing, and the resulting aggregate sentence included . . . sentences for both the [non-covered] and covered offenses.\u201d",
+ "cluster_id": 7856741,
+ "cite": "United States v. Gladney, 44 F.4th 1253 (10th Cir. 2022)",
+ "court": "10th",
+ "date": "2022-08-15",
+ "url": "https://www.courtlistener.com/opinion/7856741/united-states-v-gladney/",
+ "usage": {
+  "in": 1316,
+  "out": 1863
+ }
+}

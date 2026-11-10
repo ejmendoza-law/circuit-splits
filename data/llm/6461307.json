@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6461307,
+ "cite": "United States v. Thurston Chadrick Martin, No. 18-14958 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-04-20",
+ "url": "https://www.courtlistener.com/opinion/6461307/united-states-v-thurston-chadrick-martin/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

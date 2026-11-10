@@ -1,0 +1,57 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal prisoner use a \u00a7 2241 petition under the \u00a7 2255(e) savings clause to challenge a mandatory career-offender enhancement as 'actual innocence,' where a later retroactive Supreme Court decision shows a prior conviction is not a predicate offense?",
+ "provision": "28 U.S.C. \u00a7 2255(e); 28 U.S.C. \u00a7 2241",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A career-offender misclassification based on a later retroactive Supreme Court decision can support a \u00a7 2241 actual-innocence claim under the \u00a7 2255(e) savings clause, at least for pre-Booker mandatory sentences.",
+   "circuits": [
+    "9th",
+    "4th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "Allen v. Ives, 976 F.3d 863 (9th Cir. 2020)",
+    "Lester v. Flournoy, 909 F.3d 708 (4th Cir. 2018)",
+    "Hill v. Masters, 836 F.3d 591 (6th Cir. 2016)",
+    "Brown v. Caraway, 719 F.3d 583 (7th Cir. 2013)"
+   ]
+  },
+  {
+   "position": "A claim that a prior conviction was wrongly treated as a predicate offense is a legal-insufficiency argument, not factual innocence, so it cannot proceed as actual innocence under the savings clause.",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "5th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "Damon v. United States, 732 F.3d 1 (1st Cir. 2013)",
+    "Poindexter v. Nash, 333 F.3d 372 (2d Cir. 2003)",
+    "Okereke v. United States, 307 F.3d 117 (3d Cir. 2002)",
+    "In re Bradford, 660 F.3d 226 (5th Cir. 2011)",
+    "Sandlain v. English, 714 F. App'x 827 (10th Cir. 2017)",
+    "McCarthan v. Director of Goodwill Industries-Suncoast, Inc., 851 F.3d 1076 (11th Cir. 2017) (en banc)"
+   ]
+  }
+ ],
+ "this_court": "Allen v. Ives holds that the claim is cognizable as actual innocence under \u00a7 2241 and that the circuit is aligned with the Fourth, Sixth, and Seventh Circuits.",
+ "source": "concurrence",
+ "confidence": 0.85,
+ "quote": "We agree with our dissenting colleague's argument that there is a circuit split.",
+ "cluster_id": 4787342,
+ "cite": "Michael Allen v. Richard Ives, 976 F.3d 863 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-09-22",
+ "url": "https://www.courtlistener.com/opinion/4787342/michael-allen-v-richard-ives/",
+ "usage": {
+  "in": 4269,
+  "out": 2314
+ }
+}

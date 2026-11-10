@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a prior state conviction for consensual sexual activity with a 17-year-old, which is not criminal in most states, qualify as a conviction 'relating to . . . abusive sexual conduct involving a minor' under the recidivist enhancement of the federal child-pornography statute?",
+ "provision": "18 U.S.C. \u00a7 2252A(b)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A prior state conviction for consensual sexual conduct with a minor categorically 'relates to abusive sexual conduct involving a minor' and triggers the \u00a7 2252A(b)(1) enhancement (majority view).",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Timothy Hardin, 998 F.3d 582 (4th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "A prior state conviction that is broader than the generic federal offense, such as one covering consensual conduct that is not criminal in most states, does not categorically 'relate to abusive sexual conduct involving a minor,' so the enhancement cannot apply (dissent's view, which the dissent says conflicts with other circuits). The excerpts do not name those other circuits or cases.",
+   "circuits": [],
+   "cases": [
+    "United States v. Timothy Hardin, 998 F.3d 582 (4th Cir. 2021) (Wynn, J., dissenting)"
+   ]
+  }
+ ],
+ "this_court": "The majority holds that the Tennessee predicate qualifies under \u00a7 2252A(b)(1), so the enhancement applies.",
+ "source": "dissent",
+ "confidence": 0.2,
+ "quote": "In my view, the majority\u2019s expansive interpretation of \u00a7 2252A misreads binding case law, creates a circuit split, misapplies the categorical approach, and adopts a definition of the phrase \u201crelating to abusive sexual conduct involving a minor\u201d that triples mandatoryminimum sentences based on prior convictions for conduct that is not criminal in forty-two states.",
+ "cluster_id": 4886105,
+ "cite": "United States v. Timothy Hardin, 998 F.3d 582 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-05-25",
+ "url": "https://www.courtlistener.com/opinion/4886105/united-states-v-timothy-hardin/",
+ "usage": {
+  "in": 1317,
+  "out": 2025
+ }
+}

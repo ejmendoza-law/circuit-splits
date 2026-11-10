@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 8439567,
+ "cite": "Beatty v. Lumpkin, 52 F.4th 632 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-11-02",
+ "url": "https://www.courtlistener.com/opinion/8439567/beatty-v-lumpkin/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

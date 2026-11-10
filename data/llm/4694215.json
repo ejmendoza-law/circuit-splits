@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4694215,
+ "cite": "United States v. Jesmene Lockhart, 947 F.3d 187 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-01-10",
+ "url": "https://www.courtlistener.com/opinion/4694215/united-states-v-jesmene-lockhart/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

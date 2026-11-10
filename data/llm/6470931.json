@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6470931,
+ "cite": "United States v. Ignacio Jimenez-Shilon, 34 F.4th 1042 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-05-23",
+ "url": "https://www.courtlistener.com/opinion/6470931/united-states-v-ignacio-jimenez-shilon/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

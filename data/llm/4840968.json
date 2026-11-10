@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4840968,
+ "cite": "United States v. Logan McCauley, 983 F.3d 690 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-12-18",
+ "url": "https://www.courtlistener.com/opinion/4840968/united-states-v-logan-mccauley/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4900589,
+ "cite": "United States v. Rabb, 5 F.4th 95 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-07-16",
+ "url": "https://www.courtlistener.com/opinion/4900589/united-states-v-rabb/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

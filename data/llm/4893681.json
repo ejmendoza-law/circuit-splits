@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the First Step Act's amended \u00a7 924(c) penalty structure (\u00a7 403(a)) apply at a resentencing where the original sentence was imposed before the Act but vacated, and does it matter whether the vacatur came before or after enactment?",
+ "provision": "First Step Act \u00a7 403(a); 18 U.S.C. \u00a7 924(c)(1)(C)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Section 403(a) applies at resentencing after vacatur, even where the original sentence was vacated before the First Step Act was enacted (Bethea holds this regardless of vacatur timing; Uriarte and Henry hold it where vacatur preceded enactment).",
+   "circuits": [
+    "4th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Uriarte, 975 F.3d 596 (7th Cir. 2020) (en banc)",
+    "United States v. Henry, 983 F.3d 214 (6th Cir. 2020)",
+    "United States v. Bethea, 841 F. App'x 544 (4th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Section 403(a) does not apply at a resentencing where the original sentence had already been vacated when the First Step Act was enacted.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Hodge, 948 F.3d 160 (3d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Our sister Circuits are divided on this question, and on the question of whether it matters if a defendant\u2019s original sentence was vacated before or after the First Step Act was enacted.",
+ "cluster_id": 4893681,
+ "cite": "United States v. Eldridge, 2 F.4th 27 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-06-22",
+ "url": "https://www.courtlistener.com/opinion/4893681/united-states-v-eldridge/",
+ "usage": {
+  "in": 1315,
+  "out": 1726
+ }
+}

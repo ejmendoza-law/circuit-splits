@@ -1,0 +1,54 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a conviction for conspiracy (or another inchoate offense) to possess controlled substances with intent to distribute qualify as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b), given that Application Note 1 says it does?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Inchoate offenses such as conspiracy and attempt are not 'controlled substance offenses' under \u00a7 4B1.2(b); the commentary cannot expand the guideline's unambiguous text.",
+   "circuits": [
+    "3d",
+    "6th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Nasir, 17 F.4th 459 (3d Cir. 2021) (en banc)",
+    "United States v. Havis, 927 F.3d 382 (6th Cir. 2019) (en banc)",
+    "United States v. Winstead, 890 F.3d 1082 (D.C. Cir. 2018)",
+    "United States v. Dupree, 57 F.4th 1269 (11th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Inchoate offenses are included in 'controlled substance offense' under \u00a7 4B1.2(b), and Application Note 1 is authoritative and controlling.",
+   "circuits": [
+    "1st",
+    "2d",
+    "7th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Smith, 989 F.3d 575 (7th Cir.), cert. denied, 142 S. Ct. 488 (2021)",
+    "United States v. Lewis, 963 F.3d 16 (1st Cir. 2020)",
+    "United States v. Richardson, 958 F.3d 151 (2d Cir. 2020)",
+    "United States v. Crum, 934 F.3d 963 (9th Cir. 2019)",
+    "United States v. Mendoza-Figueroa, 65 F.3d 691 (8th Cir. 1995) (en banc)"
+   ]
+  }
+ ],
+ "this_court": "The Eleventh Circuit holds that inchoate offenses are not controlled substance offenses under \u00a7 4B1.2(b), so the enhancement does not apply to Dupree's conspiracy conviction.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Panels of the First, Second, Seventh, and Ninth Circuits, and the Eighth Circuit sitting en banc, have reached the opposite conclusion.",
+ "cluster_id": 9368722,
+ "cite": "United States v. Brandon Romel Dupree, 57 F. 4th 1269 (11th Cir. 2023)",
+ "court": "11th",
+ "date": "2023-01-18",
+ "url": "https://www.courtlistener.com/opinion/9368722/united-states-v-brandon-romel-dupree/",
+ "usage": {
+  "in": 2429,
+  "out": 2449
+ }
+}

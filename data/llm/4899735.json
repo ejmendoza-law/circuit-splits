@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is warrantless, long-term (more than 30 days) pole camera surveillance of the plainly visible exterior of a home a search under the Fourth Amendment?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Long-term warrantless pole camera surveillance of a home's exterior is a Fourth Amendment search requiring a court order (the Fifth Circuit's holding, though it was tied to a camera that looked over a ten-foot fence)",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Cuevas-Sanchez, 821 F.2d 248 (5th Cir. 1987)"
+   ]
+  },
+  {
+   "position": "Pole camera surveillance of plainly visible areas on public property is not a Fourth Amendment search, regardless of duration",
+   "circuits": [
+    "7th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Tuggle, 4 F.4th 505 (7th Cir. 2021)",
+    "United States v. Gonzalez, 328 F.3d 543 (9th Cir. 2003)"
+   ]
+  }
+ ],
+ "this_court": "Pole camera surveillance of plainly visible areas of a home from public property is not a search under the Fourth Amendment, even when extended over eighteen months",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "The answer\u2014and even how to reach it\u2014is the subject of disagreement among our sister circuits and counterparts in state courts.",
+ "cluster_id": 4899735,
+ "cite": "United States v. Travis Tuggle, 4 F.4th 505 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-07-14",
+ "url": "https://www.courtlistener.com/opinion/4899735/united-states-v-travis-tuggle/",
+ "usage": {
+  "in": 1899,
+  "out": 2384
+ }
+}

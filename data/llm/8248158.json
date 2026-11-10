@@ -1,0 +1,46 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "For a petition for review of a removal order, is venue proper where the immigration judge completed the proceedings, or does the court view the facts as a composite and weigh the parties' locations, the court and venue cited on the notices, and the circuit law the BIA applied?",
+ "provision": "8 U.S.C. \u00a7 1252(b)(2)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Venue for a petition for review lies where the immigration judge completed the proceedings, which, absent evidence of a change of venue, is where the proceedings commenced; administrative-control locations and remote-hearing courts do not change venue.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "Sarr v. Garland, 50 F.4th 326 (2d Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Venue for a petition for review is determined by viewing the facts as a composite, weighing factors such as the physical location of the parties and the immigration court, the locations cited on the NTA and hearing notices, and the circuit law the BIA applied.",
+   "circuits": [
+    "4th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "Sorcia v. Holder, 643 F.3d 117 (4th Cir. 2011)",
+    "Plancarte Sauceda v. Garland, 23 F.4th 824 (9th Cir. 2022)",
+    "Yang You Lee v. Lynch, 791 F.3d 1261 (10th Cir. 2015)",
+    "Sarr v. Garland, 50 F.4th 326 (2d Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "The Second Circuit holds that venue lies where the IJ completed the proceedings, which absent a change of venue is where they commenced, and it declines to follow the composite approach of some sister circuits.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "In reaching our conclusion that an IJ \u201ccompletes\u201d proceedings and, thus, venue lies in the location where \u2014 absent evidence of a change of venue \u2014 proceedings commenced, we respectfully decline to follow the holdings of some of our sister courts.",
+ "cluster_id": 8248158,
+ "cite": "Sarr v. Garland, 50 F.4th 326 (2d Cir. 2022)",
+ "court": "2d",
+ "date": "2022-10-12",
+ "url": "https://www.courtlistener.com/opinion/8248158/sarr-v-garland/",
+ "usage": {
+  "in": 1319,
+  "out": 1581
+ }
+}

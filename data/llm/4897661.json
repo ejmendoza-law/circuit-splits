@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4897661,
+ "cite": "United States v. Dean Matthews, 3 F.4th 1286 (11th Cir. 2021)",
+ "court": "11th",
+ "date": "2021-07-06",
+ "url": "https://www.courtlistener.com/opinion/4897661/united-states-v-dean-matthews/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

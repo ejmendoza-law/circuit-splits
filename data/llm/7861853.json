@@ -1,0 +1,34 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Concepcion v. United States, 142 S. Ct. 2389 (2022), which held that a district court adjudicating a First Step Act motion may consider intervening changes of law and fact, including postsentencing rehabilitation.",
+ "issue": "When resolving a First Step Act \u00a7 404(b) sentence-reduction motion, may a district court consider postsentencing rehabilitation and nonretroactive Guidelines changes?",
+ "provision": "First Step Act of 2018, Pub. L. No. 115-391, \u00a7 404(b)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A district court may consider postsentencing developments, such as rehabilitation or health issues, and other changed circumstances when resentencing under the First Step Act.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Easter, 975 F.3d 318 (3d Cir. 2020)",
+    "United States v. Murphy, 998 F.3d 549 (3d Cir. 2021)",
+    "United States v. Shields, 48 F.4th 183 (3d Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit takes the permissive position, which Concepcion later endorsed.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "In resolving the circuit split on this matter, the Court reviewed the text and structure of the First Step Act, noted the broad discretion that judges have historically exercised when imposing and modifying sentences, and acknowledged that district courts deciding \u00a7 404(b) motions regularly consider evidence of a movant's postsentencing rehabilitation or misconduct, as well as unrelated, nonretroactive Guidelines amendments when raised by the parties.",
+ "cluster_id": 7861853,
+ "cite": "United States v. Clifton Shields, 48 F.4th 183 (3rd Cir. 2022)",
+ "court": "3d",
+ "date": "2022-09-01",
+ "url": "https://www.courtlistener.com/opinion/7861853/united-states-v-clifton-shields/",
+ "usage": {
+  "in": 1314,
+  "out": 1934
+ }
+}

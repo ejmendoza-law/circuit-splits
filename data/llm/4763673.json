@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4763673,
+ "cite": "United States v. Lamar Johnson, 979 F.3d 632 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-06-25",
+ "url": "https://www.courtlistener.com/opinion/4763673/united-states-v-lamar-johnson/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

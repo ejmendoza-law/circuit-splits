@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "Shaffer v. Heitner is limited to quasi in rem actions and does not extend to in rem civil forfeiture actions",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Thus, the dissent\u2019s declaration of a circuit conflict is much exaggerated, particularly in view of the lack of any mention in Shaffer of overruling the legion of cases embodying principles of in rem jurisdiction.",
+ "cluster_id": 4777840,
+ "cite": "United States v. Tarek Obaid, 971 F.3d 1095 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-08-24",
+ "url": "https://www.courtlistener.com/opinion/4777840/united-states-v-tarek-obaid/",
+ "usage": {
+  "in": 2984,
+  "out": 1154
+ }
+}

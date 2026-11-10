@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6358003,
+ "cite": "Ferreiras v. Garland, 26 F.4th 129 (2d Cir. 2022)",
+ "court": "2d",
+ "date": "2022-02-17",
+ "url": "https://www.courtlistener.com/opinion/6358003/ferreiras-v-garland/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

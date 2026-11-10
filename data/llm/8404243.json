@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Drug offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The two circuits to decide the question presented by this appeal have both emphatically held that 21 U.S.C. \u00a7 848(e)(1)(A) is not a covered offense under the First Step Act.",
+ "cluster_id": 8404243,
+ "cite": "United States v. James Roane, Jr., 51 F.4th 541 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-10-18",
+ "url": "https://www.courtlistener.com/opinion/8404243/united-states-v-james-roane-jr/",
+ "usage": {
+  "in": 1531,
+  "out": 848
+ }
+}

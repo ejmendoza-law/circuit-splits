@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4781609,
+ "cite": "Ernest Porter v. Pennsylvania Department of Cor, 974 F.3d 431 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-09-01",
+ "url": "https://www.courtlistener.com/opinion/4781609/ernest-porter-v-pennsylvania-department-of-cor/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

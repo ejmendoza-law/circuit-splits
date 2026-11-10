@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5297715,
+ "cite": "United States v. Jones, 17 F.4th 371 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-11-16",
+ "url": "https://www.courtlistener.com/opinion/5297715/united-states-v-jones/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

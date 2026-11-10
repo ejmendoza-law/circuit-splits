@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4854939,
+ "cite": "McCloud v. United States, 987 F.3d 261 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-02-09",
+ "url": "https://www.courtlistener.com/opinion/4854939/mccloud-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under U.S.S.G. \u00a7 2B1.1 cmt. n.3(F)(i), may a court apply the $500-per-access-device loss floor to each unauthorized credit card a defendant possessed, or is that per-card multiplier an impermissible reading of the Guidelines under Stinson and Kisor?",
+ "provision": "U.S.S.G. \u00a7 2B1.1 cmt. n.3(F)(i)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The $500 per-access-device multiplier in \u00a7 2B1.1 cmt. n.3(F)(i) is invalid or cannot be applied per card, because the commentary conflicts with the guideline and does not bind the court under Stinson and Kisor.",
+   "circuits": [
+    "9th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Kirilyuk, No. 19-10447 (9th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "The $500 per-access-device multiplier applies to all unauthorized access devices a defendant possesses, and the commentary is an authoritative interpretation to be followed.",
+   "circuits": [
+    "7th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Moore, 788 F.3d 693 (7th Cir. 2015)"
+   ]
+  }
+ ],
+ "this_court": "rejects the per-card multiplier (majority holding)",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "In invalidating the multiplier, the majority badly misapplies Stinson, creates a lopsided split with our sister circuits, and embraces an anomalous concurring opinion from a Sixth Circuit case that involved critically different facts.",
+ "cluster_id": 6457081,
+ "cite": "United States v. Ruslan Kirilyuk, No. 19-10447 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-04-01",
+ "url": "https://www.courtlistener.com/opinion/6457081/united-states-v-ruslan-kirilyuk/",
+ "usage": {
+  "in": 1873,
+  "out": 2395
+ }
+}

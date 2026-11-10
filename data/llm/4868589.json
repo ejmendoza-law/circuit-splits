@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4868589,
+ "cite": "United States v. Perez-Perez, 992 F.3d 970 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-03-29",
+ "url": "https://www.courtlistener.com/opinion/4868589/united-states-v-perez-perez/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

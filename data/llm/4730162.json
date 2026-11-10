@@ -1,0 +1,46 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal prisoner use the \u00a7 2255(e) escape hatch to bring a \u00a7 2241 petition challenging a sentence, such as a career-offender designation, without showing actual innocence of the underlying crime of conviction?",
+ "provision": "28 U.S.C. \u00a7 2255(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Escape hatch jurisdiction is available for sentencing challenges that do not require the petitioner to show actual innocence of the offense of conviction.",
+   "circuits": [
+    "4th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Wheeler, 886 F.3d 415 (4th Cir. 2018)",
+    "Hill v. Masters, 836 F.3d 591 (6th Cir. 2016)",
+    "Brown v. Caraway, 719 F.3d 583 (7th Cir. 2013)"
+   ]
+  },
+  {
+   "position": "Escape hatch jurisdiction requires a showing of actual innocence of the crime of conviction, and a legal challenge to Guidelines classification, such as career-offender status, does not qualify.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Marrero (9th Cir.)",
+    "Allen v. Ives, No. 18-35001 (9th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The majority apparently allowed the career-offender sentencing challenge through the escape hatch, which the dissent says departs from Ninth Circuit precedent requiring actual innocence of the crime of conviction.",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "Second, I recognize that there is currently a circuit split on this issue. Some other circuits have allowed sentencing challenges similar to Allen's under the escape hatch.",
+ "cluster_id": 4730162,
+ "cite": "Michael Allen v. Richard Ives, No. 18-35001 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-02-24",
+ "url": "https://www.courtlistener.com/opinion/4730162/michael-allen-v-richard-ives/",
+ "usage": {
+  "in": 1314,
+  "out": 2556
+ }
+}

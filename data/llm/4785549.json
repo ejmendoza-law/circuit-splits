@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When ruling on a First Step Act sentence-reduction motion for a covered Fair Sentencing Act offense, may the district court recalculate the Guidelines range using changes in law beyond Sections 2 and 3 of the Fair Sentencing Act, such as new Guidelines provisions or new judicial interpretations?",
+ "provision": "First Step Act of 2018, \u00a7 404; Fair Sentencing Act of 2010, \u00a7\u00a7 2\u20133",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "No. The district court may account only for changes mandated by Sections 2 and 3 of the Fair Sentencing Act and must otherwise keep the original sentencing legal landscape.",
+   "circuits": [
+    "5th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Hegwood, 934 F.3d 414 (5th Cir. 2019)",
+    "United States v. Kelley, 962 F.3d 470 (9th Cir. 2020)",
+    "United States v. Denson, 963 F.3d 1080 (11th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Yes. Review of a First Step Act motion requires the district court to consider changes in law beyond the Fair Sentencing Act, as described in the excerpt (the holding is cut off in the excerpt).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Boulding, 960 F.3d 774 (6th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "We recognize that other Circuits have split on this issue.",
+ "cluster_id": 4785549,
+ "cite": "United States v. Moore, 975 F.3d 84 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-09-15",
+ "url": "https://www.courtlistener.com/opinion/4785549/united-states-v-moore/",
+ "usage": {
+  "in": 1313,
+  "out": 1929
+ }
+}

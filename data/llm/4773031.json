@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4773031,
+ "cite": "United States v. Alvin Penn, 969 F.3d 450 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-08-05",
+ "url": "https://www.courtlistener.com/opinion/4773031/united-states-v-alvin-penn/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

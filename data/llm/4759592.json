@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Perhaps one day we will revisit Castillo-Rivera to address the dilemma that petitioners like Alexis find themselves in or perhaps the Supreme Court can resolve the circuit split and add clarity in light of its decisions in Mellouli and Mathis.",
+ "cluster_id": 4759592,
+ "cite": "Richard Alexis v. William Barr, U. S. Atty Gen, 960 F.3d 722 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-06-08",
+ "url": "https://www.courtlistener.com/opinion/4759592/richard-alexis-v-william-barr-u-s-atty-gen/",
+ "usage": {
+  "in": 1318,
+  "out": 761
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4872729,
+ "cite": "United States v. Kelly Miltier, 993 F.3d 267 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-04-12",
+ "url": "https://www.courtlistener.com/opinion/4872729/united-states-v-kelly-miltier/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

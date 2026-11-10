@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "On plain-error review of a Rehaif error in a felon-in-possession case, may the court of appeals look beyond the trial record, such as to overwhelming evidence the jury never found, when deciding whether the error affected substantial rights and the fairness of the proceeding (plain-error prong four)?",
+ "provision": "Fed. R. Crim. P. 52(b); 18 U.S.C. \u00a7 922(g)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "On plain-error prong four, the court may not rely on a whole-record review that goes beyond what the jury found. Judicial discretion does not override the defendant's right to hold the government to its proof, and the error is measured by the law at the time of appeal.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Nasir, No. 18-2888 (3d Cir. 2020)"
+   ]
+  },
+  {
+   "position": "On plain-error prong four, the court may review the whole trial record, including whether the government's evidence was overwhelming, when assessing whether a Rehaif error affected the fairness, integrity, or public reputation of the proceeding.",
+   "circuits": [
+    "2d",
+    "7th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Reed, 941 F.3d 1018 (11th Cir. 2019)",
+    "United States v. Johnson, 2020 WL 6268027 (2d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Third Circuit takes the first position: plain-error prong four may not rely on whole-record review beyond the jury's findings, and the court expressly diverges from the Second and Seventh Circuits and the Eleventh Circuit's Reed decision.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "To the extent that either the Second or Seventh Circuit (or any other court of appeals) sought to make a broader point that going beyond the trial record was permissible because the government presented all of the evidence it needed to, given the state of the law prior to Rehaif, our views again diverge.",
+ "cluster_id": 4834801,
+ "cite": "United States v. Malik Nasir, No. 18-2888 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-12-01",
+ "url": "https://www.courtlistener.com/opinion/4834801/united-states-v-malik-nasir/",
+ "usage": {
+  "in": 1905,
+  "out": 2973
+ }
+}

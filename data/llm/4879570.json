@@ -1,0 +1,32 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Brady v. Maryland disclosure obligation apply to a pretrial suppression hearing?",
+ "provision": "Brady v. Maryland, 373 U.S. 83 (1963)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Brady applies to suppression hearings (the excerpt does not state which side Thomas takes)",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Thomas, 835 F.3d 730 (7th Cir. 2016)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "This court has not determined whether Brady applies to a suppression hearing, and circuits are split on the issue.",
+ "cluster_id": 4879570,
+ "cite": "United States v. Rafael Puebla-Zamora, 996 F.3d 535 (8th Cir. 2021)",
+ "court": "8th",
+ "date": "2021-05-03",
+ "url": "https://www.courtlistener.com/opinion/4879570/united-states-v-rafael-puebla-zamora/",
+ "usage": {
+  "in": 1344,
+  "out": 1482
+ }
+}

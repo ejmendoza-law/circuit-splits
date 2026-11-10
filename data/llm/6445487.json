@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court, Lagos v. United States, 138 S. Ct. 1684 (2018), which held that the MVRA's 'investigation' and 'proceedings' are limited to government investigations and criminal proceedings and sided with the D.C. Circuit.",
+ "issue": "Under the Mandatory Victims Restitution Act, can a victim recover the costs of its own private investigation of the fraud that caused its losses?",
+ "provision": "18 U.S.C. \u00a7 3663A(b)(4)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A victim may recover expenses incurred in its own private investigation of the offense conduct as 'necessary . . . other expenses' under the MVRA.",
+   "circuits": [
+    "2d",
+    "6th",
+    "7th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Amato (2d Cir. 2008)",
+    "United States v. Elson, 577 F.3d 713 (6th Cir. 2009)",
+    "United States v. Hosking, 567 F.3d 329 (7th Cir. 2009)",
+    "United States v. Stennis-Williams, 557 F.3d 927 (8th Cir. 2009)",
+    "United States v. Gordon, 393 F.3d 1044 (9th Cir. 2004)",
+    "United States v. Afriyie, 27 F.4th 161 (2d Cir. 2022)"
+   ]
+  },
+  {
+   "position": "A victim may not recover costs of its private investigation, because the MVRA's 'investigation' and 'proceedings' cover only government investigations and criminal proceedings.",
+   "circuits": [
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Papagno, 639 F.3d 1093 (D.C. Cir. 2011)",
+    "Lagos v. United States, 138 S. Ct. 1684 (2018)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "A circuit split soon developed around Amato's second holding.",
+ "cluster_id": 6445487,
+ "cite": "United States v. John Afriyie, 27 F.4th 161 (2d Cir. 2022)",
+ "court": "2d",
+ "date": "2022-02-25",
+ "url": "https://www.courtlistener.com/opinion/6445487/united-states-v-john-afriyie/",
+ "usage": {
+  "in": 1313,
+  "out": 2202
+ }
+}

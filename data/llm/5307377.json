@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.75,
+ "quote": "What ultimately matters, however, is that the issue presented in these cases is plainly the subject of an intra-circuit split\u2014which is now intractable.",
+ "cluster_id": 5307377,
+ "cite": "United States v. David McCall, Jr., 20 F.4th 1108 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-12-17",
+ "url": "https://www.courtlistener.com/opinion/5307377/united-states-v-david-mccall-jr/",
+ "usage": {
+  "in": 1606,
+  "out": 1100
+ }
+}

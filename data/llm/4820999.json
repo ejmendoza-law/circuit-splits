@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4820999,
+ "cite": "United States v. Wang, 981 F.3d 39 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-11-20",
+ "url": "https://www.courtlistener.com/opinion/4820999/united-states-v-wang/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

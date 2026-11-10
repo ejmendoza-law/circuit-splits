@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "The other circuits that have examined . . . whether the catchall provision [for good moral character] is discretionary have not come to a uniform result.",
+ "cluster_id": 4776737,
+ "cite": "Pankajkumar Patel v. U.S. Attorney General, 971 F.3d 1258 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-08-19",
+ "url": "https://www.courtlistener.com/opinion/4776737/pankajkumar-patel-v-us-attorney-general/",
+ "usage": {
+  "in": 1325,
+  "out": 444
+ }
+}

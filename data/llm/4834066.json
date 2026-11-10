@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "First, Rehaif did not resolve a circuit split or change governing law",
+ "cluster_id": 4834066,
+ "cite": "United States v. Juan Price, No. 15-50556 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-11-27",
+ "url": "https://www.courtlistener.com/opinion/4834066/united-states-v-juan-price/",
+ "usage": {
+  "in": 1313,
+  "out": 574
+ }
+}

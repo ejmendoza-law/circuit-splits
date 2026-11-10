@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 115(a)(1)(B)",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "Section 115(a)(1)(B) reaches all individuals covered by 18 U.S.C. \u00a7 1114, including persons assisting federal officers, and is not limited to \u00a7 1114 'officials.'",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "And it is telling that the dissent cites no case that has reached a different conclusion regarding the interplay between \u00a7\u00a7 115 and 1114.",
+ "cluster_id": 7859696,
+ "cite": "United States v. Jacqueline Anderson, 46 F.4th 1000 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-08-25",
+ "url": "https://www.courtlistener.com/opinion/7859696/united-states-v-jacqueline-anderson/",
+ "usage": {
+  "in": 1957,
+  "out": 1118
+ }
+}

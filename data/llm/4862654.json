@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4862654,
+ "cite": "People of the State of New York v. Griepp, No. 18-2454-cv (L) (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-03-10",
+ "url": "https://www.courtlistener.com/opinion/4862654/people-of-the-state-of-new-york-v-griepp/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

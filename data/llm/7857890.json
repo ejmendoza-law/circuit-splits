@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "The Spoerke court noted a circuit conflict concerning the admissibility of a defendant\u2019s subjective intent concerning the purpose of an explosive device.",
+ "cluster_id": 7857890,
+ "cite": "United States v. Harbarger, 46 F.4th 287 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-08-18",
+ "url": "https://www.courtlistener.com/opinion/7857890/united-states-v-harbarger/",
+ "usage": {
+  "in": 1314,
+  "out": 980
+ }
+}

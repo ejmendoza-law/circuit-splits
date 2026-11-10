@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does an improper denial of a defendant's Faretta right to self-representation automatically render a later voluntary guilty plea involuntary, so that the plea voids the claim?",
+ "provision": "Faretta v. California, 422 U.S. 806 (1975)",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "An improper denial of the right to self-representation renders any subsequent guilty plea per se involuntary and voids the plea.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Hernandez, 203 F.3d 614, 626 (9th Cir. 2000)"
+   ]
+  },
+  {
+   "position": "An improper denial of the right to self-representation does not render a subsequent guilty plea involuntary, so the guilty plea waives appellate review of the denial.",
+   "circuits": [
+    "4th",
+    "7th",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Moussaoui, 591 F.3d 263, 279\u201380 (4th Cir. 2010)",
+    "Gomez v. Barge, 434 F.3d 940, 943 (7th Cir. 2006)",
+    "United States v. Dewberry, 936 F.3d 803, 805\u201307 (8th Cir. 2019)",
+    "United States v. Montgomery, 529 F.2d 1404, 1407 (10th Cir. 1976)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "As we are barred by Williams's forfeiture from addressing the circuit split on the question of whether an improper denial of a defendant's Faretta right to self-representation automatically renders a guilty plea involuntary, we make no comment on the decisions of our sister circuits.",
+ "cluster_id": 6456232,
+ "cite": "United States v. Elbert Lee Williams, 29 F.4th 1306 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-03-30",
+ "url": "https://www.courtlistener.com/opinion/6456232/united-states-v-elbert-lee-williams/",
+ "usage": {
+  "in": 2393,
+  "out": 1624
+ }
+}

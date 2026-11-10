@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is an alien excused from proving the exhaustion and deprivation-of-judicial-review prongs of 8 U.S.C. \u00a7 1326(d) in a collateral attack on a removal order when the immigration judge did not inform him of his eligibility for discretionary relief such as voluntary departure?",
+ "provision": "8 U.S.C. \u00a7 1326(d)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The alien is excused from establishing the first prong (exhaustion) and satisfies the second (deprivation of judicial review) when he was not informed of his eligibility for discretionary relief.",
+   "circuits": [
+    "2d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Sosa, 387 F.3d 131 (2d Cir. 2004)",
+    "United States v. Ubaldo-Figueroa, 364 F.3d 1042 (9th Cir. 2004)"
+   ]
+  },
+  {
+   "position": "The alien has not satisfied, and is not excused from, establishing the first two prongs of \u00a7 1326(d) when he was not informed of his eligibility for discretionary relief.",
+   "circuits": [
+    "3d",
+    "5th",
+    "10th"
+   ],
+   "cases": [
+    "Richardson v. United States, 558 F.3d 216 (3d Cir. 2009)",
+    "United States v. Cordova-Soto, 804 F.3d 714 (5th Cir. 2015)",
+    "United States v. Chavez-Alonso, 431 F.3d 726 (10th Cir. 2005)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "This question is the subject of a circuit split that we haven\u2019t yet weighed in on.",
+ "cluster_id": 5094129,
+ "cite": "United States v. Lexy Herrera-Pagoada, 14 F.4th 311 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-09-16",
+ "url": "https://www.courtlistener.com/opinion/5094129/united-states-v-lexy-herrera-pagoada/",
+ "usage": {
+  "in": 1505,
+  "out": 1578
+ }
+}

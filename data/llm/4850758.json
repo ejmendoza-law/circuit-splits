@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4850758,
+ "cite": "United States v. Gregory Sanford, No. 20-2445 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-01-25",
+ "url": "https://www.courtlistener.com/opinion/4850758/united-states-v-gregory-sanford/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

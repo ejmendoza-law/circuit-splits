@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Mathis v. United States, 136 S. Ct. 2243 (2016) (Supreme Court) resolved the split by holding that a statute listing alternative means of satisfying one element is indivisible, so the modified categorical approach does not apply.",
+ "issue": "Under the ACCA categorical approach, does a statute that lists alternative means of satisfying a single element become divisible, allowing courts to apply the modified categorical approach?",
+ "provision": "18 U.S.C. \u00a7 924(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A statute that lists various means of satisfying one element is still indivisible; the modified categorical approach applies only to statutes with alternative elements.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "Omargharib v. Holder, 775 F.3d 192 (4th Cir. 2014)",
+    "United States v. Cabrera-Umanzor, 728 F.3d 347 (4th Cir. 2013)",
+    "Ham v. Breckon, 994 F.3d 682 (4th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The general rule that a crime counts as a predicate only if its elements match the generic offense gives way when a statute lists various means of satisfying an element, so the modified categorical approach applies.",
+   "circuits": [],
+   "cases": [
+    "Ham v. Breckon, 994 F.3d 682 (4th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the view that alternative means do not make a statute divisible, consistent with Mathis and Omargharib; the opinion describes the contrary position as an exception it rejects.",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "the Court set forth the circuit split that developed, in which some courts held that \u201cACCA\u2019s general rule -- that a defendant\u2019s crime of conviction can count as a predicate only if its elements match those of a generic offense -- gives way when a statute happens to list various means by which a defendant can satisfy an element.\u201d",
+ "cluster_id": 4875255,
+ "cite": "John Ham, Jr. v. Warden M. Breckon, 994 F.3d 682 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-04-20",
+ "url": "https://www.courtlistener.com/opinion/4875255/john-ham-jr-v-warden-m-breckon/",
+ "usage": {
+  "in": 1315,
+  "out": 1988
+ }
+}

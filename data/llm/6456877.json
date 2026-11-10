@@ -1,0 +1,53 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Brady v. Maryland require the prosecution to disclose exculpatory evidence to a defendant before the defendant pleads guilty?",
+ "provision": "Brady v. Maryland, 373 U.S. 83 (1963)",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "Brady's obligation to disclose exculpatory (not merely impeachment) evidence applies before a guilty plea, or at least the question is open and a defendant may challenge a plea on that basis.",
+   "circuits": [
+    "7th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "McCann v. Mangialardi, 337 F.3d 782 (7th Cir. 2003)",
+    "Smith v. Baldwin, 510 F.3d 1127 (9th Cir. 2007)",
+    "Sanchez v. United States, 50 F.3d 1448 (9th Cir. 1995)",
+    "United States v. Ohiri, 133 F. App'x 555 (10th Cir. 2005)"
+   ]
+  },
+  {
+   "position": "No clear constitutional entitlement to exculpatory Brady material before a guilty plea; the Brady right does not extend to pre-plea disclosure in the plea-bargaining context.",
+   "circuits": [
+    "1st",
+    "2d",
+    "4th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Mathur, 624 F.3d 498 (1st Cir. 2010)",
+    "Friedman v. Rehal, 618 F.3d 142 (2d Cir. 2010)",
+    "United States v. Moussaoui, 591 F.3d 263 (4th Cir. 2010)",
+    "Alvarez v. City of Brownsville, 904 F.3d 382 (5th Cir. 2018) (en banc)",
+    "Mansfield v. Williamson County, 30 F.4th 276 (5th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Follows Alvarez (en banc) and does not recognize a pre-plea Brady right to exculpatory evidence; the majority states that only the Supreme Court can resolve the split.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "at the least definitively resolve the acknowledged circuit split.",
+ "cluster_id": 6456877,
+ "cite": "Mansfield v. Williamson Cty, 30 F.4th 276 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-03-31",
+ "url": "https://www.courtlistener.com/opinion/6456877/mansfield-v-williamson-cty/",
+ "usage": {
+  "in": 1721,
+  "out": 2260
+ }
+}

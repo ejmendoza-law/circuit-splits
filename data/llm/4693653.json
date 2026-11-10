@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4693653,
+ "cite": "United States v. Lester George, 946 F.3d 643 (4th Cir. 2020)",
+ "court": "4th",
+ "date": "2020-01-09",
+ "url": "https://www.courtlistener.com/opinion/4693653/united-states-v-lester-george/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

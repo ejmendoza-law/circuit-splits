@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5292596,
+ "cite": "United States v. Shawn Quinnones, 16 F.4th 414 (3rd Cir. 2021)",
+ "court": "3d",
+ "date": "2021-10-26",
+ "url": "https://www.courtlistener.com/opinion/5292596/united-states-v-shawn-quinnones/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

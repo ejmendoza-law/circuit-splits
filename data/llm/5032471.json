@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "Fed. R. Evid. 611(a); Fed. R. Evid. 1006",
+ "topic": "Evidence",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "But even if we were to consider Oloyede\u2019s endorsement of Janati essential to its holding, \u201cone panel cannot overrule a decision issued by another panel.\u201d",
+ "cluster_id": 5032471,
+ "cite": "United States v. Antonio Simmons, 9 F.4th 947 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-08-23",
+ "url": "https://www.courtlistener.com/opinion/5032471/united-states-v-antonio-simmons/",
+ "usage": {
+  "in": 1318,
+  "out": 1166
+ }
+}

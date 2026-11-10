@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the statutory maximum default term of supervised release under 18 U.S.C. \u00a7 3583(b) cap the term for offenses under 21 U.S.C. \u00a7 841(b)(1), or does the 2002 'notwithstanding' clause in \u00a7 841(b)(1) allow a term of life?",
+ "provision": "21 U.S.C. \u00a7 841(b)(1); 18 U.S.C. \u00a7 3583(b)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Life is the maximum term of supervised release for \u00a7 841(b)(1) offenses; the shorter default maximums of \u00a7 3583(b) do not apply.",
+   "circuits": [
+    "5th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Jackson, 559 F.3d 368 (5th Cir. 2009)",
+    "United States v. Johnson, 331 F.3d 962 (D.C. Cir. 2003)"
+   ]
+  },
+  {
+   "position": "Pre-2002 rule: \u00a7 3583(b) caps supervised release for \u00a7 841(b)(1) offenses, so the term cannot exceed the \u00a7 3583(b) default maximum. The opinion says this circuit held this before 2002 and has not yet addressed the effect of the 2002 amendment.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Carlos Perez, 22 F.4th 430 (4th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide (the excerpts describe the circuit's earlier cap rule and state that it has yet to confront the 2002 amendment's implications)",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "except for our circuit, every circuit with jurisdiction over criminal appeals has held that the maximum term of supervised release for \u00a7 841(b)(1) offenses is life, and that the shorter default",
+ "cluster_id": 5443617,
+ "cite": "United States v. Carlos Perez, 22 F.4th 430 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-01-06",
+ "url": "https://www.courtlistener.com/opinion/5443617/united-states-v-carlos-perez/",
+ "usage": {
+  "in": 1314,
+  "out": 2171
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a tribal officer detain a non-Indian on fee land on reasonable suspicion, or must the officer have probable cause?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Tribal officers need probable cause (\"probable-cause-plus\") to investigate or detain a non-Indian for misconduct on fee land within a reservation.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Joshua Cooley, 947 F.3d 1215 (9th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Tribal officers may act on reasonable suspicion when investigating non-Indian misconduct on fee land, as the opposing circuit view identified in the dissent.",
+   "circuits": [],
+   "cases": [
+    "Jones (cited in the excerpt without a citation or circuit)"
+   ]
+  }
+ ],
+ "this_court": "The panel's probable-cause-plus rule, which the dissent criticizes; the excerpt does not show the court's final resolution.",
+ "source": "dissent",
+ "confidence": 0.3,
+ "quote": "decision in Jones underscores that the panel's analysis reflects a circuit split on this point.",
+ "cluster_id": 4721031,
+ "cite": "United States v. Joshua Cooley, 947 F.3d 1215 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-01-24",
+ "url": "https://www.courtlistener.com/opinion/4721031/united-states-v-joshua-cooley/",
+ "usage": {
+  "in": 1314,
+  "out": 2319
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does an alien in removal proceedings have a constitutional due process right to be informed of eligibility for, or to be considered for, discretionary relief such as pre-conclusion voluntary departure, so that a failure to advise of that relief can support a collateral attack on the removal order in an illegal reentry prosecution?",
+ "provision": "U.S. Const. amend. V (due process); 8 C.F.R. \u00a7 1240.11(a)(2); 8 U.S.C. \u00a7 1326(d)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "An alien has no constitutional right to be informed of eligibility for, or to be considered for, discretionary relief from removal.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Estrada, 876 F.3d at 888 (6th Cir.)",
+    "United States v. Silvestre-Gregorio, 983 F.3d 848 (6th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Contrary position (an alien does have a constitutional right to be informed of or considered for discretionary relief). The excerpts acknowledge that a minority of circuits take this view but do not identify which ones.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The Sixth Circuit holds that an alien has no constitutional right to be informed of eligibility for, or considered for, discretionary relief, following its precedent in Estrada, and rejects the claim.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "We acknowledge the circuit split on this question, with the majority of our sister circuits likewise holding that an alien has no constitutional right to be informed of eligibility for, or to be considered for, discretionary relief.",
+ "cluster_id": 4841765,
+ "cite": "United States v. Pedro Silvestre-Gregorio, 983 F.3d 848 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-12-22",
+ "url": "https://www.courtlistener.com/opinion/4841765/united-states-v-pedro-silvestre-gregorio/",
+ "usage": {
+  "in": 1133,
+  "out": 2898
+ }
+}

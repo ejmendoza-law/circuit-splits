@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The unanimity of our sibling circuits on this issue supports our own conclusion here, and Mr. Benton proffers no compelling basis for this court to depart from their reasoning and conclusions.",
+ "cluster_id": 4858519,
+ "cite": "United States v. Benton, 988 F.3d 1231 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-02-23",
+ "url": "https://www.courtlistener.com/opinion/4858519/united-states-v-benton/",
+ "usage": {
+  "in": 1315,
+  "out": 759
+ }
+}

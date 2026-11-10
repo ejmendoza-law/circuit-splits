@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We disagree with the Tenth Circuit because it applied the wrong standard.",
+ "cluster_id": 9367636,
+ "cite": "RAFAEL DIAZ-RODRIGUEZ V. MERRICK GARLAND, No. 13-73719 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-12-08",
+ "url": "https://www.courtlistener.com/opinion/9367636/rafael-diaz-rodriguez-v-merrick-garland/",
+ "usage": {
+  "in": 1968,
+  "out": 564
+ }
+}

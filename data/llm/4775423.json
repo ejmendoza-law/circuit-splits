@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in United States v. Castleman, 572 U.S. 157 (2014), which the opinion says resolved the conflict against the Tenth Circuit's Perez-Vargas and Rodriguez-Enriquez line",
+ "issue": "Under the elements clause of 18 U.S.C. \u00a7 924(c)(3)(A), does 'physical force' require force applied directly to the victim, or does it also include indirect force, such as causing bodily injury by poison?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(A)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "'Physical force' requires force imparted directly, so an offense that can be committed indirectly (for example, by poisoning or deception) does not qualify as a crime of violence.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "Perez-Vargas v. Gonzales, 414 F.3d 1282 (10th Cir. 2005)",
+    "United States v. Rodriguez-Enriquez, 518 F.3d 1191 (10th Cir. 2008)",
+    "United States v. Muskett, 970 F.3d 1233 (10th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "'Physical force' includes indirect force, so an assault that causes bodily injury through indirect means qualifies as a crime of violence.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Juvenile Female, 566 F.3d 943 (9th Cir. 2009)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the indirect-force position. The court overruled Perez-Vargas in Ontiveros, 875 F.3d 533 (10th Cir. 2017), and states that Castleman resolved the conflict against Perez-Vargas and Rodriguez-Enriquez.",
+ "source": "majority",
+ "confidence": 0.75,
+ "quote": "Thus, the circuits were in disagreement as to whether \u201cphysical force\u201d encompassed indirect force when Mr. Muskett committed his crime.",
+ "cluster_id": 4775423,
+ "cite": "United States v. Muskett, 970 F.3d 1233 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-08-14",
+ "url": "https://www.courtlistener.com/opinion/4775423/united-states-v-muskett/",
+ "usage": {
+  "in": 4269,
+  "out": 2016
+ }
+}

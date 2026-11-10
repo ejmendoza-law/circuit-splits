@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5312687,
+ "cite": "United States v. Norris, 21 F.4th 188 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-12-28",
+ "url": "https://www.courtlistener.com/opinion/5312687/united-states-v-norris/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

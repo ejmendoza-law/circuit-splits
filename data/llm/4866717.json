@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4866717,
+ "cite": "Cedric Cal v. Jason Garnett, 991 F.3d 843 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-03-23",
+ "url": "https://www.courtlistener.com/opinion/4866717/cedric-cal-v-jason-garnett/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

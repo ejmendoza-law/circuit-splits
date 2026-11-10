@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4737907,
+ "cite": "United States v. Isaac Hobbs, 953 F.3d 853 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-03-20",
+ "url": "https://www.courtlistener.com/opinion/4737907/united-states-v-isaac-hobbs/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

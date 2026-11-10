@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the compassionate-release catch-all for 'other reasons,' may federal courts independently find extraordinary and compelling reasons for a sentence reduction, or does that determination belong only to the Bureau of Prisons?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A); U.S.S.G. \u00a7 1B1.13 cmt. n.1(D)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "The catch-all 'other reasons' provision delegates only to the Bureau of Prisons, not to courts, to identify extraordinary and compelling reasons for early release. The excerpts cite Ruffin as describing this split but do not state which side Ruffin takes, so the circuit attribution is uncertain.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Ruffin, 978 F.3d 1000 (6th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Courts may invoke the catch-all 'other reasons' provision to find extraordinary and compelling reasons for release. The excerpts cite Ruffin as describing this split but do not state which side Ruffin takes, so the circuit attribution is uncertain.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Ruffin, 978 F.3d 1000 (6th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "We recognize and opt not to weigh in on the split of authority as to whether this catch-all provision delegates only to the Bureau of Prisons\u2014and not the courts\u2014the task of identifying \u201cother reasons\u201d justifying early release.",
+ "cluster_id": 4845530,
+ "cite": "United States v. Thompson, 984 F.3d 431 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-01-05",
+ "url": "https://www.courtlistener.com/opinion/4845530/united-states-v-thompson/",
+ "usage": {
+  "in": 1379,
+  "out": 1984
+ }
+}

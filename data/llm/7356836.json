@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Simply put, there is no circuit split.",
+ "cluster_id": 7356836,
+ "cite": "United States v. Helaman Hansen, 40 F.4th 1049 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-07-25",
+ "url": "https://www.courtlistener.com/opinion/7356836/united-states-v-helaman-hansen/",
+ "usage": {
+  "in": 2597,
+  "out": 1339
+ }
+}

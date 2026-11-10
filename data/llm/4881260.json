@@ -1,0 +1,64 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a First Step Act \u00a7 404(b) resentencing for a crack cocaine offense, must or may the district court apply Guidelines and case-law changes that postdate the original sentencing, or is it limited to the changes mandated by the 2010 Fair Sentencing Act?",
+ "provision": "First Step Act of 2018, Pub. L. 115-391, \u00a7 404(b), 132 Stat. 5194, 5222",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A First Step Act resentencing is limited to the changes mandated by the 2010 Fair Sentencing Act; the court places itself at the time of the original sentencing.",
+   "circuits": [
+    "2d",
+    "5th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Hegwood, 934 F.3d 414 (5th Cir. 2019)",
+    "United States v. Moore, 975 F.3d 84 (2d Cir. 2020)",
+    "United States v. Kelley, 962 F.3d 470 (9th Cir. 2020)",
+    "United States v. Denson, 963 F.3d 1080 (11th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "A district court may consider intervening law in a First Step Act resentencing but is not required to do so.",
+   "circuits": [
+    "1st",
+    "6th",
+    "7th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Concepcion, 991 F.3d 279 (1st Cir. 2021)",
+    "United States v. Maxwell, 991 F.3d 685 (6th Cir. 2021)",
+    "United States v. Shaw, 957 F.3d 734 (7th Cir. 2020)",
+    "United States v. Brown, 974 F.3d 1137 (10th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "A First Step Act resentencing requires the court to correct any Guidelines error and recalculate the range under all intervening law, subject to procedural and substantive reasonableness review.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Lancaster, 997 F.3d 171 (4th Cir. 2021)",
+    "United States v. Chambers, 956 F.3d 667 (4th Cir. 2020)",
+    "United States v. Collington, No. 19-6721, 2021 WL 1608756 (4th Cir. Apr. 26, 2021)"
+   ]
+  }
+ ],
+ "this_court": "The Fourth Circuit requires district courts to apply intervening law, including non-retroactive Guidelines errors, in First Step Act resentencings, following Chambers and Collington, and vacates and remands on that basis.",
+ "source": "concurrence",
+ "confidence": 0.8,
+ "quote": "On one end of this circuit split, the Second, Fifth, Ninth, and Eleventh circuits have held that \u00a7 404(b) of the First Step Act limits district courts to reducing sentences based on only \u201cthe changes mandated by the 2010 Fair Sentencing Act.\u201d",
+ "cluster_id": 4881260,
+ "cite": "United States v. Christopher Lancaster, 997 F.3d 171 (4th Cir. 2021)",
+ "court": "4th",
+ "date": "2021-05-07",
+ "url": "https://www.courtlistener.com/opinion/4881260/united-states-v-christopher-lancaster/",
+ "usage": {
+  "in": 3301,
+  "out": 2725
+ }
+}

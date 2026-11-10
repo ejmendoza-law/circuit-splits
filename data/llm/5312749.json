@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a successive habeas challenge based on Johnson, what burden of proof applies when the original sentencing record is unclear about whether the court relied on the ACCA's residual clause or its enumerated clause?",
+ "provision": "18 U.S.C. \u00a7 924(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "\"May have relied\" approach: if the record shows the sentencing court may have relied on the residual clause, the inmate may bring a successive habeas petition on Johnson grounds.",
+   "circuits": [
+    "4th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Winston, 850 F.3d 677, 682 (4th Cir. 2017)",
+    "Savoca v. United States, 21 F.4th 225 (2d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "A contrasting burden-of-proof rule for unclear sentencing records, which the excerpt describes only as a competing approach without stating its content.",
+   "circuits": [],
+   "cases": [
+    "Savoca v. United States, 21 F.4th 225 (2d Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "As Mr. Savoca notes, there is currently a circuit split as to a petitioner\u2019s burden of proof where the sentencing record is \u201cunclear\u201d as to which ACCA clause an original sentencing court relied on.",
+ "cluster_id": 5312749,
+ "cite": "Savoca v. United States, 21 F.4th 225 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-12-29",
+ "url": "https://www.courtlistener.com/opinion/5312749/savoca-v-united-states/",
+ "usage": {
+  "in": 1311,
+  "out": 1572
+ }
+}

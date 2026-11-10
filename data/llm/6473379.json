@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Kisor v. Wilkie narrow the deference that Stinson v. United States requires courts to give the Sentencing Guidelines commentary, so that commentary such as the \u00a7 4B1.2 commentary no longer binds courts unless the Guideline text is ambiguous?",
+ "provision": "U.S.S.G. \u00a7 4B1.2 (commentary); Stinson v. United States, 508 U.S. 36 (1993); Kisor v. Wilkie, 139 S. Ct. 2400 (2019)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Kisor receded from Stinson deference, so Guidelines commentary is not binding on courts and does not control the meaning of the Guideline text.",
+   "circuits": [
+    "3d",
+    "4th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Nasir, 17 F.4th 459, 471\u201372 (3d Cir. 2021) (en banc)",
+    "United States v. Riccardi, 989 F.3d 476, 484 (6th Cir. 2021)",
+    "United States v. Campbell, 22 F.4th 438, 444\u201345, 447 (4th Cir. 2022)",
+    "United States v. Vargas, 35 F.4th 936 (5th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Kisor does not apply to the Sentencing Commission's official commentary, so Stinson deference to the commentary remains in force.",
+   "circuits": [
+    "4th",
+    "5th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Moses, 23 F.4th 347, 356\u201357 (4th Cir. 2022)",
+    "United States v. Pratt, No. 20-10328, 2021 WL 5918003, at *2 (9th Cir. Dec. 15, 2021)",
+    "United States v. Broadway, 815 F. App'x 95, 96 & n.2 (8th Cir. 2020)",
+    "United States v. Vargas, 35 F.4th 936 (5th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Follows the view that Stinson deference to the Guidelines commentary survives Kisor, holding itself bound by Lightbourn and Kendrick under the rule of orderliness, while acknowledging that a blank-slate reading might favor the contrary view.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The Third and Sixth Circuits, and one Fourth Circuit panel, have held that Kisor receded from the deference previously afforded to the Guidelines commentary under Stinson.",
+ "cluster_id": 6473379,
+ "cite": "United States v. Vargas, 35 F.4th 936 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-05-31",
+ "url": "https://www.courtlistener.com/opinion/6473379/united-states-v-vargas/",
+ "usage": {
+  "in": 1316,
+  "out": 1944
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4884692,
+ "cite": "United States v. Muhammad Waqar, 997 F.3d 481 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-05-20",
+ "url": "https://www.courtlistener.com/opinion/4884692/united-states-v-muhammad-waqar/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4840895,
+ "cite": "United States v. Trontez Mahaffey, 983 F.3d 238 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-12-18",
+ "url": "https://www.courtlistener.com/opinion/4840895/united-states-v-trontez-mahaffey/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

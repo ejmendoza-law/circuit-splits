@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is an appeal from a Hyde Amendment fee award civil or criminal for purposes of Federal Rule of Appellate Procedure 4's deadlines?",
+ "provision": "Fed. R. App. P. 4; Hyde Amendment, Pub. L. No. 105-119, \u00a7 617",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "An appeal from a Hyde Amendment award is civil for purposes of Rule 4",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Truesdale, 211 F.3d 898 (5th Cir. 2000)"
+   ]
+  },
+  {
+   "position": "An appeal from a Hyde Amendment award is criminal for purposes of Rule 4",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Robbins, 179 F.3d 1268 (10th Cir. 1999)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Despite a circuit conflict over whether an appeal from a Hyde Amendment application is civil or criminal for purposes of Federal Rule of Appellate Procedure 4, compare, e.g., United States v. Truesdale, 211 F.3d 898, 902\u201304 (5th Cir. 2000) (civil), with, e.g., United States v. Robbins, 179 F.3d 1268, 1269\u201370 (10th Cir. 1999) (criminal), we are assured of our jurisdiction and need not decide the issue",
+ "cluster_id": 4754955,
+ "cite": "United States v. Mario Reyes-Romero, 959 F.3d 80 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-05-19",
+ "url": "https://www.courtlistener.com/opinion/4754955/united-states-v-mario-reyes-romero/",
+ "usage": {
+  "in": 1315,
+  "out": 1719
+ }
+}

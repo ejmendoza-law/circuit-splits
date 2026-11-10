@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a jury's special interrogatory finds drug quantity below a mandatory-minimum threshold, may the sentencing judge find a higher quantity by a preponderance of the evidence, or is the jury's answer an affirmative finding of the actual amount that binds the court?",
+ "provision": "21 U.S.C. \u00a7 841(b)(1)",
+ "topic": "Drug offenses",
+ "sides": [
+  {
+   "position": "The jury's special-interrogatory answer is an affirmative finding of the actual drug quantity attributable to the defendant, and the sentencing judge may not contradict it by finding a larger amount.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Pimentel-Lopez, 859 F.3d 1134 (9th Cir. 2017)"
+   ]
+  },
+  {
+   "position": "The jury's answer is at most an acquittal on the greater amounts, so the sentencing judge may find a higher drug quantity by a preponderance of the evidence despite the jury's special-interrogatory finding.",
+   "circuits": [
+    "3d",
+    "8th",
+    "10th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Smith, 751 F.3d 107 (3d Cir. 2014)",
+    "United States v. Webb, 545 F.3d 667 (8th Cir. 2008)",
+    "United States v. Magallanez, 408 F.3d 672 (10th Cir. 2005)",
+    "United States v. Leontaritis, No. 19-40498 (5th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The majority takes the second position, holding that the jury's verdict on the special interrogatory does not bind the sentencing judge's drug-quantity finding. The dissent argues the majority joins the wrong side of the split.",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "On the other side lie the Third, Eighth, Tenth, and, now, Fifth Circuits.",
+ "cluster_id": 4795240,
+ "cite": "United States v. John Leontaritis, No. 19-40498 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-10-09",
+ "url": "https://www.courtlistener.com/opinion/4795240/united-states-v-john-leontaritis/",
+ "usage": {
+  "in": 1315,
+  "out": 2430
+ }
+}

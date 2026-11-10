@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4835044,
+ "cite": "United States v. Robert Collazo, 984 F.3d 1308 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-12-02",
+ "url": "https://www.courtlistener.com/opinion/4835044/united-states-v-robert-collazo/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

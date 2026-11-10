@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the word \"and\" in the First Step Act's safety-valve provision, 18 U.S.C. \u00a7 3553(f)(1), mean that a defendant must satisfy all listed criteria (conjunctive), or may it be read as \"or\" (disjunctive), so that a defendant who satisfies only one criterion is eligible for the safety valve?",
+ "provision": "18 U.S.C. \u00a7 3553(f)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "\"And\" is unambiguously conjunctive: a defendant must satisfy all of the \u00a7 3553(f)(1) criteria to qualify for relief from the statutory minimum.",
+   "circuits": [
+    "5th",
+    "6th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Palomares, 52 F.4th 640 (5th Cir. 2022)",
+    "United States v. Haynes, 2022 WL 17750939 (6th Cir. 2022)",
+    "United States v. Pulsifer, 39 F.4th 1018 (8th Cir. 2022)",
+    "United States v. Lopez, 58 F.4th 1108 (9th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "\"And\" means \"or\" (disjunctive) in \u00a7 3553(f)(1), so a defendant need not satisfy every criterion to qualify for the safety valve.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Pace, 48 F.4th 741 (7th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "The panel holds that \"and\" in \u00a7 3553(f)(1) is unambiguously conjunctive, so the conjunctive side.",
+ "source": "concurrence",
+ "confidence": 0.5,
+ "quote": "Courts and judges around the country have split on this issue. Given the deep split, this issue warrants Supreme Court review.",
+ "cluster_id": 9371194,
+ "cite": "United States v. Eric Lopez, 58 F.4th 1108 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-01-27",
+ "url": "https://www.courtlistener.com/opinion/9371194/united-states-v-eric-lopez/",
+ "usage": {
+  "in": 2076,
+  "out": 2747
+ }
+}

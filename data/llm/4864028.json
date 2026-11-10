@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4864028,
+ "cite": "United States v. Concepcion, 991 F.3d 279 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-03-15",
+ "url": "https://www.courtlistener.com/opinion/4864028/united-states-v-concepcion/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The spirited dissent in Davis and the circuit split that predated it suggest that precedent did not dictate the decision.",
+ "cluster_id": 4731909,
+ "cite": "In re John W. Franklin, 950 F.3d 909 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-03-03",
+ "url": "https://www.courtlistener.com/opinion/4731909/in-re-john-w-franklin/",
+ "usage": {
+  "in": 1312,
+  "out": 757
+ }
+}

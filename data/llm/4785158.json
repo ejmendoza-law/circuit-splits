@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under \u00a7 404 of the First Step Act, may a district court recalculate a covered offender's Guidelines range to account for changes in law beyond Sections 2 and 3 of the Fair Sentencing Act, such as new Guidelines provisions or new judicial interpretations?",
+ "provision": "First Step Act of 2018 \u00a7 404; Fair Sentencing Act of 2010 \u00a7\u00a7 2\u20133",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "No. The court may consider only the changes to the law made by Sections 2 and 3 of the Fair Sentencing Act; it may not reduce the sentence based on other changes in law.",
+   "circuits": [
+    "2d",
+    "5th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Denson, 963 F.3d 1080 (11th Cir. 2020)",
+    "United States v. Kelley, 962 F.3d 470 (9th Cir. 2020)",
+    "United States v. Hegwood, 934 F.3d 414 (5th Cir. 2019)",
+    "United States v. Moore, No. 19-1390-cr (2d Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Yes, the district court may account for other changes in the law when recalculating the Guidelines range. The excerpts say other circuits split on this issue but do not name the circuits or cases on this side.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "Narrow side: the First Step Act does not require recalculating the Guidelines range for changes other than those in Sections 2 and 3 of the Fair Sentencing Act, and the court rejects Moore's contrary argument.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "We recognize that other Circuits have split on this issue.",
+ "cluster_id": 4785158,
+ "cite": "United States v. Moore, No. 19-1390-cr (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-09-15",
+ "url": "https://www.courtlistener.com/opinion/4785158/united-states-v-moore/",
+ "usage": {
+  "in": 1313,
+  "out": 2407
+ }
+}

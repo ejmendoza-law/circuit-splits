@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a defendant eligible for safety valve relief under 18 U.S.C. \u00a7 3553(f)(1) if she has fewer than all three of the listed criminal history characteristics, or is she ineligible if she has any one of them?",
+ "provision": "18 U.S.C. \u00a7 3553(f)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Section 3553(f)(1) is conjunctive: a defendant is disqualified from safety valve relief only if she has all three listed criminal history characteristics. Having fewer than all three does not bar relief.",
+   "circuits": [
+    "4th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Garcon, 54 F.4th 1274 (11th Cir. 2022) (en banc)",
+    "United States v. Lopez, 998 F.3d 431 (9th Cir. 2021)",
+    "United States v. Jones, 60 F.4th 230 (4th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Having any one of the listed criminal history characteristics renders a defendant ineligible for safety valve relief under \u00a7 3553(f)(1).",
+   "circuits": [
+    "5th",
+    "7th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Palomares, 52 F.4th 640 (5th Cir. 2022)",
+    "United States v. Pace, 48 F.4th 741 (7th Cir. 2022)",
+    "United States v. Pulsifer, 39 F.4th 1018 (8th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the conjunctive reading: a defendant with fewer than all three \u00a7 3553(f)(1) criminal history characteristics remains eligible for safety valve relief. The court rejects the Government's position that 'and' effectively means 'or.'",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The circuits are split on this issue.",
+ "cluster_id": 9378931,
+ "cite": "United States v. Cassity Jones, 60 F.4th 230 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-02-21",
+ "url": "https://www.courtlistener.com/opinion/9378931/united-states-v-cassity-jones/",
+ "usage": {
+  "in": 1315,
+  "out": 1751
+ }
+}

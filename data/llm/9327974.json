@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the safety-valve provision, does a defendant become ineligible for relief if he has any one of the three listed criminal-history features (more than 4 points, a prior 3-point offense, or a prior 2-point violent offense), or only if he has all three?",
+ "provision": "18 U.S.C. \u00a7 3553(f)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The \"and\" in \u00a7 3553(f)(1) is conjunctive, so a defendant is disqualified from safety-valve relief only if he possesses all three criminal-history criteria.",
+   "circuits": [
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Lopez, 998 F.3d 431 (9th Cir. 2021)",
+    "United States v. Garcon, 54 F.4th 1274 (11th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "A defendant who possesses any one of the three specified criminal-history criteria is disqualified from safety-valve relief, whether the \"and\" is read as disjunctive or as conjunctive but distributive.",
+   "circuits": [
+    "5th",
+    "7th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Palomares, 52 F.4th 640 (5th Cir. 2022)",
+    "United States v. Pulsifer, 39 F.4th 1018 (8th Cir. 2022)",
+    "United States v. Pace, 48 F.4th 741 (7th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the conjunctive reading: a defendant must possess all three criteria to be disqualified, siding with the Ninth Circuit.",
+ "source": "dissent",
+ "confidence": 0.85,
+ "quote": "A circuit split now exists on this issue.",
+ "cluster_id": 9327974,
+ "cite": "United States v. Julian Garcon, 54 F.4th 1274 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-12-06",
+ "url": "https://www.courtlistener.com/opinion/9327974/united-states-v-julian-garcon/",
+ "usage": {
+  "in": 2139,
+  "out": 1812
+ }
+}

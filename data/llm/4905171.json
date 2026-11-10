@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under 18 U.S.C. \u00a7 3582(c)(1)(A), must a prisoner fully exhaust BOP administrative appeals before filing a compassionate release motion, or may he file once 30 days pass after the warden receives the request, even if the warden denied it within that period?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "The prisoner must first let the BOP review the request and make a recommendation, or wait out 30 days in silence, before filing in court; a warden's denial within 30 days requires full administrative exhaustion.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Gunn, 980 F.3d 1178 (10th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "The prisoner may file in federal court 30 days after the warden receives the request, regardless of any administrative appeals still available, so full exhaustion is not required.",
+   "circuits": [
+    "3d",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Alam, 960 F.3d 831 (6th Cir. 2020)",
+    "United States v. Harris, 973 F.3d 170 (3d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "The circuit courts also appear to be divided on this issue.",
+ "cluster_id": 4905171,
+ "cite": "United States v. Saladino, 7 F.4th 120 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-08-04",
+ "url": "https://www.courtlistener.com/opinion/4905171/united-states-v-saladino/",
+ "usage": {
+  "in": 1312,
+  "out": 2014
+ }
+}

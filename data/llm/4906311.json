@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4906311,
+ "cite": "United States v. Davian Warren, 8 F.4th 444 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-08-09",
+ "url": "https://www.courtlistener.com/opinion/4906311/united-states-v-davian-warren/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

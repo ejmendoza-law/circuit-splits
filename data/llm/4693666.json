@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal prisoner use the \u00a7 2255(e) savings clause to seek \u00a7 2241 relief based on an intervening circuit decision that changed the sentencing circuit's law, or must the new interpretation come from the Supreme Court?",
+ "provision": "28 U.S.C. \u00a7 2255(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The \u00a7 2255(e) savings clause is not dependent only on a change in Supreme Court law, so a prisoner may proceed under \u00a7 2241 where the savings clause's general 'inadequate or ineffective' language is met.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "Wheeler, 886 F.3d 415 (4th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "The \u00a7 2255(e) savings clause requires that the new interpretation spring from a Supreme Court decision, because \u00a7 2255(h)(2) requires a new Supreme Court decision for second or successive motions and the savings clause cannot be read to undo that limit.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Hueso v. Barnhart, 948 F.3d 324 (6th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Sixth Circuit takes the position that the savings clause's new interpretation must come from the Supreme Court, and it expressly rejects the Fourth Circuit's Wheeler view.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "But a circuit conflict would exist over the meaning of \u00a7 2255(e) no matter how we resolved Hueso's case.",
+ "cluster_id": 4693666,
+ "cite": "Ramon Hueso v. J.A. Barnhart, 948 F.3d 324 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-01-09",
+ "url": "https://www.courtlistener.com/opinion/4693666/ramon-hueso-v-ja-barnhart/",
+ "usage": {
+  "in": 2520,
+  "out": 2452
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4780989,
+ "cite": "United States v. William Ford, No. 17-2854 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-08-28",
+ "url": "https://www.courtlistener.com/opinion/4780989/united-states-v-william-ford/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4796213,
+ "cite": "United States v. Yuly Kroytor, 977 F.3d 957 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-10-14",
+ "url": "https://www.courtlistener.com/opinion/4796213/united-states-v-yuly-kroytor/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

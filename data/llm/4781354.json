@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Amendment 579 to the Sentencing Guidelines (1998), which the Fifth Circuit held made clear that a failure-to-appear count is grouped with the underlying offense for sentencing but remains a separate offense with an incremental, consecutive punishment.",
+ "issue": "Must a failure-to-appear count under 18 U.S.C. \u00a7 3146 be grouped with the underlying offense under the Sentencing Guidelines, or does grouping defeat the statute's mandate of a consecutive sentence?",
+ "provision": "U.S.S.G. \u00a7 2J1.6; 18 U.S.C. \u00a7 3146",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Failure-to-appear count is grouped with the underlying offense under the grouping rules, which do not violate the statutory consecutive-sentence mandate.",
+   "circuits": [
+    "1st",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Agoro, 996 F.2d 1288 (1st Cir. 1993)",
+    "United States v. Flores, No. 93-3771, 1994 WL 163766 (6th Cir. May 2, 1994)"
+   ]
+  },
+  {
+   "position": "Grouping rules defeat the statutory purposes of 18 U.S.C. \u00a7 3146, so the failure-to-appear count may not be grouped with the underlying offense.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Packer, 70 F.3d 357 (5th Cir. 1995)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "This amendment addresses a circuit conflict regarding whether the guideline procedure of grouping the failure to appear count of conviction with the count of conviction for the underlying offense violates the statutory mandate of imposing a consecutive sentence.",
+ "cluster_id": 4781354,
+ "cite": "United States v. Rene Izaguirre, 973 F.3d 377 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-08-31",
+ "url": "https://www.courtlistener.com/opinion/4781354/united-states-v-rene-izaguirre/",
+ "usage": {
+  "in": 1871,
+  "out": 1686
+ }
+}

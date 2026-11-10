@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the 'reasonable belief' standard that permits police to enter a third party's home to arrest a suspect require probable cause, or is it a lesser standard?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Reasonable belief amounts to probable cause.",
+   "circuits": [
+    "5th",
+    "6th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Barrera, 464 F.3d 496 (5th Cir. 2006)",
+    "United States v. Hardin, 539 F.3d 404 (6th Cir. 2008)",
+    "United States v. Gorman, 314 F.3d 1105 (9th Cir. 2002)",
+    "United States v. Magluta, 44 F.3d 1530 (11th Cir. 1995)"
+   ]
+  },
+  {
+   "position": "Reasonable belief requires something less than probable cause.",
+   "circuits": [
+    "2d",
+    "10th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Lauter, 57 F.3d 212 (2d Cir. 1995)",
+    "Valdez v. McPheters, 172 F.3d 1220 (10th Cir. 1999)",
+    "United States v. Thomas, 429 F.3d 282 (D.C. Cir. 2005)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our sister circuits are split as to the definition of \u201creasonable belief.\u201d",
+ "cluster_id": 9356749,
+ "cite": "United States v. Justin Thabit, 56 F.4th 1145 (8th Cir. 2023)",
+ "court": "8th",
+ "date": "2023-01-05",
+ "url": "https://www.courtlistener.com/opinion/9356749/united-states-v-justin-thabit/",
+ "usage": {
+  "in": 1317,
+  "out": 1598
+ }
+}

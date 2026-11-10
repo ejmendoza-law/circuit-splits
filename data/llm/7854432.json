@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "The defendants' only response is that, if a circuit split arises, the Supreme Court can resolve it.",
+ "cluster_id": 7854432,
+ "cite": "Christopher Beaty, Jr. v. Fair Acres Geriatric Center, No. 21-7096 (D.C. Cir. 2022)",
+ "court": "D.C.",
+ "date": "2022-08-05",
+ "url": "https://www.courtlistener.com/opinion/7854432/christopher-beaty-jr-v-fair-acres-geriatric-center/",
+ "usage": {
+  "in": 1320,
+  "out": 352
+ }
+}

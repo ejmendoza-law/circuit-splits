@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5065022,
+ "cite": "United States v. Raymond Cartwright, Jr., No. 19-5852 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-08-31",
+ "url": "https://www.courtlistener.com/opinion/5065022/united-states-v-raymond-cartwright-jr/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the bar in 28 U.S.C. \u00a7 2244(b)(1) on re-presenting a claim from a prior application apply to second or successive motions for federal postconviction relief under 28 U.S.C. \u00a7 2255?",
+ "provision": "28 U.S.C. \u00a7 2244(b)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Section 2244(b)(1) applies to second or successive \u00a7 2255 motions, so a claim already presented in a prior application must be dismissed.",
+   "circuits": [
+    "2d",
+    "3d",
+    "5th",
+    "7th",
+    "8th",
+    "11th"
+   ],
+   "cases": [
+    "Winarske v. United States, 913 F.3d 765 (8th Cir. 2019)",
+    "In re Baptiste, 828 F.3d 1337 (11th Cir. 2016)"
+   ]
+  },
+  {
+   "position": "Section 2244(b)(1) does not apply to second or successive \u00a7 2255 motions; such motions are analyzed only under the gateway provisions of \u00a7 2255(h).",
+   "circuits": [
+    "6th",
+    "9th"
+   ],
+   "cases": [
+    "Jones v. United States, No. 20-71862 (9th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not apply \u00a7 2244(b)(1) to second or successive \u00a7 2255 motions; analyzes them under \u00a7 2255(h) instead, which aligns it with the Sixth Circuit",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "This court has not yet decided whether the bar in \u00a7 2244(b)(1) applies to second or successive \u00a7 2255 motions, and our sister circuits are divided on the matter.",
+ "cluster_id": 6467465,
+ "cite": "Willie Jones, Sr. v. United States, No. 20-71862 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-05-11",
+ "url": "https://www.courtlistener.com/opinion/6467465/willie-jones-sr-v-united-states/",
+ "usage": {
+  "in": 3555,
+  "out": 1305
+ }
+}

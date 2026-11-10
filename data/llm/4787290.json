@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4787290,
+ "cite": "Butcher v. Wendt, 975 F.3d 236 (2d Cir. 2020)",
+ "court": "2d",
+ "date": "2020-09-22",
+ "url": "https://www.courtlistener.com/opinion/4787290/butcher-v-wendt/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

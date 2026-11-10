@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We recognize that there is a circuit split on the issue of whether an alien subject to a reinstated removal order who pursues withholdingonly relief is subject to detention pursuant to \u00a7 1226(a) or \u00a7 1231(a)(6).",
+ "cluster_id": 4742860,
+ "cite": "Esteban Aleman Gonzalez v. William Barr, 955 F.3d 762 (9th Cir. 2020)",
+ "court": "9th",
+ "date": "2020-04-07",
+ "url": "https://www.courtlistener.com/opinion/4742860/esteban-aleman-gonzalez-v-william-barr/",
+ "usage": {
+  "in": 1316,
+  "out": 886
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can reasonable suspicion for an investigatory stop rest on an anonymous tip that police corroborate only as to innocent details, or must the corroborated facts point to criminal activity?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Reasonable suspicion requires corroboration of the tip that points to criminal activity; corroborated innocent conduct alone does not suffice (the criminal-corroboration rule, as described in the dissent).",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Norbert, No. 20-60106 (5th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Reasonable suspicion of criminal activity may be formed by observing exclusively legal activity, and it need not rule out the possibility of innocent conduct.",
+   "circuits": [
+    "2d",
+    "7th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Wanjiku, 919 F.3d 472 (7th Cir. 2019)",
+    "United States v. Matchett, 802 F.3d 1185 (11th Cir. 2015)",
+    "United States v. Diaz, 802 F.3d 234 (2d Cir. 2015)",
+    "United States v. Alvarez, 899 F.2d 833 (9th Cir. 1990)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the criminal-corroboration rule, under which corroborated innocent details do not establish reasonable suspicion (as the dissent characterizes the majority's holding).",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "Second, the majority\u2019s criminal-corroboration rule creates a circuit split.",
+ "cluster_id": 4865031,
+ "cite": "United States v. Norbert, No. 20-60106 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-03-16",
+ "url": "https://www.courtlistener.com/opinion/4865031/united-states-v-norbert/",
+ "usage": {
+  "in": 1315,
+  "out": 1781
+ }
+}

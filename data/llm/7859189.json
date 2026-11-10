@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Dixson v. United States, 465 U.S. 482 (1984), which the opinion says the Court granted certiorari to resolve; Congress then enacted \u00a7 666",
+ "issue": "Does the term 'public official' in the general federal bribery statute, 18 U.S.C. \u00a7 201, include state and local officials?",
+ "provision": "18 U.S.C. \u00a7 666",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The Supreme Court granted certiorari in a case to resolve the split over this issue, Dixson v. United States, 465 U.S. 482 (1984), but once it did, Congress enacted \u00a7 666 to \u201cextend federal bribery prohibitions to bribes offered to state and local officials employed by agencies receiving federal funds,\u201d Salinas v. United States, 522 U.S. 52, 58 (1997).",
+ "cluster_id": 7859189,
+ "cite": "United States v. Hamilton, 46 F.4th 389 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-08-23",
+ "url": "https://www.courtlistener.com/opinion/7859189/united-states-v-hamilton/",
+ "usage": {
+  "in": 1312,
+  "out": 1430
+ }
+}

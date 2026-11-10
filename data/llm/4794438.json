@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4794438,
+ "cite": "United States v. Toddrey Willie Bruce, 977 F.3d 1112 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-10-08",
+ "url": "https://www.courtlistener.com/opinion/4794438/united-states-v-toddrey-willie-bruce/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

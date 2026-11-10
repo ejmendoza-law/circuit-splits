@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We note that, in considering the provision's purpose, we find it unnecessary to take a position on the circuit split regarding whether \u00a7 1252(g) applies only to discretionary decisions and actions.",
+ "cluster_id": 9327648,
+ "cite": "Riccy Enriquez-Perdomo v. Ricardo Newman, No. 20-6393 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-12-05",
+ "url": "https://www.courtlistener.com/opinion/9327648/riccy-enriquez-perdomo-v-ricardo-newman/",
+ "usage": {
+  "in": 1316,
+  "out": 604
+ }
+}

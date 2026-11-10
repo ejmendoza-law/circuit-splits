@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the Schlup actual-innocence gateway, must new evidence be newly discovered (unavailable or undiscoverable at trial), or is it enough that it is newly presented, with its availability at trial irrelevant?",
+ "provision": "28 U.S.C. \u00a7 2254; Schlup v. Delo gateway for procedurally barred claims",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "New evidence must be newly discovered, meaning it was not available or discoverable at the time of trial.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "New evidence need only be newly presented; its availability or discoverability at the time of trial is irrelevant.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "There is a circuit split regarding whether the testimony of these alibi witnesses qualifies under Schlup as \u201cnew\u201d evidence of innocence.",
+ "cluster_id": 6450999,
+ "cite": "Crosley Alexander Green v. Secretary, Department of Corrections, 28 F.4th 1089 (11th Cir. 2022)",
+ "court": "11th",
+ "date": "2022-03-14",
+ "url": "https://www.courtlistener.com/opinion/6450999/crosley-alexander-green-v-secretary-department-of-corrections/",
+ "usage": {
+  "in": 1323,
+  "out": 1543
+ }
+}

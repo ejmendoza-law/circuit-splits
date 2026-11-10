@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "28 U.S.C. \u00a7 2254(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We see no reason to reach a different conclusion here (and would create a circuit split if we did).",
+ "cluster_id": 5032040,
+ "cite": "Victor Taylor v. Scott Jordan, 10 F.4th 625 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-08-23",
+ "url": "https://www.courtlistener.com/opinion/5032040/victor-taylor-v-scott-jordan/",
+ "usage": {
+  "in": 1316,
+  "out": 537
+ }
+}

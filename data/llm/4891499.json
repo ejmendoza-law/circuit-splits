@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under Payton v. New York, must officers have probable cause to believe an arrestee is inside a home before entering without a search warrant, or does 'reason to believe' require something less?",
+ "provision": "U.S. Const. amend. IV; Payton v. New York, 445 U.S. 573, 603 (1980)",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "'Reason to believe' under Payton embodies the same standard of reasonableness as probable cause.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Gorman, 314 F.3d 1105, 1112 (9th Cir. 2002)"
+   ]
+  },
+  {
+   "position": "'Reason to believe' under Payton means something less than probable cause.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "Valdez v. McPheters, 172 F.3d 1220, 1224\u201325, 1227 n.5 (10th Cir. 1999)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "However, there is a circuit split over the meaning of \u201creason to believe\u201d under Payton.",
+ "cluster_id": 4891499,
+ "cite": "United States v. Maley, No. 20-2073 (10th Cir. 2021)",
+ "court": "10th",
+ "date": "2021-06-14",
+ "url": "https://www.courtlistener.com/opinion/4891499/united-states-v-maley/",
+ "usage": {
+  "in": 1312,
+  "out": 1426
+ }
+}

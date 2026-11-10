@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a Florida robbery conviction under Fla. Stat. \u00a7 812.13, as it stood before 1997 and could be committed by mere snatching, qualify as a violent felony under the ACCA's elements clause, which requires the use of violent force?",
+ "provision": "18 U.S.C. \u00a7 924(e)(2)(B)(i)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A defendant can violate Fla. Stat. \u00a7 812.13 without using violent force, so the offense does not categorically qualify under the ACCA's elements clause.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Geozos, 870 F.3d 890 (9th Cir. 2017)"
+   ]
+  },
+  {
+   "position": "The ACCA's elements clause does not count the Florida robbery offense as categorically lacking violent force; the court declines to follow Geozos as an incorrect decision, and its own precedent controls.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Welch v. United States, 958 F.3d 1093 (11th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "He is referring to a decision from the Ninth Circuit, United States v. Geozos, where that court concluded that a defendant could violate \u00a7 812.13 \u201cwithout using violent force.\u201d",
+ "cluster_id": 4751790,
+ "cite": "Gregory Welch v. United States, 958 F.3d 1093 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-05-06",
+ "url": "https://www.courtlistener.com/opinion/4751790/gregory-welch-v-united-states/",
+ "usage": {
+  "in": 2032,
+  "out": 2396
+ }
+}

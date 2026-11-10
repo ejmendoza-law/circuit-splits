@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The district court declined to \"wade into that dispute\" because Wills's motion did not establish extraordinary and compelling reasons \"in any event.\"",
+ "cluster_id": 4865833,
+ "cite": "United States v. Jeffery Wills, No. 20-6142 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-03-19",
+ "url": "https://www.courtlistener.com/opinion/4865833/united-states-v-jeffery-wills/",
+ "usage": {
+  "in": 1315,
+  "out": 623
+ }
+}

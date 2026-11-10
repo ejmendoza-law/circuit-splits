@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4759767,
+ "cite": "Craig Wilson v. Mark Williams, 961 F.3d 829 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-06-09",
+ "url": "https://www.courtlistener.com/opinion/4759767/craig-wilson-v-mark-williams/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

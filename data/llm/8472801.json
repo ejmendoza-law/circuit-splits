@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "the district court included foreign losses though noted that the \"circuits are split on the issue,\"",
+ "cluster_id": 8472801,
+ "cite": "United States v. Lee Elbaz, 52 F.4th 593 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-11-03",
+ "url": "https://www.courtlistener.com/opinion/8472801/united-states-v-lee-elbaz/",
+ "usage": {
+  "in": 1314,
+  "out": 1399
+ }
+}

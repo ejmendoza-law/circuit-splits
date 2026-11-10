@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4724977,
+ "cite": "United States v. Apple Macpro Computer Apple Ma, 949 F.3d 102 (3rd Cir. 2020)",
+ "court": "3d",
+ "date": "2020-02-06",
+ "url": "https://www.courtlistener.com/opinion/4724977/united-states-v-apple-macpro-computer-apple-ma/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "The Fifth Circuit holds that the Board's cancellation-of-removal hardship determination is a reviewable mixed question of law under 8 U.S.C. \u00a7 1252(a)(2)(D).",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "When faced with the same question, two of our other sister circuits have disagreed that a cancellation-of-removal hardship determination is a non-discretionary mixed question after Guerrero-Lasprilla,",
+ "cluster_id": 4897230,
+ "cite": "Guerrero Trejo v. Garland, 3 F.4th 760 (5th Cir. 2021)",
+ "court": "5th",
+ "date": "2021-07-02",
+ "url": "https://www.courtlistener.com/opinion/4897230/guerrero-trejo-v-garland/",
+ "usage": {
+  "in": 1316,
+  "out": 1024
+ }
+}

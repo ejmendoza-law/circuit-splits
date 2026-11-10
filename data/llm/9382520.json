@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9382520,
+ "cite": "Cosey v. Lilley, 62 F.4th 74 (2d Cir. 2023)",
+ "court": "2d",
+ "date": "2023-03-09",
+ "url": "https://www.courtlistener.com/opinion/9382520/cosey-v-lilley/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

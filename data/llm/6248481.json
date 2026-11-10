@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a district court order disentitling a foreign citizen who remains abroad from seeking relief in his pending federal criminal case immediately appealable under the collateral order doctrine?",
+ "provision": "28 U.S.C. \u00a7 1291 (collateral order doctrine)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "A fugitive disentitlement order against a foreign citizen who remains abroad is immediately appealable under the collateral order doctrine.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Sindzingre, No. 19-1698 (2d Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Fugitive disentitlement orders are not immediately appealable, including where the order concerns a foreign citizen located abroad.",
+   "circuits": [
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Martirossian, 917 F.3d (9th Cir.) (cited at 887; circuit not stated in excerpt)",
+    "United States v. Shalhoub, 855 F.3d 1255 (11th Cir. 2017)"
+   ]
+  }
+ ],
+ "this_court": "Immediately appealable: the majority holds the court has jurisdiction to review such an order. The dissent, which identifies the split, argues the court should instead conclude it lacks appellate jurisdiction.",
+ "source": "dissent",
+ "confidence": 0.75,
+ "quote": "In doing so, it creates a split with our sister circuits who have held that fugitive disentitlement orders\u2014including those specifically involving, as here, a foreign citizen located abroad\u2014are not immediately appealable.",
+ "cluster_id": 6248481,
+ "cite": "United States v. Sindzingre, No. 19-1698 (2d Cir. 2022)",
+ "court": "2d",
+ "date": "2022-02-03",
+ "url": "https://www.courtlistener.com/opinion/6248481/united-states-v-sindzingre/",
+ "usage": {
+  "in": 1427,
+  "out": 2345
+ }
+}

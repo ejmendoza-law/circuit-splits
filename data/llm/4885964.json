@@ -1,0 +1,46 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What standard of appellate review applies to an unpreserved challenge to the sufficiency of the evidence in a criminal case: the miscarriage-of-justice/devoid-of-evidence test, or plain-error review under Olano?",
+ "provision": "Fed. R. Crim. P. 52(b); Jackson v. Virginia, 443 U.S. 307 (1979); Olano (United States v. Olano, 507 U.S. 725 (1993))",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Unpreserved sufficiency-of-the-evidence claims are reviewed under the miscarriage-of-justice/devoid-of-evidence standard, which predates Jackson.",
+   "circuits": [
+    "6th",
+    "D.C.",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Burris, 999 F.3d 973 (6th Cir. 2021)",
+    "United States v. Delgado, 672 F.3d 320 (6th Cir. 2012) (en banc)",
+    "United States v. Williams, 784 F.3d 798 (D.C. Cir. 2015)",
+    "United States v. Turner, 551 F.3d 657 (7th Cir. 2008)"
+   ]
+  },
+  {
+   "position": "Unpreserved sufficiency-of-the-evidence claims are reviewed under the more stringent plain-error standard (Olano), or under the Jackson standard, rather than the devoid-of-evidence test.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Wolfe, 245 F.3d 257 (3d Cir. 2001)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Because this standard predates Jackson and runs afoul of Olano\u2019s instructions involving plain-error review, we are concerned that our court may have chosen the wrong side of this circuit split.",
+ "cluster_id": 4885964,
+ "cite": "United States v. Sirshun Burris, 999 F.3d 973 (6th Cir. 2021)",
+ "court": "6th",
+ "date": "2021-05-25",
+ "url": "https://www.courtlistener.com/opinion/4885964/united-states-v-sirshun-burris/",
+ "usage": {
+  "in": 1314,
+  "out": 2658
+ }
+}

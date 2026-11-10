@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a Rehaif error, where the court failed to advise the defendant that the government must prove knowledge of prohibited status under 18 U.S.C. \u00a7 922(g), a structural error that requires reversal without a showing of prejudice on plain-error review?",
+ "provision": "18 U.S.C. \u00a7 922(g)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "The failure to instruct on or advise of the knowledge-of-status element is not a structural error; the defendant must show a reasonable probability he would have pleaded not guilty.",
+   "circuits": [
+    "7th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Williams, 946 F.3d 968 (7th Cir. 2020)",
+    "United States v. Trujillo, 960 F.3d 1196 (10th Cir. 2020)",
+    "United States v. Tignor, No. 19-1158 (10th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "The failure to advise of the knowledge-of-status element is a structural error that requires reversal of the conviction without a showing of prejudice.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Gary, 2020 WL 1443528 (4th Cir. Mar. 25, 2020)"
+   ]
+  }
+ ],
+ "this_court": "not structural (sides with the Seventh Circuit and the Trujillo holding; the defendant must show a reasonable probability of a different plea outcome)",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "Compare United States v. Williams, 946 F.3d 968, 972\u201373 (7th Cir. 2020) (concluding that this error was not structural), with United States v. Gary, ___ F.3d ___, 2020 WL 1443528, at *4 (4th Cir. Mar. 25, 2020) (concluding that this error was structural).",
+ "cluster_id": 4836359,
+ "cite": "United States v. Tignor, No. 19-1158 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-12-07",
+ "url": "https://www.courtlistener.com/opinion/4836359/united-states-v-tignor/",
+ "usage": {
+  "in": 1522,
+  "out": 2848
+ }
+}

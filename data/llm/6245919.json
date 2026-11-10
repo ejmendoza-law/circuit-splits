@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "To the extent that a few of our sister circuits have expressed willingness to entertain a defendant's specialty argument in the absence of an express waiver by the extraditing sovereign, none of them has done so in the face of such a waiver.",
+ "cluster_id": 6245919,
+ "cite": "United States v. Beltran-Leyva (Guzman Loera), 24 F.4th 144 (2d Cir. 2022)",
+ "court": "2d",
+ "date": "2022-01-25",
+ "url": "https://www.courtlistener.com/opinion/6245919/united-states-v-beltran-leyva-guzman-loera/",
+ "usage": {
+  "in": 1321,
+  "out": 546
+ }
+}

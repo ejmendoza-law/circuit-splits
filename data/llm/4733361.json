@@ -1,0 +1,46 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When deciding whether a supervised-release violation is a Grade A 'crime of violence' or 'controlled substance offense' under U.S.S.G. \u00a7 7B1.1(a), must the court apply the categorical approach to the elements of the new offense, or may it look to the defendant's actual conduct as the commentary to \u00a7 7B1.1 provides?",
+ "provision": "U.S.S.G. \u00a7 7B1.1(a)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "The categorical approach applies to determine whether new conduct is a 'crime of violence' or 'controlled substance offense' under \u00a7 7B1.1(a), because \u00a7 4B1.2's definitions incorporate the elements-based framework.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Garcia-Cartagena, 953 F.3d 14 (1st Cir. 2020)"
+   ]
+  },
+  {
+   "position": "The grade of a supervised-release violation is based on the defendant's actual conduct, not the offense of conviction or the categorical approach, relying on the commentary to \u00a7 7B1.1 (cmt. n.1).",
+   "circuits": [
+    "2d",
+    "7th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Golden, 843 F.3d 1162 (7th Cir. 2016)",
+    "United States v. Mendoza, 782 F.3d 1046 (8th Cir. 2015)",
+    "United States v. Cawley, 48 F.3d 90 (2d Cir. 1995)",
+    "United States v. Garcia-Cartagena, 953 F.3d 14 (1st Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "applies the categorical approach to determine whether the conduct is a crime of violence or controlled substance offense under \u00a7 7B1.1(a)",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "In concluding that the categorical approach applies here, we part ways with three other circuits.",
+ "cluster_id": 4733361,
+ "cite": "United States v. Garcia-Cartagena, 953 F.3d 14 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-03-06",
+ "url": "https://www.courtlistener.com/opinion/4733361/united-states-v-garcia-cartagena/",
+ "usage": {
+  "in": 1877,
+  "out": 1503
+ }
+}

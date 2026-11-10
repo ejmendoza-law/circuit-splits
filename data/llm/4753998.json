@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a \u00a7 2255 challenge to an ACCA sentence under Johnson, can the court deny relief by relying on currently valid prior convictions that were not considered at the original sentencing, or must the movant's sentence be assessed based on what the sentencing court actually relied on?",
+ "provision": "18 U.S.C. \u00a7 924(e); 28 U.S.C. \u00a7 2255",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A \u00a7 2255 movant seeking Johnson relief is entitled to relief when his ACCA sentence may have rested on the residual clause. The court's review is limited to what the sentencing court considered, so later-identified predicate convictions cannot be used to keep the enhanced sentence in place.",
+   "circuits": [
+    "4th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Hodge, 902 F.3d 419 (4th Cir. 2018)",
+    "United States v. Dotson, 949 F.3d 317 (7th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "District courts may rely on prior convictions not considered at the original sentencing, so that a movant who still has three valid ACCA predicates is not entitled to Johnson relief. The movant bears the burden of showing he is not eligible for the enhanced sentence.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Tribue v. United States, 929 F.3d 1326 (11th Cir. 2019)",
+    "Tribue v. United States, 958 F.3d 1148 (11th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The Eleventh Circuit takes the panel's position: district courts may rely on prior convictions not considered at the original sentencing, and rehearing en banc was denied. The dissent disagrees.",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "Finally, the panel opinion creates a split with the Fourth and Seventh Circuits, which confronted the same question presented by Mr. Tribue\u2019s case and came out differently.",
+ "cluster_id": 4753998,
+ "cite": "Alex Tribue v. United States, 958 F.3d 1148 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-05-14",
+ "url": "https://www.courtlistener.com/opinion/4753998/alex-tribue-v-united-states/",
+ "usage": {
+  "in": 1883,
+  "out": 2486
+ }
+}

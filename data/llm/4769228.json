@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 'controlled substance' in U.S.S.G. \u00a7 4B1.2(b) (the career offender guideline) refer to the federal Controlled Substances Act definition, or can it include a state drug offense that criminalizes substances the federal government does not control?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "'Controlled substance' in \u00a7 4B1.2(b) refers to the federal definition, so a state drug conviction counts as a predicate only if the substance is also federally controlled (the Jerome presumption favors federal law).",
+   "circuits": [
+    "2d",
+    "5th",
+    "8th",
+    "9th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Townsend, 897 F.3d 66 (2d Cir. 2018)",
+    "United States v. Leal-Vega, 680 F.3d 1160 (9th Cir. 2012)",
+    "United States v. Pittman, 736 F. App'x 551 (6th Cir. 2018)",
+    "United States v. Ruth, No. 20-1034 (7th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "'Controlled substance' in \u00a7 4B1.2(b) is not limited to federally controlled substances, so a state conviction for dealing a substance the state controls can qualify as a predicate offense.",
+   "circuits": [
+    "6th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Whitfield, 726 F. App'x 373 (6th Cir. 2018)",
+    "United States v. Sheffey, 2020 WL 3495944 (6th Cir. June 29, 2020)",
+    "United States v. Ruth, No. 20-1034 (7th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "We recognize that a circuit split exists on this issue, and that the weight of authority favors Ruth.",
+ "cluster_id": 4769228,
+ "cite": "United States v. Nathaniel Ruth, No. 20-1034 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-07-20",
+ "url": "https://www.courtlistener.com/opinion/4769228/united-states-v-nathaniel-ruth/",
+ "usage": {
+  "in": 1869,
+  "out": 2471
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Put di\ufb00erently, it took the Supreme Court deciding Dean to reveal the error in the Eighth Circuit\u2019s law, settle a circuit split, and announce a new rule.",
+ "cluster_id": 4739562,
+ "cite": "John Worman v. Frederick Entzel, No. 19-2048 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-03-26",
+ "url": "https://www.courtlistener.com/opinion/4739562/john-worman-v-frederick-entzel/",
+ "usage": {
+  "in": 1314,
+  "out": 1322
+ }
+}

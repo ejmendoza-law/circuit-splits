@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Quarles v. United States, 139 S. Ct. 1872 (2019), which held that generic burglary occurs regardless of when intent is formed, and then vacated and remanded Herrold I.",
+ "issue": "Does a burglary in which the intent to commit a crime is formed only after unlawful entry qualify as generic burglary under the ACCA's enumerated-offense clause?",
+ "provision": "18 U.S.C. \u00a7 924(e)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Burglary with post-entry intent is broader than generic burglary and so is not an ACCA violent felony (the Fifth Circuit en banc view later vacated in Herrold I).",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Herrold, 883 F.3d 517 (5th Cir. 2018) (en banc), vacated, 139 S. Ct. 2712 (2019)"
+   ]
+  },
+  {
+   "position": "Generic burglary includes burglaries with post-entry intent, so Texas or Tennessee burglary statutes are generic violent felonies (the view Quarles ultimately adopted).",
+   "circuits": [
+    "4th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Bonilla, 687 F.3d 188 (4th Cir. 2012)",
+    "United States v. Priddy, 808 F.3d 676 (6th Cir. 2015)",
+    "Quarles v. United States, 139 S. Ct. 1872 (2019)"
+   ]
+  }
+ ],
+ "this_court": "Following Quarles and Herrold II, the court holds that Texas burglary of a habitation is generic burglary and thus an ACCA violent felony, and it rejects the due process challenge to applying that law at sentencing.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "That circuit split created a reasonable likelihood that the Supreme Court would resolve the disagreement. It soon did so.",
+ "cluster_id": 6456403,
+ "cite": "United States v. Jackson, 30 F.4th 269 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-03-30",
+ "url": "https://www.courtlistener.com/opinion/6456403/united-states-v-jackson/",
+ "usage": {
+  "in": 2370,
+  "out": 2261
+ }
+}

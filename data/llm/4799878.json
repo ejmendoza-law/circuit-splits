@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4799878,
+ "cite": "United States v. Mercedes Wilson, 978 F.3d 990 (6th Cir. 2020)",
+ "court": "6th",
+ "date": "2020-10-23",
+ "url": "https://www.courtlistener.com/opinion/4799878/united-states-v-mercedes-wilson/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

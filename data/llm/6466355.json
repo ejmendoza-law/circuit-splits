@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 6466355,
+ "cite": "United States v. Randly Begay, 33 F.4th 1081 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-05-05",
+ "url": "https://www.courtlistener.com/opinion/6466355/united-states-v-randly-begay/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

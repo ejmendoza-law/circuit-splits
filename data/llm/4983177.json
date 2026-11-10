@@ -1,0 +1,43 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a prolonged immigration detention bond hearing under 8 U.S.C. \u00a7 1226(a), must the government bear the burden of proof on dangerousness and flight risk, or may the noncitizen bear the burden at first?",
+ "provision": "8 U.S.C. \u00a7 1226(a)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Due process requires the government to bear the burden of proof at a bond hearing, so the burden must always lie with the government (as held by the majority here).",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "Hernandez Lara v. Lyons, 10 F.4th 19 (1st Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The burden may lie initially with the noncitizen at a bond hearing, shifting to the government only once detention becomes unreasonable.",
+   "circuits": [
+    "2d",
+    "3d"
+   ],
+   "cases": [
+    "German Santos v. Warden Pike County Correctional Facility, 965 F.3d 203 (3d Cir. 2020)",
+    "Velasco Lopez v. Decker, 978 F.3d 842 (2d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The First Circuit holds that the burden must always lie with the government at the bond hearing.",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "Further review of the majority's holding is warranted to resolve this circuit split and to bring the First Circuit back into compliance with controlling precedent.",
+ "cluster_id": 4983177,
+ "cite": "Hernandez Lara v. Lyons, 10 F.4th 19 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-08-19",
+ "url": "https://www.courtlistener.com/opinion/4983177/hernandez-lara-v-lyons/",
+ "usage": {
+  "in": 2214,
+  "out": 1576
+ }
+}

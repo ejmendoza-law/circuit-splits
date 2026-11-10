@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a district court order disentitling a foreign defendant who has remained abroad, without evasion or concealment, immediately appealable under the collateral order doctrine?",
+ "provision": "28 U.S.C. \u00a7 1291",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "An order disentitling a foreign citizen who has remained at home abroad, without evasion, stealth, or concealment, is immediately appealable under the collateral order doctrine.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Sindzingre, 7 F.4th 127 (2d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Fugitive disentitlement orders, including those involving a foreign citizen located abroad, are not immediately appealable.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Shalhoub, 855 F.3d 1255 (11th Cir. 2017)",
+    "United States v. Martirossian, 917 F.3d at 887"
+   ]
+  }
+ ],
+ "this_court": "The majority holds the order is immediately appealable and this Court has jurisdiction. The dissent would hold the Court lacks appellate jurisdiction.",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "In doing so, it creates a split with our sister circuits who have held fugitive disentitlement orders\u2014and specifically involving, as here, a foreign citizen located abroad\u2014are not immediately appealable.",
+ "cluster_id": 4905502,
+ "cite": "United States v. Sindzingre, 7 F.4th 127 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-08-05",
+ "url": "https://www.courtlistener.com/opinion/4905502/united-states-v-sindzingre/",
+ "usage": {
+  "in": 1413,
+  "out": 1786
+ }
+}

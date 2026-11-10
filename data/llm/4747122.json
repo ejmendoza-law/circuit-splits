@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4747122,
+ "cite": "United States v. Eric McGinnis, 956 F.3d 747 (5th Cir. 2020)",
+ "court": "5th",
+ "date": "2020-04-21",
+ "url": "https://www.courtlistener.com/opinion/4747122/united-states-v-eric-mcginnis/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

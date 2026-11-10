@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a federal court defer to Application Note 1 to U.S.S.G. \u00a7 4B1.2 and treat attempt and conspiracy offenses as 'controlled substance offenses' for career-offender purposes, even though the guideline's text does not list inchoate offenses?",
+ "provision": "U.S.S.G. \u00a7 4B1.2",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Defer to Application Note 1, which extends the controlled substance offense definition to aiding and abetting, conspiracy, and attempt. The note is binding unless it violates the Constitution or a federal statute, or is inconsistent with or a plainly erroneous reading of the guideline.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Martez Smith, 989 F.3d 575 (7th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Do not defer to Application Note 1 on this point. The note expands \u00a7 4B1.2's text, which defines controlled substance offenses in detail and excludes inchoate offenses, so attempt crimes are not controlled substance offenses.",
+   "circuits": [
+    "D.C.",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Winstead, 890 F.3d 1082 (D.C. Cir. 2018)",
+    "United States v. Havis, 927 F.3d 382 (6th Cir. 2019) (en banc) (per curiam)",
+    "United States v. Martez Smith, 989 F.3d 575 (7th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Defers to Application Note 1 and applies it as an authoritative gloss on \u00a7 4B1.2 (the excerpt is truncated, so the final holding is inferred)",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "A split of authority exists among many of the circuits as to whether courts are to defer to Application Note 1 when applying \u00a7 4B1.2.",
+ "cluster_id": 4860895,
+ "cite": "United States v. Martez Smith, 989 F.3d 575 (7th Cir. 2021)",
+ "court": "7th",
+ "date": "2021-03-03",
+ "url": "https://www.courtlistener.com/opinion/4860895/united-states-v-martez-smith/",
+ "usage": {
+  "in": 1323,
+  "out": 2036
+ }
+}

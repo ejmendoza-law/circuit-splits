@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court resolved the split in United States v. Davis, 139 S. Ct. 2319 (2019), holding that the residual clause of 18 U.S.C. \u00a7 924(c)(3)(B) is unconstitutionally vague.",
+ "issue": "Can the residual clause of 18 U.S.C. \u00a7 924(c)(3)(B) be saved from vagueness by reading it to require a case-specific, conduct-based inquiry instead of the categorical approach?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(B)",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "The Eleventh Circuit follows Davis and treats the \u00a7 924(c)(3)(B) residual clause as unconstitutional. The excerpts do not name the circuits on either side of the pre-Davis split, so no sides are listed.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "In doing so, the Court resolved a circuit split on the issue, rejecting the position that the residual clause of \u00a7 924(c)(3)(B) should be saved from unconstitutionality by being read to encompass a case-specific, conduct-based approach, rather than a categorical approach.",
+ "cluster_id": 4766257,
+ "cite": "In re: Michael Price, 964 F.3d 1045 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-07-07",
+ "url": "https://www.courtlistener.com/opinion/4766257/in-re-michael-price/",
+ "usage": {
+  "in": 1312,
+  "out": 1373
+ }
+}

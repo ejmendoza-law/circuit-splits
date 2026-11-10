@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 7454523,
+ "cite": "Jean Pugin v. Merrick Garland, No. 20-1363 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-03-07",
+ "url": "https://www.courtlistener.com/opinion/7454523/jean-pugin-v-merrick-garland/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

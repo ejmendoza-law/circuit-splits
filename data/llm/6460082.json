@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Two other circuits have ruled that the statutory components of Texas robbery constitute elements, and we are reluctant to create a circuit split.",
+ "cluster_id": 6460082,
+ "cite": "United States v. Wilkins, No. 19-5114 (10th Cir. 2022)",
+ "court": "10th",
+ "date": "2022-04-15",
+ "url": "https://www.courtlistener.com/opinion/6460082/united-states-v-wilkins/",
+ "usage": {
+  "in": 1812,
+  "out": 651
+ }
+}

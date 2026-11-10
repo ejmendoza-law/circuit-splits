@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 5680720,
+ "cite": "United States v. James House, 22 F.4th 843 (9th Cir. 2022)",
+ "court": "9th",
+ "date": "2022-01-10",
+ "url": "https://www.courtlistener.com/opinion/5680720/united-states-v-james-house/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

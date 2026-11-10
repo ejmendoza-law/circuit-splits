@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "May the government use a defendant's post-arrest, pre-Miranda silence as substantive evidence of guilt in its case-in-chief?",
+ "provision": "U.S. Const. amend. V",
+ "topic": "Evidence",
+ "sides": [
+  {
+   "position": "The government may use a defendant's post-arrest, pre-Miranda silence as direct evidence of guilt in its case-in-chief (the Eleventh Circuit's rule under Rivera).",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Rivera, 944 F.2d 1563 (11th Cir. 1991)",
+    "United States v. Wilchcombe, 838 F.3d 1179 (11th Cir. 2016)",
+    "United States v. Cabezas-Montano, 949 F.3d 567 (11th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Contrary position, which the opinion describes as the rule in other circuits. The excerpts do not name those circuits or cases.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The Eleventh Circuit follows its own precedent in Rivera and permits the use of post-arrest, pre-Miranda silence as substantive evidence of guilt.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Palacios-Solis points out a circuit split on this issue.",
+ "cluster_id": 4722792,
+ "cite": "United States v. Trinity Rolando Cabezas-Montano, 949 F.3d 567 (11th Cir. 2020)",
+ "court": "11th",
+ "date": "2020-01-30",
+ "url": "https://www.courtlistener.com/opinion/4722792/united-states-v-trinity-rolando-cabezas-montano/",
+ "usage": {
+  "in": 1335,
+  "out": 1727
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the rule in Honeycutt v. United States, barring joint and several liability for forfeiture of tainted property, apply to forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C)?",
+ "provision": "18 U.S.C. \u00a7 981(a)(1)(C)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Honeycutt applies to 18 U.S.C. \u00a7 981(a)(1)(C), because the text and structure of \u00a7 981 are substantially the same as the statute in Honeycutt, so joint and several forfeiture liability is barred.",
+   "circuits": [
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Gjeli, 867 F.3d 418 (3d Cir. 2017)",
+    "United States v. Thompson, 990 F.3d 680 (9th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "Honeycutt does not apply to 18 U.S.C. \u00a7 981(a)(1)(C), because that provision does not limit forfeiture to proceeds the person obtained, so property need only be traceable to the crime, not received by the forfeiting defendant.",
+   "circuits": [
+    "6th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Sexton (6th Cir.)"
+   ]
+  }
+ ],
+ "this_court": "Honeycutt applies to 18 U.S.C. \u00a7 981(a)(1)(C), agreeing with the Third Circuit.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our sister circuits are split on whether Honeycutt applies to 18 U.S.C. \u00a7 981.",
+ "cluster_id": 4860781,
+ "cite": "United States v. Vassily Thompson, 990 F.3d 680 (9th Cir. 2021)",
+ "court": "9th",
+ "date": "2021-03-03",
+ "url": "https://www.courtlistener.com/opinion/4860781/united-states-v-vassily-thompson/",
+ "usage": {
+  "in": 1318,
+  "out": 1480
+ }
+}

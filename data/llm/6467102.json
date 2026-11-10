@@ -1,0 +1,40 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Sixth Amendment require appellate counsel to notify a client of an adverse appellate decision and advise the client of remaining avenues of review, such as discretionary appeals?",
+ "provision": "28 U.S.C. \u00a7 2254; U.S. Const. amend. VI",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "No constitutional duty: the right to counsel ends when the appellate decision is entered, so counsel need not notify or advise the client of the decision or of remaining appeals.",
+   "circuits": [
+    "5th",
+    "9th"
+   ],
+   "cases": [
+    "Moore v. Cockrell, 313 F.3d 880 (5th Cir. 2002)",
+    "Miller v. Keeney, 882 F.2d 1428 (9th Cir. 1989)",
+    "Folkes v. Warden Nelsen, 34 F.4th 258 (4th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "A duty to consult exists, requiring counsel to inform the client of the appellate decision and remaining recourses. The excerpts describe this position only as the dissent's broader view and do not identify any circuit that holds it.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "no duty; the court holds the Constitution does not impose a duty to notify or advise on appellate decisions and remaining recourses, and it declines to adopt the dissent's broader view",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "Indeed, our sister circuits have taken conflicting positions on this issue.",
+ "cluster_id": 6467102,
+ "cite": "Clinton Folkes v. Warden Nelsen, 34 F.4th 258 (4th Cir. 2022)",
+ "court": "4th",
+ "date": "2022-05-10",
+ "url": "https://www.courtlistener.com/opinion/6467102/clinton-folkes-v-warden-nelsen/",
+ "usage": {
+  "in": 2433,
+  "out": 2156
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "Despite what this court's opinion says, Varnell applied the injury occurrence rule, and thus there is at present a \"circuit split.\"",
+ "cluster_id": 8241155,
+ "cite": "Timothy Moxley v. The Ohio State University, No. 21-3991 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-09-14",
+ "url": "https://www.courtlistener.com/opinion/8241155/timothy-moxley-v-the-ohio-state-university/",
+ "usage": {
+  "in": 1878,
+  "out": 425
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4744204,
+ "cite": "United States v. Vaello-Madero, 956 F.3d 12 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-04-10",
+ "url": "https://www.courtlistener.com/opinion/4744204/united-states-v-vaello-madero/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

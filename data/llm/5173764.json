@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the Guidelines career-offender provision, is a prior state drug conviction a 'controlled substance offense' when the state's definition of 'controlled substance' differs from the federal Controlled Substances Act's definition, and must the federal definition or the state definition be used?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The definition of 'controlled substance' is drawn from state law, so a state conviction counts under the state's definition.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "The definition of 'controlled substance' is drawn from the federal Controlled Substances Act, so a state conviction must match the federal definition to count.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "Here, the circuit split regarding the source of the definition of controlled substance (state vs. federal law) thwarts the claim of plain error.",
+ "cluster_id": 5173764,
+ "cite": "United States v. Crocco, 15 F. 4th 20 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-09-27",
+ "url": "https://www.courtlistener.com/opinion/5173764/united-states-v-crocco/",
+ "usage": {
+  "in": 1312,
+  "out": 1240
+ }
+}

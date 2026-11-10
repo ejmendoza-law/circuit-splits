@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Moncrieffe v. Holder, 569 U.S. 184 (2013), which resolved the question by holding that a state conviction for distributing marijuana is not categorically an aggravated felony under 8 U.S.C. \u00a7 1101(a)(43).",
+ "issue": "Did a state conviction for distributing marijuana qualify as an 'aggravated felony' under the Immigration and Nationality Act, given the circuit conflict over that question?",
+ "provision": "8 U.S.C. \u00a7 1101(a)(43)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A marijuana distribution conviction qualifies as an aggravated felony, as the First Circuit held in Julce using a circumstance-specific approach (two other circuits took the opposite view from the First Circuit, per the dissent, but the excerpt does not name them).",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "Julce, 530 F.3d 30 (1st Cir. 2008)",
+    "United States v. Castillo-Martinez, 16 F.4th 906 (1st Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.45,
+ "quote": "Moreover, there was at that time a circuit split among five courts of appeals on the question of whether a prior conviction for distributing marijuana (which was what Castillo-Martinez's prior conviction was for) qualified as an \"aggravated felony\" within the meaning of 8 U.S.C. \u00a7 1101(a)(43), with two circuits taking the opposite view from our circuit's ruling on that question in Julce.",
+ "cluster_id": 5293010,
+ "cite": "United States v. Castillo-Martinez, 16 F.4th 906 (1st Cir. 2021)",
+ "court": "1st",
+ "date": "2021-10-27",
+ "url": "https://www.courtlistener.com/opinion/5293010/united-states-v-castillo-martinez/",
+ "usage": {
+  "in": 1320,
+  "out": 2663
+ }
+}

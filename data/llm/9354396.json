@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a district court consider a nonretroactive change in sentencing law as an 'extraordinary and compelling reason' for compassionate release under 18 U.S.C. \u00a7 3582(c)(1)(A)(i)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)(i)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A nonretroactive change in sentencing law cannot, by itself or in combination with the defendant's individualized circumstances, be an extraordinary and compelling reason for compassionate release.",
+   "circuits": [
+    "3d",
+    "6th",
+    "7th",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Andrews, 12 F.4th 255 (3d Cir. 2021)",
+    "United States v. Thacker, 4 F.4th 569 (7th Cir. 2021)",
+    "United States v. Crandall, 25 F.4th 582 (8th Cir. 2022)",
+    "United States v. Jenkins, 50 F.4th 1197 (10th Cir. 2022)",
+    "United States v. McCall, 56 F.4th 1048 (6th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "A nonretroactive change in law may be considered, in the context of the defendant's individualized circumstances, as part of the extraordinary-and-compelling analysis.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Ruvalcaba, 26 F.4th 14 (1st Cir. 2022) (Barron, J., concurring)"
+   ]
+  }
+ ],
+ "this_court": "The en banc majority holds that a nonretroactive change in law is not an extraordinary and compelling reason on its own; it aligns with the 3d, 7th, 8th, and 10th Circuits.",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "The majority's decision puts us in conflict with these courts and further entrenches the circuit split on this issue.",
+ "cluster_id": 9354396,
+ "cite": "United States v. David McCall, Jr., 56 F.4th 1048 (6th Cir. 2022)",
+ "court": "6th",
+ "date": "2022-12-22",
+ "url": "https://www.courtlistener.com/opinion/9354396/united-states-v-david-mccall-jr/",
+ "usage": {
+  "in": 1871,
+  "out": 3569
+ }
+}

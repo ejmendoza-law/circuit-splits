@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4743805,
+ "cite": "United States v. Fernando Godinez, 955 F.3d 651 (7th Cir. 2020)",
+ "court": "7th",
+ "date": "2020-04-09",
+ "url": "https://www.courtlistener.com/opinion/4743805/united-states-v-fernando-godinez/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

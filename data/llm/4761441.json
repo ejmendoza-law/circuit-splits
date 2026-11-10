@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a conviction for conspiracy under 21 U.S.C. \u00a7 846, which does not require an overt act, qualify as a 'controlled substance offense' under the Guidelines career-offender provision, given that Application Note 1 includes conspiracy and generic conspiracy requires an overt act?",
+ "provision": "U.S.S.G. \u00a7 4B1.2, cmt. n.1; 21 U.S.C. \u00a7 846",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A \u00a7 846 conspiracy is not a controlled substance offense because it lacks the overt-act element of generic conspiracy, creating a categorical mismatch with the Guidelines commentary.",
+   "circuits": [
+    "4th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. McCollum, 885 F.3d 300 (4th Cir. 2018)",
+    "United States v. Whitley, 737 F. App'x 147 (4th Cir. 2018)",
+    "United States v. Martinez-Cruz, 836 F.3d 1305 (10th Cir. 2016)"
+   ]
+  },
+  {
+   "position": "A \u00a7 846 conspiracy conviction qualifies as a controlled substance offense; the lack of an overt-act element does not create a categorical mismatch.",
+   "circuits": [
+    "5th",
+    "6th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Rivera-Constantino, 798 F.3d 900 (9th Cir. 2015)",
+    "United States v. Sanbria-Bueno, 549 F. App'x 434 (6th Cir. 2013)",
+    "United States v. Rodriguez-Escareno, 700 F.3d 751 (5th Cir. 2012)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "There is no controlling authority on this issue in this circuit, and the other circuits remain divided in their response to it.",
+ "cluster_id": 4761441,
+ "cite": "United States v. Lewis, 963 F.3d 16 (1st Cir. 2020)",
+ "court": "1st",
+ "date": "2020-06-16",
+ "url": "https://www.courtlistener.com/opinion/4761441/united-states-v-lewis/",
+ "usage": {
+  "in": 1646,
+  "out": 1802
+ }
+}

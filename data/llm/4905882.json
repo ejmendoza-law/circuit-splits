@@ -1,0 +1,57 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal prisoner invoke the \u00a7 2255(e) saving clause to bring a \u00a7 2241 challenge when an intervening change in statutory interpretation would make the conviction unlawful and the bar on successive \u00a7 2255 motions prevents raising it?",
+ "provision": "28 U.S.C. \u00a7 2255(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The saving clause can be invoked in this situation, so \u00a7 2255 is inadequate or ineffective and \u00a7 2241 relief is available for a claim based on a change in caselaw combined with the successive-motion bar.",
+   "circuits": [
+    "2d",
+    "3d",
+    "4th",
+    "5th",
+    "6th",
+    "7th",
+    "9th",
+    "D.C."
+   ],
+   "cases": [
+    "Bourgeois v. Watson, 977 F.3d 620 (7th Cir. 2020)",
+    "Hueso v. Barnhart, 948 F.3d 324 (6th Cir. 2020)",
+    "Harrison v. Ollison, 519 F.3d 952 (9th Cir. 2008)",
+    "In re Smith, 285 F.3d 6 (D.C. Cir. 2002)",
+    "Jiminian v. Nash, 245 F.3d 144 (2d Cir. 2001)",
+    "Reyes-Requena v. United States, 243 F.3d 893 (5th Cir. 2001)",
+    "In re Jones, 226 F.3d 328 (4th Cir. 2000)",
+    "In re Dorsainvil, 119 F.3d 245 (3d Cir. 1997)"
+   ]
+  },
+  {
+   "position": "The saving clause is not available in this situation; being barred from filing a successive \u00a7 2255 motion does not make \u00a7 2255's remedy inadequate or ineffective.",
+   "circuits": [
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "McCarthan v. Dir. of Goodwill Industries-Suncoast, Inc., 851 F.3d 1076 (11th Cir. 2017) (en banc)",
+    "Prost v. Anderson, 636 F.3d 578 (10th Cir. 2011)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The circuits have split over this question.",
+ "cluster_id": 4905882,
+ "cite": "Marcus Jones v. Dewayne Hendrix, 8 F.4th 683 (8th Cir. 2021)",
+ "court": "8th",
+ "date": "2021-08-06",
+ "url": "https://www.courtlistener.com/opinion/4905882/marcus-jones-v-dewayne-hendrix/",
+ "usage": {
+  "in": 1315,
+  "out": 1967
+ }
+}

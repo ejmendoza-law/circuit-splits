@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4756500,
+ "cite": "United States v. Trujillo, 960 F.3d 1196 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-05-27",
+ "url": "https://www.courtlistener.com/opinion/4756500/united-states-v-trujillo/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

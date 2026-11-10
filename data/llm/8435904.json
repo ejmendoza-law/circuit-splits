@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.85,
+ "quote": "Compounding the intra-circuit conflict is the conflict between Wearry and other circuits.",
+ "cluster_id": 8435904,
+ "cite": "Wearry v. Foster, 52 F.4th 258 (5th Cir. 2022)",
+ "court": "5th",
+ "date": "2022-10-27",
+ "url": "https://www.courtlistener.com/opinion/8435904/wearry-v-foster/",
+ "usage": {
+  "in": 1311,
+  "out": 2029
+ }
+}

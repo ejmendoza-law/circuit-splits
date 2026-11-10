@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.3,
+ "quote": "majority's erroneous decision creates a circuit split.",
+ "cluster_id": 6458382,
+ "cite": "United States v. Minor, 31 F.4th 9 (1st Cir. 2022)",
+ "court": "1st",
+ "date": "2022-04-11",
+ "url": "https://www.courtlistener.com/opinion/6458382/united-states-v-minor/",
+ "usage": {
+  "in": 1314,
+  "out": 1238
+ }
+}

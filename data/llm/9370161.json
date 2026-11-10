@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9370161,
+ "cite": "United States v. James Andrew Hitch, 58 F.4th 262 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-01-24",
+ "url": "https://www.courtlistener.com/opinion/9370161/united-states-v-james-andrew-hitch/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

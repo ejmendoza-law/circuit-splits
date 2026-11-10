@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal prisoner use the \u00a7 2255(e) savings clause to bring a \u00a7 2241 petition raising a statutory-interpretation claim that he could not raise in a successive \u00a7 2255 motion?",
+ "provision": "28 U.S.C. \u00a7 2255(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The savings clause can permit \u00a7 2241 relief for statutory-interpretation claims that meet the Davenport test: the claim relies on a statutory decision, the petitioner could not have invoked it in an initial \u00a7 2255 motion, the decision applies retroactively, and the error is a miscarriage of justice.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "In re Davenport, 147 F.3d 605 (7th Cir. 1998)",
+    "Beason v. Marske, 926 F.3d 932 (7th Cir. 2019)",
+    "Mangine v. Withers, 39 F.4th 443 (7th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "The savings clause does not authorize \u00a7 2241 relief for statutory-interpretation claims that could not be brought in a successive \u00a7 2255 motion.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "Jones v. Hendrix, 8 F.4th 683 (8th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "Indeed, the Supreme Court has agreed to hear a case next fall to resolve a circuit split on the availability of \u00a7 2255(e) savings clause relief for statutory interpretation claims.",
+ "cluster_id": 6621916,
+ "cite": "Robert Mangine v. Shannon D. Withers, 39 F.4th 443 (7th Cir. 2022)",
+ "court": "7th",
+ "date": "2022-07-06",
+ "url": "https://www.courtlistener.com/opinion/6621916/robert-mangine-v-shannon-d-withers/",
+ "usage": {
+  "in": 1315,
+  "out": 2717
+ }
+}

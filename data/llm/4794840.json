@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 3583(d)",
+ "topic": "Supervised release & probation",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In the absence of Supreme Court or circuit precedent directly addressing a particular issue, a circuit split on that issue weighs against a finding of plain error. But disagreement among the circuits will not prevent a finding of plain error if the law is well settled in the Tenth Circuit itself.",
+ "cluster_id": 4794840,
+ "cite": "United States v. Koch, 978 F.3d 719 (10th Cir. 2020)",
+ "court": "10th",
+ "date": "2020-10-09",
+ "url": "https://www.courtlistener.com/opinion/4794840/united-states-v-koch/",
+ "usage": {
+  "in": 1335,
+  "out": 722
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the 'in interstate commerce' element of a federal statute require proof that an online communication actually crossed state lines, or is it enough to show that the Internet was used?",
+ "provision": "18 U.S.C. \u00a7 875(c)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The government can satisfy the 'in interstate commerce' element by showing only that the Internet was used; proof that the communication physically crossed state lines is not required.",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Lewis, 554 F.3d 208 (1st Cir. 2009)",
+    "United States v. Harris, 548 F. App'x 679 (2d Cir. 2013)",
+    "United States v. MacEwan, 445 F.3d 237 (3d Cir. 2006)",
+    "United States v. Runyan, 290 F.3d 223 (5th Cir. 2002)"
+   ]
+  },
+  {
+   "position": "The government must prove that the online communication actually crossed state lines, not merely that it was made over the Internet.",
+   "circuits": [
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Wright, 625 F.3d 583 (9th Cir. 2010)",
+    "United States v. Schaefer, 501 F.3d 1197 (10th Cir. 2007)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "A circuit split has developed around this point.",
+ "cluster_id": 6479716,
+ "cite": "United States v. Robert Haas, 37 F.4th 1256 (7th Cir. 2022)",
+ "court": "7th",
+ "date": "2022-06-21",
+ "url": "https://www.courtlistener.com/opinion/6479716/united-states-v-robert-haas/",
+ "usage": {
+  "in": 1830,
+  "out": 1607
+ }
+}

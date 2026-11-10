@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4866320,
+ "cite": "United States v. Dumitru, 991 F.3d 427 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-03-22",
+ "url": "https://www.courtlistener.com/opinion/4866320/united-states-v-dumitru/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 4898662,
+ "cite": "Kassir v. United States, 3 F.4th 556 (2d Cir. 2021)",
+ "court": "2d",
+ "date": "2021-07-09",
+ "url": "https://www.courtlistener.com/opinion/4898662/kassir-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}
