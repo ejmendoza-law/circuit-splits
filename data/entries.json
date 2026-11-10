@@ -3940,56 +3940,6 @@
 ]
 }
 },
-"s11011687": {
-"members": [
-11011687
-],
-"entry": {
-"issue": "Under 18 U.S.C. \u00a7 3292, is a foreign government's response to a mutual legal assistance request 'dispositive,' ending the period of suspended limitations, based on the foreign government's subjective belief that it has finished, or on an objective assessment of whether each requested item received a definitive answer?",
-"provision": "18 U.S.C. \u00a7 3292",
-"topic": "Trial rights & procedure",
-"sides": [
-{
-"position": "A foreign government's response is dispositive when the foreign government believes it has completed its engagement and communicates that belief to the U.S. government (subjective belief test).",
-"circuits": [
-"5th"
-],
-"cases": [
-"United States v. Meador, 138 F.3d 986, 992 (5th Cir. 1998)"
-]
-},
-{
-"position": "Finality depends on an objective assessment of whether each item in the official request received a definitive yes or no, not on the foreign government's subjective belief.",
-"circuits": [
-"9th",
-"11th"
-],
-"cases": [
-"United States v. Torres, 318 F.3d 1058, 1063 (11th Cir. 2003)",
-"United States v. Bischel, 61 F.3d 1429, 1433 (9th Cir. 1995)",
-"United States v. So, No. 24-5085 (9th Cir. 2026)"
-]
-}
-],
-"note": "",
-"id": "s11011687",
-"confidence": 0.85,
-"status": "unreviewed",
-"latest": "2026-10-05",
-"first": "2026-10-05",
-"opinions": [
-{
-"cite": "United States v. So, No. 24-5085 (9th Cir. 2026)",
-"url": "https://www.courtlistener.com/opinion/11011687/united-states-v-so/",
-"date": "2026-10-05",
-"court": "9th",
-"takes": "objective approach: final action occurs only when the foreign government sends a dispositive response to each item in the official request, which the court says is effectively resolved by Bischel and aligns with the Eleventh Circuit's Torres",
-"source": "majority",
-"quote": "The parties' disagreement tracks a split of authority between the Fifth and Eleventh Circuits."
-}
-]
-}
-},
 "s4692534": {
 "members": [
 4692534,
