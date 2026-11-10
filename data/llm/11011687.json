@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "For purposes of 18 U.S.C. \u00a7 3292's suspension of the limitations period, is a foreign government's response to an MLAT request 'dispositive' based on the foreign government's subjective belief that it has finished, or on an objective assessment of whether each item in the request has received a definitive answer?",
+ "provision": "18 U.S.C. \u00a7 3292",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "A foreign government's response is dispositive when the foreign government believes it has completed its engagement and communicates that belief to the U.S. government (subjective test).",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Meador, 138 F.3d 986, 992 (5th Cir. 1998)"
+   ]
+  },
+  {
+   "position": "A foreign government's response is dispositive only if each item in the official request has received a definitive yes or no, assessed objectively (objective test).",
+   "circuits": [
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Torres, 318 F.3d 1058, 1063 (11th Cir. 2003)",
+    "United States v. Bischel, 61 F.3d 1429, 1433 (9th Cir. 1995)",
+    "United States v. So, No. 24-5085 (9th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "The court adopts the objective test, reasoning that its own precedent in Bischel effectively resolves the question, which aligns it with the Eleventh Circuit and against the Fifth Circuit's subjective approach.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "The parties' disagreement tracks a split of authority between the Fifth and Eleventh Circuits.",
+ "cluster_id": 11011687,
+ "cite": "United States v. So, No. 24-5085 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-10-05",
+ "url": "https://www.courtlistener.com/opinion/11011687/united-states-v-so/",
+ "usage": {
+  "in": 1846,
+  "out": 1354
+ }
+}

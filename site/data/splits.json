@@ -59,12 +59,12 @@
   ]
  },
  {
-  "issue": "Under 18 U.S.C. \u00a7 3292, is a foreign government's response to a mutual legal assistance request 'dispositive,' ending the period of suspended limitations, based on the foreign government's subjective belief that it has finished, or on an objective assessment of whether each requested item received a definitive answer?",
+  "issue": "For purposes of 18 U.S.C. \u00a7 3292's suspension of the limitations period, is a foreign government's response to an MLAT request 'dispositive' based on the foreign government's subjective belief that it has finished, or on an objective assessment of whether each item in the request has received a definitive answer?",
   "provision": "18 U.S.C. \u00a7 3292",
-  "topic": "Trial rights & procedure",
+  "topic": "Other",
   "sides": [
    {
-    "position": "A foreign government's response is dispositive when the foreign government believes it has completed its engagement and communicates that belief to the U.S. government (subjective belief test).",
+    "position": "A foreign government's response is dispositive when the foreign government believes it has completed its engagement and communicates that belief to the U.S. government (subjective test).",
     "circuits": [
      "5th"
     ],
@@ -73,7 +73,7 @@
     ]
    },
    {
-    "position": "Finality depends on an objective assessment of whether each item in the official request received a definitive yes or no, not on the foreign government's subjective belief.",
+    "position": "A foreign government's response is dispositive only if each item in the official request has received a definitive yes or no, assessed objectively (objective test).",
     "circuits": [
      "9th",
      "11th"
@@ -87,8 +87,8 @@
   ],
   "note": "",
   "id": "s11011687",
-  "confidence": 0.85,
-  "status": "unreviewed",
+  "confidence": 0.7,
+  "status": "needs_review",
   "latest": "2026-10-05",
   "first": "2026-10-05",
   "opinions": [
@@ -97,7 +97,7 @@
     "url": "https://www.courtlistener.com/opinion/11011687/united-states-v-so/",
     "date": "2026-10-05",
     "court": "9th",
-    "takes": "objective approach: final action occurs only when the foreign government sends a dispositive response to each item in the official request, which the court says is effectively resolved by Bischel and aligns with the Eleventh Circuit's Torres",
+    "takes": "The court adopts the objective test, reasoning that its own precedent in Bischel effectively resolves the question, which aligns it with the Eleventh Circuit and against the Fifth Circuit's subjective approach.",
     "source": "majority",
     "quote": "The parties' disagreement tracks a split of authority between the Fifth and Eleventh Circuits."
    }
