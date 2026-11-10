@@ -311,8 +311,9 @@ function body(s){
   w.append(el("p","sub",s.opinions.length>1?"Opinions acknowledging the split":"Opinion acknowledging the split"));
   const ul=el("ul","ops");
   s.opinions.forEach(o=>{
-    const li=el("li"),a=el("a",null,o.cite);a.href=o.url;a.target="_blank";a.rel="noopener";
-    li.append(a);
+    const li=el("li");
+    if(o.url){const a=el("a",null,o.cite);a.href=o.url;a.target="_blank";a.rel="noopener";li.append(a)}
+    else{const b=el("strong",null,o.cite);li.append(b)}
     if(o.source&&o.source!=="majority")li.append(el("span","small"," ("+o.source+")"));
     if(o.quote)li.append(el("q",null,o.quote));
     ul.append(li);
@@ -342,36 +343,84 @@ function editForm(s){
   const [l2,prov]=field("prov","Statute, guideline, or rule",s.provision);
   const [l3,note]=field("note","Note for readers (optional)",s.note,"textarea");
   f.append(l0,l1,l2);
-  const sideInputs=s.sides.map((x,i)=>{
-    const p=el("div","pair");
-    const [a,pos]=field("pos"+i,"Side "+"ABCD"[i]+" position",x.position,"textarea");
-    const [b,circ]=field("circ"+i,"Circuits (for example: 2d, 5th, D.C.)",x.circuits.join(", "));
-    p.append(a,b);f.append(p);return {pos,circ,cases:x.cases};
-  });
+  const sideInputs=[],sidesBox=el("div","edit");
+  const addSide=x=>{
+    const i=sideInputs.length,p=el("div","pair"),L="ABCD"[i];
+    const [a,pos]=field("pos"+i,"Side "+L+" position",x.position,"textarea");
+    const [b,circ]=field("circ"+i,"Side "+L+" circuits (for example: 2d, 5th, D.C.)",x.circuits.join(", "));
+    const [c,cases]=field("cases"+i,"Side "+L+" cases (one per line, optional)",x.cases.join("\n"),"textarea");
+    c.style.gridColumn="1/-1";
+    p.append(a,b,c);sidesBox.append(p);sideInputs.push({pos,circ,cases,orig:x.cases});
+    more.hidden=sideInputs.length>=4;
+  };
+  const more=el("button","btn","Add another side");more.type="button";
+  more.onclick=()=>{addSide({position:"",circuits:[],cases:[]});sideInputs[sideInputs.length-1].pos.focus()};
+  s.sides.forEach(addSide);
+  if(!s.sides.length)addSide({position:"",circuits:[],cases:[]});
+  const moreRow=el("div");moreRow.append(more,el("span","small","  To remove a side, clear its position and circuits."));
+  f.append(sidesBox,moreRow);
+  const opBox=el("div","edit"),opInputs=[];
+  opBox.append(el("p","sub","Opinions acknowledging the split"));
+  s.opinions.filter(o=>!o.added).forEach(o=>opBox.append(el("div","small",o.cite)));
+  const addOp=o=>{
+    const i=opInputs.length,p=el("div","pair");
+    const [a,cite]=field("ocite"+i,"Added opinion: citation",o.cite);
+    const [b,url]=field("ourl"+i,"Link (starts with https://)",o.url);
+    const [c,quote]=field("oquote"+i,"Quote acknowledging the split (optional)",o.quote,"textarea");
+    c.style.gridColumn="1/-1";
+    p.append(a,b,c);opBox.append(p);opInputs.push({cite,url,quote});
+  };
+  s.opinions.filter(o=>o.added).forEach(addOp);
+  const moreOp=el("button","btn","Add an opinion");moreOp.type="button";
+  moreOp.onclick=()=>{addOp({cite:"",url:"",quote:""});opInputs[opInputs.length-1].cite.focus()};
+  const opRow=el("div");opRow.append(moreOp,el("span","small","  To remove an added opinion, clear its citation."));
+  f.append(opBox,opRow);
   f.append(l3);
   const a=el("div","actions"),ok=el("button","btn ok","Save and approve"),cn=el("button","btn","Cancel"),msg=el("span","small");
   ok.type="submit";cn.type="button";cn.onclick=()=>{editing=null;render()};
   a.append(ok,cn,msg);f.append(a);
   f.onsubmit=e=>{
     e.preventDefault();
-    const sides=[];
+    const sides=[],seen={};
     for(const x of sideInputs){
       const cs=x.circ.value.split(/[,;]+/).map(t=>t.trim()).filter(Boolean);
+      const position=x.pos.value.trim();
+      if(!cs.length&&!position)continue;                      // an emptied side is removed
       const bad=cs.find(c=>!CIRCS.includes(c));
       if(bad){msg.textContent='"'+bad+'" is not a circuit. Use: '+CIRCS.join(", ");return}
-      sides.push({position:x.pos.value.trim(),circuits:cs,cases:x.cases});
+      const dup=cs.find(c=>seen[c]);
+      if(dup){msg.textContent="The "+dup+" Circuit is listed on more than one side.";return}
+      cs.forEach(c=>seen[c]=1);
+      if(!position){msg.textContent="Each side needs a position.";return}
+      const cases=x.cases.value.split("\n").map(t=>t.trim()).filter(Boolean);
+      const side={position,circuits:cs};
+      if(cases.join("\n")!==x.orig.join("\n"))side.cases=cases; // send cases only if changed, to keep the request short
+      else side.keep=sideInputs.indexOf(x);
+      sides.push(side);
     }
+    const added=[];
+    for(const o of opInputs){
+      const cite=o.cite.value.trim(),url=o.url.value.trim();
+      if(!cite)continue;
+      if(url&&!/^https:\/\/\S+$/.test(url)){msg.textContent="An opinion link must start with https:// and have no spaces.";return}
+      added.push({cite,url,quote:o.quote.value.trim().replace(/^["“]|["”]$/g,"")});
+    }
+    const rec={status:"approved",edits:{title:title.value.trim(),issue:issue.value.trim(),provision:prov.value.trim(),note:note.value.trim(),sides,added_opinions:added}};
+    if(reqUrl(s.id,rec).length>7500){msg.textContent="This edit is too long to send in one step. Shorten a quote or a case list, save, then edit again to add the rest.";return}
     editing=null;
-    save(s.id,{status:"approved",edits:{title:title.value.trim(),issue:issue.value.trim(),provision:prov.value.trim(),note:note.value.trim(),sides}});
+    save(s.id,rec);
   };
   return f;
 }
-function save(id,rec){
-  const act=rec===null?"undo":rec.status==="approved"?"approve":"reject";
+const actOf=rec=>rec===null?"undo":rec.status==="approved"?"approve":"reject";
+function reqUrl(id,rec){
   let body="Review request from the Circuit Split Tracker. Click Create to record it.";
-  if(rec&&rec.edits)body+="\n\n```json\n"+JSON.stringify(rec.edits,null,1)+"\n```";
-  window.open("https://github.com/"+REPO+"/issues/new?title="+encodeURIComponent("[review] "+act+" "+id)+"&body="+encodeURIComponent(body),"_blank","noopener");
-  sent[id]=act;render();
+  if(rec&&rec.edits)body+="\n\n```json\n"+JSON.stringify(rec.edits)+"\n```";
+  return "https://github.com/"+REPO+"/issues/new?title="+encodeURIComponent("[review] "+actOf(rec)+" "+id)+"&body="+encodeURIComponent(body);
+}
+function save(id,rec){
+  window.open(reqUrl(id,rec),"_blank","noopener");
+  sent[id]=actOf(rec);render();
 }
 
 function render(){

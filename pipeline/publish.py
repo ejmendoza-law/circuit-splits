@@ -14,7 +14,11 @@ def main():
     for e in entries:
         d = reviews.get(e["id"])
         if d:
-            e.update(d.get("edits") or {})
+            ed = dict(d.get("edits") or {})
+            for o in ed.pop("added_opinions", []):
+                e["opinions"] = e["opinions"] + [{"cite": o["cite"], "url": o.get("url", ""), "quote": o.get("quote", ""),
+                                                  "source": "majority", "added": True}]
+            e.update(ed)
             e["status"] = d["status"]
     site = ROOT / "site" / "data"
     site.mkdir(parents=True, exist_ok=True)
