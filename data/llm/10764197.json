@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a state resentencing that leaves an original conviction undisturbed create a new 'judgment' under AEDPA, so that the prisoner may raise new challenges to that conviction in a habeas petition without it being treated as second or successive?",
+ "provision": "28 U.S.C. \u00a7 2244(b)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A resentencing creates a new judgment only for the amended count or sentence. It does not reopen an undisturbed conviction, so later challenges to that conviction are second or successive.",
+   "circuits": [
+    "5th",
+    "7th",
+    "10th"
+   ],
+   "cases": [
+    "Suggs v. United States, 705 F.3d 279 (7th Cir. 2013)",
+    "Burks v. Raemisch, 680 F. App'x 686 (10th Cir. 2017)",
+    "In re Lampton, 667 F.3d 585 (5th Cir. 2012)"
+   ]
+  },
+  {
+   "position": "A resentencing that legally invalidates or alters the sentence creates a new judgment that permits renewed challenges to the conviction. The imposition of a new sentence is not the test.",
+   "circuits": [
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "Buenrostro v. United States, 895 F.3d 1160 (9th Cir. 2018)",
+    "In re Edwards, 98 F.4th 425 (3d Cir. 2024)",
+    "Donovan v. Massachusetts Parole Board, No. 23-1810 (1st Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The majority adopts the position that a resentencing can create a new judgment permitting renewed challenges to the conviction. The dissent says the majority discounted Suggs and Burks, which places the majority on the other side of the split.",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "The majority is simply wrong to discount Suggs and Burks for relying on pre-Magwood circuit precedent; those courts did so precisely because Magwood declined to resolve the issue.",
+ "cluster_id": 10764197,
+ "cite": "Donovan v. Massachusetts Parole Board, No. 23-1810 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-12-23",
+ "url": "https://www.courtlistener.com/opinion/10764197/donovan-v-massachusetts-parole-board/",
+ "usage": {
+  "in": 1876,
+  "out": 2350
+ }
+}

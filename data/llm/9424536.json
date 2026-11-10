@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the spousal testimonial privilege include a joint participant exception that lets the government compel a testimonying spouse who is also a co-participant in the charged crime?",
+ "provision": "Fed. R. Evid. 501; Trammel v. United States, 445 U.S. 40 (1980)",
+ "topic": "Evidence",
+ "sides": [
+  {
+   "position": "Recognizes a joint participant exception to the spousal testimonial privilege for spouses who participated together in the crime",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Van Drunen, 501 F.2d 1393 (7th Cir. 1974)",
+    "United States v. Diggs, No. 22-1502 (7th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Rejects the joint participant exception after Trammel; the privilege belongs to the testifying spouse alone and does not yield where the spouses jointly participated in the crime",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Pineda-Mateo, 905 F.3d 13 (1st Cir. 2018)",
+    "In re Grand Jury Subpoena, 755 F.2d 1022 (2d Cir. 1985)",
+    "In re Grand Jury, 633 F.2d 276 (3d Cir. 1980)",
+    "United States v. Ramos-Oseguera, 120 F.3d 1028 (9th Cir. 1997)",
+    "United States v. Diggs, No. 22-1502 (7th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit still follows its own Van Drunen recognition of the exception, while the writing urges abandoning it to align with the other circuits; the excerpts do not show the final holding.",
+ "source": "concurrence",
+ "confidence": 0.6,
+ "quote": "That leaves our court isolated on the short end of a lopsided circuit split.",
+ "cluster_id": 9424536,
+ "cite": "United States v. Tobias Diggs, No. 22-1502 (7th Cir. 2023)",
+ "court": "7th",
+ "date": "2023-09-05",
+ "url": "https://www.courtlistener.com/opinion/9424536/united-states-v-tobias-diggs/",
+ "usage": {
+  "in": 1313,
+  "out": 2195
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must an appellate court raise the waiver created by an unconditional guilty plea (which bars review of nonjurisdictional pretrial rulings such as a denied suppression motion) on its own when the government does not invoke it, or is the plea a jurisdictional bar enforced sua sponte?",
+ "provision": "28 U.S.C. \u00a7 1291",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "An unconditional guilty plea is jurisdictional, so the appellate court must enforce the bar sua sponte even if the government does not raise it.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Combs, 657 F.3d 565 (7th Cir. 2011)"
+   ]
+  },
+  {
+   "position": "An unconditional guilty plea is a nonjurisdictional, waivable claim-processing rule. The government can forfeit it by not raising it, and the court is not required to enforce it sua sponte.",
+   "circuits": [
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Jacobo Castillo, 496 F.3d 947 (9th Cir. 2007) (en banc)",
+    "United States v. De Vaughn, 694 F.3d 1141 (10th Cir. 2012)",
+    "United States v. Spaeth, 69 F.4th 1190 (10th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "On that point, our sister circuits split.",
+ "cluster_id": 10598327,
+ "cite": "United States v. Riojas, 139 F.4th 465 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-06-04",
+ "url": "https://www.courtlistener.com/opinion/10598327/united-states-v-riojas/",
+ "usage": {
+  "in": 1925,
+  "out": 1734
+ }
+}

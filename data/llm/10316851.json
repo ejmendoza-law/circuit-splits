@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10316851,
+ "cite": "Uvukansi v. Guerrero, 126 F.4th 382 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-01-17",
+ "url": "https://www.courtlistener.com/opinion/10316851/uvukansi-v-guerrero/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

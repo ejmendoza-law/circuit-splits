@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "The majority's reading also creates a jarring Circuit split.",
+ "cluster_id": 10969054,
+ "cite": "Santos v. Blanche, No. 23-7191 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-09-08",
+ "url": "https://www.courtlistener.com/opinion/10969054/santos-v-blanche/",
+ "usage": {
+  "in": 1314,
+  "out": 472
+ }
+}

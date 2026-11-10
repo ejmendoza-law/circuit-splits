@@ -1,0 +1,46 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 28 U.S.C. \u00a7 1355(b) confer in rem jurisdiction over forfeiture of foreign property without actual or constructive control over the res, or does due process require such control?",
+ "provision": "28 U.S.C. \u00a7 1355(b)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Section 1355(b) alone confers in rem jurisdiction on the district where the act or omission giving rise to forfeiture occurred; actual or constructive control of the res is not required.",
+   "circuits": [
+    "D.C.",
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Certain Funds Located at the Hong Kong & Shanghai Banking Corp., 96 F.3d 20 (D.C. Cir. 1996)",
+    "Contents of Account No. 03001288 v. United States, 344 F.3d 399 (3d Cir. 2003)",
+    "United States v. Approximately $1.67 Million (US) in Cash, Stock, and Other Valuable Assets Held by or at: (1) Total Aviation Ltd., 513 F.3d 991 (9th Cir. 2008)"
+   ]
+  },
+  {
+   "position": "Constructive control of the res is required for in rem jurisdiction, and the statute must be read consistently with that due process requirement.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Meza, 63 F.3d 148 (2d Cir. 1995)",
+    "United States v. Nasri, No. 22-55685 (9th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide clearly from the excerpts; the dissent reads the majority as aligning with the Second Circuit's Meza control requirement, while the dissent takes the D.C. and Third Circuit position",
+ "source": "dissent",
+ "confidence": 0.5,
+ "quote": "On my read, there remains a circuit split on the meaning of \u00a7 1355.",
+ "cluster_id": 10964998,
+ "cite": "United States v. Younes Nasri, No. 22-55685 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-09-02",
+ "url": "https://www.courtlistener.com/opinion/10964998/united-states-v-younes-nasri/",
+ "usage": {
+  "in": 2437,
+  "out": 3476
+ }
+}

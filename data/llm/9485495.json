@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "Fed. R. Crim. P. 11(b)(1)(G)",
+ "topic": "Pleas & appeal waivers",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "\"[a]n error cannot be plain if neither the Supreme Court nor this Court has ever resolved the issue, and other circuits are split on it.\" United States v. Bobal, 981 F.3d 971, 975 (11th Cir. 2020) (quotation omitted).",
+ "cluster_id": 9485495,
+ "cite": "United States v. Jayson E. Wright, 95 F.4th 1380 (11th Cir. 2024)",
+ "court": "11th",
+ "date": "2024-03-19",
+ "url": "https://www.courtlistener.com/opinion/9485495/united-states-v-jayson-e-wright/",
+ "usage": {
+  "in": 1316,
+  "out": 885
+ }
+}

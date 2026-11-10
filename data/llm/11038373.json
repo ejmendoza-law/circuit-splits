@@ -1,0 +1,36 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under U.S.S.G. \u00a7 2B1.1(b)(16)(A), must the government prove that the defendant subjectively knew of and consciously disregarded the risk of death or serious bodily injury, or is an objective risk sufficient?",
+ "provision": "U.S.S.G. \u00a7 2B1.1(b)(16)(A)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The defendant must have subjective awareness of the risk of death or serious bodily injury (the defendant-friendly test).",
+   "circuits": [],
+   "cases": [
+    "United States v. Wala, 166 F.4th (6th Cir.) (pin 604) (declining to choose sides; assuming this test applies)",
+    "United States v. Reina Chirinos de Urena, No. 25-5976 (6th Cir. 2026) (assuming this test applies without deciding)"
+   ]
+  },
+  {
+   "position": "The enhancement does not require proof that the defendant subjectively knew of the risk; an objective risk of death or serious bodily injury suffices.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "There, we declined to take sides in a \u201ccircuit split regarding whether the defendant must have a subjective awareness of the risk.\u201d",
+ "cluster_id": 11038373,
+ "cite": "United States v. Reina Chirinos de Urena, No. 25-5976 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-10-19",
+ "url": "https://www.courtlistener.com/opinion/11038373/united-states-v-reina-chirinos-de-urena/",
+ "usage": {
+  "in": 1316,
+  "out": 1817
+ }
+}

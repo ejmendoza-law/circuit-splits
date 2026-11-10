@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10783991,
+ "cite": "United States v. Boria, No. 24-1871 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-02-04",
+ "url": "https://www.courtlistener.com/opinion/10783991/united-states-v-boria/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

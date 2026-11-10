@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Virginia v. Black comprehensively define the category of unprotected true threats, so that a threat is unprotected only if it targets a particular individual or group of individuals?",
+ "provision": "U.S. Const. amend. I (Free Speech Clause)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Black comprehensively defines the category of true threats, so a communication is unprotected only if it threatens a particular individual or group of individuals.",
+   "circuits": [
+    "7th",
+    "8th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Dutcher, 851 F.3d 757, 761 (7th Cir. 2017)",
+    "United States v. Floyd, 458 F.3d 844, 848 (8th Cir. 2006)",
+    "United States v. Bagdasarian, 652 F.3d 1113, 1116 (9th Cir. 2011)",
+    "United States v. Wheeler, 776 F.3d 736, 743 (10th Cir. 2015)"
+   ]
+  },
+  {
+   "position": "Black does not exhaustively define true threats; the Supreme Court said the category 'encompass[es]' such statements but did not limit it to them.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Fleury, 20 F.4th 1353, 1373 (11th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "But other courts of appeals have read Black as comprehensively defining the category of true threats.",
+ "cluster_id": 9489628,
+ "cite": "United States v. Davit Davitashvili, 97 F.4th 104 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-04-01",
+ "url": "https://www.courtlistener.com/opinion/9489628/united-states-v-davit-davitashvili/",
+ "usage": {
+  "in": 1483,
+  "out": 1877
+ }
+}

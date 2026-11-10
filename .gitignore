@@ -1,0 +1,4 @@
+data/raw/
+data/compare_sample.json
+*.log
+__pycache__/

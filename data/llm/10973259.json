@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "Other times, it is better to hold an argument forfeited rather than to hold it meritless because that avoids a circuit split, a panel dissent, an en banc poll, a lengthy merits opinion when a short forfeiture one would suffice, or any other waste of judicial resources just to reach the same result.",
+ "cluster_id": 10973259,
+ "cite": "Megalomedia v. Philadelphia Indemnity, No. 23-20570 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-09-14",
+ "url": "https://www.courtlistener.com/opinion/10973259/megalomedia-v-philadelphia-indemnity/",
+ "usage": {
+  "in": 1316,
+  "out": 304
+ }
+}

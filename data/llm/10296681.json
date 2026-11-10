@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a 2022 Florida Supreme Court decision holding that aggravated assault cannot rest on reckless conduct apply retroactively, so that a pre-2022 Florida aggravated assault conviction based on reckless conduct does not count as an ACCA violent felony?",
+ "provision": "18 U.S.C. \u00a7 924(e)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Somers does not apply retroactively under Florida law, so a pre-2022 Florida aggravated assault conviction does not qualify as an ACCA predicate (as held in Anderson, which this opinion's majority treats as creating a split that precludes plain error).",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Anderson v. United States, 99 F.4th (7th Cir. 2024) (pin cites 1110\u20131114)",
+    "United States v. Page, No. 21-3221 (7th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Somers applies retroactively, applying federal rules of statutory construction, so the Florida aggravated assault statute did not reach reckless conduct at the time of the earlier conviction.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Somers v. United States, 66 F.4th 890 (11th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit majority in this opinion relies on the split to hold that any error was not plain. The dissent contends the Seventh Circuit's Anderson position created the split and that the split does not preclude plain error.",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "Anderson, and opinions like it, would turn out differently under a proper application of this standard.",
+ "cluster_id": 10296681,
+ "cite": "United States v. Royel Page, No. 21-3221 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-12-18",
+ "url": "https://www.courtlistener.com/opinion/10296681/united-states-v-royel-page/",
+ "usage": {
+  "in": 2612,
+  "out": 6352
+ }
+}

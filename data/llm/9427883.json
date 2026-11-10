@@ -1,0 +1,50 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Guidelines' government-benefits loss rule, U.S.S.G. \u00a7 2B1.1 cmt. n.3(F)(ii), apply to fraud in government procurement contracts, such as Disadvantaged Business Enterprise (DBE) set-aside programs?",
+ "provision": "U.S.S.G. \u00a7 2B1.1 cmt. n.3(F)(ii)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The government-benefits rule applies to fraud in DBE or similar special procurement programs, because the programs' primary purpose is to benefit small minority-owned businesses.",
+   "circuits": [
+    "4th",
+    "7th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Brothers Constr. Co. of Ohio, 219 F.3d 300 (4th Cir. 2000)",
+    "United States v. Leahy, 464 F.3d 773 (7th Cir. 2006)",
+    "United States v. Maxwell, 579 F.3d 1282 (11th Cir. 2009)"
+   ]
+  },
+  {
+   "position": "The government-benefits rule does not apply to procurement fraud, because procurement contracts are unlike the grants, loans, and entitlement payments named in Note 3(F)(ii); the government expects performance in return for payment.",
+   "circuits": [
+    "3d",
+    "5th",
+    "6th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Harris, 821 F.3d 589 (5th Cir. 2016)",
+    "United States v. Kozerski, 969 F.3d 310 (6th Cir. 2020)",
+    "United States v. Stamatios Kousisis, 82 F.4th 230 (3d Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit excludes Note 3(F)(ii) for procurement contracts and sides with the Fifth, Sixth, and Ninth Circuits.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "There is a circuit split regarding whether the government benefits rule extends to fraud in DBE (or similar special procurement) programs.",
+ "cluster_id": 9427883,
+ "cite": "United States v. Stamatios Kousisis, 82 F.4th 230 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-09-22",
+ "url": "https://www.courtlistener.com/opinion/9427883/united-states-v-stamatios-kousisis/",
+ "usage": {
+  "in": 1315,
+  "out": 2101
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under 18 U.S.C. \u00a7 4241, which party bears the burden of proof at a federal competency-to-stand-trial hearing?",
+ "provision": "18 U.S.C. \u00a7 4241",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "The burden of proof at a \u00a7 4241 competency hearing rests on the defendant (the party asserting incompetence). The excerpts do not identify which circuits hold this position.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "The burden of proof at a \u00a7 4241 competency hearing rests on the government. The excerpts do not identify which circuits hold this position.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.3,
+ "quote": "I write separately because I believe the circuit split is misguided.",
+ "cluster_id": 10705173,
+ "cite": "United States v. Steven Michael Marks, No. 23-10463 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-10-16",
+ "url": "https://www.courtlistener.com/opinion/10705173/united-states-v-steven-michael-marks/",
+ "usage": {
+  "in": 1316,
+  "out": 1175
+ }
+}

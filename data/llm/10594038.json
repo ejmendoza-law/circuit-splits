@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10594038,
+ "cite": "United States v. Pires, 138 F.4th 649 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-05-28",
+ "url": "https://www.courtlistener.com/opinion/10594038/united-states-v-pires/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

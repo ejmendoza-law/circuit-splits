@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under U.S.S.G. \u00a7 4B1.2(b), must a court use a categorical approach that compares a prior state drug conviction to the federal drug schedules, or a state-dependent approach that does not turn on federal schedules?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Categorical approach: a prior state drug conviction qualifies as a 'controlled substance offense' only if the state drug schedule matches the federal schedule, applying the categorical approach as in Taylor.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Townsend, 897 F.3d 66 (2d Cir. 2018)",
+    "United States v. Gibson, 55 F.4th 153 (2d Cir. 2022)",
+    "United States v. Chaires, 88 F.4th 172 (2d Cir. 2023)"
+   ]
+  },
+  {
+   "position": "State-dependent approach: section 4B1.2(b) does not turn on the content of federal drug schedules or their match with a state-law analog.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Jones, 81 F.4th 591 (6th Cir. 2023)",
+    "United States v. Chaires, 88 F.4th 172 (2d Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Second Circuit applies the categorical approach, as binding under Townsend. The concurrence says it continues to believe the state-dependent approach is the correct reading.",
+ "source": "concurrence",
+ "confidence": 0.5,
+ "quote": "Indeed, six of our sister circuits have already concluded as much, holding that section 4B1.2(b) calls for a statedependent approach rather than a categorical one.",
+ "cluster_id": 9450052,
+ "cite": "United States v. Chaires, 88 F.4th 172 (2d Cir. 2023)",
+ "court": "2d",
+ "date": "2023-12-07",
+ "url": "https://www.courtlistener.com/opinion/9450052/united-states-v-chaires/",
+ "usage": {
+  "in": 2601,
+  "out": 2648
+ }
+}

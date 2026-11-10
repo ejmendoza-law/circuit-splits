@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Foreign Commerce Clause give Congress broader power than the Interstate Commerce Clause to regulate the conduct of U.S. citizens abroad, so that 18 U.S.C. \u00a7 2423(c) can validly reach foreign sexual conduct by citizens?",
+ "provision": "18 U.S.C. \u00a7 2423(c)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The Foreign Commerce Clause gives Congress greater authority to regulate foreign commerce than interstate commerce, and 18 U.S.C. \u00a7 2423(c) is a valid exercise of that power as applied to U.S. citizens abroad.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Corrigan Clay, 128 F.4th 163 (3d Cir. 2025)",
+    "United States v. Pendleton, 658 F.3d 299 (3d Cir. 2011)",
+    "United States v. Clark, 435 F.3d 1100 (9th Cir. 2006)"
+   ]
+  },
+  {
+   "position": "Upholding \u00a7 2423(c) through a channels-of-commerce theory is doubtful, because the statute punishes future foreign conduct divorced from travel and could permit federal prosecution of Americans for any offense committed abroad.",
+   "circuits": [
+    "6th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Rife, 33 F.4th 838 (6th Cir. 2022)",
+    "United States v. Clark, 435 F.3d 1100, 1119 (9th Cir. 2006) (Ferguson, J., dissenting)",
+    "United States v. Durham, 902 F.3d (10th Cir. 2018) (Hartz, J., dissenting)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit holds that the Foreign Commerce Clause gives Congress broader power over foreign commerce, and that \u00a7 2423(c) is constitutional as applied here.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "Meanwhile, a circuit split has emerged regarding the scope of the Foreign Commerce Clause relative to its interstate counterpart.",
+ "cluster_id": 10326127,
+ "cite": "United States v. Corrigan Clay, 128 F.4th 163 (3rd Cir. 2025)",
+ "court": "3d",
+ "date": "2025-02-03",
+ "url": "https://www.courtlistener.com/opinion/10326127/united-states-v-corrigan-clay/",
+ "usage": {
+  "in": 1872,
+  "out": 3249
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "criminal": false,
+ "status": "resolved",
+ "resolved_by": "Congress resolved the split by amending RFRA in RLUIPA (Pub. L. No. 106-274, \u00a7 7(a)(3), 2000), which rewrote RFRA's definition of \"exercise of religion\" to incorporate RLUIPA's definition of \"religious exercise,\" which applies whether or not the practice is compelled by or central to a system of religious belief.",
+ "issue": "Under RFRA as enacted in 1993 and before RLUIPA's 2000 amendment, were religious exercises protected only if they were central to or mandated by the adherent's faith?",
+ "provision": "42 U.S.C. \u00a7 2000bb et seq. (RFRA); 42 U.S.C. \u00a7 2000cc-5(7)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Pre-RLUIPA RFRA protected only religious practices that are \"central\" to, or \"mandated\" by, a person's faith.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Bryant v. Gomez, 46 F.3d 948, 949 (9th Cir. 1995)"
+   ]
+  },
+  {
+   "position": "Pre-RLUIPA RFRA did not impose a centrality or mandate limitation on protected religious practice; the limitation is rejected.",
+   "circuits": [
+    "7th",
+    "9th"
+   ],
+   "cases": [
+    "Mack v. O'Leary, 80 F.3d 1175, 1178\u201379 (7th Cir. 1996)",
+    "Apache Stronghold v. United States, 95 F.4th 608 (9th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "The Ninth Circuit treats the centrality/mandate limitation of Bryant as abrogated by RLUIPA's redefinition of RFRA's terms, so it does not treat the split as live.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "However, a circuit split developed as to whether, as a result, RFRA\u2019s protections were limited to only those practices that are \u201ccentral\u201d to, or \u201cmandated\u201d by, a person\u2019s faith.",
+ "cluster_id": 9480338,
+ "cite": "Apache Stronghold v. USA, 95 F.4th 608 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-03-01",
+ "url": "https://www.courtlistener.com/opinion/9480338/apache-stronghold-v-usa/",
+ "usage": {
+  "in": 2402,
+  "out": 2065
+ }
+}

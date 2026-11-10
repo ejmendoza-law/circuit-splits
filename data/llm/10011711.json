@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "See Truman v. Johnson, 60 F.4th 1267, 1273 n.6 (10th Cir. 2023) (noting that, in the preclusion context, the circuits are split as to this question).",
+ "cluster_id": 10011711,
+ "cite": "United States v. Montano, 109 F.4th 1275 (10th Cir. 2024)",
+ "court": "10th",
+ "date": "2024-07-23",
+ "url": "https://www.courtlistener.com/opinion/10011711/united-states-v-montano/",
+ "usage": {
+  "in": 1314,
+  "out": 866
+ }
+}

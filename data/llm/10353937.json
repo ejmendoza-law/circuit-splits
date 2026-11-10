@@ -1,0 +1,59 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can the First Step Act's prospective-only change to \u00a7 924(c)'s stacking provision be an extraordinary and compelling reason for a compassionate release sentence reduction, including through U.S.S.G. \u00a7 1B1.13(b)(6)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "The \u00a7 924(c) anti-stacking amendment cannot be an extraordinary and compelling reason for a sentence reduction, even under U.S.S.G. \u00a7 1B1.13(b)(6), because that would give the prospective-only amendment retroactive effect Congress withheld.",
+   "circuits": [
+    "3d",
+    "5th",
+    "6th",
+    "7th",
+    "8th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Thacker, 4 F.4th 571 (7th Cir. 2021)",
+    "United States v. Andrews, 12 F.4th 255 (3d Cir. 2021)",
+    "United States v. Rutherford, 120 F.4th 360 (3d Cir. 2024)",
+    "United States v. Austin, 125 F.4th 688 (5th Cir. 2025)",
+    "United States v. McCall, 56 F.4th 1048 (6th Cir. 2022)",
+    "United States v. Crandall, 25 F.4th 582 (8th Cir. 2022)",
+    "United States v. Jenkins, 50 F.4th 1185 (D.C. Cir. 2022)",
+    "United States v. Black, No. 24-1191 (7th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "The \u00a7 924(c) anti-stacking amendment can be an extraordinary and compelling reason for a sentence reduction, and the Commission's \u00a7 1B1.13(b)(6) policy statement validly allows it, because it does not give the amendment full retroactive effect.",
+   "circuits": [
+    "1st",
+    "4th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Ruvalcaba, 26 F.4th 14 (1st Cir. 2022)",
+    "United States v. McCoy, 981 F.3d 271 (4th Cir. 2020)",
+    "United States v. Chen, 48 F.4th 1092 (9th Cir. 2022)",
+    "United States v. McGee, 992 F.3d 1035 (10th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "The majority follows Thacker and holds that the \u00a7 924(c) anti-stacking amendment cannot be an extraordinary and compelling reason. A separate writing argues that Thacker should yield to the Commission's \u00a7 1B1.13(b)(6) and would remand for resentencing consideration.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We recognize Thacker's holding that \u00a7 924(c)'s anti-stacking amendment cannot constitute an extraordinary and compelling reason for a sentence reduction is not consensus; the courts of appeals have split on the issue.",
+ "cluster_id": 10353937,
+ "cite": "United States v. Eural Black, No. 24-1191 (7th Cir. 2025)",
+ "court": "7th",
+ "date": "2025-03-11",
+ "url": "https://www.courtlistener.com/opinion/10353937/united-states-v-eural-black/",
+ "usage": {
+  "in": 2565,
+  "out": 3255
+ }
+}

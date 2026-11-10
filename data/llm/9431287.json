@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Kisor v. Wilkie's limit on Auer/Seminole Rock deference apply to the Sentencing Guidelines commentary, so that a court may defer to the commentary only if the Guideline itself is genuinely ambiguous?",
+ "provision": "U.S.S.G. commentary (Stinson v. United States, 508 U.S. 36 (1993); Kisor v. Wilkie, 139 S. Ct. 2400 (2019))",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Kisor's more demanding deference standard applies to Guidelines commentary; a court may defer to commentary only if the Guideline is genuinely ambiguous after exhausting traditional tools of construction.",
+   "circuits": [
+    "6th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Riccardi, 989 F.3d 476 (6th Cir. 2021)",
+    "United States v. Castillo, 69 F.4th 648 (9th Cir. 2023)",
+    "United States v. Scheu, No. 22-10044 (9th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Kisor did not displace Stinson; the Guidelines commentary continues to receive deference under Stinson without first requiring a finding of ambiguity in the Guideline.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Moses, 23 F.4th 347 (4th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Follows the Kisor-applies position (adopted in Castillo, which Scheu reaffirms). Scheu itself does not decide the broader post-Kisor question of how much weight commentary receives, because it holds the Guideline unambiguous.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Since Kisor was decided, a circuit split has arisen over whether this more limited deference should apply to the Sentencing Guidelines commentary and application notes.",
+ "cluster_id": 9431287,
+ "cite": "United States v. Joshua Scheu, No. 22-10044 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-10-06",
+ "url": "https://www.courtlistener.com/opinion/9431287/united-states-v-joshua-scheu/",
+ "usage": {
+  "in": 1869,
+  "out": 2058
+ }
+}

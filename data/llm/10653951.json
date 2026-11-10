@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Do the due-process protections of U.S.S.G. \u00a7 6A1.3(a), including a defendant's right to contest factual matters reasonably in dispute, apply to sentence-reduction proceedings under 18 U.S.C. \u00a7 3582(c)(2)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(2)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "Section 6A1.3's dispute-resolution and due-process protections apply in \u00a7 3582(c)(2) sentence-reduction proceedings, so the defendant must get notice and an opportunity to contest new information.",
+   "circuits": [
+    "3d",
+    "5th",
+    "7th",
+    "8th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Mueller, 168 F.3d 186 (5th Cir. 1999)",
+    "United States v. Neal, 611 F.3d 399 (7th Cir. 2010)",
+    "United States v. Foster, 575 F.3d 861 (8th Cir. 2009)",
+    "United States v. Jules (11th Cir.), 595 F.3d",
+    "United States v. Harmon, No. 24-2057 (3d Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Section 6A1.3 applies only to original sentencing proceedings, not to \u00a7 3582(c)(2) proceedings.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Mercado-Moreno, 869 F.3d 942 (9th Cir. 2017)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit agrees with the position that \u00a7 6A1.3(a) due-process protections apply to \u00a7 3582(c)(2) sentence-reduction motions.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "But there is a circuit split on this issue.",
+ "cluster_id": 10653951,
+ "cite": "United States v. Paul Harmon, No. 24-2057 (3rd Cir. 2025)",
+ "court": "3d",
+ "date": "2025-08-14",
+ "url": "https://www.courtlistener.com/opinion/10653951/united-states-v-paul-harmon/",
+ "usage": {
+  "in": 1313,
+  "out": 1755
+ }
+}

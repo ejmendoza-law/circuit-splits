@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 3583(e)",
+ "topic": "Supervised release & probation",
+ "sides": [],
+ "this_court": "Rejects the claimed Article III right to a jury trial in supervised release revocation proceedings and declines to create a circuit split by being the first court to so hold; the excerpts show no live split.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Bowers asks this Court to create a circuit split by being the first court to hold otherwise. We decline to do so.",
+ "cluster_id": 10349520,
+ "cite": "United States v. Bowers, 130 F.4th 672 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-03-04",
+ "url": "https://www.courtlistener.com/opinion/10349520/united-states-v-bowers/",
+ "usage": {
+  "in": 1314,
+  "out": 798
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9417256,
+ "cite": "United States v. Eleanor Milligan, 77 F.4th 1008 (D.C. Cir. 2023)",
+ "court": "D.C.",
+ "date": "2023-08-01",
+ "url": "https://www.courtlistener.com/opinion/9417256/united-states-v-eleanor-milligan/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

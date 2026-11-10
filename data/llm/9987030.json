@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9987030,
+ "cite": "Dedre Feyijinmi v. State of Maryland Central Collection Unit, 105 F.4th 662 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-06-28",
+ "url": "https://www.courtlistener.com/opinion/9987030/dedre-feyijinmi-v-state-of-maryland-central-collection-unit/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

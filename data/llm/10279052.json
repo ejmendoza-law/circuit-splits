@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10279052,
+ "cite": "United States v. Qureshi, 121 F.4th 1095 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-11-20",
+ "url": "https://www.courtlistener.com/opinion/10279052/united-states-v-qureshi/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

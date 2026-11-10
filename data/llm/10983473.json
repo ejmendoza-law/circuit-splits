@@ -1,0 +1,32 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the government's mandatory detention of an alien under 8 U.S.C. \u00a7 1225 or \u00a7 1226 pending removal proceedings, rather than bond-eligible detention, apply to this petitioner?",
+ "provision": "8 U.S.C. \u00a7 1225(b)(2)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "This court (2d Cir.) holds the petitioner's detention is governed by the statute the panel applied and that habeas relief was properly granted; the excerpts do not identify the circuits on the opposing side.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "Barbosa Da Cunha v. Freden, No. 25-3141 (2d Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "The panel's reading of \u00a7 1225 is correct, and the district court had authority to grant habeas relief.",
+ "source": "concurrence",
+ "confidence": 0.3,
+ "quote": "Further, there is a deep and widening circuit split on the nationally important issue of whether the government may detain aliens like Petitioner under Section 1225 or Section 1226.",
+ "cluster_id": 10983473,
+ "cite": "Barbosa Da Cunha v. Freden, No. 25-3141 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-09-25",
+ "url": "https://www.courtlistener.com/opinion/10983473/barbosa-da-cunha-v-freden/",
+ "usage": {
+  "in": 2425,
+  "out": 2276
+ }
+}

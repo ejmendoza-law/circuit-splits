@@ -1,0 +1,56 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is 18 U.S.C. \u00a7 922(g)(1), the federal ban on firearm possession by felons, constitutional under the Second Amendment as applied to people convicted of nonviolent felonies, and did Bruen abrogate pre-Bruen circuit precedent upholding the statute?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Section 922(g)(1) is constitutional in all its applications, including to nonviolent felons, because status-based disarmament of felons is consistent with the historical tradition. Pre-Bruen precedent upholding the statute need not be revisited.",
+   "circuits": [
+    "4th",
+    "8th",
+    "10th",
+    "11th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Hunt, 123 F.4th 697 (4th Cir. 2024)",
+    "United States v. Jackson, 110 F.4th 1120 (8th Cir. 2024)",
+    "Vincent v. Bondi, 127 F.4th 1263 (10th Cir. 2025)",
+    "Vincent v. Garland, 80 F.4th 1197 (10th Cir. 2023)",
+    "United States v. Dubois, 94 F.4th 1284 (11th Cir. 2024)",
+    "United States v. Duarte, 137 F.4th 743 (9th Cir. 2025) (en banc)"
+   ]
+  },
+  {
+   "position": "Bruen abrogated pre-Bruen circuit precedent upholding \u00a7 922(g)(1), so the statute must be tested under Bruen's text-history-and-tradition framework, and as-applied challenges can succeed.",
+   "circuits": [
+    "3d",
+    "5th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Range, 124 F.4th 218 (3d Cir. 2024) (en banc)",
+    "United States v. Diaz, 116 F.4th 458 (5th Cir. 2024)",
+    "United States v. Williams, 113 F.4th 637 (6th Cir. 2024)",
+    "Atkinson v. Garland, 70 F.4th 1018 (7th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "Upholds \u00a7 922(g)(1) in all applications, including as applied to nonviolent felons, and takes the side that Bruen does not require displacing circuit precedent.",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "In doing so, the majority deepens a circuit split, intentionally taking the broadest possible path to uphold \u00a7 922(g)(1).",
+ "cluster_id": 10581665,
+ "cite": "United States v. Steven Duarte, 137 F.4th 743 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-05-09",
+ "url": "https://www.courtlistener.com/opinion/10581665/united-states-v-steven-duarte/",
+ "usage": {
+  "in": 2307,
+  "out": 3897
+ }
+}

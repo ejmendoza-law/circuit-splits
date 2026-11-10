@@ -1,0 +1,36 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a competency-to-stand-trial challenge that was not raised in the trial court procedurally defaulted when raised later in habeas proceedings?",
+ "provision": "18 U.S.C. \u00a7 4241",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Competency-to-stand-trial arguments not preserved at trial are subject to procedural default in habeas proceedings.",
+   "circuits": [
+    "4th",
+    "7th"
+   ],
+   "cases": [
+    "Smith v. Ozmint, 137 F.3d 808 (4th Cir. 1998)",
+    "United States v. Basham, 789 F.3d 358 (4th Cir. 2015)",
+    "Yang v. United States, 114 F.4th 899 (7th Cir. 2024)",
+    "United States v. Cabrera-Rivas, 142 F.4th 199 (4th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.35,
+ "quote": "It also should not go unacknowledged that this case is situated amidst a deep and entrenched circuit split involving at least eight federal courts of appeals about the preservation of arguments related to competency to stand trial.",
+ "cluster_id": 10621164,
+ "cite": "United States v. Cristian Cabrera-Rivas, 142 F.4th 199 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-06-30",
+ "url": "https://www.courtlistener.com/opinion/10621164/united-states-v-cristian-cabrera-rivas/",
+ "usage": {
+  "in": 1872,
+  "out": 2285
+ }
+}

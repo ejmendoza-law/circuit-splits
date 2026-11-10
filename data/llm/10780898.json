@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10780898,
+ "cite": "United States v. Jose Reyna, No. 23-1231 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-01-28",
+ "url": "https://www.courtlistener.com/opinion/10780898/united-states-v-jose-reyna/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

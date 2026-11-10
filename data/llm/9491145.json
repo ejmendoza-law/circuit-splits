@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "8 U.S.C. \u00a7 1326",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In the end, like the other courts of appeals to weigh in, we find we need not resolve this issue.",
+ "cluster_id": 9491145,
+ "cite": "United States v. Hector Hernandez-Avila, No. 22-4100 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-04-04",
+ "url": "https://www.courtlistener.com/opinion/9491145/united-states-v-hector-hernandez-avila/",
+ "usage": {
+  "in": 1316,
+  "out": 784
+ }
+}

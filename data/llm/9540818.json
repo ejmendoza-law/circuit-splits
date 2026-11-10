@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "Indeed, by the mid-twentieth century, the doctrine appears to have been uniformly applied in the federal courts.",
+ "cluster_id": 9540818,
+ "cite": "United States v. Reynolds, 98 F.4th 62 (1st Cir. 2024)",
+ "court": "1st",
+ "date": "2024-04-09",
+ "url": "https://www.courtlistener.com/opinion/9540818/united-states-v-reynolds/",
+ "usage": {
+  "in": 1313,
+  "out": 975
+ }
+}

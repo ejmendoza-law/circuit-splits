@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The 2024 amendment to U.S.S.G. \u00a7 2K2.1(b)(4)(B) limited the obliterated-serial-number enhancement to serial numbers that are \"illegible or unrecognizable to the unaided eye,\" resolving the split. The Commission did not make the amendment retroactive.",
+ "issue": "Does the obliterated serial number enhancement apply to firearms whose serial numbers are less legible but not completely obliterated?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(b)(4)(B)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "The enhancement applies to serial numbers that are 'less legible,' not only to those that are completely obliterated.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Harris, 720 F.3d 499 (4th Cir. 2013)"
+   ]
+  },
+  {
+   "position": "The enhancement applies only to 'illegible' serial numbers.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. St. Hilaire, 960 F.3d 61 (2d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Prior to 2024, the federal circuit courts of appeals were of differing views regarding whether this Guideline enhancement applied to less-than-legible serial numbers that were not completely obliterated.",
+ "cluster_id": 10934133,
+ "cite": "United States v. Bisheem Jones, No. 23-4711 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-07-21",
+ "url": "https://www.courtlistener.com/opinion/10934133/united-states-v-bisheem-jones/",
+ "usage": {
+  "in": 1313,
+  "out": 1251
+ }
+}

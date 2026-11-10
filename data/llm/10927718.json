@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "Holds that manual cell phone searches at the border are routine and need no individualized suspicion; the opinion does not acknowledge a split on this question.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "In fact, every one of our sister circuits to have considered the issue has reached the same result.",
+ "cluster_id": 10927718,
+ "cite": "United States v. Jose Belmonte Cardozo, No. 25-4239 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-07-13",
+ "url": "https://www.courtlistener.com/opinion/10927718/united-states-v-jose-belmonte-cardozo/",
+ "usage": {
+  "in": 1320,
+  "out": 1061
+ }
+}

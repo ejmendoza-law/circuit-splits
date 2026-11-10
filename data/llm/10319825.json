@@ -1,0 +1,39 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Are FBAR penalties under 31 U.S.C. \u00a7 5321 'fines' subject to review under the Eighth Amendment's Excessive Fines Clause?",
+ "provision": "31 U.S.C. \u00a7 5321; U.S. Const. amend. VIII (Excessive Fines Clause)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "FBAR penalties do not fall within the Excessive Fines Clause because they are not fines for Eighth Amendment purposes.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": []
+  },
+  {
+   "position": "FBAR penalties are in substantial measure punitive and therefore are subject to Excessive Fines Clause review.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Schwarzbaum, 127 F.4th 259 (11th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "FBAR penalties are subject to Excessive Fines Clause review; the court expressly declines to follow the First Circuit.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The only other circuit court to have addressed the question, the First Circuit, recently held that the Eighth Amendment's Excessive Fines Clause does not apply to FBAR penalties.",
+ "cluster_id": 10319825,
+ "cite": "United States v. Isac Schwarzbaum, 127 F.4th 259 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-01-23",
+ "url": "https://www.courtlistener.com/opinion/10319825/united-states-v-isac-schwarzbaum/",
+ "usage": {
+  "in": 1321,
+  "out": 1281
+ }
+}

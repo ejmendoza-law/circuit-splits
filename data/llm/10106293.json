@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10106293,
+ "cite": "United States v. Sullivan, Bilda, Rankin, No. 23-6559-cr(L) (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-09-06",
+ "url": "https://www.courtlistener.com/opinion/10106293/united-states-v-sullivan-bilda-rankin/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

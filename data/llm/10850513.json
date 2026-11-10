@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a conviction for conspiracy or attempt to commit a drug offense qualify as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b), given that Application Note 1 includes inchoate offenses in that definition?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b) and comment. (n.1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Inchoate offenses such as conspiracy and attempt qualify as controlled substance offenses under \u00a7 4B1.2(b), and Application Note 1 is consistent with the Guidelines text.",
+   "circuits": [
+    "1st",
+    "2d",
+    "5th",
+    "7th",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Mao, No. 24-2107 (1st Cir. 2026)",
+    "United States v. Gerrish, 96 F.4th 67 (1st Cir. 2024)",
+    "United States v. Richardson, 958 F.3d 151 (2d Cir. 2020)",
+    "United States v. Vargas, 74 F.4th 673 (5th Cir. 2023) (en banc)",
+    "United States v. Maloid, 71 F.4th 795 (10th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Inchoate offenses such as conspiracy and attempt do not qualify as controlled substance offenses under \u00a7 4B1.2(b), because the Application Note's inclusion of them is inconsistent with the guideline text.",
+   "circuits": [
+    "4th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Campbell, 22 F.4th 438 (4th Cir. 2022)",
+    "United States v. Dupree, 57 F.4th 1269 (11th Cir. 2023) (en banc)"
+   ]
+  }
+ ],
+ "this_court": "Inchoate offenses qualify as controlled substance offenses under \u00a7 4B1.2(b); the court adheres to its precedent on Application Note 1 and declines to resolve the split in the defendant's favor.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "we decline Mao's invitation to further entrench the circuit split on this issue.",
+ "cluster_id": 10850513,
+ "cite": "United States v. Mao, No. 24-2107 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-04-29",
+ "url": "https://www.courtlistener.com/opinion/10850513/united-states-v-mao/",
+ "usage": {
+  "in": 1604,
+  "out": 2835
+ }
+}

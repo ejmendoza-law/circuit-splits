@@ -1,0 +1,46 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What must a defendant show to establish that a Rule 11(b)(3) error in the factual basis for a guilty plea affected substantial rights on plain-error review: a reasonable probability that, but for the error, he would not have pleaded guilty, or only that the record as a whole fails to supply a sufficient factual basis?",
+ "provision": "Fed. R. Crim. P. 11(b)(3); Fed. R. Crim. P. 52(b)",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "A defendant must show a reasonable probability that, but for the Rule 11 error, he would not have entered the guilty plea (Dominguez Benitez standard).",
+   "circuits": [
+    "2d",
+    "5th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Bryant, 976 F.3d 165 (2d Cir. 2020)",
+    "United States v. Castro-Trevino, 464 F.3d 536 (5th Cir. 2006)",
+    "United States v. Monzon, 429 F.3d 1268 (9th Cir. 2005)",
+    "United States v. Dominguez Benitez, 542 U.S. 74 (2004)"
+   ]
+  },
+  {
+   "position": "A defendant need only show that the record as a whole fails to provide a sufficient factual basis to support the guilty plea.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Carillo, 860 F.3d 1293 (10th Cir. 2017)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "There is some disagreement among our sister circuits as to what is required to satisfy this standard in the context of a Rule 11(b)(3) challenge to the sufficiency of a guilty plea's factual basis.",
+ "cluster_id": 10813606,
+ "cite": "United States v. Nicole Schuster, No. 24-2942 (3rd Cir. 2026)",
+ "court": "3d",
+ "date": "2026-03-23",
+ "url": "https://www.courtlistener.com/opinion/10813606/united-states-v-nicole-schuster/",
+ "usage": {
+  "in": 1489,
+  "out": 1565
+ }
+}

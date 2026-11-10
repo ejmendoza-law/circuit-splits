@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under U.S.S.G. \u00a7 3B1.1, is the phrase \"otherwise extensive\" measured only by the number of participants in the criminal activity, or may courts also consider other indicia of extensiveness such as breadth, scope, complexity, geographic reach, and duration?",
+ "provision": "U.S.S.G. \u00a7 3B1.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "\"Otherwise extensive\" is assessed by the headcount of individuals involved in the criminal activity (the Second Circuit's test, which the Third Circuit adopted in Helbling).",
+   "circuits": [
+    "2d",
+    "3d"
+   ],
+   "cases": [
+    "United States v. Carrozzella, 105 F.3d 796, 802\u201303 (2d Cir. 1997)",
+    "United States v. Helbling, 209 F.3d 235 (3d Cir. 2000)"
+   ]
+  },
+  {
+   "position": "\"Otherwise extensive\" permits a broader consideration of other indicia of extensiveness, including the breadth, scope, complexity, geographical reach, and duration of the scheme.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Dietz, 950 F.2d 50, 53\u201354 (1st Cir. 1991)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Whereas the Second Circuit\u2014whose test we adopted in Helbling\u2014 limited the focus to the headcount of individuals involved, other circuits permit a broader consideration of other indicia of extensiveness including the breadth, scope, complexity, geographical reach, and duration of the scheme.",
+ "cluster_id": 10832804,
+ "cite": "United States v. Christopher Miller, No. 24-2199 (3rd Cir. 2026)",
+ "court": "3d",
+ "date": "2026-04-03",
+ "url": "https://www.courtlistener.com/opinion/10832804/united-states-v-christopher-miller/",
+ "usage": {
+  "in": 1315,
+  "out": 2109
+ }
+}

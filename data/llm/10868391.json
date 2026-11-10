@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10868391,
+ "cite": "United States v. $1,106,775 in US Currency, No. 22-16499 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-06-02",
+ "url": "https://www.courtlistener.com/opinion/10868391/united-states-v-1106775-in-us-currency/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

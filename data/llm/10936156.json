@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Sentencing Commission Amendment 775 (2013), which the opinion says was intended to resolve the split over withholding a \u00a7 3E1.1(b) motion for interests outside \u00a7 3E1.1; Amendment 820 (2023) later deleted that application note and defined 'preparing for trial.'",
+ "issue": "Can the government withhold a third-level acceptance-of-responsibility motion under U.S.S.G. \u00a7 3E1.1(b) because the defendant refuses to waive appeal rights?",
+ "provision": "U.S.S.G. \u00a7 3E1.1(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "The Commission intended the amendment to resolve a circuit split over whether the government may withhold a motion based on interests not identified in \u00a7 3E1.1.",
+ "cluster_id": 10936156,
+ "cite": "United States v. Yates, No. 25-2987 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-07-29",
+ "url": "https://www.courtlistener.com/opinion/10936156/united-states-v-yates/",
+ "usage": {
+  "in": 1939,
+  "out": 1571
+ }
+}

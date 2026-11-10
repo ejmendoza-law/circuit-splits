@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10714016,
+ "cite": "Rocky Freeman v. J. Lincalis, No. 23-1566 (3rd Cir. 2025)",
+ "court": "3d",
+ "date": "2025-10-29",
+ "url": "https://www.courtlistener.com/opinion/10714016/rocky-freeman-v-j-lincalis/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

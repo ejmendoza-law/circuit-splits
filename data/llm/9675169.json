@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9675169,
+ "cite": "United States v. Abreu, 106 F.4th 1 (1st Cir. 2024)",
+ "court": "1st",
+ "date": "2024-06-21",
+ "url": "https://www.courtlistener.com/opinion/9675169/united-states-v-abreu/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

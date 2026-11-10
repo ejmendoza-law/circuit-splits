@@ -1,0 +1,34 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a prisoner file a notice of appeal from the amended criminal judgment, rather than seek a certificate of appealability, to challenge the court's choice of remedy after granting relief under 28 U.S.C. \u00a7 2255?",
+ "provision": "28 U.S.C. \u00a7 2255(b)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A notice of appeal (NOA) from the amended criminal judgment is required to challenge the remedy chosen under \u00a7 2255(b). The excerpts do not identify the opposing side's circuits or holding.",
+   "circuits": [
+    "4th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Hadden, 475 F.3d 652 (4th Cir. 2007)",
+    "Ajan v. United States, 731 F.3d 629 (6th Cir. 2013)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "Both sides note that the circuits are split on whether a prisoner must file a NOA from the amended criminal judgment or a COA when assailing the judge's choice of a \u00a7 2255 remedy.",
+ "cluster_id": 10961605,
+ "cite": "McDonald v. United States, No. 21-1114 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-08-28",
+ "url": "https://www.courtlistener.com/opinion/10961605/mcdonald-v-united-states/",
+ "usage": {
+  "in": 1314,
+  "out": 1589
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Second Amendment, under Bruen, bar prosecuting a convicted felon under 18 U.S.C. \u00a7 922(g)(1) as applied to that defendant?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Section 922(g)(1) is unconstitutional as applied to the particular defendant (a felon whose Second Amendment right is not properly disarmed).",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Range, 69 F.4th 96 (3d Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Section 922(g)(1) is constitutional as applied; there is no need for felony-by-felony litigation over its constitutionality.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Jackson, 69 F.4th 495 (8th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "In fact, there is already a circuit split on the constitutionality of \u00a7 922(g)(1), the federal felon-in-possession statute.",
+ "cluster_id": 9419276,
+ "cite": "United States v. Daniels, 77 F.4th 337 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-08-09",
+ "url": "https://www.courtlistener.com/opinion/9419276/united-states-v-daniels/",
+ "usage": {
+  "in": 1312,
+  "out": 1682
+ }
+}

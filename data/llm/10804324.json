@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.95,
+ "quote": "There exists an irreconcilable Ninth Circuit intra-circuit split regarding whether the jurisdiction-stripping provisions of 8 U.S.C. \u00a7 1252(a)(2)(B) and (D) restrict all claimed constitutional challenges to United States Citizenship and Immigration Service's (\"USCIS\") discretionary determinations of immigration status to a petition for review of a final order of removal or whether such challenges may be heard in district court.",
+ "cluster_id": 10804324,
+ "cite": "Chairez v. Mayorkas, No. 24-4137 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-03-05",
+ "url": "https://www.courtlistener.com/opinion/10804324/chairez-v-mayorkas/",
+ "usage": {
+  "in": 2938,
+  "out": 804
+ }
+}

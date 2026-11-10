@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "For the U.S.S.G. \u00a7 4B1.1 career offender enhancement, must a court decide whether a prior drug conviction is a controlled substance offense by the law in effect at the time of the prior conviction, or by the law in effect at the time of sentencing?",
+ "provision": "U.S.S.G. \u00a7 4B1.1; see also U.S.S.G. \u00a7 1B1.11(a); 18 U.S.C. \u00a7 3553(a)(4)(A)(ii), (a)(5)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Time-of-conviction: the prior offense is measured against the controlled-substance definition in effect when the defendant was convicted of it (per the dissent's grouping; the excerpts do not state which circuits adopt which rule, so this mapping is inferred and unconfirmed)",
+   "circuits": [
+    "1st",
+    "2d",
+    "9th"
+   ],
+   "cases": [
+    "Lewis, 58 F.4th at 772 (cited in dissent)",
+    "Clark, 46 F.4th at 409 (cited in dissent)"
+   ]
+  },
+  {
+   "position": "Time-of-sentencing: the prior offense is measured against the Guidelines and controlled-substance definition in effect at sentencing, as the Guidelines' directive in \u00a7 1B1.11 requires (per the majority's grouping; mapping inferred and unconfirmed)",
+   "circuits": [
+    "4th",
+    "6th",
+    "8th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Minor, 121 F.4th 1085 (5th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "time-of-sentencing (the majority adopts this rule and states the court 'has now picked a side' while awaiting Supreme Court resolution)",
+ "source": "dissent",
+ "confidence": 0.45,
+ "quote": "As the majority points out, the circuits are deeply split over whether the correct approach to applying the \u00a7 4B1.1 enhancement is time-ofconviction or time-of-sentencing.",
+ "cluster_id": 10279053,
+ "cite": "United States v. Minor, 121 F.4th 1085 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-11-20",
+ "url": "https://www.courtlistener.com/opinion/10279053/united-states-v-minor/",
+ "usage": {
+  "in": 1684,
+  "out": 4178
+ }
+}

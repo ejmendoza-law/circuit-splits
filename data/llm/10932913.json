@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "Fed. R. App. P. 4(b)(4)",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "Joins the uniform rule that a court of appeals should not dismiss an untimely criminal notice of appeal, without a motion, until the district court has considered whether to grant an extension.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "No circuit has rejected or even apparently criticized this interpretation, which also enjoys the support of commentators.",
+ "cluster_id": 10932913,
+ "cite": "United States v. Robert Carter, No. 26-1406 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-07-20",
+ "url": "https://www.courtlistener.com/opinion/10932913/united-states-v-robert-carter/",
+ "usage": {
+  "in": 1316,
+  "out": 670
+ }
+}

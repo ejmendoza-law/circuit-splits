@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Rule 32.1's bar on hearsay evidence apply at the sentencing phase of a supervised-release revocation, or is that phase governed by Rule 32's general sentencing procedure, which gives the court broad discretion to accept hearsay?",
+ "provision": "Fed. R. Crim. P. 32.1; Fed. R. Crim. P. 32",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Rule 32.1's protections against hearsay extend to the sentencing phase of a revocation proceeding",
+   "circuits": [],
+   "cases": [
+    "United States v. Navarro-Santisteban, 83 F.4th 44 (1st Cir. 2023)"
+   ]
+  },
+  {
+   "position": "The sentencing phase of a revocation proceeding is governed by Rule 32's general sentencing procedure, which gives the court broad discretion to accept hearsay",
+   "circuits": [],
+   "cases": [
+    "United States v. Navarro-Santisteban, 83 F.4th 44 (1st Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "See United States v. Torres-Santana, 991 F.3d 257, 265 (1st Cir. 2021) (recognizing circuit split on the issue and declining to resolve the legal question where facts made it unnecessary to do so).",
+ "cluster_id": 9429422,
+ "cite": "United States v. Navarro-Santisteban, 83 F.4th 44 (1st Cir. 2023)",
+ "court": "1st",
+ "date": "2023-09-29",
+ "url": "https://www.courtlistener.com/opinion/9429422/united-states-v-navarro-santisteban/",
+ "usage": {
+  "in": 1315,
+  "out": 2015
+ }
+}

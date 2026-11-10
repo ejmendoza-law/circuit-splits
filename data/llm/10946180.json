@@ -1,0 +1,38 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is the 30-day filing deadline in 8 U.S.C. \u00a7 1252(b)(1) for petitions for review of immigration orders a mandatory claim-processing rule that must be enforced when properly raised, so that equitable tolling is unavailable?",
+ "provision": "8 U.S.C. \u00a7 1252(b)(1)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "The \u00a7 1252(b)(1) thirty-day filing rule is a mandatory claim-processing rule that, if properly raised, must be enforced, leaving no room for equitable tolling.",
+   "circuits": [
+    "4th",
+    "5th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "Liao v. Bondi, 162 F.4th 519 (5th Cir. 2025)",
+    "Oxlaj-Perez, 174 F.4th 521 (6th Cir.)",
+    "E.E.V., 2026 WL 1948859 (7th Cir.)",
+    "Jaime Navarro Cerritos v. Todd Blanche, No. 23-1897 (4th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Holds the thirty-day deadline in \u00a7 1252(b)(1) is mandatory and not subject to equitable tolling, and openly acknowledges that this deepens a split with other circuits.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "conclude[d] that \u00a7 1252(b)(1)\u2019s thirty-day filing rule is a mandatory claim-processing rule that, if properly raised, must be enforced.",
+ "cluster_id": 10946180,
+ "cite": "Jaime Navarro Cerritos v. Todd Blanche, No. 23-1897 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-08-11",
+ "url": "https://www.courtlistener.com/opinion/10946180/jaime-navarro-cerritos-v-todd-blanche/",
+ "usage": {
+  "in": 1318,
+  "out": 1822
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "The Fourth Circuit affirms the denial of habeas relief and holds that Bonnie, who is serving a revocation sentence for a \u00a7 924(c) conviction within an aggregate sentence, is ineligible for First Step Act time credits.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Were we to accept Bonnie's interpretation, we would thus create an unfortunate circuit split.",
+ "cluster_id": 10732117,
+ "cite": "Gregory Bonnie v. Warden Dunbar, No. 24-6665 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-11-05",
+ "url": "https://www.courtlistener.com/opinion/10732117/gregory-bonnie-v-warden-dunbar/",
+ "usage": {
+  "in": 1319,
+  "out": 902
+ }
+}

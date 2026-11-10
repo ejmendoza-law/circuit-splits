@@ -1,0 +1,53 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Are individuals with felony convictions among \"the people\" protected by the Second Amendment, such that a \u00a7 922(g)(1) prosecution must be justified under Bruen's historical-tradition test?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1); U.S. Const. amend. II",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Individuals with felony convictions are among \"the people\" protected by the Second Amendment, so \u00a7 922(g)(1) must be justified under the historical-tradition test.",
+   "circuits": [
+    "2d",
+    "3d",
+    "5th",
+    "6th",
+    "7th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "Zherka v. Bondi, 140 F.4th 68 (2d Cir. 2025)",
+    "Range v. Att'y Gen. U.S., 124 F.4th 218 (3d Cir. 2024) (en banc)",
+    "United States v. Diaz, 116 F.4th 458 (5th Cir. 2024)",
+    "United States v. Williams, 113 F.4th 637 (6th Cir. 2024)",
+    "United States v. Watson, 171 F.4th 1012 (7th Cir. 2026)",
+    "United States v. Duarte, 137 F.4th 743 (9th Cir. 2025) (en banc)",
+    "United States v. Harrison, 153 F.4th 998 (10th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Possession of firearms by felons is activity outside the Second Amendment right as originally understood, so the question is resolved without the historical-tradition analysis.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Hunt, 123 F.4th 697 (4th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We note that our sister circuits are split on the question of whether individuals with felony convictions are among \"the people\" protected by the Second Amendment, with most circuits holding that they are.",
+ "cluster_id": 10975313,
+ "cite": "United States v. Levasseur, No. 24-1687 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-09-16",
+ "url": "https://www.courtlistener.com/opinion/10975313/united-states-v-levasseur/",
+ "usage": {
+  "in": 1316,
+  "out": 1936
+ }
+}

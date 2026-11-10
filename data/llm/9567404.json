@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9567404,
+ "cite": "United States v. Leopoldo Rivera-Valdes, 105 F.4th 1118 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-06-17",
+ "url": "https://www.courtlistener.com/opinion/9567404/united-states-v-leopoldo-rivera-valdes/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

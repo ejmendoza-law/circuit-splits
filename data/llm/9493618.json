@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In fact, the uncertainty over whether a plaintiff must prove the inapplicability of Heck or whether the defendant must raise the Heck bar as a defense has created a circuit split in other contexts.",
+ "cluster_id": 9493618,
+ "cite": "Kamel Chaney-Snell v. Andrew Young, 98 F.4th 699 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-04-15",
+ "url": "https://www.courtlistener.com/opinion/9493618/kamel-chaney-snell-v-andrew-young/",
+ "usage": {
+  "in": 1317,
+  "out": 649
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a sentencing court draw an adverse inference about a defendant's lack of remorse from the defendant's silence without violating the Fifth Amendment privilege against self-incrimination?",
+ "provision": "U.S. Const. amend. V; Mitchell v. United States, 526 U.S. 314 (1999)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Excerpt does not state this side's rule. It notes a circuit split on whether Mitchell's bar on adverse inferences from silence extends to remorse in the capital sentencing context. The positions and the circuits on each side are not identified.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Caro, 597 F.3d 608 (4th Cir. 2010)",
+    "United States v. Sepulveda, 64 F.4th 700 (5th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "Cf. United States v. Caro, 597 F.3d 608, 629 (4th Cir. 2010) (describing circuit split on whether Mitchell extends to adverse inferences about remorse in the capital sentencing context).",
+ "cluster_id": 9389969,
+ "cite": "United States v. Sepulveda, 64 F.4th 700 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-04-06",
+ "url": "https://www.courtlistener.com/opinion/9389969/united-states-v-sepulveda/",
+ "usage": {
+  "in": 1313,
+  "out": 2129
+ }
+}

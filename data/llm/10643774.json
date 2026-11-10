@@ -1,0 +1,54 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a district court allows a defendant to proceed pro se at a supervised release revocation hearing, what standard of appellate review applies to whether the defendant validly waived the statutory right to counsel: abuse of discretion, harmless error, or de novo?",
+ "provision": "Fed. R. Crim. P. 32.1(b)(2)(D)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Abuse of discretion review applies to a district court's decision to allow a defendant to proceed pro se in a supervised release revocation proceeding.",
+   "circuits": [
+    "7th",
+    "8th",
+    "4th"
+   ],
+   "cases": [
+    "United States v. Owen, 854 F.3d 536 (8th Cir. 2017)",
+    "United States v. Boultinghouse, 784 F.3d 1163 (7th Cir. 2015)",
+    "United States v. Walton, No. 23-4314 (4th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Harmless error review applies to a pro se waiver issue in a supervised release revocation proceeding.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Spangle, 626 F.3d 488 (9th Cir. 2010)"
+   ]
+  },
+  {
+   "position": "De novo (plenary) review applies because whether the defendant knowingly and voluntarily waived the statutory right to counsel is a question of law.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Manuel, 732 F.3d 283 (3d Cir. 2013)"
+   ]
+  }
+ ],
+ "this_court": "abuse of discretion (majority adopts this standard; the dissent would instead join the Third Circuit and apply de novo review)",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "A. Before today, this Court has not opined on the proper standard of review when a district court allows a defendant to proceed pro se in a supervised release revocation, and our sister courts have split on this question.",
+ "cluster_id": 10643774,
+ "cite": "United States v. Eric Walton, No. 23-4314 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-07-28",
+ "url": "https://www.courtlistener.com/opinion/10643774/united-states-v-eric-walton/",
+ "usage": {
+  "in": 1454,
+  "out": 1615
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10857213,
+ "cite": "Juan Sanchez Alvarez v. MarkWayne Mullin, No. 25-1969 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-05-11",
+ "url": "https://www.courtlistener.com/opinion/10857213/juan-sanchez-alvarez-v-markwayne-mullin/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

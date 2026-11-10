@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Which constitutional provision supplies a criminal defendant's right to be present at sentencing: the Due Process Clause or the Confrontation Clause?",
+ "provision": "U.S. Const. amend. V (Due Process Clause); U.S. Const. amend. VI (Confrontation Clause); FED. R. CRIM. P. 32(i)(2)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "The right to be present at sentencing derives from the Due Process Clause of the Fifth Amendment.",
+   "circuits": [
+    "5th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Diggles, 957 F.3d 551 (5th Cir. 2020) (en banc)",
+    "United States v. Montoya, 82 F.4th 640 (9th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "The right to be present at sentencing derives from the Confrontation Clause of the Sixth Amendment.",
+   "circuits": [
+    "1st",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Ferrario-Pozzi, 368 F.3d 5 (1st Cir. 2004)",
+    "United States v. Townsend, 33 F.3d 1230 (10th Cir. 1994)"
+   ]
+  }
+ ],
+ "this_court": "Due Process Clause for proceedings lacking testimony, which includes most sentencings; the Confrontation Clause may also apply in the rare sentencing proceedings that include evidence or witness testimony.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The Supreme Court has not directly addressed the constitutional basis for a defendant\u2019s right to be present during sentencing, and the circuits are split on the basis for this right.",
+ "cluster_id": 9425996,
+ "cite": "United States v. Cynthia Montoya, 82 F.4th 640 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-09-13",
+ "url": "https://www.courtlistener.com/opinion/9425996/united-states-v-cynthia-montoya/",
+ "usage": {
+  "in": 1316,
+  "out": 1644
+ }
+}

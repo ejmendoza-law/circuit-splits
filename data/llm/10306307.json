@@ -1,0 +1,56 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When police deliberately use two-step interrogation (question first, Mirandize later), does Justice Kennedy's concurrence in Missouri v. Seibert control as the holding under Marks, so that the deliberateness test governs suppression of post-warning statements?",
+ "provision": "Missouri v. Seibert, 542 U.S. 600 (2004); Miranda v. Arizona, 384 U.S. 436 (1966)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Justice Kennedy's concurrence controls under Marks, so the deliberate two-step interrogation test applies",
+   "circuits": [
+    "2d",
+    "4th",
+    "5th",
+    "8th",
+    "9th",
+    "10th",
+    "11th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Courtney, 463 F.3d 333 (5th Cir. 2006)",
+    "United States v. Capers, 627 F.3d 470 (2d Cir. 2010)",
+    "United States v. Mashburn, 406 F.3d 303 (4th Cir. 2005)",
+    "United States v. Torres-Lona, 491 F.3d 750 (8th Cir. 2007)",
+    "United States v. Williams, 435 F.3d 1148 (9th Cir. 2006)",
+    "United States v. Guillen, 995 F.3d 1095 (10th Cir. 2021)",
+    "United States v. Street, 472 F.3d 1298 (11th Cir. 2006)",
+    "United States v. Neely, 124 F.4th 937 (D.C. Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Marks does not apply to Seibert, so Justice Kennedy's intent-based test is not the controlling rule",
+   "circuits": [
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Heron, 564 F.3d 879 (7th Cir. 2009)"
+   ]
+  }
+ ],
+ "this_court": "Kennedy's concurrence controls under Marks (the court applies the deliberate two-step test)",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Circuits have split as to whether Justice Kennedy's concurrence controls under Marks, see Straker, 800 F.3d at 617, with some finding \"Seibert's holding in Justice Kennedy's opinion concurring in the judgment,\" United States v. Courtney, 463 F.3d 333, 338 (5th Cir. 2006), and others concluding that \"the Marks rule is not applicable to Seibert,\" because \"Justice Kennedy's intent-based test was rejected by both the plurality opinion and the dissent,\" United States v. Heron, 564 F.3d 879, 884 (7th Cir. 2009).",
+ "cluster_id": 10306307,
+ "cite": "United States v. Darrell Neely, 124 F.4th 937 (D.C. Cir. 2024)",
+ "court": "D.C.",
+ "date": "2024-12-27",
+ "url": "https://www.courtlistener.com/opinion/10306307/united-states-v-darrell-neely/",
+ "usage": {
+  "in": 1316,
+  "out": 2860
+ }
+}

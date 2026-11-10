@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "",
+ "cluster_id": 10830722,
+ "cite": "United States v. State of Florida, No. 23-12331 (11th Cir. 2026)",
+ "court": "11th",
+ "date": "2026-03-31",
+ "url": "https://www.courtlistener.com/opinion/10830722/united-states-v-state-of-florida/",
+ "usage": {
+  "in": 2981,
+  "out": 409
+ }
+}

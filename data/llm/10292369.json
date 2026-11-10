@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10292369,
+ "cite": "United States v. Ashley, 128 F.4th 641 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-12-12",
+ "url": "https://www.courtlistener.com/opinion/10292369/united-states-v-ashley/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

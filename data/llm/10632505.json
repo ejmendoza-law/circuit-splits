@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10632505,
+ "cite": "Kevin Johnson v. Superintendent Mahanoy SCI, No. 23-2531 (3rd Cir. 2025)",
+ "court": "3d",
+ "date": "2025-07-14",
+ "url": "https://www.courtlistener.com/opinion/10632505/kevin-johnson-v-superintendent-mahanoy-sci/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

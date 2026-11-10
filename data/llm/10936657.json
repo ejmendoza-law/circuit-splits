@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In Buenrostro-Mendez, and over a dissent, the Fifth Circuit sided with the government, holding that \u00a7 1225(b)(2)(A) applies to unadmitted aliens inside the country and requires their detention without the possibility of bond.",
+ "cluster_id": 10936657,
+ "cite": "Rodriguez Vazquez v. Bostock, No. 25-6842 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-07-30",
+ "url": "https://www.courtlistener.com/opinion/10936657/rodriguez-vazquez-v-bostock/",
+ "usage": {
+  "in": 1315,
+  "out": 855
+ }
+}

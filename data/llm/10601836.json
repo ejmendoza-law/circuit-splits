@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a defendant waive his Sixth Amendment right to a public trial merely by failing to object to a courtroom closure?",
+ "provision": "U.S. Const. amend. VI; 28 U.S.C. \u00a7 2254(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Failure to object to a courtroom closure, without more, results in waiver of the public-trial right.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Hitt, 473 F.3d 146 (5th Cir. 2006)"
+   ]
+  },
+  {
+   "position": "Failure to object to a courtroom closure, without more, does not waive the public-trial right; waiver requires a knowing and voluntary relinquishment.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Walton v. Briley, 361 F.3d 431 (7th Cir. 2004)",
+    "Gambaiani v. Greene, No. 23-2690 (7th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "Does not resolve the merits split under de novo review. It holds that, under AEDPA, the Illinois court's waiver ruling was not an unreasonable application of clearly established federal law, because the Supreme Court has not decided the question and the circuits are divided. It notes its own rule (no waiver absent knowing and voluntary relinquishment) differs from the Fifth Circuit's.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Although failing to object does not result in a waiver in our court, the Fifth Circuit has held the opposite. United States v. Hitt, 473 F.3d 146, 155 (5th Cir. 2006);",
+ "cluster_id": 10601836,
+ "cite": "Grant Gambaiani v. Brittany Greene, No. 23-2690 (7th Cir. 2025)",
+ "court": "7th",
+ "date": "2025-06-10",
+ "url": "https://www.courtlistener.com/opinion/10601836/grant-gambaiani-v-brittany-greene/",
+ "usage": {
+  "in": 1871,
+  "out": 1850
+ }
+}

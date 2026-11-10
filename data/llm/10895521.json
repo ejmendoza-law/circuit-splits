@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the no-proximate-cause rule that applies to drug penalty enhancements under 21 U.S.C. \u00a7 841(b) extend to other federal statutes with 'results from' language, such as a human-smuggling statute or a healthcare-fraud statute?",
+ "provision": "21 U.S.C. \u00a7 841(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The \u00a7 841(b) no-proximate-cause rule does not extend to other statutes. Sentencing factors for drug crimes are an exception, and that exception should not be applied to a different statute.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Pineda-Doval, 614 F.3d 1019, 1026\u201328 (9th Cir. 2010)",
+    "United States v. Farley, No. 25-4283 (4th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "The \u00a7 841(b) no-proximate-cause rule extends beyond the drug context to other statutes, including a healthcare-fraud statute.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Webb, 655 F.3d 1238, 1255\u201356 (11th Cir. 2011)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "What is more, our sister circuits are divided about whether (and if so, when) Section 841(b)\u2019s no-proximate-cause rule extends beyond that provision\u2019s specific context.",
+ "cluster_id": 10895521,
+ "cite": "United States v. Tonya Farley, No. 25-4283 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-07-02",
+ "url": "https://www.courtlistener.com/opinion/10895521/united-states-v-tonya-farley/",
+ "usage": {
+  "in": 1930,
+  "out": 1911
+ }
+}

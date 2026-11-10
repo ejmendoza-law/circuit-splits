@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is evidence that an iMessage was transmitted over the Internet, without more, sufficient to prove that the communication actually crossed state lines for the interstate-commerce element of wire fraud?",
+ "provision": "18 U.S.C. \u00a7 1343",
+ "topic": "Fraud & white-collar",
+ "sides": [
+  {
+   "position": "Use of the Internet, standing alone, does not establish that a transmission traveled across state lines in interstate commerce; the government must prove actual interstate crossing (construing \u00a7 1343 in Kieffer and Schaefer; Wright construes a different statute, 18 U.S.C. \u00a7 2252A(a)(1)).",
+   "circuits": [
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Kieffer, 681 F.3d 1143, 1153 (10th Cir. 2012)",
+    "United States v. Schaefer, 501 F.3d 1197, 1200\u201301 (10th Cir. 2007)",
+    "United States v. Wright, 625 F.3d 583, 590\u201395 (9th Cir. 2010)"
+   ]
+  },
+  {
+   "position": "Contrary position on whether Internet transmission evidence suffices to establish interstate commerce. The excerpt does not spell out this holding; the opinion cites Haas as the opposing authority.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Haas, 37 F.4th 1256, 1264\u201365 (7th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "There is a circuit split on the issue. See United States v. Haas, 37 F.4th 1256, 1264\u201365 (7th Cir. 2022).",
+ "cluster_id": 10314461,
+ "cite": "United States v. O'Donovan, 126 F.4th 17 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-01-15",
+ "url": "https://www.courtlistener.com/opinion/10314461/united-states-v-odonovan/",
+ "usage": {
+  "in": 1313,
+  "out": 2198
+ }
+}

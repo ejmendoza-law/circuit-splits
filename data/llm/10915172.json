@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a prior state drug conviction qualify as a 'controlled substance' offense under the career offender guideline when the state's definition covers a substance, such as hemp, that is not controlled under federal law?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A state drug conviction qualifies only if the substance is controlled under federal law (federally based approach).",
+   "circuits": [
+    "2d",
+    "5th",
+    "9th",
+    "1st"
+   ],
+   "cases": [
+    "United States v. Townsend, 897 F.3d 66 (2d Cir. 2018)",
+    "United States v. Gomez-Alvarez, 781 F.3d 787 (5th Cir. 2015)",
+    "United States v. Bautista, 989 F.3d 698 (9th Cir. 2021)",
+    "United States v. Crocco, 15 F.4th 20 (1st Cir. 2021)",
+    "United States v. Fulcar, No. 24-1524 (1st Cir. 2026)"
+   ]
+  },
+  {
+   "position": "A state drug conviction can qualify if the state law defines the controlled substance more broadly than federal law (state-law approach).",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The First Circuit adopts the federally based approach, joining the side of the split held by the Second, Fifth, and Ninth Circuits.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "We join the latter half of this circuit split for the reasons we will next explain.",
+ "cluster_id": 10915172,
+ "cite": "United States v. Fulcar, No. 24-1524 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-07-06",
+ "url": "https://www.courtlistener.com/opinion/10915172/united-states-v-fulcar/",
+ "usage": {
+  "in": 1315,
+  "out": 2053
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10332607,
+ "cite": "United States v. Mangano, 128 F.4th 442 (2d Cir. 2025)",
+ "court": "2d",
+ "date": "2025-02-13",
+ "url": "https://www.courtlistener.com/opinion/10332607/united-states-v-mangano/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal habeas petitioner use evidence outside the state-court record to establish cause for a procedural default under Martinez v. Ryan after Shinn v. Ramirez?",
+ "provision": "28 U.S.C. \u00a7 2254(e)(2)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Ramirez did not abrogate the circuit's rule that AEDPA does not bar factual development to excuse a procedural default, so new evidence may be considered for Martinez cause.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "Williams v. Superintendent Mahanoy SCI, 45 F.4th 713, 723 (3d Cir. 2022)"
+   ]
+  },
+  {
+   "position": "Under Ramirez, new evidence may not be introduced to support a Martinez claim.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "Stokes v. Stirling, 64 F.4th 131, 136 (4th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We acknowledge the circuit split on the question. Compare Williams v. Superintendent Mahanoy SCI, 45 F.4th 713, 723 (3d Cir. 2022) (holding that Ramirez did not abrogate the circuit\u2019s holding that AEDPA does not forbid factual development regarding excusing procedural default), with Stokes v. Stirling, 64 F.4th 131, 136 (4th Cir. 2023) (concluding that Ramirez prohibits the introduction of new evidence in support of Martinez claims).",
+ "cluster_id": 9407541,
+ "cite": "Mullis v. Lumpkin, 70 F.4th 906 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-06-19",
+ "url": "https://www.courtlistener.com/opinion/9407541/mullis-v-lumpkin/",
+ "usage": {
+  "in": 1314,
+  "out": 1881
+ }
+}

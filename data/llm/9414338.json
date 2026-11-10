@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a criminal forfeiture ancillary proceeding, does the government's interest in substitute property relate back to the date of the indictment or to the date of the underlying crime?",
+ "provision": "21 U.S.C. \u00a7 853(c)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "The government's interest in substitute property relates back to the time of the indictment, not the time of the crime (the reading the parties agreed on, which the court did not endorse).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Erpenbeck, 682 F.3d 472 (6th Cir. 2012)",
+    "United States v. Hallinan, 75 F.4th 148 (3d Cir. 2023)"
+   ]
+  },
+  {
+   "position": "The government's interest in substitute property relates back to the time of the crime, the competing reading the court identified but did not adopt.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Erpenbeck, 682 F.3d 472 (6th Cir. 2012)",
+    "United States v. Hallinan, 75 F.4th 148 (3d Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "(We take no position on whether that reading of the law is right; the circuits are split on that question. United States v. Erpenbeck, 682 F.3d 472, 477\u201378 (6th Cir. 2012) (Sutton, J.) (describing the circuit split).)",
+ "cluster_id": 9414338,
+ "cite": "United States v. Charles Hallinan, 75 F.4th 148 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-07-19",
+ "url": "https://www.courtlistener.com/opinion/9414338/united-states-v-charles-hallinan/",
+ "usage": {
+  "in": 1347,
+  "out": 1951
+ }
+}

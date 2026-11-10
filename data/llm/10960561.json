@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We see no reason to disagree with our sister circuits.",
+ "cluster_id": 10960561,
+ "cite": "United States v. William Boylston, No. 24-5116 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-08-27",
+ "url": "https://www.courtlistener.com/opinion/10960561/united-states-v-william-boylston/",
+ "usage": {
+  "in": 1319,
+  "out": 493
+ }
+}

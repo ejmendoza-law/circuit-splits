@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "",
+ "cluster_id": 10854336,
+ "cite": "Ismael Perez v. Assistant Field Office Director, Krome North Service Processing Center, No. 25-14075 (11th Cir. 2026)",
+ "court": "11th",
+ "date": "2026-05-06",
+ "url": "https://www.courtlistener.com/opinion/10854336/ismael-perez-v-assistant-field-office-director-krome-north-service/",
+ "usage": {
+  "in": 1329,
+  "out": 641
+ }
+}

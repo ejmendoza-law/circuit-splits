@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "Underlying the district court's conclusion is a deep circuit split.",
+ "cluster_id": 10971988,
+ "cite": "Lewis-Williams v. San Francisco Bay Area Rapid Transit District, No. 25-740 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-09-11",
+ "url": "https://www.courtlistener.com/opinion/10971988/lewis-williams-v-san-francisco-bay-area-rapid-transit-district/",
+ "usage": {
+  "in": 1322,
+  "out": 612
+ }
+}

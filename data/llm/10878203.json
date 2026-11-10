@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10878203,
+ "cite": "United States v. Brian Broadfield, No. 25-2293 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-06-22",
+ "url": "https://www.courtlistener.com/opinion/10878203/united-states-v-brian-broadfield/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

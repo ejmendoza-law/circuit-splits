@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court, Hunter v. United States, 146 S. Ct. 1702 (2026)",
+ "issue": "Can a sentencing appeal waiver be enforced if enforcing it would result in a miscarriage of justice, and what error is needed to meet that exception?",
+ "provision": "",
+ "topic": "Pleas & appeal waivers",
+ "sides": [],
+ "this_court": "applies the Supreme Court's Hunter rule and enforces the appeal waiver, dismissing the appeal",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "In Hunter v. United States, resolving a circuit split, the Supreme Court held that in the sentencing context an appeal waiver \u201ccannot be enforced if doing so would result in a miscarriage of justice.\u201d 146 S. Ct. 1702, 1709 (2026).",
+ "cluster_id": 10945865,
+ "cite": "United States v. Xavier Murry, No. 25-1410 (8th Cir. 2026)",
+ "court": "8th",
+ "date": "2026-08-12",
+ "url": "https://www.courtlistener.com/opinion/10945865/united-states-v-xavier-murry/",
+ "usage": {
+  "in": 1302,
+  "out": 1259
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under U.S.S.G. \u00a7 2K2.1(b)(6)(B), does the phrase \"in connection with\" require an articulable connection between the firearm and the other felony, excluding accidental or coincidental presence, or is it so vague and ambiguous that it should be read narrowly?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(b)(6)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The phrase \"in connection with\" is too vague and ambiguous to apply without a clear standard. Its drafting history, including Application Note 14 added to resolve a circuit disagreement over accidental or coincidental firearm presence, supports reading the enhancement narrowly.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Perez, 5 F.4th 1 (3d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "The phrase \"in connection with\" has real boundaries drawn from Smith's construction of \"in relation to.\" It requires an articulable connection between the firearm and the other felony, and the firearm's presence cannot be the result of accident or coincidence. Application Note 14 tracks Smith and is not ambiguous.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Alphonso James, 135 F.4th 1329 (11th Cir. 2025)",
+    "Smith v. United States, 508 U.S. 223 (1993)"
+   ]
+  }
+ ],
+ "this_court": "The Eleventh Circuit adopts the articulable-connection reading and rejects the Third Circuit's ambiguity reasoning, holding that the phrase is not unworkably vague.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "But this understanding conflicts with the Supreme Court\u2019s interpretation of the analogous phrase \u201cin relation to.\u201d",
+ "cluster_id": 10419021,
+ "cite": "United States v. Alphonso James, 135 F.4th 1329 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-04-30",
+ "url": "https://www.courtlistener.com/opinion/10419021/united-states-v-alphonso-james/",
+ "usage": {
+  "in": 1315,
+  "out": 1806
+ }
+}

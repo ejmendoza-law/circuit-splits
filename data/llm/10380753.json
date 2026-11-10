@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "\u201c[c]hanges in decisional law based on constitutional principles are not of themselves extraordinary circumstances sufficient to justify Rule 60(b)(6) relief.\u201d",
+ "cluster_id": 10380753,
+ "cite": "In re: Gary Westcott, 135 F.4th 243 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-04-17",
+ "url": "https://www.courtlistener.com/opinion/10380753/in-re-gary-westcott/",
+ "usage": {
+  "in": 1312,
+  "out": 954
+ }
+}

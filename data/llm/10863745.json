@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a conviction under Va. Code \u00a7 18.2-53.1 for using or displaying a firearm while committing Virginia robbery qualify as a crime of violence under the Guidelines elements clause, U.S.S.G. \u00a7 4B1.2(a)(1)?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(a)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Use or display of a firearm while committing Virginia robbery is a crime of violence under the elements clause (and the enumerated offense clause), because the offense requires using a firearm while overcoming the victim by violence or intimidation.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Mao, No. 24-2107, 2026 WL 1162679 (1st Cir. Apr. 29, 2026)"
+   ]
+  },
+  {
+   "position": "Neither Virginia robbery nor Va. Code \u00a7 18.2-53.1, alone or in combination, has as an element the use, attempted use, or threatened use of physical force against the person of another, so the elements clause is not satisfied.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Scott, No. 25-4048 (4th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Neither Virginia robbery nor Virginia Code \u00a7 18.2-53.1, alone or in combination, satisfies the elements clause; the district court erred in holding otherwise, and the court respectfully disagrees with Mao.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "But having carefully reviewed the reasons the First Circuit gave for reaching its conclusion about the elements clause, we respectfully disagree.",
+ "cluster_id": 10863745,
+ "cite": "United States v. Raquan Scott, No. 25-4048 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-05-22",
+ "url": "https://www.courtlistener.com/opinion/10863745/united-states-v-raquan-scott/",
+ "usage": {
+  "in": 1874,
+  "out": 1663
+ }
+}

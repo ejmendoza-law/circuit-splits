@@ -1,0 +1,43 @@
+{
+ "criminal": false,
+ "status": "resolved",
+ "resolved_by": "The 2016 amendment to Fed. R. App. P. 4(a)(4)(A), with its Advisory Committee Note, addressed the circuit split and adopted the rule that forfeiting a timeliness objection does not make an untimely post-judgment motion timely.",
+ "issue": "Does a party's failure to object in the district court to the untimeliness of a post-judgment motion make that motion 'timely' for purposes of tolling the appeal deadline under Appellate Rule 4(a)(4)(A)?",
+ "provision": "Fed. R. App. P. 4(a)(4)(A)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "A forfeited objection to the untimeliness of a Rule 59(e) motion makes the motion timely for purposes of Appellate Rule 4(a)(4)(A).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Nat'l Ecological Found. v. Alexander, 496 F.3d 466 (6th Cir. 2007)"
+   ]
+  },
+  {
+   "position": "Forfeiture of a timeliness objection in the district court does not render an untimely motion timely for purposes of Appellate Rule 4(a)(4)(A).",
+   "circuits": [
+    "3d",
+    "2d"
+   ],
+   "cases": [
+    "Lizardo v. United States, 619 F.3d 273 (3d Cir. 2010)",
+    "Malek v. Feigenbaum, 116 F.4th 118 (2d Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the view that forfeiture of a timeliness objection does not make an untimely motion timely, relying on the 2016 Advisory Committee Note and aligning with the Third Circuit.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The 2016 amendment to Appellate Rule 4(a)(4)(A) addressed a circuit split about whether a post-judgment motion is \u201ctimely\u201d for the purposes of tolling where the district court extended the post-judgment motion deadline and no party objected to the extension.",
+ "cluster_id": 10114043,
+ "cite": "Malek v. Feigenbaum, 116 F.4th 118 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-09-11",
+ "url": "https://www.courtlistener.com/opinion/10114043/malek-v-feigenbaum/",
+ "usage": {
+  "in": 1711,
+  "out": 1583
+ }
+}

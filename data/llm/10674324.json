@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Our decision in Nethagani implicates another circuit split, see, e.g., Estrada-Martinez v. Lynch, 809 F.3d 886, 892 n.2 (7th Cir. 2015) (disagreeing with Nethagani), over a different line of cases that the 12 Supreme Court has addressed, see Wilkinson v. Garland, 601 U.S. 209, 217 (2024)",
+ "cluster_id": 10674324,
+ "cite": "\u00d6zt\u00fcrk v. Hyde; Mahdawi v. Trump, No. 25-1019; 25-1113 (2d Cir. 2025)",
+ "court": "2d",
+ "date": "2025-09-19",
+ "url": "https://www.courtlistener.com/opinion/10674324/ozturk-v-hyde-mahdawi-v-trump/",
+ "usage": {
+  "in": 2585,
+  "out": 977
+ }
+}

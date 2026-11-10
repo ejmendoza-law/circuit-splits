@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9434439,
+ "cite": "United States v. Antonio McDaniel, No. 20-7579 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-10-20",
+ "url": "https://www.courtlistener.com/opinion/9434439/united-states-v-antonio-mcdaniel/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

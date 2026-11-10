@@ -1,0 +1,55 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Dubin v. United States, 599 U.S. 110 (2023), in which the Supreme Court held that \u00a7 1028A applies when the misuse of another person's means of identification is at the crux of what makes the underlying offense criminal.",
+ "issue": "Under 18 U.S.C. \u00a7 1028A, does a defendant 'use' another person's means of identification 'during and in relation to' a fraud only if the defendant impersonated that person, or whenever the use facilitates the fraud?",
+ "provision": "18 U.S.C. \u00a7 1028A",
+ "topic": "Fraud & white-collar",
+ "sides": [
+  {
+   "position": "Aggravated identity theft requires impersonation, meaning the defendant attempted to pass himself off as another person or to act on that person's behalf.",
+   "circuits": [
+    "1st",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Berroa, 856 F.3d 141 (1st Cir. 2017)",
+    "United States v. Hong, 938 F.3d 1040 (9th Cir. 2019)"
+   ]
+  },
+  {
+   "position": "Aggravated identity theft requires only a causal link: the means of identification furthered or facilitated the fraud, without proof of impersonation.",
+   "circuits": [
+    "11th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Munksgard, 913 F.3d 1327 (11th Cir. 2019)",
+    "United States v. Michael, 882 F.3d 624 (6th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "The use must be instrumental to, or facilitate, the predicate fraud, a standard the Supreme Court later refined in Dubin to require that the misuse be at the crux of the underlying offense.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Wedd, 993 F.3d 104 (2d Cir. 2021)",
+    "United States v. Omotayo, 132 F.4th 181 (2d Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The Second Circuit applies the crux standard from Dubin, under which the means of identification must be at the crux of what makes the underlying fraud criminal, and it reviews the evidence against that standard.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "When Omotayo filed his opening brief, the Courts of Appeals were divided about the correct understanding of Section 1028A.",
+ "cluster_id": 10360447,
+ "cite": "United States v. Omotayo, 132 F.4th 181 (2d Cir. 2025)",
+ "court": "2d",
+ "date": "2025-03-20",
+ "url": "https://www.courtlistener.com/opinion/10360447/united-states-v-omotayo/",
+ "usage": {
+  "in": 1871,
+  "out": 1911
+ }
+}

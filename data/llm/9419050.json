@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a federal criminal prosecution under CIPA, must the government's state-secrets privilege claim over classified information be formally invoked by the head of the department that controls the information, or may a lower-ranked official invoke it?",
+ "provision": "Classified Information Procedures Act, 18 U.S.C. app. 3 \u00a7 4; United States v. Reynolds, 345 U.S. 1 (1953)",
+ "topic": "Evidence",
+ "sides": [
+  {
+   "position": "Formal invocation of the state-secrets privilege requires a declaration by the head of the department with control over the matter (or its political head), as Reynolds requires, even in criminal cases under CIPA.",
+   "circuits": [
+    "2d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Aref, 533 F.3d 72 (2d Cir. 2008)",
+    "United States v. Alahmedalabdaloklah, 94 F.4th 782 (9th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "The agency head need not personally invoke the privilege in criminal matters under CIPA; a lower-level official's invocation suffices.",
+   "circuits": [
+    "4th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Rosen, 557 F.3d 192 (4th Cir. 2009)",
+    "United States v. El-Mezain, 664 F.3d 467 (5th Cir. 2011)"
+   ]
+  }
+ ],
+ "this_court": "Requires formal invocation by the department head; the Ninth Circuit adheres to its prior CIPA decisions and to Reynolds, although it excuses the government's noncompliance in this case.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Other circuit courts are divided on this issue.",
+ "cluster_id": 9419050,
+ "cite": "United States v. Ahmed Alahmedalabdaloklah, 94 F.4th 782 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-08-09",
+ "url": "https://www.courtlistener.com/opinion/9419050/united-states-v-ahmed-alahmedalabdaloklah/",
+ "usage": {
+  "in": 1317,
+  "out": 1808
+ }
+}

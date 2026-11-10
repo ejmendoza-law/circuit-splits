@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "My colleagues\u2019 reasoning thus rejects our logic in Winburn and creates a circuit split.",
+ "cluster_id": 9389985,
+ "cite": "Charles Jackson v. City of Cleveland, 64 F.4th 736 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-04-06",
+ "url": "https://www.courtlistener.com/opinion/9389985/charles-jackson-v-city-of-cleveland/",
+ "usage": {
+  "in": 1318,
+  "out": 781
+ }
+}

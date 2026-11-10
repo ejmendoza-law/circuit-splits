@@ -1,0 +1,49 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is an alien's 28 U.S.C. \u00a7 2241 habeas petition challenging immigration detention a \"civil action\" for which attorney's fees may be awarded against the government under the Equal Access to Justice Act?",
+ "provision": "28 U.S.C. \u00a7 2412(d)(1)(A)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "An alien's \u00a7 2241 habeas petition challenging immigration detention is not a \"civil action\" under the EAJA, so the government's sovereign immunity is not waived for fee awards.",
+   "circuits": [
+    "4th",
+    "5th"
+   ],
+   "cases": [
+    "Barco v. Witte, 65 F.4th 782 (5th Cir. 2023)",
+    "Obando-Segura v. Garland, 999 F.3d 190 (4th Cir. 2021)"
+   ]
+  },
+  {
+   "position": "An alien's habeas petition challenging immigration detention is a \"civil action\" under the EAJA, so fee awards are available against the government.",
+   "circuits": [
+    "2d",
+    "3d",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "Michelin v. Warden Moshannon Valley Corr. Ctr., 2026 WL 263483 (3d Cir. 2026)",
+    "Daley v. Ceja, 158 F.4th 1152 (10th Cir. 2025)",
+    "Vacchio v. Ashcroft, 404 F.3d 663 (2d Cir. 2005)",
+    "In re Hill, 775 F.2d 1037 (9th Cir. 1985)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit takes the position that an alien's habeas petition is a \"civil action\" under the EAJA, so fee awards are available.",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "The Fourth and Fifth Circuits have held, correctly in my view, that a \u00a7 2241 petition by an alien is not a \u201ccivil action\u201d under the EAJA.",
+ "cluster_id": 10802535,
+ "cite": "Adolph Michelin v. Warden Moshannon Valley Correctional Center, No. 24-2990 (3rd Cir. 2026)",
+ "court": "3d",
+ "date": "2026-03-02",
+ "url": "https://www.courtlistener.com/opinion/10802535/adolph-michelin-v-warden-moshannon-valley-correctional-center/",
+ "usage": {
+  "in": 3356,
+  "out": 1715
+ }
+}

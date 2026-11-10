@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a court consider a defendant's individual history and circumstances when deciding an as-applied Second Amendment challenge to 18 U.S.C. \u00a7 922(g)(9) (and \u00a7 922(g)(1)), or may it apply a categorical, felony-by-felony test?",
+ "provision": "18 U.S.C. \u00a7 922(g)(9)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Categorical, felony-by-felony approach: the court does not assess the defendant's individual history or characteristics in an as-applied challenge to the firearm prohibition.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Kimble, 142 F.4th 308 (5th Cir. 2025)",
+    "United States v. Allred, No. 25-50204 (5th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Individualized assessment: the court considers the defendant's history and conduct, or at least leaves that possibility open, in as-applied challenges to the firearm prohibition.",
+   "circuits": [
+    "2d",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Williams, 113 F.4th 637 (6th Cir. 2024)",
+    "United States v. Martin, No. 24-3750, 2025 WL 1913185 (6th Cir. July 11, 2025)",
+    "United States v. Simmons, 150 F.4th 126 (2d Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "Categorical, felony-by-felony approach (the majority follows Kimble and applies it to \u00a7 922(g)(9)); the individualized-assessment view appears only in Judge Graves's concurrence.",
+ "source": "concurrence",
+ "confidence": 0.7,
+ "quote": "\"There is already a robust circuit split\" regarding how courts should consider as-applied challenges to \u00a7 922(g)(1).",
+ "cluster_id": 10931856,
+ "cite": "United States v. Allred, No. 25-50204 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-07-15",
+ "url": "https://www.courtlistener.com/opinion/10931856/united-states-v-allred/",
+ "usage": {
+  "in": 1312,
+  "out": 2573
+ }
+}

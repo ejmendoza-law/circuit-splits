@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "As it turned out, the Supreme Court rejected that distinction, abrogating our Ovalles decision and settling a circuit split.",
+ "cluster_id": 9426195,
+ "cite": "Charles Edward Jones v. United States, 82 F.4th 1039 (11th Cir. 2023)",
+ "court": "11th",
+ "date": "2023-09-14",
+ "url": "https://www.courtlistener.com/opinion/9426195/charles-edward-jones-v-united-states/",
+ "usage": {
+  "in": 2223,
+  "out": 1463
+ }
+}

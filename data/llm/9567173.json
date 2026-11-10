@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Drug offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Putting aside the problems inherent in relying on a withdrawn opinion, DavilaReyes II does not help the Appellants because it is not a decision from this Circuit or the Supreme Court, which is a necessary requirement to show error on plain error review.",
+ "cluster_id": 9567173,
+ "cite": "United States v. Jhonathan Alfonso, 104 F.4th 815 (11th Cir. 2024)",
+ "court": "11th",
+ "date": "2024-06-14",
+ "url": "https://www.courtlistener.com/opinion/9567173/united-states-v-jhonathan-alfonso/",
+ "usage": {
+  "in": 1317,
+  "out": 1298
+ }
+}

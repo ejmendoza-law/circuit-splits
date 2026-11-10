@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Evidence",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "accord United States v. Mandoka, 869 F.3d 448, 456-57 (6th Cir. 2017) (acknowledging an alleged \u201cintra-circuit split\u201d regarding the standard of review for Rule 404(b) evidence",
+ "cluster_id": 9420165,
+ "cite": "United States v. Baha Jaffal, 79 F.4th 582 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-08-14",
+ "url": "https://www.courtlistener.com/opinion/9420165/united-states-v-baha-jaffal/",
+ "usage": {
+  "in": 1321,
+  "out": 670
+ }
+}

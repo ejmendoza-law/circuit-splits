@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10287863,
+ "cite": "United States v. Dominic Dorsey, 122 F.4th 850 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-12-04",
+ "url": "https://www.courtlistener.com/opinion/10287863/united-states-v-dominic-dorsey/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

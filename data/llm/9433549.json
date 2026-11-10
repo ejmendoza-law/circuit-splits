@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a continuing criminal enterprise (CCE) indictment allege facts identifying the three predicate offenses, or is citing the violated statutory provisions for those predicate offenses sufficient?",
+ "provision": "21 U.S.C. \u00a7 848; U.S. Const. amend. V (grand jury indictment requirement)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "A CCE count is constitutionally sufficient if it identifies the predicate violations by reference to the violated statutory provisions, without describing their factual content.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Montague, 67 F.4th 529 (2d Cir. 2023)",
+    "United States v. Flaharty, 295 F.3d 182 (2d Cir. 2002)",
+    "United States v. Montague, 84 F.4th 533 (2d Cir. 2023)"
+   ]
+  },
+  {
+   "position": "An indictment must include the facts and circumstances comprising at least three predicate offenses, though the CCE count need not specify which three will ultimately prove the charge.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Bansal, 663 F.3d 634 (3d Cir. 2011)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "There can be no doubt of the circuit split here: the panel majority twice rejects Bansal by name.",
+ "cluster_id": 9433549,
+ "cite": "United States v. Montague, 84 F.4th 533 (2d Cir. 2023)",
+ "court": "2d",
+ "date": "2023-10-18",
+ "url": "https://www.courtlistener.com/opinion/9433549/united-states-v-montague/",
+ "usage": {
+  "in": 1871,
+  "out": 1820
+ }
+}

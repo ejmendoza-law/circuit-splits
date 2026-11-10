@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the private search doctrine permit law enforcement to conduct a warrantless visual examination of a digital file when a private party only matched that file's hash value to the hash of a previously identified image of child pornography, without viewing the file's contents?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "The private search doctrine permits a warrantless visual examination of the file after a private party's hash-value match, because the government learns nothing beyond what the private party already revealed.",
+   "circuits": [
+    "5th",
+    "6th"
+   ],
+   "cases": []
+  },
+  {
+   "position": "The private search doctrine does not permit a warrantless visual examination of the file after only a private hash-value match, because the government exceeds the scope of the private search.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Three Courts of Appeals have considered that question, with the Fifth and Sixth Circuits answering it in the affirmative and the Ninth Circuit responding in the negati",
+ "cluster_id": 10162635,
+ "cite": "United States v. Maher, 120 F.4th 297 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-10-30",
+ "url": "https://www.courtlistener.com/opinion/10162635/united-states-v-maher/",
+ "usage": {
+  "in": 1312,
+  "out": 1716
+ }
+}

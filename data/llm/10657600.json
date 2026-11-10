@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.85,
+ "quote": "Yet, the Louisiana Supreme Court has never resolved this jurisdictional question and, contrary to the majority\u2019s analysis, state intermediate appellate courts are divided on whether Article 362(2) provides a viable means of relief in this context.",
+ "cluster_id": 10657600,
+ "cite": "Galbraith v. Hooper, No. 22-30159 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-08-20",
+ "url": "https://www.courtlistener.com/opinion/10657600/galbraith-v-hooper/",
+ "usage": {
+  "in": 1312,
+  "out": 719
+ }
+}

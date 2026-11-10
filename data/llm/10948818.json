@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10948818,
+ "cite": "Olibris v. Blanche, No. 25-60322 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-08-14",
+ "url": "https://www.courtlistener.com/opinion/10948818/olibris-v-blanche/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal prisoner use a 28 U.S.C. \u00a7 2241 habeas petition to challenge a BOP decision about how to apply First Step Act time credits, where the relief sought is earlier placement in prerelease custody rather than a shorter sentence?",
+ "provision": "28 U.S.C. \u00a7 2241",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Conditions-of-confinement claims are not cognizable in habeas; a prisoner challenging the place or conditions of custody (including prerelease custody placement) must proceed under a civil rights action, not \u00a7 2241.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "Kruger v. Erickson, 77 F.3d 1071 (8th Cir. 1996)",
+    "Spencer v. Haynes, 774 F.3d 467 (8th Cir. 2014)",
+    "Maxwell v. Thomas, 133 F.4th 453 (circuit not identified in excerpt)",
+    "Fortner v. Eischen, No. 24-3596 (8th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Habeas is available to challenge conditions-of-confinement or custody-placement claims, as the Eighth Circuit's rule is wrongly decided.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "The longstanding circuit split regarding habeas jurisdiction to consider conditions of confinement claims persists.",
+ "cluster_id": 10808452,
+ "cite": "Anthony Fortner v. B. Eischen, Warden, No. 24-3596 (8th Cir. 2026)",
+ "court": "8th",
+ "date": "2026-03-13",
+ "url": "https://www.courtlistener.com/opinion/10808452/anthony-fortner-v-b-eischen-warden/",
+ "usage": {
+  "in": 2729,
+  "out": 1966
+ }
+}

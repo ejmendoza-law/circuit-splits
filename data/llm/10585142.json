@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does fugitive tolling apply to suspend the running of a supervised release term when the releasee absconds?",
+ "provision": "18 U.S.C. \u00a7 3583",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Fugitive tolling applies in the supervised release context, so the term is suspended while the releasee is a fugitive.",
+   "circuits": [
+    "2d",
+    "3d",
+    "4th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Barinas, 865 F.3d 99 (2d Cir. 2017)",
+    "United States v. Island, 916 F.3d 249 (3d Cir. 2019)",
+    "United States v. Buchanan, 638 F.3d 448 (4th Cir. 2011)",
+    "United States v. Murguia-Oliveros, 421 F.3d 951 (9th Cir. 2005)"
+   ]
+  },
+  {
+   "position": "Fugitive tolling does not apply in the supervised release context.",
+   "circuits": [
+    "1st",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Hernandez-Ferrer, 599 F.3d 63 (1st Cir. 2010)",
+    "United States v. Talley, 83 F.4th 1296 (11th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We begin by explaining there is currently a four-to-two circuit split on whether fugitive tolling exists in the supervised release context: the Second, Third, Fourth, and Ninth Circuits hold that it does; the First and Eleventh Circuits hold that it does not.",
+ "cluster_id": 10585142,
+ "cite": "United States v. Swick, 137 F.4th 336 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-05-15",
+ "url": "https://www.courtlistener.com/opinion/10585142/united-states-v-swick/",
+ "usage": {
+  "in": 1312,
+  "out": 1707
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "The majority invents an exception for legal questions that cannot be squared with the statutory text, conflicts with Supreme Court precedent, creates a circuit split, and guts the jurisdictional bar.",
+ "cluster_id": 10661791,
+ "cite": "Ibarra-Perez v. United States, No. 24-631 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-08-27",
+ "url": "https://www.courtlistener.com/opinion/10661791/ibarra-perez-v-united-states/",
+ "usage": {
+  "in": 1316,
+  "out": 738
+ }
+}

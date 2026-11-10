@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a criminal defendant's claim that was never presented to the district court be reviewed only for plain error under Rule 52(b), or may the appellate court review it de novo because a postruling exception is unnecessary under Rule 51(a)?",
+ "provision": "Fed. R. Crim. P. 51(b); Fed. R. Crim. P. 52(b)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Claims never presented to the district court are reviewed only for plain error under Rule 52(b); Rule 51(a) does not excuse the contemporaneous-objection requirement of Rule 51(b).",
+   "circuits": [],
+   "cases": [
+    "United States v. Stapleton, No. 25-2201 (7th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Claims never presented to the district court may be reviewed de novo because Rule 51(a) makes a postruling exception unnecessary.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Circuit decisions the Stapleton opinion describes as having applied de novo review to unpreserved claims (not named in the excerpt)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit adopts the plain-error position and rejects its own prior practice of de novo review of claims never presented.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "They are also in considerable tension with Supreme Court precedent and have created a lopsided circuit split.",
+ "cluster_id": 10932914,
+ "cite": "United States v. Jermaine Stapleton, No. 25-2201 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-07-20",
+ "url": "https://www.courtlistener.com/opinion/10932914/united-states-v-jermaine-stapleton/",
+ "usage": {
+  "in": 1320,
+  "out": 1871
+ }
+}

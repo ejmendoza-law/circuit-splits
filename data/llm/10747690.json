@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10747690,
+ "cite": "United States v. Christopher Arthur, No. 24-4306 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-12-03",
+ "url": "https://www.courtlistener.com/opinion/10747690/united-states-v-christopher-arthur/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

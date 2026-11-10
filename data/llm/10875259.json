@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Snyder v. United States, 603 U.S. 1 (2024) (Supreme Court) resolved the circuit split by holding that 18 U.S.C. \u00a7 666 reaches only quid pro quo bribery, not gratuities.",
+ "issue": "Does 18 U.S.C. \u00a7 666 reach gratuities paid to state or local officials, or only quid pro quo bribery?",
+ "provision": "18 U.S.C. \u00a7 666",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "Applies Snyder: the \u00a7 666 objects of the conspiracy were invalid without a quid pro quo finding, and the general verdict cannot be saved by the remaining objects.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Afterward, the Supreme Court decided Snyder v. United States, 603 U.S. 1 (2024), which resolved a circuit split and limited the application of \u00a7 666 to quid pro quo bribery by holding that the statute did not prohibit gratuities paid to state or local officials.",
+ "cluster_id": 10875259,
+ "cite": "United States v. Anne Pramaggiore, No. 25-2349 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-06-15",
+ "url": "https://www.courtlistener.com/opinion/10875259/united-states-v-anne-pramaggiore/",
+ "usage": {
+  "in": 1870,
+  "out": 1585
+ }
+}

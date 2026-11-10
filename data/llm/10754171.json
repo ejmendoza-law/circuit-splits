@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "The First Circuit holds that selective enforcement claims must be proven by a preponderance of the evidence, not Armstrong's clear-evidence standard, but the opinion says this does not create a circuit split.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We also agree with the Seventh Circuit that applying a preponderance standard does not necessarily create a circuit split, since other circuits that have \"cited Armstrong's clear-evidence standard when assessing selective-enforcement claims\" have \"invoked Armstrong in passing without specifically rejecting a preponderance standard.\"",
+ "cluster_id": 10754171,
+ "cite": "United States v. Yu, No. 24-1325 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-12-11",
+ "url": "https://www.courtlistener.com/opinion/10754171/united-states-v-yu/",
+ "usage": {
+  "in": 1313,
+  "out": 779
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10621157,
+ "cite": "United States v. Evans, 143 F.4th 1 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-07-01",
+ "url": "https://www.courtlistener.com/opinion/10621157/united-states-v-evans/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Rutherford v. United States (2025), which the opinion cites at 146 S. Ct. at 1326. The excerpts do not state the holding, so this is inferred from the citation and should be checked against the full opinion.",
+ "issue": "Can a nonretroactive change in federal sentencing law, such as a change under 18 U.S.C. \u00a7 924(c), be an 'extraordinary and compelling reason' for a sentence reduction under 18 U.S.C. \u00a7 3582(c)(1)(A)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A non-retroactive change in the law, alone or combined with other factors, cannot contribute to a finding of extraordinary and compelling reasons for a sentence reduction.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Crandall, 25 F.4th 582 (8th Cir. 2022)",
+    "United States v. Faulkner, No. 24-2296 (8th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "A non-retroactive change in the law may be considered, alone or in combination with other factors, as an extraordinary and compelling reason for a sentence reduction. The excerpts do not name the circuits holding this position.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "Follows Crandall: a non-retroactive change in the law cannot contribute to an extraordinary and compelling finding. The court summarily affirmed the denials of relief on that basis.",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "After the First Step Act opened compassionate release relief to motions filed by prisoners as well as the Director of the Bureau of Prisons, a circuit split developed over whether a nonretroactive change in the law under 18 U.S.C. \u00a7 924(c) could be an \u201cextraordinary and compelling\u201d reason for granting a prisoner relief.",
+ "cluster_id": 10969059,
+ "cite": "United States v. Alexander Faulkner, No. 24-2296 (8th Cir. 2026)",
+ "court": "8th",
+ "date": "2026-09-08",
+ "url": "https://www.courtlistener.com/opinion/10969059/united-states-v-alexander-faulkner/",
+ "usage": {
+  "in": 1315,
+  "out": 2635
+ }
+}

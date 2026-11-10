@@ -1,0 +1,47 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a noncitizen who entered without admission and is present in the United States count as 'seeking admission' under 8 U.S.C. \u00a7 1225(b)(2)(A), so that mandatory detention applies rather than a bond hearing under \u00a7 1226(a)?",
+ "provision": "8 U.S.C. \u00a7 1225(b)(2)(A)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Noncitizens present without admission are 'applicants for admission' subject to mandatory detention under \u00a7 1225(b)(2)(A) and are not entitled to a bond hearing",
+   "circuits": [
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "Buenrostro-Mendez v. Bondi, 166 F.4th 494 (5th Cir. 2026)",
+    "Avila v. Bondi, 170 F.4th 1128 (8th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "A noncitizen present without admission is not 'seeking admission' under \u00a7 1225(b)(2)(A) and is eligible for a bond hearing under \u00a7 1226(a)",
+   "circuits": [
+    "2d",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "Rhoney v. Barbosa da Cunha (2d Cir.)",
+    "Lopez-Campos v. Raycraft, 175 F.4th 713 (6th Cir. 2026)",
+    "Rojas v. Olson, No. 25-3127 (7th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit takes the position that the noncitizen is not 'seeking admission' and is eligible for a \u00a7 1226(a) bond hearing, so it is not subject to mandatory detention under \u00a7 1225(b)(2)(A).",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "We share the dissent's hope that the Supreme Court will settle this matter and bring uniformity.",
+ "cluster_id": 10936834,
+ "cite": "Jaciel Rojas v. Samuel Olson, No. 25-3127 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-07-30",
+ "url": "https://www.courtlistener.com/opinion/10936834/jaciel-rojas-v-samuel-olson/",
+ "usage": {
+  "in": 1694,
+  "out": 2749
+ }
+}

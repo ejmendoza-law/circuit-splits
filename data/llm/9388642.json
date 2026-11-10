@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court's decision in Concepcion v. United States, 142 S. Ct. 2389 (2022), which the opinion says 'has now put this uncertainty to rest' and which condemned the circuit rulings holding that district courts were absolutely barred from considering intervening changes",
+ "issue": "May a district court consider intervening changes in law, unrelated to the Fair Sentencing Act, when deciding whether to reduce a sentence under the First Step Act?",
+ "provision": "First Step Act of 2018, \u00a7 404, Pub. L. No. 115-391",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.85,
+ "quote": "A circuit split had developed over whether district courts were absolutely barred from considering these changes, see id. at 2398, and the Court condemned the courts that had held that they were, see id. at 2401\u201303.",
+ "cluster_id": 9388642,
+ "cite": "United States v. William Serrano Domenech, 63 F.4th 1078 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-03-31",
+ "url": "https://www.courtlistener.com/opinion/9388642/united-states-v-william-serrano-domenech/",
+ "usage": {
+  "in": 1317,
+  "out": 1381
+ }
+}

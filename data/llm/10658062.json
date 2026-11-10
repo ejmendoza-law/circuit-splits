@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Supreme Court's holding in Honeycutt v. United States, which limits forfeiture to property the defendant himself obtained, apply to forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C)?",
+ "provision": "18 U.S.C. \u00a7 981(a)(1)(C)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Honeycutt applies to forfeiture under \u00a7 981(a)(1)(C), so a defendant can be forfeited only property he himself obtained (position not identified in the excerpts)",
+   "circuits": [],
+   "cases": [
+    "United States v. Channon, 973 F.3d 1105, 1115 (10th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "Even if Honeycutt applies, a defendant who actually possessed or acquired the full proceeds of a criminal scheme can be held liable for those funds, including funds later transferred; under \u00a7 982(a)(1), a co-conspirator who acquired the full proceeds may be ordered to forfeit them",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Tanner, 942 F.3d 60, 67\u201368 (2d Cir. 2019)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "We recognize that \u201ca circuit split has developed over whether Honeycutt applies to a forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C),\u201d which does not use any form of the word obtain.",
+ "cluster_id": 10658062,
+ "cite": "United States v. Cline, No. 24-1119 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-08-21",
+ "url": "https://www.courtlistener.com/opinion/10658062/united-states-v-cline/",
+ "usage": {
+  "in": 1312,
+  "out": 2419
+ }
+}

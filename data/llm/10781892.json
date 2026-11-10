@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After Dubin v. United States, must the 'during and in relation to' element of aggravated identity theft under 18 U.S.C. \u00a7 1028A be satisfied only where the means of identification is at the crux of the criminality, or is a looser showing (facilitation, purpose, role, or effect) enough?",
+ "provision": "18 U.S.C. \u00a7 1028A",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The 'during and in relation to' element requires that the means of identification be at the crux of the criminality; a jury instruction that a looser purpose, role, or effect showing suffices is plainly incorrect.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Omotayo, 132 F.4th 181 (2d Cir. 2025)"
+   ]
+  },
+  {
+   "position": "A causal or facilitating relationship between the means of identification and the crime can satisfy the 'during and in relation to' element, so a sufficiency-of-facilitation formulation is acceptable.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "78 F.4th 1232 (11th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "In short, whatever Dubin may ultimately require in future cases, the absence of controlling Third Circuit authority and the split among our sister circuits means that any instructional omission here was not plain.",
+ "cluster_id": 10781892,
+ "cite": "United States v. James Abrams, No. 24-1998 (3rd Cir. 2026)",
+ "court": "3d",
+ "date": "2026-01-30",
+ "url": "https://www.courtlistener.com/opinion/10781892/united-states-v-james-abrams/",
+ "usage": {
+  "in": 1318,
+  "out": 1882
+ }
+}

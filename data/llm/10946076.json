@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What standard of appellate review applies to mixed questions of law and fact in reviewing a district court's pretrial detention order under the Bail Reform Act: de novo, or deferential?",
+ "provision": "18 U.S.C. \u00a7 3142",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Mixed questions in pretrial detention orders are reviewed de novo, as legal questions.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Mixed questions in pretrial detention orders receive deferential review because the district court is better positioned to decide them.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.3,
+ "quote": "And our sister circuits have split on the issue.",
+ "cluster_id": 10946076,
+ "cite": "United States v. Kyle Wagner, No. 26-1294 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-08-12",
+ "url": "https://www.courtlistener.com/opinion/10946076/united-states-v-kyle-wagner/",
+ "usage": {
+  "in": 1316,
+  "out": 1324
+ }
+}

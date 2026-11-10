@@ -1,0 +1,58 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can an error be plain under Rule 52(b) when no binding Supreme Court or circuit precedent addresses the issue, and the court may consider other circuits' decisions to decide whether the issue is subject to reasonable dispute?",
+ "provision": "Fed. R. Crim. P. 52(b)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "An error is plain only if binding precedent (Supreme Court or circuit) squarely holds it erroneous; absence of binding precedent defeats plain error.",
+   "circuits": [
+    "1st",
+    "6th",
+    "8th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Grullon, 996 F.3d 21 (1st Cir. 2021)",
+    "United States v. Al-Maliki, 787 F.3d 784 (6th Cir. 2015)",
+    "United States v. Ruzicka, 988 F.3d 997 (8th Cir. 2021)",
+    "United States v. Lejarde-Rada, 319 F.3d 1288 (11th Cir. 2003)",
+    "United States v. Tainewasher, No. 24-3634 (9th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "The absence of binding precedent does not preclude plain error; courts may look to other circuits' decisions and consensus in deciding whether the issue is subject to reasonable dispute.",
+   "circuits": [
+    "1st",
+    "6th",
+    "8th",
+    "9th",
+    "11th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Bobal, 981 F.3d 971 (11th Cir. 2020)",
+    "United States v. Merritt, 934 F.3d 809 (8th Cir. 2019)",
+    "United States v. Valdivia, 680 F.3d 33 (1st Cir. 2012)",
+    "United States v. Lanham, 617 F.3d 873 (6th Cir. 2010)",
+    "United States v. Smith, 232 F.3d 236 (D.C. Cir. 2000)",
+    "United States v. Tainewasher, No. 24-3634 (9th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The Ninth Circuit takes the broader position: absence of binding precedent does not preclude plain error, and sister-circuit decisions bear on whether the issue is subject to reasonable dispute.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "I acknowledge that a few decisions by some circuit courts suggest that binding precedent is required for an error to be plain.",
+ "cluster_id": 10700296,
+ "cite": "United States v. Tainewasher, No. 24-3634 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-10-10",
+ "url": "https://www.courtlistener.com/opinion/10700296/united-states-v-tainewasher/",
+ "usage": {
+  "in": 2034,
+  "out": 2281
+ }
+}

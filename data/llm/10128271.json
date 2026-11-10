@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "May the government withhold the third-level acceptance-of-responsibility motion under U.S.S.G. \u00a7 3E1.1(b) because the defendant in good faith objects to factual assertions in the presentence report or refuses to waive appeal rights?",
+ "provision": "U.S.S.G. \u00a7 3E1.1(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The government may not withhold the \u00a7 3E1.1(b) motion based on the defendant's refusal to waive appeal rights (Divens) or a good-faith objection to presentence report factual assertions (Lee).",
+   "circuits": [
+    "2d",
+    "4th"
+   ],
+   "cases": [
+    "United States v. Divens, 650 F.3d 343 (4th Cir. 2011)",
+    "United States v. Lee, 653 F.3d 170 (2d Cir. 2011)"
+   ]
+  },
+  {
+   "position": "The government has broad discretion to withhold the \u00a7 3E1.1(b) motion for any reason that does not violate the Constitution, including litigating contested relevant conduct at sentencing, which is a legitimate governmental interest.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Deberry (7th Cir.)",
+    "United States v. Nurek, 578 F.3d 624 (7th Cir. 2009)",
+    "United States v. Sainz-Preciado, 566 F.3d 713 (7th Cir. 2009)",
+    "United States v. Davis, 714 F.3d 474 (7th Cir. 2013)",
+    "United States v. Lafiamma Orona, 118 F.4th 858 (7th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Adheres to the Deberry line: Nurek and Sainz-Preciado remain binding, so objecting to relevant conduct is a legitimate basis for withholding the motion. Amendment 775 abrogated Deberry only on the appeal-waiver point and did not clearly displace Nurek and Sainz-Preciado.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "After our decisions in Deberry, Nurek, and Sainz-Preciado, a circuit split emerged on the scope of the government's discretion under \u00a7 3E1.1(b).",
+ "cluster_id": 10128271,
+ "cite": "United States v. Lafiamma Orona, 118 F.4th 858 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-10-01",
+ "url": "https://www.courtlistener.com/opinion/10128271/united-states-v-lafiamma-orona/",
+ "usage": {
+  "in": 2737,
+  "out": 2911
+ }
+}

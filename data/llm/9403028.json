@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "On federal habeas review of a state court's Napue (false or uncorrected testimony) determination, must the court apply the Brecht harmless-error 'actual prejudice' standard, or does the Napue materiality standard alone govern?",
+ "provision": "28 U.S.C. \u00a7 2254; Brecht v. Abrahamson, 507 U.S. 619 (1993)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Brecht does not apply to a Napue claim; the Napue materiality standard alone governs, with no separate harmless-error analysis needed",
+   "circuits": [
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "Haskell v. Superintendent Greene SCI, 866 F.3d 139, 150 (3d Cir. 2017)",
+    "Hayes, 399 F.3d at 984 (9th Cir.)",
+    "Dickey v. Davis, 69 F.4th 624 (9th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Brecht's 'actual prejudice' harmless-error standard applies to review of a Napue claim",
+   "circuits": [
+    "1st",
+    "6th",
+    "8th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Clay, 720 F.3d 1021, 1026\u201327 (8th Cir. 2013)",
+    "Trepal v. Sec'y, Fla. Dep't of Corr., 684 F.3d 1088, 1111\u201313 (11th Cir. 2012)",
+    "Rosencrantz v. Lafler, 568 F.3d 577, 587\u201390 (6th Cir. 2009)",
+    "Douglas v. Workman, 560 F.3d 1156, 1173 n.12 (10th Cir. 2009) (per curiam)",
+    "Gilday v. Callahan, 59 F.3d 257, 268 (1st Cir. 1995)"
+   ]
+  }
+ ],
+ "this_court": "Does not apply Brecht separately to Napue claims; it continues to use the Napue materiality standard alone (following Hayes), and notes that applying Brecht would not change the result here",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We recognize, however, that the circuits have split on whether the Brecht standard applies when reviewing a state court's Napue determination.",
+ "cluster_id": 9403028,
+ "cite": "Colin Dickey v. Ron Davis, 69 F.4th 624 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-05-31",
+ "url": "https://www.courtlistener.com/opinion/9403028/colin-dickey-v-ron-davis/",
+ "usage": {
+  "in": 1314,
+  "out": 1903
+ }
+}

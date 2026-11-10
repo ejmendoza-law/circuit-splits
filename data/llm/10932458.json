@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "there is an intra-circuit conflict regarding the standard for objective reasonableness in the Fourth Amendment context.",
+ "cluster_id": 10932458,
+ "cite": "United States v. Holcomb, No. 23-469 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-07-17",
+ "url": "https://www.courtlistener.com/opinion/10932458/united-states-v-holcomb/",
+ "usage": {
+  "in": 2405,
+  "out": 570
+ }
+}

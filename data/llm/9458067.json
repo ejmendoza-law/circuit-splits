@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Dubin v. United States, 599 U.S. 110 (2023), which sided with the narrower view the Sixth Circuit had already adopted in United States v. Michael, 882 F.3d 624 (6th Cir. 2018)",
+ "issue": "Under the aggravated identity theft statute, 18 U.S.C. \u00a7 1028A, must the use of another person's identity be the crux of the underlying fraud, rather than merely ancillary to it?",
+ "provision": "18 U.S.C. \u00a7 1028A",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Aggravated identity theft requires that the defendant's use of another person's identity be the crux of the fraud, so that the fraud concerns who received the services, not merely how and when they were provided (the narrower reading).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Michael, 882 F.3d 624 (6th Cir. 2018)",
+    "Dubin v. United States, 599 U.S. 110 (2023)",
+    "United States v. O'Lear, 90 F.4th 519 (6th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "The broader reading of the aggravated identity theft statute, under which use of another person's identity need not be the crux of the fraud. The excerpts describe this position as rejected in Dubin but do not name the circuits that adopted it.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The Sixth Circuit holds that Dubin did not change its law because the Supreme Court adopted the narrower view it had already taken in Michael, and it applies that narrower reading to affirm the aggravated identity theft convictions.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "When resolving a circuit split about the meaning of the aggravated-identity-theft statute, the Supreme Court sided with a narrower view that we had already adopted.",
+ "cluster_id": 9458067,
+ "cite": "United States v. Thomas O'Lear, 90 F.4th 519 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-01-08",
+ "url": "https://www.courtlistener.com/opinion/9458067/united-states-v-thomas-olear/",
+ "usage": {
+  "in": 1314,
+  "out": 2062
+ }
+}

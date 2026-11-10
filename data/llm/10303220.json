@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Sentencing Commission commentary: Application Note 14 to U.S.S.G. \u00a7 2K2.1, which the opinion says was added to resolve the split",
+ "issue": "Under U.S.S.G. \u00a7 2K2.1(b)(6)(B), must the 'another felony offense' be distinct in time or conduct from the offense of conviction, or is it enough that it is a separate chargeable felony with different elements?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(b)(6)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The other felony must be distinct in time or conduct from the offense of conviction.",
+   "circuits": [
+    "3d",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Fenton, 309 F.3d 825 (3d Cir. 2002)",
+    "United States v. McDonald, 165 F.3d 1032 (6th Cir. 1999)",
+    "United States v. Szakacs, 212 F.3d 344 (7th Cir. 2000)"
+   ]
+  },
+  {
+   "position": "The other felony need only be a separate offense with distinct elements (an elements test, e.g., Blockburger); a temporal or conduct distinction is not required.",
+   "circuits": [
+    "4th",
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Blount, 337 F.3d 404 (4th Cir. 2003)",
+    "United States v. Luna, 165 F.3d 316 (5th Cir. 1999)",
+    "United States v. Kenney, 283 F.3d 934 (8th Cir. 2002)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the elements-based position (a distinct chargeable crime), consistent with Application Note 14; United States v. McIntosh, 124 F.4th 199 (3d Cir. 2024), itself supports this reading.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "After all, Note 14 was added to resolve a growing circuit split.",
+ "cluster_id": 10303220,
+ "cite": "United States v. Nahsiem McIntosh, 124 F.4th 199 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-12-23",
+ "url": "https://www.courtlistener.com/opinion/10303220/united-states-v-nahsiem-mcintosh/",
+ "usage": {
+  "in": 2382,
+  "out": 2049
+ }
+}

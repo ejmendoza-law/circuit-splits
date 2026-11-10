@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10985177,
+ "cite": "United States v. Eduardo Rafael Lopez-Escarrega, No. 25-1937 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-09-28",
+ "url": "https://www.courtlistener.com/opinion/10985177/united-states-v-eduardo-rafael-lopez-escarrega/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

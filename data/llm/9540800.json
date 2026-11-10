@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "Finally, the defendant highlights the apparent conflict between our decision in Gates and the Ninth Circuit's decision in Scott.",
+ "cluster_id": 9540800,
+ "cite": "United States v. Gerrish, 96 F.4th 67 (1st Cir. 2024)",
+ "court": "1st",
+ "date": "2024-03-15",
+ "url": "https://www.courtlistener.com/opinion/9540800/united-states-v-gerrish/",
+ "usage": {
+  "in": 1201,
+  "out": 1108
+ }
+}

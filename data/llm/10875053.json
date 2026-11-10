@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10875053,
+ "cite": "United States v. Liounis, No. 24-2138 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-06-15",
+ "url": "https://www.courtlistener.com/opinion/10875053/united-states-v-liounis/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

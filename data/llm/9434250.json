@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "We see no basis to create a split with those circuits, particularly on sufficiency review when the culpability of Robertson's conduct is obvious.",
+ "cluster_id": 9434250,
+ "cite": "United States v. Thomas Robertson, 86 F.4th 355 (D.C. Cir. 2023)",
+ "court": "D.C.",
+ "date": "2023-10-20",
+ "url": "https://www.courtlistener.com/opinion/9434250/united-states-v-thomas-robertson/",
+ "usage": {
+  "in": 1315,
+  "out": 1018
+ }
+}

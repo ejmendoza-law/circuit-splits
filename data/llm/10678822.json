@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission's 1998 amendment to U.S.S.G. \u00a7 3B1.3, Application Note 3, which added imposters to the abuse-of-trust enhancement. The opinion describes the earlier circuit split as the backdrop for that amendment.",
+ "issue": "Does the abuse-of-trust enhancement under the Guidelines apply to a defendant who falsely holds himself out as a trusted professional, such as a financial advisor, without actually holding that position?",
+ "provision": "U.S.S.G. \u00a7 3B1.3",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "The Fourth Circuit holds that Application Note 3's inclusion of imposters is entitled to controlling weight, so the enhancement applies to Brewer.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "It is also the byproduct of \"well-reasoned decision making\" by the Commission, given the pre-1998 circuit split in our sister circuits.",
+ "cluster_id": 10678822,
+ "cite": "United States v. Christon Brewer, No. 24-4468 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-09-26",
+ "url": "https://www.courtlistener.com/opinion/10678822/united-states-v-christon-brewer/",
+ "usage": {
+  "in": 1314,
+  "out": 1172
+ }
+}

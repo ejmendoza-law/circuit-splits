@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a supervised release condition barring association with any person known or reasonably expected to be a member of or associated with a gang impermissibly vague or overbroad?",
+ "provision": "18 U.S.C. \u00a7 3583(d); U.S. Const. amend. V (due process vagueness)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "The gang-association condition is impermissibly vague or overbroad and should be vacated.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Johnson, 626 F.3d 1085 (9th Cir. 2010)"
+   ]
+  },
+  {
+   "position": "The gang-association condition, including a bar on associating with gang 'associates' or 'prospects,' is upheld.",
+   "circuits": [
+    "2d",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Marshall, 808 F. App'x 11 (2d Cir. 2020)",
+    "United States v. Romig, 933 F.3d 1004 (8th Cir. 2019)"
+   ]
+  },
+  {
+   "position": "Because the circuits are split, any error is not plain, so the condition stands at this stage without a merits ruling.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Blake, No. 24-2125 (6th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our sister circuits are split on whether such a prohibition on associating with gang \u201cassociates\u201d is impermissibly vague or overbroad.",
+ "cluster_id": 10784878,
+ "cite": "United States v. Cortez Blake, No. 24-2125 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-02-05",
+ "url": "https://www.courtlistener.com/opinion/10784878/united-states-v-cortez-blake/",
+ "usage": {
+  "in": 1513,
+  "out": 1584
+ }
+}

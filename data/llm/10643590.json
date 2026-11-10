@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In assessing an entrapment defense, is the government's inducement tested objectively, by how a reasonable, law-abiding person would respond, or subjectively, by the particular defendant's predisposition and susceptibility?",
+ "provision": "Entrapment defense (judicially created doctrine; no statute)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "The inducement test for entrapment is objective, focusing on the government's conduct in relation to a hypothetical reasonable, law-abiding citizen.",
+   "circuits": [
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Sanchez, 88 F.3d 1243 (D.C. Cir. 1996)"
+   ]
+  },
+  {
+   "position": "The inducement test for entrapment is subjective, so the court may consider the defendant's particular characteristics and susceptibility to inducement.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Williams, 547 F.3d 1187 (9th Cir. 2008)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We not only have a circuit split but also lack any briefing on the objectivity or subjectivity of the test.",
+ "cluster_id": 10643590,
+ "cite": "United States v. Spradley, No. 23-3222 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-07-29",
+ "url": "https://www.courtlistener.com/opinion/10643590/united-states-v-spradley/",
+ "usage": {
+  "in": 1313,
+  "out": 1231
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a prosecution under the Indian Country Crimes Act, must the government plead and prove the defendant's non-Indian status (and the absence of tribal punishment or a treaty exception) as an element of the offense, or is the defendant's Indian status an affirmative defense that the defendant must first raise?",
+ "provision": "18 U.S.C. \u00a7 1152",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Non-Indian status is an affirmative defense: the defendant must first properly raise the issue (and the enumerated exceptions), after which the government bears the ultimate burden of proof.",
+   "circuits": [
+    "9th",
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Hester, 719 F.2d 1040 (9th Cir. 1983)",
+    "United States v. Haggerty, 997 F.3d 292 (5th Cir. 2021)",
+    "United States v. Webster, 797 F.3d 531 (8th Cir. 2015)",
+    "United States v. Ruiz, No. 24-2128 (10th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Non-Indian status is an element of the offense that the government must prove at trial, as established by the en banc Tenth Circuit decision.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Prentiss, 256 F.3d 971 (10th Cir. 2001) (en banc)",
+    "United States v. Ruiz, No. 24-2128 (10th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Tenth Circuit treats non-Indian status as an element and follows Prentiss, while acknowledging the contrary view and urging en banc reexamination; it does not overrule Prentiss.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The American Indian Law in a Nutshell, a comprehensive resource on the federal law of American Indians, cognizes the circuit split. William C. Canby, Jr., American Indian Law in a Nutshell 195 (Jesse E. Chopper et al. eds., 8th ed. 2025) (\u201cCircuits have split on the question whether the Indian or non-Indian status of the defendant must be pleaded and proved by the government in a prosecution under 18 U.S.C.A. \u00a7 1152.\u201d).",
+ "cluster_id": 10780901,
+ "cite": "United States v. Ruiz, No. 24-2128 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-01-28",
+ "url": "https://www.courtlistener.com/opinion/10780901/united-states-v-ruiz/",
+ "usage": {
+  "in": 1899,
+  "out": 2200
+ }
+}

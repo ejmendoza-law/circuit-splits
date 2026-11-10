@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10286306,
+ "cite": "United States v. Reginald Graham, 123 F.4th 1197 (11th Cir. 2024)",
+ "court": "11th",
+ "date": "2024-12-02",
+ "url": "https://www.courtlistener.com/opinion/10286306/united-states-v-reginald-graham/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

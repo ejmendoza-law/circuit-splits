@@ -1,0 +1,54 @@
+name: Record a review
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+concurrency:
+  group: site
+  cancel-in-progress: false
+jobs:
+  review:
+    # Only the repository owner and invited collaborators can review.
+    if: >-
+      startsWith(github.event.issue.title, '[review]') &&
+      (github.event.issue.author_association == 'OWNER' ||
+       github.event.issue.author_association == 'COLLABORATOR')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - name: Record the decision
+        id: apply
+        env:
+          TITLE: ${{ github.event.issue.title }}
+          BODY: ${{ github.event.issue.body }}
+          WHO: ${{ github.event.issue.user.login }}
+          WHEN: ${{ github.event.issue.created_at }}
+        run: |
+          printf '%s' "$BODY" > /tmp/body.txt
+          python3 pipeline/apply_review.py "$TITLE" /tmp/body.txt "$WHO" "$WHEN"
+          python3 pipeline/publish.py
+      - name: Save
+        run: |
+          git config user.name "circuit-splits-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/review.json site/data
+          git diff --cached --quiet || git commit -m "Review: ${{ github.event.issue.number }}"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
+      - name: Close the request
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ steps.apply.outcome }}" = "success" ]; then MSG="Recorded. The site is updated."; else MSG="This review could not be recorded. Open the Actions tab to see why."; fi
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }} --comment "$MSG"

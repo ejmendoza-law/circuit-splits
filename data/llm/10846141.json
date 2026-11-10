@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a defendant's subjective belief that he is a soldier of ISIS, together with statements referring to ISIS as 'we' or describing his country as the Islamic State, support a material-support conviction for providing personnel or services to ISIS?",
+ "provision": "18 U.S.C. \u00a7 2339B",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Subjective self-conception as an ISIS soldier does not matter. Evidence of identification with ISIS, without more, does not support a material-support conviction, and no rational juror could find that the defendant provided a service to ISIS.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Ullah, No. 21-1058 (2d Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Statements in which the defendant refers to ISIS as 'we' or describes ISIS as his own state, along with other evidence, can support a conviction for attempting to provide personnel to ISIS, because the jury may credit those statements as evidence that the defendant provided himself as personnel.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Alebbini, 979 F.3d 531 (6th Cir. 2020)",
+    "United States v. Ullah, No. 21-1058 (2d Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Holds that the defendant's subjective conception of himself as an ISIS soldier does not matter, and that no rational juror could find he provided a service to ISIS. The dissent argues this conflicts with Alebbini.",
+ "source": "dissent",
+ "confidence": 0.55,
+ "quote": "By holding that it does not matter that Ullah \u201csubjectively conceived of himself as a soldier of ISIS,\u201d ante at 15, today\u2019s decision creates a circuit split regarding the evidence that supports a conviction for material support.",
+ "cluster_id": 10846141,
+ "cite": "United States v. Ullah, No. 21-1058 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-04-21",
+ "url": "https://www.courtlistener.com/opinion/10846141/united-states-v-ullah/",
+ "usage": {
+  "in": 1314,
+  "out": 2219
+ }
+}

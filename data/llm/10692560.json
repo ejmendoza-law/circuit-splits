@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Honeycutt v. United States's limit on forfeiture to property the defendant actually acquired apply to forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C)?",
+ "provision": "18 U.S.C. \u00a7 981(a)(1)(C)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Honeycutt applies to forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C), so a defendant may be ordered to forfeit only tainted property he actually acquired, not a co-conspirator's share.",
+   "circuits": [
+    "3d",
+    "9th",
+    "11th",
+    "2d"
+   ],
+   "cases": [
+    "United States v. Elias, No. 23-6626 (2d Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C) is not limited by Honeycutt to property the defendant actually acquired, so a defendant may be held liable for proceeds obtained by co-participants.",
+   "circuits": [
+    "6th",
+    "8th"
+   ],
+   "cases": []
+  }
+ ],
+ "this_court": "Honeycutt applies to 18 U.S.C. \u00a7 981(a)(1)(C), and Elias was ordered to forfeit property he never acquired, so the forfeiture order is vacated.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "In so concluding, we join the Third, Ninth, and Eleventh Circuits on one side of a growing circuit split on the question, reaching a conclusion at odds with that of the Sixth and Eighth Circuits.",
+ "cluster_id": 10692560,
+ "cite": "United States v. Elias, No. 23-6626 (2d Cir. 2025)",
+ "court": "2d",
+ "date": "2025-10-08",
+ "url": "https://www.courtlistener.com/opinion/10692560/united-states-v-elias/",
+ "usage": {
+  "in": 1866,
+  "out": 1514
+ }
+}

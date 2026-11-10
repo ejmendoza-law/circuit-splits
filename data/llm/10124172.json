@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10124172,
+ "cite": "United States v. John R. Moore, Jr., 115 F.4th 1370 (11th Cir. 2024)",
+ "court": "11th",
+ "date": "2024-09-23",
+ "url": "https://www.courtlistener.com/opinion/10124172/united-states-v-john-r-moore-jr/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

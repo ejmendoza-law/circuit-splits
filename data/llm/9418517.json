@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a due process violation from the government's selective grant or withholding of immunity require proof that the prosecutor subjectively intended to distort the fact-finding process, or is it enough that the immunity decision in fact distorted fact-finding?",
+ "provision": "U.S. Const. amend. V (due process); 18 U.S.C. \u00a7\u00a7 6002, 6003(b)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Due process is violated only if the government immunizes or withholds immunity from witnesses with the intention of distorting the fact-finding process (the Davis standard), with no further requirement of subjective intent.",
+   "circuits": [],
+   "cases": [
+    "United States v. Davis, 845 F.3d 282 (7th Cir. 2016)",
+    "United States v. Newton, 76 F.4th 662 (7th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "In addition to distorting the fact-finding process, the prosecutor must have subjectively intended to cause that manipulation.",
+   "circuits": [],
+   "cases": [
+    "United States v. Newton, 76 F.4th 662 (7th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "The parties also disagree about which side of a circuit split we have come down on in regard to whether, in addition to distorting the fact-finding process, the prosecutor must have subjectively intended to cause such manipulation.",
+ "cluster_id": 9418517,
+ "cite": "United States v. Angelita Newton, 76 F.4th 662 (7th Cir. 2023)",
+ "court": "7th",
+ "date": "2023-08-07",
+ "url": "https://www.courtlistener.com/opinion/9418517/united-states-v-angelita-newton/",
+ "usage": {
+  "in": 1321,
+  "out": 1835
+ }
+}

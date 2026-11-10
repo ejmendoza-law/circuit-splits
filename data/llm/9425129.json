@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal court toll a defendant's term of supervised release while he is a fugitive from supervision, so that the court keeps jurisdiction to revoke it for violations committed after the scheduled expiration date?",
+ "provision": "18 U.S.C. \u00a7 3583",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Fugitive tolling applies: absconding from supervision equitably tolls the supervised release term for the period of truancy.",
+   "circuits": [
+    "2d",
+    "3d",
+    "4th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Island, 916 F.3d 249 (3d Cir. 2019)",
+    "United States v. Barinas, 865 F.3d 99 (2d Cir. 2017)",
+    "United States v. Buchanan, 638 F.3d 448 (4th Cir. 2011)",
+    "United States v. Murguia-Oliveros, 421 F.3d 951 (9th Cir. 2005)"
+   ]
+  },
+  {
+   "position": "No fugitive tolling: there can be no tolling of the supervised release period on the basis of fugitive status.",
+   "circuits": [
+    "1st",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Hernandez-Ferrer, 599 F.3d 63 (1st Cir. 2010)",
+    "United States v. Talley, 83 F.4th 1296 (11th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "No fugitive tolling; the court joins the First Circuit and holds the term of supervised release is not tolled by fugitive status.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The circuits are divided over the application of \u201cfugitive tolling\u201d to terms of supervised release.",
+ "cluster_id": 9425129,
+ "cite": "United States v. James Reginald Talley, 83 F.4th 1296 (11th Cir. 2023)",
+ "court": "11th",
+ "date": "2023-09-07",
+ "url": "https://www.courtlistener.com/opinion/9425129/united-states-v-james-reginald-talley/",
+ "usage": {
+  "in": 1318,
+  "out": 1694
+ }
+}

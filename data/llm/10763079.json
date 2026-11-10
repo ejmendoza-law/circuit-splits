@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in United States v. Taylor, 596 U.S. 845 (2022), which held that attempted Hobbs Act robbery is not a crime of violence under \u00a7 924(c)(3)(A)'s elements clause",
+ "issue": "Does attempted Hobbs Act robbery qualify as a crime of violence under the elements clause of 18 U.S.C. \u00a7 924(c)(3)(A)?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(A)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Attempted Hobbs Act robbery qualifies as a crime of violence under \u00a7 924(c)(3)(A)'s elements clause (pre-Taylor view; the excerpts do not name the circuits that held this)",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Attempted Hobbs Act robbery does not qualify as a crime of violence under \u00a7 924(c)(3)(A)'s elements clause, because it does not require the use, attempted use, or threatened use of force (Taylor holding, which this court applies)",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Taylor, 596 U.S. 845 (2022)",
+    "United States v. Bouie, No. 24-12347 (11th Cir. Dec. 22, 2025)"
+   ]
+  }
+ ],
+ "this_court": "Attempted Hobbs Act robbery is not a crime of violence under \u00a7 924(c)(3)(A)'s elements clause, following Taylor",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "In Taylor, the Supreme Court resolved a circuit split and held that attempted Hobbs Act robbery does not qualify as a predicate crime of violence under \u00a7 924(c)(3)(A)'s elements clause.",
+ "cluster_id": 10763079,
+ "cite": "United States v. Tyrell Bouie, No. 24-12347 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-12-22",
+ "url": "https://www.courtlistener.com/opinion/10763079/united-states-v-tyrell-bouie/",
+ "usage": {
+  "in": 1314,
+  "out": 2499
+ }
+}

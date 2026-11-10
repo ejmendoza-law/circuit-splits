@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9400758,
+ "cite": "United States v. Bijan Rafiekian, 68 F.4th 177 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-05-18",
+ "url": "https://www.courtlistener.com/opinion/9400758/united-states-v-bijan-rafiekian/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

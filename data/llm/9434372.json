@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9434372,
+ "cite": "United States v. Garfield Redd, No. 20-6957 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-10-19",
+ "url": "https://www.courtlistener.com/opinion/9434372/united-states-v-garfield-redd/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

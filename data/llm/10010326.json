@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Banister applied its methodology in the context of \"resolv[ing] a Circuit split about whether a Rule 59(e) motion to alter or amend a habeas court's judgment counts as a second or successive habeas application.\" 590 U.S. at 511.",
+ "cluster_id": 10010326,
+ "cite": "Bryan Fredrick Jennings v. Secretary, Florida Department of Corrections, 108 F.4th 1299 (11th Cir. 2024)",
+ "court": "11th",
+ "date": "2024-07-22",
+ "url": "https://www.courtlistener.com/opinion/10010326/bryan-fredrick-jennings-v-secretary-florida-department-of-corrections/",
+ "usage": {
+  "in": 1325,
+  "out": 1351
+ }
+}

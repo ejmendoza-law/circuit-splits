@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does an appeal or collateral-attack waiver in a plea agreement bar a post-conviction challenge to a \u00a7 924(c) conviction based on a predicate offense later held invalid under Johnson and Davis, where the record shows another valid predicate?",
+ "provision": "18 U.S.C. \u00a7 924(c)",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "An appeal or collateral-attack waiver does not bar a Davis challenge to a \u00a7 924(c) conviction resting on an invalid predicate, at least where the defendant makes a cognizable claim of actual innocence and enforcing the waiver would be a miscarriage of justice.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. McKinney, 60 F.4th 188 (4th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "An appeal or collateral-attack waiver bars a Davis challenge to a \u00a7 924(c) conviction based on a predicate invalidated by Johnson and Davis, even though the conviction may be legally invalid.",
+   "circuits": [
+    "6th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "King v. United States, 41 F.4th 1363 (11th Cir. 2022)",
+    "Portis v. United States, 33 F.4th 331 (6th Cir. 2022)",
+    "United States v. Goodall, 21 F.4th 555 (9th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.7,
+ "quote": "As Judge Robinson notes, multiple circuits have split on this question.",
+ "cluster_id": 10035651,
+ "cite": "Cook v. United States, 111 F.4th 237 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-08-09",
+ "url": "https://www.courtlistener.com/opinion/10035651/cook-v-united-states/",
+ "usage": {
+  "in": 1869,
+  "out": 2170
+ }
+}

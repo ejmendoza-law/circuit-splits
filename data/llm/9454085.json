@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court, Esteras v. United States (2025), which held that a district court may not consider the \u00a7 3553(a)(2)(A) retribution factor when revoking supervised release under \u00a7 3583(e). Decided after this opinion; the excerpt itself does not mention it.",
+ "issue": "When revoking supervised release under 18 U.S.C. \u00a7 3583(e), may a district court consider the \u00a7 3553(a)(2)(A) retributive factors, which \u00a7 3583(e) does not list?",
+ "provision": "18 U.S.C. \u00a7 3583(e)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Considering \u00a7 3553(a)(2)(A) factors when revoking supervised release is not reversible error, even though \u00a7 3583(e) does not enumerate them.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Lewis, 498 F.3d 393 (6th Cir. 2007)",
+    "United States v. Esteras, 88 F.4th 1170 (6th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Consideration of \u00a7 3553(a)(2)(A) factors is procedural error when they are a dominant or undue factor in the revocation sentence, or revocation based principally on them is procedurally unreasonable.",
+   "circuits": [
+    "3d",
+    "5th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Young, 634 F.3d 233 (3d Cir. 2011)",
+    "United States v. Rivera, 784 F.3d 1012 (5th Cir. 2015)",
+    "United States v. Miqbel, 444 F.3d 1173 (9th Cir. 2006)",
+    "United States v. Booker, 63 F.4th 1254 (10th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide (the excerpted dissent criticizes the Sixth Circuit's position, which permits such consideration)",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "Though there is a circuit split on this issue, most circuits would find that a revocation of supervised release principally based on the \u00a7 3553(a)(2)(A) factors is procedurally unreasonable.",
+ "cluster_id": 9454085,
+ "cite": "United States v. Edgardo Esteras, 88 F.4th 1170 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-12-20",
+ "url": "https://www.courtlistener.com/opinion/9454085/united-states-v-edgardo-esteras/",
+ "usage": {
+  "in": 1314,
+  "out": 2501
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal court of appeals hear a habeas petitioner's cross-appeal arguments on an alternative claim that the district court declined to certify for appeal, when the state appeals a grant of habeas relief?",
+ "provision": "28 U.S.C. \u00a7 2253(c)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "No jurisdiction to hear the uncertified cross-appeal claim absent a proper certificate of appealability.",
+   "circuits": [
+    "3d",
+    "10th"
+   ],
+   "cases": [
+    "Sumpter v. Kansas, 61 F.4th 729 (10th Cir. 2023)",
+    "Mathias v. Superintendent Frackville SCI, 876 F.3d 462 (3d Cir. 2017)"
+   ]
+  },
+  {
+   "position": "Certification is unnecessary; the appellate court may reach the uncertified cross-appeal claim.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Szabo v. Walls, 313 F.3d 392 (7th Cir. 2002)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "When a state appeals a grant of habeas relief, our sister circuits are split on whether federal appellate courts have jurisdiction to hear a petitioner's arguments on cross-appeal about an alternative habeas claim that has not been certified.",
+ "cluster_id": 10640505,
+ "cite": "Mark Hartman v. Dave Yost, No. 23-3365 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-07-24",
+ "url": "https://www.courtlistener.com/opinion/10640505/mark-hartman-v-dave-yost/",
+ "usage": {
+  "in": 1449,
+  "out": 1352
+ }
+}

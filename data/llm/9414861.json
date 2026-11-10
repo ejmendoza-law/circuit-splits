@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a Napue false-testimony error automatically satisfy the Brecht harmless-error standard, so that Napue and Brady materiality are effectively the same inquiry?",
+ "provision": "Napue v. Illinois; Brecht v. Abrahamson, 507 U.S. 619 (1993)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A Napue error that meets the materiality test automatically satisfies Brecht, so the Napue and Brady inquiries ultimately mandate the same result for practical purposes.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "Douglas v. Workman, 560 F.3d 1156 (10th Cir. 2009)",
+    "Juniper v. Davis, 74 F.4th 196 (4th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "A Napue error does not automatically satisfy Brecht, so the Napue and Brady standards may differ. The excerpt does not say which circuits hold this view beyond the survey of cases in Haskell.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "Haskell v. Superintendent Greene SCI, 866 F.3d 139 (3d Cir. 2017)",
+    "Juniper v. Davis, 74 F.4th 196 (4th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "Our sister circuits are split on this issue.",
+ "cluster_id": 9414861,
+ "cite": "Anthony Juniper v. Melvin Davis, 74 F.4th 196 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-07-19",
+ "url": "https://www.courtlistener.com/opinion/9414861/anthony-juniper-v-melvin-davis/",
+ "usage": {
+  "in": 1352,
+  "out": 1638
+ }
+}

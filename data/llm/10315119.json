@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "There is arguably a circuit split on the issue.",
+ "cluster_id": 10315119,
+ "cite": "United States v. Le, 126 F.4th 373 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-01-16",
+ "url": "https://www.courtlistener.com/opinion/10315119/united-states-v-le/",
+ "usage": {
+  "in": 1311,
+  "out": 883
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10381900,
+ "cite": "United States v. Fletcher, 134 F.4th 708 (2d Cir. 2025)",
+ "court": "2d",
+ "date": "2025-04-21",
+ "url": "https://www.courtlistener.com/opinion/10381900/united-states-v-fletcher/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

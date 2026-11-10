@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10645514,
+ "cite": "United States v. Kenin Edwards, No. 24-2401 (7th Cir. 2025)",
+ "court": "7th",
+ "date": "2025-07-31",
+ "url": "https://www.courtlistener.com/opinion/10645514/united-states-v-kenin-edwards/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

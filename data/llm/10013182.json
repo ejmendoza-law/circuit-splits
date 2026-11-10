@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "The majority has created a split in a sweeping opinion that (1) crafts an amorphous new standard to analyze delegations, (2) overturns\u2014without much fanfare\u2014 circuit precedent holding that this program collects administrative fees and not taxes, (3) blurs the distinction between taxes and fees, and (4) rejects established administrative law principles and all evidence to the contrary to create a private nondelegation doctrine violation.",
+ "cluster_id": 10013182,
+ "cite": "Consumers' Research v. FCC, 109 F.4th 743 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-07-24",
+ "url": "https://www.courtlistener.com/opinion/10013182/consumers-research-v-fcc/",
+ "usage": {
+  "in": 2656,
+  "out": 663
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is the time limit for appealing an order denying a Hyde Amendment attorney's fee motion the 60-day civil deadline or the 14-day criminal deadline?",
+ "provision": "Fed. R. App. P. 4(b)(1)(A); 28 U.S.C. \u00a7 2107(b); Fed. R. App. P. 4(a)(1)(B); Pub. L. No. 105-119, Title VI, \u00a7 617 (Hyde Amendment)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Hyde Amendment orders are governed by the civil appeal deadline because the fee proceeding is an ancillary civil matter that does not implicate the defendant's liberty or punishment.",
+   "circuits": [
+    "4th",
+    "5th",
+    "9th",
+    "D.C.",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Holland, 214 F.3d 523 (4th Cir. 2000)",
+    "United States v. Truesdale, 211 F.3d 898 (5th Cir. 2000)",
+    "United States v. Braunstein, 281 F.3d 982 (9th Cir. 2002)",
+    "United States v. Wade, 255 F.3d 833 (D.C. Cir. 2001)",
+    "United States v. Onamuti, 103 F.4th 1298 (7th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Hyde Amendment orders are governed by the criminal appeal deadline because the proceeding arises in a criminal case.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Robbins, 179 F.3d 1268 (10th Cir. 1999)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit adopts the civil appeal deadline, joining the majority view, and rejects the government's request to follow the Tenth Circuit.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Whether Hyde Amendment orders are subject to the civil or criminal appeal deadline is both an open question in this court and the subject of a circuit split.",
+ "cluster_id": 9524073,
+ "cite": "United States v. Taiwo Onamuti, 103 F.4th 1298 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-06-10",
+ "url": "https://www.courtlistener.com/opinion/9524073/united-states-v-taiwo-onamuti/",
+ "usage": {
+  "in": 2361,
+  "out": 1739
+ }
+}

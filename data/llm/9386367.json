@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.95,
+ "quote": "Because I am not persuaded that we should create a split with the Fourth Circuit or depart from the sound reasoning of numerous other federal courts that have since heard similar challenges and reached the same result, I would affirm our original holding in Feds II that the CSRA precludes the district court's jurisdiction in this case.",
+ "cluster_id": 9386367,
+ "cite": "Feds for Medical Freedom v. Biden, 63 F.4th 366 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-03-23",
+ "url": "https://www.courtlistener.com/opinion/9386367/feds-for-medical-freedom-v-biden/",
+ "usage": {
+  "in": 1847,
+  "out": 703
+ }
+}

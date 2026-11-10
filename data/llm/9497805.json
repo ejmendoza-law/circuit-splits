@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When more than one Guidelines provision is sufficiently analogous to an offense under U.S.S.G. \u00a7 2X5.1, should appellate courts review the district court's choice of the most analogous guideline de novo or with deference?",
+ "provision": "U.S.S.G. \u00a7 2X5.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Review the district court's choice among multiple sufficiently analogous guidelines de novo.",
+   "circuits": [],
+   "cases": [
+    "Osborne, 164 F.3d 434, 437-38 (cited in United States v. Betts, 99 F.4th 1048 (7th Cir. 2024))"
+   ]
+  },
+  {
+   "position": "Give the district court's choice among multiple sufficiently analogous guidelines due deference rather than reviewing it de novo.",
+   "circuits": [],
+   "cases": [
+    "Osborne, 164 F.3d 434, 437-38 (cited in United States v. Betts, 99 F.4th 1048 (7th Cir. 2024))"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "Appellate courts differ on whether the district court's decision at this step should be reviewed de novo or given due deference.",
+ "cluster_id": 9497805,
+ "cite": "United States v. Shamar Betts, 99 F.4th 1048 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-04-29",
+ "url": "https://www.courtlistener.com/opinion/9497805/united-states-v-shamar-betts/",
+ "usage": {
+  "in": 1314,
+  "out": 2116
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "The court adopts the check-clearance date rule, which aligns it with the two other circuits that have addressed the question. The excerpt does not show any conflicting holding.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Both chose the checkclearance date.",
+ "cluster_id": 10116148,
+ "cite": "United States v. Jeffrey Page, No. 21-17083 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-09-12",
+ "url": "https://www.courtlistener.com/opinion/10116148/united-states-v-jeffrey-page/",
+ "usage": {
+  "in": 1313,
+  "out": 740
+ }
+}

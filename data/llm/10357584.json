@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Sixth Amendment Confrontation Clause apply to statements a prosecutor makes in closing argument?",
+ "provision": "U.S. Const. amend. VI (Confrontation Clause)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "The Confrontation Clause applies to closing arguments. It is violated when a prosecutor tells the jury that an absent witness would have given inculpatory testimony.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Molina-Guevara, 96 F.3d 698, 703 (3d Cir. 1996)"
+   ]
+  },
+  {
+   "position": "The Confrontation Clause does not apply to closing arguments because closing arguments are not evidence.",
+   "circuits": [
+    "5th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Solis, 299 F.3d 420, 442 (5th Cir. 2002)",
+    "United States v. Miller, 982 F.3d 412, 439 (6th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.8,
+ "quote": "Other circuits are divided over whether the Confrontation Clause applies to statements in closing arguments.",
+ "cluster_id": 10357584,
+ "cite": "United States v. Lopez, 131 F.4th 1114 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-03-18",
+ "url": "https://www.courtlistener.com/opinion/10357584/united-states-v-lopez/",
+ "usage": {
+  "in": 1314,
+  "out": 1267
+ }
+}

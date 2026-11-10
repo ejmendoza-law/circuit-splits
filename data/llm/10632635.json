@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the limited confrontation right in Federal Rule of Criminal Procedure 32.1(b)(2)(C) apply to the sentencing phase of a supervised release revocation hearing, or only to the phase deciding whether the releasee violated the conditions?",
+ "provision": "Fed. R. Crim. P. 32.1(b)(2)(C)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "Rule 32.1(b)(2)(C)'s confrontation right applies to the sentencing phase of revocation proceedings.",
+   "circuits": [
+    "4th",
+    "1st"
+   ],
+   "cases": [
+    "United States v. Combs, 36 F.4th 502 (4th Cir. 2022)",
+    "United States v. Garcia-Oquendo, No. 24-1666 (1st Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Rule 32.1(b)(2)(C)'s confrontation right does not apply to the sentencing phase of revocation proceedings; due process requires no greater protection at that stage.",
+   "circuits": [
+    "10th",
+    "8th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Ruby, 706 F.3d 1221 (10th Cir. 2013)",
+    "United States v. Busey, 11 F.4th 664 (8th Cir. 2021)",
+    "United States v. Williams, 847 F.3d 251 (5th Cir. 2017)"
+   ]
+  }
+ ],
+ "this_court": "The First Circuit holds that Rule 32.1(b)(2)(C)'s limited confrontation right applies to the entirety of the revocation proceeding, including the sentencing phase, thereby siding with the Fourth Circuit and rejecting the Tenth Circuit's contrary holding in Ruby.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Other circuits have split on the issue.",
+ "cluster_id": 10632635,
+ "cite": "United States v. Garcia-Oquendo, No. 24-1666 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-07-14",
+ "url": "https://www.courtlistener.com/opinion/10632635/united-states-v-garcia-oquendo/",
+ "usage": {
+  "in": 1315,
+  "out": 1390
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court resolved the split in United States v. Taylor, 596 U.S. 845 (2022), holding that attempted Hobbs Act robbery is not a crime of violence under \u00a7 924(c) because an attempt must itself involve actual, attempted, or threatened force.",
+ "issue": "Is an attempt to commit a crime of violence automatically a crime of violence under the force clause of 18 U.S.C. \u00a7 924(c), or must the attempt itself involve the attempted use of force?",
+ "provision": "18 U.S.C. \u00a7 924(c)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Any attempt to commit a crime of violence is invariably a crime of violence under \u00a7 924(c) (the pre-Taylor majority view).",
+   "circuits": [
+    "3d",
+    "5th",
+    "7th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Walker, 990 F.3d 316 (3d Cir. 2021)",
+    "United States v. Smith, 957 F.3d 590 (5th Cir. 2020)",
+    "United States v. Ingram, 947 F.3d 1021 (7th Cir. 2020)",
+    "United States v. Dominguez, 954 F.3d 1251 (9th Cir. 2020)",
+    "United States v. St. Hubert, 909 F.3d 335 (11th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "An attempt is a crime of violence under the force clause only if the attempt itself involves actual, attempted, or threatened force; an attempt to threaten force is not an attempt to use force.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Taylor, 979 F.3d 203 (4th Cir. 2020), aff'd, 596 U.S. 845 (2022)",
+    "United States v. Taybron, No. 21-4358 (4th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Follows the Supreme Court's Taylor decision, holding that an attempt must itself involve attempted force to qualify under \u00a7 924(c)'s force clause.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our decision in Taylor created a split with our sister circuits, and the Supreme Court promptly took up the case.",
+ "cluster_id": 9494497,
+ "cite": "United States v. Ryan Taybron, No. 21-4358 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-04-16",
+ "url": "https://www.courtlistener.com/opinion/9494497/united-states-v-ryan-taybron/",
+ "usage": {
+  "in": 1314,
+  "out": 2129
+ }
+}

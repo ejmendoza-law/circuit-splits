@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Supreme Court precedent (Chambers v. Mississippi) require courts to assess cumulative prejudice when reviewing a state conviction under the Due Process Clause?",
+ "provision": "U.S. Const. amend. XIV (Due Process Clause); 28 U.S.C. \u00a7 2254(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Supreme Court precedent mandates cumulative prejudice analysis in the due process context.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Parle v. Runnels, 505 F.3d 922 (9th Cir. 2007)"
+   ]
+  },
+  {
+   "position": "Cumulative prejudice analysis is not required by Supreme Court due process precedent.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Williams v. Anderson, 460 F.3d 789 (6th Cir. 2006)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Other circuits disagree. See Williams v. Anderson, 460 F.3d 789, 817 (6th Cir. 2006).",
+ "cluster_id": 10850396,
+ "cite": "James Scott v. Ron Broomfield, No. 22-99000 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-04-29",
+ "url": "https://www.courtlistener.com/opinion/10850396/james-scott-v-ron-broomfield/",
+ "usage": {
+  "in": 1871,
+  "out": 2098
+ }
+}

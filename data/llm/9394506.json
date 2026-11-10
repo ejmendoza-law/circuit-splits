@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9394506,
+ "cite": "United States v. Evans Santos Diaz, 66 F.4th 435 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-04-26",
+ "url": "https://www.courtlistener.com/opinion/9394506/united-states-v-evans-santos-diaz/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

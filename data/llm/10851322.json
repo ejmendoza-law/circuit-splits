@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10851322,
+ "cite": "United States v. Glenn Wooden, No. 24-2702 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-04-30",
+ "url": "https://www.courtlistener.com/opinion/10851322/united-states-v-glenn-wooden/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

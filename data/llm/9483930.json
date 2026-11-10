@@ -1,0 +1,45 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a dismissal under Heck v. Humphrey for failure to meet the favorable-termination requirement count as a PLRA strike under 28 U.S.C. \u00a7 1915(g)?",
+ "provision": "28 U.S.C. \u00a7 1915(g)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "A Heck dismissal always counts as a PLRA strike.",
+   "circuits": [
+    "3d",
+    "5th",
+    "10th",
+    "D.C."
+   ],
+   "cases": [
+    "Garrett v. Murphy, 17 F.4th 419 (3d Cir. 2021)"
+   ]
+  },
+  {
+   "position": "A Heck dismissal does not count as a PLRA strike because Heck is a timing rule, not a merits ruling.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Mejia v. Harrington, 541 F. App'x 709 (7th Cir. 2013)",
+    "Courtney v. Butler, 66 F.4th 1043 (7th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The circuits that have considered the issue are split as to whether Heck dismissals count as PLRA strikes.",
+ "cluster_id": 9483930,
+ "cite": "Maurice Cotton v. New York State Office, No. 20-1644 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-03-14",
+ "url": "https://www.courtlistener.com/opinion/9483930/maurice-cotton-v-new-york-state-office/",
+ "usage": {
+  "in": 1315,
+  "out": 1490
+ }
+}

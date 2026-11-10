@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "It expressed some skepticism as to whether this Court would recognize the hybrid-rights theory that the Parents advanced given that we have not yet done so and other circuit courts of appeals are divided on the issue.",
+ "cluster_id": 9502952,
+ "cite": "Tamer Mahmoud v. Monifa McKnight, 102 F.4th 191 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-05-15",
+ "url": "https://www.courtlistener.com/opinion/9502952/tamer-mahmoud-v-monifa-mcknight/",
+ "usage": {
+  "in": 1319,
+  "out": 582
+ }
+}

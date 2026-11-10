@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the oath requirement in 18 U.S.C. \u00a7 1546(a)'s paragraph four (false statements 'under oath') also apply to the separate 'knowingly presents' offense in that paragraph?",
+ "provision": "18 U.S.C. \u00a7 1546(a)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The 'knowingly presents' clause stands alone and does not require that the false statement have been made under oath.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Khalje, 658 F.2d 90 (2d Cir. 1981)"
+   ]
+  },
+  {
+   "position": "The oath requirement applies to the 'knowingly presents' clause, so presenting a false document not sworn under oath is not a violation.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "Other circuits are split on this question.",
+ "cluster_id": 10772561,
+ "cite": "United States v. Oluwatoyin Aborisade, No. 24-4466 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-01-08",
+ "url": "https://www.courtlistener.com/opinion/10772561/united-states-v-oluwatoyin-aborisade/",
+ "usage": {
+  "in": 1317,
+  "out": 1220
+ }
+}

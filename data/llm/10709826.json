@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Congress's 2024 clarifying amendment, 18 U.S.C. \u00a7 3663A(a)(4), which expressly provides that a person who has assumed the victim's rights may recover his or her necessary and reasonable lost income",
+ "issue": "Can an adult family member who assumes the rights of a deceased, minor, incompetent, or incapacitated victim recover his own lost income and attendance costs as restitution under the Mandatory Victims Restitution Act?",
+ "provision": "18 U.S.C. \u00a7 3663A(a)(2)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A family member who assumes the victim's rights may not recover his own lost income or costs of attending proceedings, because the deceased or incapacitated victim incurred no such losses.",
+   "circuits": [
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Wilcox, 487 F.3d 1163 (8th Cir. 2007)",
+    "United States v. Casados, 26 F.4th 845 (10th Cir. 2022)"
+   ]
+  },
+  {
+   "position": "A family member who assumes the victim's rights may recover his own lost income and costs of attending proceedings as restitution.",
+   "circuits": [
+    "2d",
+    "3d",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Douglas, 525 F.3d 225 (2d Cir. 2008)",
+    "United States v. Hayward, 359 F.3d 631 (3d Cir. 2004)",
+    "United States v. Pizzichiello, 272 F.3d 1232 (9th Cir. 2001)",
+    "United States v. Chambers, No. 24-11301 (11th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The family member may recover lost income; the court adopts the government's reading, which it says Congress's 2024 amendment confirms.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "This issue presents a close question of statutory interpretation that has divided our sister circuits.",
+ "cluster_id": 10709826,
+ "cite": "United States v. Philmon Chambers, No. 24-11301 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-10-23",
+ "url": "https://www.courtlistener.com/opinion/10709826/united-states-v-philmon-chambers/",
+ "usage": {
+  "in": 2488,
+  "out": 1529
+ }
+}

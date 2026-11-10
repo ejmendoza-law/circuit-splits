@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10809743,
+ "cite": "United States v. Linwood Thorne, No. 23-3054 (D.C. Cir. 2026)",
+ "court": "D.C.",
+ "date": "2026-03-17",
+ "url": "https://www.courtlistener.com/opinion/10809743/united-states-v-linwood-thorne/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10631793,
+ "cite": "United States v. Steven George Morgan, No. 23-11114 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-07-11",
+ "url": "https://www.courtlistener.com/opinion/10631793/united-states-v-steven-george-morgan/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

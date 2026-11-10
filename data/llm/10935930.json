@@ -1,0 +1,32 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a Rule 32(f) error in the handling of an untimely objection to the presentence report harmless when the defendant shows no prejudice, such that an ACCA-based sentence should be affirmed?",
+ "provision": "Fed. R. Crim. P. 32(f)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Majority position (as described only by the dissent, which says it expanded a circuit split): a Rule 32(f) error in the handling of an untimely PSR objection is treated as reversible under the majority's analysis. The excerpts do not state the full holding or the opposing circuits' rules.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Melvin, No. 23-4622 (4th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.3,
+ "quote": "Moreover, the circuit split expanded by the majority opinion here augurs for review by the Supreme Court to definitively resolve the issue.",
+ "cluster_id": 10935930,
+ "cite": "United States v. Donald Melvin, No. 23-4622 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-07-27",
+ "url": "https://www.courtlistener.com/opinion/10935930/united-states-v-donald-melvin/",
+ "usage": {
+  "in": 1068,
+  "out": 1804
+ }
+}

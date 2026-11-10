@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "declines to follow Adhikari (5th Cir.) on extraterritorial reach of the Alien Tort Statute",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Because we do not find the temporary nature of the occupation dispositive, we decline to follow the Fifth Circuit's conclusion.",
+ "cluster_id": 10808633,
+ "cite": "Suhail Al Shimari v. CACI Premier Technology, Inc., No. 25-1043 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-03-12",
+ "url": "https://www.courtlistener.com/opinion/10808633/suhail-al-shimari-v-caci-premier-technology-inc/",
+ "usage": {
+  "in": 1882,
+  "out": 935
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9405580,
+ "cite": "United States v. Troy Skinner, 70 F.4th 219 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-06-08",
+ "url": "https://www.courtlistener.com/opinion/9405580/united-states-v-troy-skinner/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

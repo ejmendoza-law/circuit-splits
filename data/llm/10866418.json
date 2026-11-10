@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "On a general remand for resentencing, may the district court consider arguments or evidence that were waived or forfeited at the original sentencing, including a restitution request the government expressly disclaimed?",
+ "provision": "18 U.S.C. \u00a7 3663A",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "On a general remand, the district court may conduct de novo resentencing and consider any evidence or argument it could have considered originally, including arguments that were waived or forfeited.",
+   "circuits": [
+    "9th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Tat, 97 F.4th 1155 (9th Cir. 2024)",
+    "United States v. Moore, 83 F.3d 1231 (10th Cir. 1996)",
+    "United States v. Stinson, 97 F.3d 466 (11th Cir. 1996)",
+    "United States v. Miclaus, No. 23-3146 (6th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "Starting with the scope issue, the circuits are split regarding the breadth of a mandate for resentencing on remand.",
+ "cluster_id": 10866418,
+ "cite": "United States v. Radu Miclaus, No. 23-3146 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-05-29",
+ "url": "https://www.courtlistener.com/opinion/10866418/united-states-v-radu-miclaus/",
+ "usage": {
+  "in": 1315,
+  "out": 1495
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10152646,
+ "cite": "An opinion was released in case 22-3042, USA v. Couy Griffin, No. 22-3042 (D.C. Cir. 2024)",
+ "court": "D.C.",
+ "date": "2024-10-22",
+ "url": "https://www.courtlistener.com/opinion/10152646/an-opinion-was-released-in-case-22-3042-usa-v-couy-griffin/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

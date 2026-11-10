@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "There is a circuit split on whether Section 701(a)(2)\u2019s \u201ccommitted to agency discretion\u201d bar is jurisdictional.",
+ "cluster_id": 10740826,
+ "cite": "Make The Road New York v. Kristi Noem, No. 25-5320 (D.C. Cir. 2025)",
+ "court": "D.C.",
+ "date": "2025-11-22",
+ "url": "https://www.courtlistener.com/opinion/10740826/make-the-road-new-york-v-kristi-noem/",
+ "usage": {
+  "in": 1316,
+  "out": 640
+ }
+}

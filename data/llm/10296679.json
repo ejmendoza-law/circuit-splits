@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Florida Supreme Court's 2022 decision in Somers, holding that aggravated assault cannot be based on reckless conduct, apply retroactively so that a pre-2022 Florida aggravated assault conviction does not qualify as an ACCA predicate?",
+ "provision": "18 U.S.C. \u00a7 924(e)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Somers does not apply retroactively under Florida law, so a pre-2022 Florida aggravated assault conviction can still qualify as an ACCA predicate",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Page, No. 21-3221 (7th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Somers applies retroactively, so a pre-2022 Florida aggravated assault conviction based on reckless conduct does not qualify as an ACCA predicate",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Somers v. United States, 66 F.4th 890 (11th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit, as described in these excerpts, holds that Somers did not apply retroactively under Florida law. The excerpts come from a separate opinion that criticizes that approach and discusses the resulting split.",
+ "source": "dissent",
+ "confidence": 0.55,
+ "quote": "Any error was \"subject to reasonable dispute,\" Puckett, 556 U.S. at 135, as our majority opinion needed to distinguish a Florida Supreme Court decision on point and created a split with the Eleventh Circuit on an identical question.",
+ "cluster_id": 10296679,
+ "cite": "United States v. Royel Page, No. 21-3221 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-12-18",
+ "url": "https://www.courtlistener.com/opinion/10296679/united-states-v-royel-page/",
+ "usage": {
+  "in": 2612,
+  "out": 3780
+ }
+}

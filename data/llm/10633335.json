@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a person who regularly uses marijuana be disarmed under 18 U.S.C. \u00a7 922(g)(3) consistent with the Second Amendment, and if so, what showing of dangerousness is required?",
+ "provision": "18 U.S.C. \u00a7 922(g)(3)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "A regular marijuana user may be disarmed under \u00a7 922(g)(3) consistent with the Second Amendment, with the court considering the defendant's increased risk of dangerousness from gun possession while using marijuana.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Harris, No. 21-3031 (3d Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Disarming a marijuana user under \u00a7 922(g)(3) requires an individualized determination that the user is dangerous because of his drug use, not a categorical judgment that drug use makes a person dangerous.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The majority upholds \u00a7 922(g)(3) as applied to Harris and treats marijuana use as a basis for disarmament, requiring the district court to consider the increased risk of dangerousness. The dissent identifies this as creating a circuit split, but the excerpts do not name the conflicting circuits or cases.",
+ "source": "dissent",
+ "confidence": 0.35,
+ "quote": "The majority leaves us with an amorphous holding that flouts precedent, defies common sense, and creates a circuit split.",
+ "cluster_id": 10633335,
+ "cite": "United States v. Erik Harris, No. 21-3031 (3rd Cir. 2025)",
+ "court": "3d",
+ "date": "2025-07-14",
+ "url": "https://www.courtlistener.com/opinion/10633335/united-states-v-erik-harris/",
+ "usage": {
+  "in": 1853,
+  "out": 1471
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under \u00a7 404(b) of the First Step Act, may a district court reduce the sentence on a noncovered offense that was grouped with a covered crack cocaine offense under the sentencing package doctrine?",
+ "provision": "First Step Act of 2018, \u00a7 404(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A district court may reduce a sentence on a noncovered offense grouped with a covered offense, because the First Step Act imposes no extra-textual limit excluding grouped noncovered offenses.",
+   "circuits": [
+    "7th",
+    "8th",
+    "4th"
+   ],
+   "cases": [
+    "United States v. Hudson, 967 F.3d 605 (7th Cir. 2020)",
+    "United States v. Curtis, 66 F.4th 690 (7th Cir. 2023)",
+    "United States v. Spencer, 998 F.3d 843 (8th Cir. 2021)",
+    "United States v. Richardson, 96 F.4th 659 (4th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Permits the reduction for a grouped noncovered offense, following the Seventh Circuit's reasoning in Hudson. The excerpts do not name the contrary circuits, so the opposing side is not shown.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "we agree with the reasoning of the Seventh Circuit that the First Step Act does not exclude noncovered offenses because doing so would impose an \"extra-textual limitation\" since the statute did not constrain its application to grouped and noncovered offenses.",
+ "cluster_id": 9486733,
+ "cite": "United States v. Nathaniel Richardson, Jr., 96 F.4th 659 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-03-20",
+ "url": "https://www.courtlistener.com/opinion/9486733/united-states-v-nathaniel-richardson-jr/",
+ "usage": {
+  "in": 1322,
+  "out": 2361
+ }
+}

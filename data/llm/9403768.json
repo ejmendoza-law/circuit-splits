@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is the D.C. Superior Court a \"State court\" under 28 U.S.C. \u00a7 2253(c)(1)(A), so that a D.C. prisoner's habeas appeal requires a certificate of appealability?",
+ "provision": "28 U.S.C. \u00a7 2253(c)(1)(A)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The D.C. Superior Court is a \"State court\" under \u00a7 2253(c)(1)(A), so a D.C. prisoner needs a certificate of appealability to appeal a habeas denial.",
+   "circuits": [
+    "D.C.",
+    "11th",
+    "3d",
+    "4th"
+   ],
+   "cases": [
+    "Garris v. Lindsay, 794 F.2d 722 (D.C. Cir. 1986)",
+    "Madley v. Crawford, 278 F.3d 1306 (11th Cir. 2001)",
+    "Wilson v. U.S. Parole Comm'n, 652 F.3d 348 (3d Cir. 2011)",
+    "Terry v. Deeboo, 473 F. App'x 282 (4th Cir. 2012)"
+   ]
+  },
+  {
+   "position": "The D.C. Superior Court is not a \"State court\" under \u00a7 2253(c)(1)(A), so no certificate of appealability is required for a D.C. prisoner's habeas appeal.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Eldridge v. Howard, 70 F.4th 543 (9th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "D.C. Superior Court is not a \"State court\" under \u00a7 2253(c)(1)(A); no certificate of appealability is required, which creates a split with the Eleventh Circuit's contrary reading in Madley.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Madley reasoned that Garris's decision and Congress's later enactment of AEDPA means that \"a court of the District is a state court for the purposes of [\u00a7 2253(c)].\"",
+ "cluster_id": 9403768,
+ "cite": "Clinton Eldridge v. Catricia Howard, 70 F.4th 543 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-06-02",
+ "url": "https://www.courtlistener.com/opinion/9403768/clinton-eldridge-v-catricia-howard/",
+ "usage": {
+  "in": 2827,
+  "out": 3321
+ }
+}

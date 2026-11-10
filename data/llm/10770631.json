@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission amended U.S.S.G. \u00a7 2B3.1(b)(4)(B) (2025) to require \"physical contact or confinement,\" following the Second Circuit's narrower view. The opinion says the Commission has not yet decided whether the change applies retroactively, so the Sixth Circuit still applies its current precedent to this case.",
+ "issue": "Does a robber who forces a bank or store employee to move to another location, without physically restraining or confining them, 'physically restrain' the victim for the robbery guideline's physical restraint enhancement under U.S.S.G. \u00a7 2B3.1(b)(4)(B)?",
+ "provision": "U.S.S.G. \u00a7 2B3.1(b)(4)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Forcing a victim to change locations at gunpoint can satisfy 'physically restrained' under the broader test; no lying down or physical contact is required.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Hill, 963 F.3d 528, 535\u201336 (6th Cir. 2020)",
+    "United States v. Daniels, No. 24-3260 (6th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "'Physically restrained' requires physical contact or confinement, so forcing victims only to change locations does not trigger the enhancement.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Taylor, 961 F.3d 68, 78\u201379 (2d Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "Follows the broader Sixth Circuit test: the enhancement applies when a robber forces a victim to change locations, even without requiring the victim to lie down.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "But our published cases have chosen a \u201cbroader\u201d test than the one that the Second Circuit follows.",
+ "cluster_id": 10770631,
+ "cite": "United States v. Kevin Loren Daniels, No. 24-3260 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-01-07",
+ "url": "https://www.courtlistener.com/opinion/10770631/united-states-v-kevin-loren-daniels/",
+ "usage": {
+  "in": 1316,
+  "out": 2176
+ }
+}

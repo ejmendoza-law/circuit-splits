@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After Kisor v. Wilkie, how much deference, if any, should a court give to the Sentencing Commission's commentary to the Guidelines?",
+ "provision": "U.S.S.G. \u00a7 1B1.7; U.S.S.G. \u00a7 2G2.2(b)(5)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Applies the Kisor two-step framework: the commentary gets deference only if the guideline is genuinely ambiguous after traditional tools of construction, and then only if the agency's reading is reasonable and warrants controlling weight.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Castillo, 69 F.4th 648 (9th Cir. 2023)",
+    "United States v. Mendonsa, No. 25-1517 (9th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Takes a different approach to deference owed to Guidelines commentary after Kisor. The excerpt does not describe this position.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "Applies the Kisor framework, following Castillo (9th Cir. 2023).",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Although the circuits disagree over the deference owed to the Guidelines commentary after Kisor, this court applies the Kisor framework.",
+ "cluster_id": 10974712,
+ "cite": "United States v. Mendonsa, No. 25-1517 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-09-16",
+ "url": "https://www.courtlistener.com/opinion/10974712/united-states-v-mendonsa/",
+ "usage": {
+  "in": 1313,
+  "out": 1810
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 11032256,
+ "cite": "United States v. James Bost, No. 24-1719 (3rd Cir. 2026)",
+ "court": "3d",
+ "date": "2026-10-13",
+ "url": "https://www.courtlistener.com/opinion/11032256/united-states-v-james-bost/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

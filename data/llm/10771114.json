@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a hotel guest keep a reasonable expectation of privacy in a room after checkout time, such that a grace period applies when the hotel's pattern or practice or its communications with the guest make the late stay reasonable?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "A guest may retain a legitimate expectation of privacy after checkout time if the hotel has a pattern or practice that makes the expectation reasonable.",
+   "circuits": [
+    "4th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Kitchens, 114 F.3d 29, 32 (4th Cir. 1997)",
+    "United States v. Owens, 782 F.2d 146, 150 (10th Cir. 1986)",
+    "United States v. Lanier, 636 F.3d at 232 (circuit not named in excerpt)",
+    "United States v. Dorais, 241 F.3d at 1129 (circuit not named in excerpt)"
+   ]
+  },
+  {
+   "position": "No post-checkout exception applies; the Fourth Amendment expectation of privacy ends under clear rules, rejecting a hotel-practice-based grace period.",
+   "circuits": [],
+   "cases": [
+    "United States v. Ross, 964 F.3d at 1043 n.6 (circuit not named in excerpt)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Circuits disagree on these questions, and we need not weigh in here.",
+ "cluster_id": 10771114,
+ "cite": "United States v. Ryan Mendoza, No. 25-1154 (3rd Cir. 2026)",
+ "court": "3d",
+ "date": "2026-01-08",
+ "url": "https://www.courtlistener.com/opinion/10771114/united-states-v-ryan-mendoza/",
+ "usage": {
+  "in": 1314,
+  "out": 2088
+ }
+}

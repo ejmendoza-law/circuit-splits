@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 11049696,
+ "cite": "United States v. Newton, No. 25-1101 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-10-29",
+ "url": "https://www.courtlistener.com/opinion/11049696/united-states-v-newton/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

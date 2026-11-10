@@ -1,0 +1,38 @@
+{
+ "criminal": false,
+ "status": "resolved",
+ "resolved_by": "Congress enacted the Abolish Trafficking Reauthorization Act (ATRA), which amended 18 U.S.C. \u00a7 1595(a) to add attempt-to-benefit civil liability, labeled a 'technical and clarifying' update. The majority held it applies to pending cases as a clarification, not a retroactive change.",
+ "issue": "Does civil liability under the TVPRA's civil remedy, 18 U.S.C. \u00a7 1595(a), extend to a defendant who attempted to benefit from a trafficking violation, where the statute's 'knowingly benefits' clause omits the word 'attempt'?",
+ "provision": "18 U.S.C. \u00a7 1595(a)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Civil liability extends to one who attempts to benefit from a TVPRA violation, because the omission of 'attempt' in the civil provision was an oversight (position attributed to two unnamed circuits by the dissent).",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Section 1595(a) does not reach one who merely attempts to benefit from a TVPRA violation; the text is unambiguous and 'attempt' cannot be read into the 'knowingly benefits' clause.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Ratha v. Rubicon Resources, LLC, 35 F.4th 1171 (9th Cir. 2022)",
+    "Keo Ratha v. Rubicon Resources, LLC, 111 F.4th 946 (9th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.35,
+ "quote": "Two other circuits implicitly concluded that this omission was an oversight, ruling that an attempt to benefit from human trafficking creates civil liability. This court disagreed in Ratha I, creating a circuit split.",
+ "cluster_id": 10025711,
+ "cite": "Keo Ratha v. Rubicon Resources, LLC, 111 F.4th 946 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-07-31",
+ "url": "https://www.courtlistener.com/opinion/10025711/keo-ratha-v-rubicon-resources-llc/",
+ "usage": {
+  "in": 4273,
+  "out": 2432
+ }
+}

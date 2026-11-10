@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10648996,
+ "cite": "United States v. Thomas Faulls, Sr., No. 23-4532 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-08-05",
+ "url": "https://www.courtlistener.com/opinion/10648996/united-states-v-thomas-faulls-sr/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

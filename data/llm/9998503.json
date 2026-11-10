@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The dissent's position would put this court on an island of a circuit split, a place and position where we decline to take up residence.",
+ "cluster_id": 9998503,
+ "cite": "Tufaro v. Board of Regents of the University of Oklahoma, 107 F.4th 1121 (10th Cir. 2024)",
+ "court": "10th",
+ "date": "2024-07-09",
+ "url": "https://www.courtlistener.com/opinion/9998503/tufaro-v-board-of-regents-of-the-university-of-oklahoma/",
+ "usage": {
+  "in": 1321,
+  "out": 564
+ }
+}

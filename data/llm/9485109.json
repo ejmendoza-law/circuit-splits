@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is 18 U.S.C. \u00a7 922(g)(1), the federal ban on firearm possession by people convicted of felonies, constitutional under the Bruen text-and-history test, including as applied to a defendant whose prior felony was nonviolent?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Section 922(g)(1) is constitutional under Bruen, or at minimum any Bruen error is not plain error, so the conviction stands. The excerpt does not name the circuits that took the merits position. The cited plain-error decisions are from the 5th and 6th Circuits.",
+   "circuits": [
+    "5th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Fulwiler, No. 23-30152, 2023 WL 7118748 (5th Cir. Oct. 27, 2023)",
+    "United States v. Johnson, No. 22-6048, 2024 WL 938081 (6th Cir. Mar. 5, 2024)",
+    "United States v. Bowers, No. 22-6095, 2024 WL 366247 (6th Cir. Jan. 31, 2024)",
+    "United States v. Alvarado, 95 F.4th 1047 (6th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Section 922(g)(1) may be unconstitutional under Bruen as applied to nonviolent felons, since disarmament of people convicted of nonviolent offenses lacks historical analogues. The excerpt describes this as a live dispute among circuits but does not identify which circuits hold it. Alvarado argued this position, and the excerpt cites a district court (Bullock, S.D. Miss.) as a rebuke to the consensus, which is not a circuit holding.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Alvarado, 95 F.4th 1047 (6th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "So although circuit courts considering the constitutionality of \u00a7 922(g)(1) as a matter of first impression have divided on the issue, courts considering it on plain-error review have reached a consensus, repeatedly recognizing that if there were \"any error\" in letting stand a \u00a7 922(g)(1) conviction under Bruen, it \"would not be plain.\"",
+ "cluster_id": 9485109,
+ "cite": "United States v. Ricardo Alvarado, 95 F.4th 1047 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-03-18",
+ "url": "https://www.courtlistener.com/opinion/9485109/united-states-v-ricardo-alvarado/",
+ "usage": {
+  "in": 1408,
+  "out": 3094
+ }
+}

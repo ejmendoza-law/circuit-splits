@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a defendant who raises a venue objection for the first time after the government's case, without good cause for missing the pretrial deadline, obtain plain-error review of the untimely Rule 12(b)(3) objection?",
+ "provision": "Fed. R. Crim. P. 12(b)(3); Fed. R. Crim. P. 52(b)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Plain-error review is available for an untimely Rule 12(b)(3) venue objection even without a showing of good cause (as assumed arguendo in this opinion).",
+   "circuits": [],
+   "cases": [
+    "United States v. Campos, 137 F.4th 840 (D.C. Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Plain-error review is not available for an untimely Rule 12(b)(3) objection absent a showing of good cause.",
+   "circuits": [],
+   "cases": [
+    "United States v. Burroughs, 810 F.3d 833 (D.C. Cir. 2016)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "The court need not decide whether an untimely Rule 12(b)(3) motion is subject to review for plain error without a showing of a good cause. Other circuits are split.",
+ "cluster_id": 10590755,
+ "cite": "United States v. Luz Fajardo Campos, 137 F.4th 840 (D.C. Cir. 2025)",
+ "court": "D.C.",
+ "date": "2025-05-23",
+ "url": "https://www.courtlistener.com/opinion/10590755/united-states-v-luz-fajardo-campos/",
+ "usage": {
+  "in": 1317,
+  "out": 1571
+ }
+}

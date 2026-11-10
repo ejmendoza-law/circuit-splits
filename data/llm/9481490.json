@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "",
+ "cluster_id": 9481490,
+ "cite": "Do No Harm v. Pfizer, 96 F.4th 106 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-03-06",
+ "url": "https://www.courtlistener.com/opinion/9481490/do-no-harm-v-pfizer/",
+ "usage": {
+  "in": 1311,
+  "out": 472
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can an anonymous tip that came through the 911 system, but whose caller did not use 911 in the way the tracing rationale assumes, still supply the reliability needed for reasonable suspicion for a stop under Navarette v. California?",
+ "provision": "U.S. Const. amend. IV; Navarette v. California, 572 U.S. 393 (2014)",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "The 911 system's tracing capability is critical to the reliability of an anonymous tip. Where the caller does not use the 911 system (for example, by borrowing a stranger's phone), the Navarette 911 feature has much less force.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Watson, 900 F.3d 892 (7th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "The caller's failure to use the 911 system is not detrimental to reliability, and the 911 feature can be distinguished on the facts, so the tip may still support reasonable suspicion.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Wright, 74 F.4th 722 (5th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The majority takes the second position: the caller's failure to use the 911 system is not detrimental, and the majority distinguishes Watson.",
+ "source": "dissent",
+ "confidence": 0.45,
+ "quote": "Although the majority seeks to differentiate countervailing authority, it discredits the circuit split recognizing the critical importance of the 911 system\u2019s tracing abilities.",
+ "cluster_id": 9415751,
+ "cite": "United States v. Wright, 74 F.4th 722 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-07-25",
+ "url": "https://www.courtlistener.com/opinion/9415751/united-states-v-wright/",
+ "usage": {
+  "in": 1312,
+  "out": 2078
+ }
+}

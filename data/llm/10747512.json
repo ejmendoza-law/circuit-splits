@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a court apply the Biggers two-step reliability analysis before admitting an in-court identification, or can it admit such an identification without that analysis?",
+ "provision": "U.S. Const. amend. V (due process); Neil v. Biggers, 409 U.S. 188 (1972); Perry v. New Hampshire, 565 U.S. 228 (2012)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Courts must apply the Biggers reliability analysis to decide whether an in-court identification is admissible (per Nunn's argument that recent case law requires it)",
+   "circuits": [],
+   "cases": [
+    "United States v. Nunn, No. 24-3512 (8th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Courts need not apply the Biggers reliability analysis to in-court identifications, in light of Perry v. New Hampshire",
+   "circuits": [],
+   "cases": [
+    "United States v. Shumpert, 889 F.3d 488 (8th Cir. 2018)",
+    "United States v. Evans, 908 F.3d 346 (8th Cir. 2018)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "We have observed that the law is currently unsettled as to whether courts must apply the reliability analysis to admit an in-court identification.",
+ "cluster_id": 10747512,
+ "cite": "United States v. Raphael Nunn, No. 24-3512 (8th Cir. 2025)",
+ "court": "8th",
+ "date": "2025-12-04",
+ "url": "https://www.courtlistener.com/opinion/10747512/united-states-v-raphael-nunn/",
+ "usage": {
+  "in": 1313,
+  "out": 1900
+ }
+}

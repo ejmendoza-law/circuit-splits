@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a state-law drug offense count as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b) only if it matches the federal definition of a controlled substance offense?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A state drug offense can qualify as a 'controlled substance offense' under \u00a7 4B1.2(b) without being measured against the federal definition (the excerpt quotes only a truncated fragment of Lewis, so this is inferred from the opinion's description of the split).",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Lewis, 58 F.4th 764 (3d Cir. 2023)"
+   ]
+  },
+  {
+   "position": "A state-law drug offense must be compared to the federal definition to qualify as a 'controlled substance offense' under \u00a7 4B1.2(b). The majority side (seven circuits) is described only as a count, and the excerpts do not name them.",
+   "circuits": [],
+   "cases": [
+    "United States v. Chaney, No. 23-30454 (5th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "Indeed, as the government pointed out in its initial brief, there is a current 7\u20133 circuit split over whether to define state-law \u201ccontrolled substance\u201d offenses in \u00a7 4B1.2(b) by reference to the federal definition.",
+ "cluster_id": 10976851,
+ "cite": "United States v. Chaney, No. 23-30454 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-09-18",
+ "url": "https://www.courtlistener.com/opinion/10976851/united-states-v-chaney/",
+ "usage": {
+  "in": 1312,
+  "out": 2444
+ }
+}

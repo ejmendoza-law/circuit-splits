@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a district court must choose the most analogous Guideline among several sufficiently analogous Guidelines under the Guidelines' analogous-offense analysis, should the appellate court review that choice de novo or give it deference?",
+ "provision": "U.S.S.G. \u00a7 2X5.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Review the district court's choice of the most analogous guideline de novo.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Give the district court's choice of the most analogous guideline due deference.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "Appellate courts differ on whether the district court's decision at this step should be reviewed de novo or given due deference.",
+ "cluster_id": 9497803,
+ "cite": "United States v. Shamar Betts, No. 21-3157 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-04-29",
+ "url": "https://www.courtlistener.com/opinion/9497803/united-states-v-shamar-betts/",
+ "usage": {
+  "in": 1313,
+  "out": 1788
+ }
+}

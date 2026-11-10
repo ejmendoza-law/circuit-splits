@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 11035336,
+ "cite": "Eric D. Holmes v. Ron Neal, No. 23-2890 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-10-15",
+ "url": "https://www.courtlistener.com/opinion/11035336/eric-d-holmes-v-ron-neal/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

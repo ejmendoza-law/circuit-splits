@@ -1,0 +1,40 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a sentence imposed after the original sentence but before a subsequent resentencing count as a 'prior sentence' for criminal history points under U.S.S.G. \u00a7 4A1.1?",
+ "provision": "U.S.S.G. \u00a7 4A1.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A sentence imposed after the original sentence but before resentencing is a 'prior sentence' under \u00a7 4A1.1 and may be counted in the criminal history score.",
+   "circuits": [
+    "5th",
+    "7th",
+    "8th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Garza, 127 F.4th 954 (5th Cir. 2025)",
+    "United States v. Hopper, 11 F.4th 561 (7th Cir. 2021)",
+    "United States v. Tidwell, 827 F.3d 761 (8th Cir. 2016)",
+    "United States v. Klump, 57 F.3d 801 (9th Cir. 1995)",
+    "United States v. Burke, 863 F.3d 1355 (11th Cir. 2017)"
+   ]
+  }
+ ],
+ "this_court": "Sides with the majority of circuits and counts intervening sentences imposed before resentencing as prior sentences under \u00a7 4A1.1.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "The circuits are divided on this question.",
+ "cluster_id": 10329422,
+ "cite": "United States v. Garza, 127 F.4th 954 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-02-07",
+ "url": "https://www.courtlistener.com/opinion/10329422/united-states-v-garza/",
+ "usage": {
+  "in": 1314,
+  "out": 1421
+ }
+}

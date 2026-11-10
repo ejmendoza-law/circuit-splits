@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a defendant waive his Sixth Amendment right to a public trial merely by failing to object to a courtroom closure?",
+ "provision": "U.S. Const. amend. VI; 28 U.S.C. \u00a7 2254(d)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Failure to object to a courtroom closure, without more, does not waive the public-trial right; waiver requires a knowing and voluntary relinquishment.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Walton v. Briley, 361 F.3d 431 (7th Cir. 2004)",
+    "Gambaiani v. Greene, 137 F.4th 627 (7th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Failure to object to a courtroom closure constitutes a waiver of the public-trial right.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Hitt, 473 F.3d 146 (5th Cir. 2006)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Although failing to object does not result in a waiver in our court, the Fifth Circuit has held the opposite. United States v. Hitt, 473 F.3d 146, 155 (5th Cir. 2006);",
+ "cluster_id": 10583325,
+ "cite": "Grant Gambaiani v. Brittany Greene, 137 F.4th 627 (7th Cir. 2025)",
+ "court": "7th",
+ "date": "2025-05-13",
+ "url": "https://www.courtlistener.com/opinion/10583325/grant-gambaiani-v-brittany-greene/",
+ "usage": {
+  "in": 1872,
+  "out": 1463
+ }
+}

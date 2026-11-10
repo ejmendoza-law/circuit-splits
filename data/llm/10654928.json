@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "",
+ "cluster_id": 10654928,
+ "cite": "Arias v. Herzon, No. 23-1618 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-08-15",
+ "url": "https://www.courtlistener.com/opinion/10654928/arias-v-herzon/",
+ "usage": {
+  "in": 4094,
+  "out": 601
+ }
+}

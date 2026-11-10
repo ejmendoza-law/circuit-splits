@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10303135,
+ "cite": "United States v. Bradley, 124 F.4th 106 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-12-23",
+ "url": "https://www.courtlistener.com/opinion/10303135/united-states-v-bradley/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

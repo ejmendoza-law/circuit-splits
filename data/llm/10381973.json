@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does attempted bank robbery under 18 U.S.C. \u00a7 2113(a) require proof of force, violence, or intimidation, given that the phrase 'by force and violence, or by intimidation' may modify only 'takes' and not 'attempts to take'?",
+ "provision": "18 U.S.C. \u00a7 2113(a)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Attempted bank robbery under \u00a7 2113(a) requires force or intimidation, so the adverbial phrase also modifies 'attempts to take'.",
+   "circuits": [
+    "2d",
+    "3d",
+    "5th",
+    "7th"
+   ],
+   "cases": [
+    "Collier v. United States, 989 F.3d 212, 221 (2d Cir. 2021)",
+    "United States v. Bellew, 369 F.3d 450, 454 (5th Cir. 2004)",
+    "United States v. Thornton, 539 F.3d 741, 747 (7th Cir. 2008)",
+    "United States v. Vines, 134 F.4th 730 (3d Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Attempted bank robbery under \u00a7 2113(a) does not require force, violence, or intimidation.",
+   "circuits": [
+    "4th",
+    "6th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. McFadden, 739 F.2d 149, 151-52 (4th Cir. 1984)",
+    "United States v. Wesley, 417 F.3d 612, 618 (6th Cir. 2005)",
+    "United States v. Moore, 921 F.2d 207, 209 (9th Cir. 1990)"
+   ]
+  }
+ ],
+ "this_court": "requires force or intimidation. The excerpt does not state the holding on this split in so many words, but the court reasons that a \u00a7 2113(d) attempt must incorporate \u00a7 2113(a)'s elements, which make it a crime of violence.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "But we have never addressed whether attempted bank robbery is, and our sister circuits are divided.",
+ "cluster_id": 10381973,
+ "cite": "United States v. Ronald Vines, 134 F.4th 730 (3rd Cir. 2025)",
+ "court": "3d",
+ "date": "2025-04-21",
+ "url": "https://www.courtlistener.com/opinion/10381973/united-states-v-ronald-vines/",
+ "usage": {
+  "in": 1317,
+  "out": 1730
+ }
+}

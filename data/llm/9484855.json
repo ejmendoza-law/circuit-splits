@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9484855,
+ "cite": "David Annor v. Merrick Garland, 95 F.4th 820 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-03-15",
+ "url": "https://www.courtlistener.com/opinion/9484855/david-annor-v-merrick-garland/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

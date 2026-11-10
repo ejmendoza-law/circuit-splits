@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the 'reason to believe' language in Application Note 13 to U.S.S.G. \u00a7 2K2.1(b)(5), must the recipient of a firearm actually be an unlawful possessor or prohibited person, or is it enough that the defendant had reason to believe so?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(b)(5) and cmt. n.13",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Application Note 13 does not require that what the defendant had reason to believe was actually true; a defendant who had reason to believe the recipient was an unlawful possessor or intended unlawful use is covered, even if the recipient was an undercover agent.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Ferrari, No. 24-6007 (9th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "The 'reason to believe' language requires that the recipient actually be an unlawful possessor or prohibited person, so the defendant's belief must be correct. The excerpts describe this as the opposing side of the split but do not identify which circuits hold it.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The Ninth Circuit holds that Application Note 13 does not require that what the defendant had reason to believe was true.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Notably, Amendment 819 retained the \"reason to believe\" language, notwithstanding the existing Circuit split over how to interpret it.",
+ "cluster_id": 10813613,
+ "cite": "United States v. Ferrari, No. 24-6007 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-03-23",
+ "url": "https://www.courtlistener.com/opinion/10813613/united-states-v-ferrari/",
+ "usage": {
+  "in": 1402,
+  "out": 1791
+ }
+}

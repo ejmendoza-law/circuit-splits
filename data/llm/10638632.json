@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "In each of these cases, the courts interpreted \"the 'hold[ing]' provision of \u00a7 1201\" more narrowly than the phrase's literal definition.",
+ "cluster_id": 10638632,
+ "cite": "United States v. Sharmake Abdullahi, No. 23-3144 (8th Cir. 2025)",
+ "court": "8th",
+ "date": "2025-07-21",
+ "url": "https://www.courtlistener.com/opinion/10638632/united-states-v-sharmake-abdullahi/",
+ "usage": {
+  "in": 1893,
+  "out": 2358
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court resolved the split in Bowe v. United States, No. 24-5438, holding that 28 U.S.C. \u00a7 2244(b)(1)'s same-claim bar does not apply to federal prisoners filing second or successive \u00a7 2255 motions.",
+ "issue": "Does the same-claim bar in 28 U.S.C. \u00a7 2244(b)(1) apply to federal prisoners seeking to file a second or successive motion under \u00a7 2255?",
+ "provision": "28 U.S.C. \u00a7 2244(b)(1); 28 U.S.C. \u00a7 2255(h)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Section 2244(b)(1)'s same-claim bar applies to federal prisoners' second or successive \u00a7 2255 motions, so previously raised claims must be dismissed.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Baptiste, 828 F.3d at 1339\u201340 (11th Cir.)",
+    "In re Michael Bowe, No. 24-11704 (11th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Section 2244(b)(1) does not apply to federal prisoners; \u00a7 2255(h) incorporates only \u00a7 2244's certification procedures, so previously asserted claims may be brought again if they meet \u00a7 2255(h)'s requirements.",
+   "circuits": [],
+   "cases": [
+    "Bowe v. United States, No. 24-5438 (U.S. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Follows the Supreme Court's rule in Bowe that \u00a7 2244(b)(1) does not apply to federal prisoners, and treats its own contrary Baptiste decision as abrogated.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "Addressing a circuit split about the applicability of \u00a7 2244(b)(1)\u2019s sameclaim bar to federal prisoners, the Supreme Court abrogated our Baptiste decision.",
+ "cluster_id": 10785967,
+ "cite": "In re: Michael Bowe, No. 24-11704 (11th Cir. 2026)",
+ "court": "11th",
+ "date": "2026-02-06",
+ "url": "https://www.courtlistener.com/opinion/10785967/in-re-michael-bowe/",
+ "usage": {
+  "in": 1311,
+  "out": 1890
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "Apart from our own precedent, other circuit courts generally agree that petitioners may rely on mandamus to correct errors of law in inter-circuit transfers.",
+ "cluster_id": 10690283,
+ "cite": "In re Patsy Levang, No. 25-3045 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-10-03",
+ "url": "https://www.courtlistener.com/opinion/10690283/in-re-patsy-levang/",
+ "usage": {
+  "in": 1866,
+  "out": 516
+ }
+}

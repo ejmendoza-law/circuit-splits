@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10880919,
+ "cite": "United States v. James Morgan, No. 24-3313 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-06-25",
+ "url": "https://www.courtlistener.com/opinion/10880919/united-states-v-james-morgan/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

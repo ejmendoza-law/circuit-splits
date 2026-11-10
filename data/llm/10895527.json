@@ -1,0 +1,45 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a noncitizen petition for review of a standalone CAT order under 8 U.S.C. \u00a7 1252(a)(4) without also challenging a final order of removal?",
+ "provision": "8 U.S.C. \u00a7 1252(a)(4)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "No jurisdiction over a standalone CAT claim; the petition must challenge a final order of removal (\u00a7 1252(a)(1)).",
+   "circuits": [
+    "2d",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "Navarrete v. Bondi, 170 F.4th 1214 (9th Cir. 2026)",
+    "Hayles v. U.S. Att'y Gen., 2026 WL 1782580 (11th Cir. 2026)",
+    "Bhaktibhai-Patel v. Garland, 32 F.4th 180 (2d Cir. 2022)"
+   ]
+  },
+  {
+   "position": "\u00a7 1252(a)(4) independently confers jurisdiction to review a CAT claim by petition for review, even without challenging a final removal order.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "Laureano v. Att'y Gen. U.S., 177 F.4th 453 (3d Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "And the Third Circuit recently adopted that position, leaving us with a split of authority in the federal circuit courts.",
+ "cluster_id": 10895527,
+ "cite": "Pierre Riley v. Todd Blanche, No. 22-1609 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-07-02",
+ "url": "https://www.courtlistener.com/opinion/10895527/pierre-riley-v-todd-blanche/",
+ "usage": {
+  "in": 1887,
+  "out": 1515
+ }
+}

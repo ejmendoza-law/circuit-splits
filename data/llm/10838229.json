@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10838229,
+ "cite": "United States v. Tew, No. 24-1333 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-04-06",
+ "url": "https://www.courtlistener.com/opinion/10838229/united-states-v-tew/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

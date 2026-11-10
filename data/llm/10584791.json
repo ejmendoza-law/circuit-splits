@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(A)",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "First, we turn to Taylor: in that case, the Supreme Court resolved a circuit split and held that attempted Hobbs Act robbery is not a predicate crime of violence under \u00a7 924(c)(3)(A)\u2019s elements clause.",
+ "cluster_id": 10584791,
+ "cite": "United States v. Curtis Solomon, 136 F.4th 1310 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-05-15",
+ "url": "https://www.courtlistener.com/opinion/10584791/united-states-v-curtis-solomon/",
+ "usage": {
+  "in": 1315,
+  "out": 1034
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Guidelines amendment effective November 1992, which changed U.S.S.G. \u00a7 3E1.1(a) to require acceptance 'for his offense' and clarified that a defendant need not admit uncharged criminal conduct to earn the reduction",
+ "issue": "May a sentencing court deny the acceptance-of-responsibility reduction because the defendant denied uncharged relevant conduct, without violating the Fifth Amendment?",
+ "provision": "U.S.S.G. \u00a7 3E1.1(a)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The court may consider the defendant's denial of relevant conduct in deciding whether to grant the acceptance-of-responsibility reduction.",
+   "circuits": [
+    "3d",
+    "4th",
+    "5th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Frierson, 945 F.2d 650 (3d Cir. 1991)",
+    "United States v. Gordon, 895 F.2d 932 (4th Cir. 1990)",
+    "United States v. Mourning, 914 F.2d 699 (5th Cir. 1990)",
+    "United States v. Munio, 909 F.2d 436 (11th Cir. 1990)",
+    "United States v. Lemaine, No. 24-14049 (11th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Conditioning the reduction on an admission of relevant conduct would violate the Fifth Amendment privilege against self-incrimination, so the guideline is read to avoid that problem.",
+   "circuits": [
+    "1st",
+    "2d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Perez-Franco, 873 F.2d 455 (1st Cir. 1989)",
+    "United States v. Oliveras, 905 F.2d 623 (2d Cir. 1990)",
+    "United States v. Piper, 918 F.2d 839 (9th Cir. 1990)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "As Lemaine acknowledges, this last change was to clarify only that a defendant need not admit to uncharged criminal conduct to earn the reduction because a circuit split had developed over whether such a requirement would violate the Fifth Amendment.",
+ "cluster_id": 11050916,
+ "cite": "United States v. Chadwick Lemaine, No. 24-14049 (11th Cir. 2026)",
+ "court": "11th",
+ "date": "2026-10-30",
+ "url": "https://www.courtlistener.com/opinion/11050916/united-states-v-chadwick-lemaine/",
+ "usage": {
+  "in": 1315,
+  "out": 1973
+ }
+}

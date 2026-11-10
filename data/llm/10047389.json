@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10047389,
+ "cite": "John Kalu v. Spaulding, 113 F.4th 311 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-08-21",
+ "url": "https://www.courtlistener.com/opinion/10047389/john-kalu-v-spaulding/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "Only two circuits have answered the question before us: whether the check-receipt date or the check-clearance date triggers the statute of limitations under \u00a7 6532(b). Both chose the checkclearance date.",
+ "cluster_id": 10115109,
+ "cite": "United States v. Jeffrey Page, No. 21-17083 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-09-12",
+ "url": "https://www.courtlistener.com/opinion/10115109/united-states-v-jeffrey-page/",
+ "usage": {
+  "in": 1313,
+  "out": 600
+ }
+}

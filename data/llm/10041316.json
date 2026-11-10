@@ -1,0 +1,35 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In AEDPA habeas review of an ineffective-assistance claim, does doubly deferential review under Strickland and 28 U.S.C. \u00a7 2254(d) apply at both the performance and prejudice steps, or only at the performance step?",
+ "provision": "28 U.S.C. \u00a7 2254(d); Strickland v. Washington, 466 U.S. 668 (1984)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Doubly deferential review applies at both Strickland steps: AEDPA deference to the state court and deference to counsel both apply to the prejudice inquiry as well as the performance inquiry.",
+   "circuits": [],
+   "cases": [
+    "Cullen v. Pinholster, 563 U.S. 170 (2011)"
+   ]
+  },
+  {
+   "position": "Deference to counsel applies only at the performance step, not the prejudice step, though AEDPA deference to the state court applies at both steps.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "In Waiters v. Lee, 857 F.3d 466 (2d Cir. 2017), this court observed that it is an \u201copen question\u201d in this circuit whether double deference applies at both steps of Strickland analysis, id. at 477 n.20, and that while Cullen v. Pinholster, 563 U.S. at 202, appears to support an affirmative answer, circuit courts are divided on the question.",
+ "cluster_id": 10041316,
+ "cite": "Englert v. Lowerre, 115 F.4th 69 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-08-15",
+ "url": "https://www.courtlistener.com/opinion/10041316/englert-v-lowerre/",
+ "usage": {
+  "in": 1311,
+  "out": 2211
+ }
+}

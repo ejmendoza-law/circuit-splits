@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Compare United States v. Foster, 706 F.3d 887, 888 (7th Cir. 2013) (concluding that \"[t]he Criminal Justice Act does not supply the necessary permission to pay a lawyer from the public fisc\" in \u00a7 3582(c)(2) proceedings), with United States v. Guerrero, 946 F.3d 983, 985 (7th Cir. 2020) (\"Foster holds that district courts are not required to appoint counsel [in \u00a7 3582(c)(2) proceedings], but it does not prohibit them from doing so.\").",
+ "cluster_id": 10281315,
+ "cite": "United States v. Clarence Bonds, No. 24-1576 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-11-21",
+ "url": "https://www.courtlistener.com/opinion/10281315/united-states-v-clarence-bonds/",
+ "usage": {
+  "in": 1314,
+  "out": 805
+ }
+}

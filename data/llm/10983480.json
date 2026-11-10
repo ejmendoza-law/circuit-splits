@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10983480,
+ "cite": "United States v. Roman Sterlingov, No. 24-3161 (D.C. Cir. 2026)",
+ "court": "D.C.",
+ "date": "2026-09-25",
+ "url": "https://www.courtlistener.com/opinion/10983480/united-states-v-roman-sterlingov/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In keeping with the \u201ccase-by-case approach\u201d taken by our sister circuits, see id. at 89\u201390 (discussing cases in other circuits and concluding that reports of a circuit split are \u201cgreatly exaggerated\u201d and that the cases reflect a \u201cnuanced\u201d and \u201ccase-by-case\u201d approach), application of Rule 9(b) in this Circuit is subject to important caveats.",
+ "cluster_id": 10960927,
+ "cite": "United States v. Amerisource Bergen Corp., No. 25-2950 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-08-28",
+ "url": "https://www.courtlistener.com/opinion/10960927/united-states-v-amerisource-bergen-corp/",
+ "usage": {
+  "in": 1316,
+  "out": 681
+ }
+}

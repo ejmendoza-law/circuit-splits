@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10948821,
+ "cite": "Guerra Vasquez v. United States, No. 25-10555 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-08-14",
+ "url": "https://www.courtlistener.com/opinion/10948821/guerra-vasquez-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

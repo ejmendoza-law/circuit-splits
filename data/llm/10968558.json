@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Our sister circuits disagree about whether civil FBAR penalties are fines subject to the Eighth Amendment.",
+ "cluster_id": 10968558,
+ "cite": "United States v. Richard Rund, No. 24-1958 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-09-04",
+ "url": "https://www.courtlistener.com/opinion/10968558/united-states-v-richard-rund/",
+ "usage": {
+  "in": 1316,
+  "out": 754
+ }
+}

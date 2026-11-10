@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "the absence of binding precedent and the \"uneven split of authority among district courts nationwide favoring constitutionality\" did not meet the threshold of \"clearly unconstitutional[.]\"",
+ "cluster_id": 10385482,
+ "cite": "United States v. Age, 136 F.4th 193 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-04-25",
+ "url": "https://www.courtlistener.com/opinion/10385482/united-states-v-age/",
+ "usage": {
+  "in": 1313,
+  "out": 444
+ }
+}

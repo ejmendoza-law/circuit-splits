@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The circuits have split on the best reading of the applicable statutes, and we are the latest court of appeals to weigh in on this question of national importance.",
+ "cluster_id": 10883014,
+ "cite": "Quiroz v. Mullin, No. 26-6019 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-06-30",
+ "url": "https://www.courtlistener.com/opinion/10883014/quiroz-v-mullin/",
+ "usage": {
+  "in": 1312,
+  "out": 686
+ }
+}

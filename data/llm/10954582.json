@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is the lifetime federal felon-in-possession ban in 18 U.S.C. \u00a7 922(g)(1) constitutional under the Second Amendment, given that it disarms felons permanently without an individualized inquiry into dangerousness, and do pre-Bruen precedents upholding it remain good law?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Pre-Bruen precedents upholding \u00a7 922(g)(1) remain good law, and lifetime felon disarmament is constitutional without an individualized dangerousness inquiry.",
+   "circuits": [
+    "2d",
+    "11th"
+   ],
+   "cases": [
+    "Zherka v. Bondi, 140 F.4th 68 (2d Cir. 2025)",
+    "United States v. Dubois, 139 F.4th 887 (11th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Bruen displaces the pre-Bruen framework, and lifetime felon disarmament is constitutionally suspect absent an individualized inquiry into whether the felon is dangerous.",
+   "circuits": [
+    "3d",
+    "6th"
+   ],
+   "cases": [
+    "Range v. Att'y Gen., 124 F.4th 218 (3d Cir. 2024) (en banc)",
+    "United States v. Williams, 113 F.4th 637 (6th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Our sister circuits are deeply divided on whether pre-Bruen precedents upholding section 922(g)(1) remain good law and on whether lifetime felon disarmament is constitutional absent some individualized inquiry into whether the individual felon is dangerous.",
+ "cluster_id": 10954582,
+ "cite": "United States v. Garrick Richardson, No. 24-3151 (D.C. Cir. 2026)",
+ "court": "D.C.",
+ "date": "2026-08-21",
+ "url": "https://www.courtlistener.com/opinion/10954582/united-states-v-garrick-richardson/",
+ "usage": {
+  "in": 1321,
+  "out": 1626
+ }
+}

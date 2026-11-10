@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a felon bring an as-applied Second Amendment challenge to the federal ban on firearm possession by felons, or is \u00a7 922(g)(1) categorically constitutional as applied to all felons?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Section 922(g)(1) is categorically constitutional as applied to all felons; status-based disqualification of felons is consistent with the historical tradition of firearm regulation.",
+   "circuits": [
+    "4th",
+    "8th",
+    "9th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Jackson, 110 F.4th 1120 (8th Cir. 2024)",
+    "United States v. Hunt, 123 F.4th 697 (4th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Section 922(g)(1) might be unconstitutional as applied to some felons, so an as-applied challenge is available, depending on whether the defendant's predicate felony is relevantly similar to a historical disqualifying crime.",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "5th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Diaz, 116 F.4th 458 (5th Cir. 2024)",
+    "United States v. Mitchell, No. 24-60607 (5th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "Recognizes that \u00a7 922(g)(1) may be unconstitutional as applied to some felons, but is bound by Diaz and rejects the as-applied challenge in this case under that precedent.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "An entrenched circuit split has now emerged about its proper application.",
+ "cluster_id": 10740582,
+ "cite": "United States v. Mitchell, No. 24-60607 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-11-21",
+ "url": "https://www.courtlistener.com/opinion/10740582/united-states-v-mitchell/",
+ "usage": {
+  "in": 1313,
+  "out": 1543
+ }
+}

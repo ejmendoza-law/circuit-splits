@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10853396,
+ "cite": "United States v. Vizcaino-Peguero, No. 23-1932 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-05-05",
+ "url": "https://www.courtlistener.com/opinion/10853396/united-states-v-vizcaino-peguero/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

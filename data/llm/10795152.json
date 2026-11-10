@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10795152,
+ "cite": "United States v. David Myrie, No. 24-2045 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-02-17",
+ "url": "https://www.courtlistener.com/opinion/10795152/united-states-v-david-myrie/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "That is the minority position among the circuits.",
+ "cluster_id": 11044573,
+ "cite": "Sosnava Rodriguez v. Vergara, No. 26-50183 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-10-23",
+ "url": "https://www.courtlistener.com/opinion/11044573/sosnava-rodriguez-v-vergara/",
+ "usage": {
+  "in": 3584,
+  "out": 831
+ }
+}

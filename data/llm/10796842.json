@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "when Congress passed the ATRA, it ended the circuit split created by Ratha I.",
+ "cluster_id": 10796842,
+ "cite": "Keo Ratha v. Rubicon Resources, LLC, No. 23-55299 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-02-20",
+ "url": "https://www.courtlistener.com/opinion/10796842/keo-ratha-v-rubicon-resources-llc/",
+ "usage": {
+  "in": 4271,
+  "out": 858
+ }
+}

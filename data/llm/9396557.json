@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In light of the circuit split, district courts may find it prudent as a matter of case management to determine earlier rather than later whether a defendant will raise the issue.",
+ "cluster_id": 9396557,
+ "cite": "James Courtney v. Kimberly Butler, 66 F.4th 1043 (7th Cir. 2023)",
+ "court": "7th",
+ "date": "2023-05-03",
+ "url": "https://www.courtlistener.com/opinion/9396557/james-courtney-v-kimberly-butler/",
+ "usage": {
+  "in": 1315,
+  "out": 743
+ }
+}

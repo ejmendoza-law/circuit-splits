@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Two other circuits\u2014the Ninth in Hester and the Fifth in Haggerty\u2014already recognize Indian status as an affirmative defense under \u00a7 1152, and our decision applies longstanding Supreme Court precedent.",
+ "cluster_id": 11034024,
+ "cite": "United States v. Ruiz, No. 24-2128 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-10-14",
+ "url": "https://www.courtlistener.com/opinion/11034024/united-states-v-ruiz/",
+ "usage": {
+  "in": 1312,
+  "out": 686
+ }
+}

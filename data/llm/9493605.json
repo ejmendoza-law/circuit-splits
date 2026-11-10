@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Habeas & post-conviction",
+ "sides": [],
+ "this_court": "Treats a second-in-time \u00a7 2254 petition filed while a first-in-time petition is pending on appeal as successive, so the district court lacked jurisdiction; the court does not construe it as a motion to amend.",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "Because we disagree, we join the majority of our sister circuits to address this issue and AFFIRM the district court's dismissal of Rivers's second-in-time petition for lack of jurisdiction.",
+ "cluster_id": 9493605,
+ "cite": "Rivers v. Lumpkin, 99 F.4th 216 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-04-15",
+ "url": "https://www.courtlistener.com/opinion/9493605/rivers-v-lumpkin/",
+ "usage": {
+  "in": 1320,
+  "out": 973
+ }
+}

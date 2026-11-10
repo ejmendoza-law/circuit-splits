@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10004278,
+ "cite": "Kaziu v. United States, 108 F.4th 86 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-07-16",
+ "url": "https://www.courtlistener.com/opinion/10004278/kaziu-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

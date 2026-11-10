@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10032491,
+ "cite": "United States v. Donald Dorosheff, 110 F.4th 999 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-08-06",
+ "url": "https://www.courtlistener.com/opinion/10032491/united-states-v-donald-dorosheff/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the Mandatory Victims Restitution Act, may a federal court order restitution for psychiatric or psychological care when the victim suffered no bodily injury, or is such care compensable only when the offense resulted in bodily injury?",
+ "provision": "18 U.S.C. \u00a7 3663A(b)(2)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Psychological or psychiatric care is compensable under \u00a7 3663A(b)(2) only when the offense resulted in bodily injury to the victim.",
+   "circuits": [
+    "4th",
+    "8th",
+    "9th",
+    "11th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Husky, 924 F.2d 223 (11th Cir. 1991)",
+    "United States v. Hicks, 997 F.2d 594 (9th Cir. 1993)",
+    "United States v. Manna, 201 F. App'x 146 (4th Cir. 2006)",
+    "United States v. Kirkwood, No. 25-50171 (5th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "\"Bodily injury\" is an umbrella term that can include psychological harm, so psychological care can be ordered under \u00a7 3663A(b)(2) even without physical injury; this reading relies on the definition of bodily injury in 18 U.S.C. \u00a7 1365(h)(4).",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Breshers, 684 F.3d 696 (7th Cir. 2012)"
+   ]
+  }
+ ],
+ "this_court": "requires bodily injury; the Fifth Circuit declines to follow the Seventh Circuit's reasoning and rejects reliance on 18 U.S.C. \u00a7 1365(h)(4)",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We decline to follow the Seventh Circuit's reasoning.",
+ "cluster_id": 10932637,
+ "cite": "United States v. Kirkwood, No. 25-50171 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-07-17",
+ "url": "https://www.courtlistener.com/opinion/10932637/united-states-v-kirkwood/",
+ "usage": {
+  "in": 1318,
+  "out": 2233
+ }
+}

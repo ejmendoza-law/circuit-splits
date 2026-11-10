@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Whether the federal jurisdictional status of a place (such as a federal prison's status under the special maritime and territorial jurisdiction) is a legal question the court decides, or an adjudicative fact the jury must find?",
+ "provision": "18 U.S.C. \u00a7 7(3)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Territorial jurisdictional status is a legal question the court may decide, separate from the jury's factual finding on where the crime occurred.",
+   "circuits": [
+    "2d",
+    "4th",
+    "6th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Davis, 726 F.3d 362 (2d Cir. 2013)",
+    "United States v. Silvers, 129 F.4th 332 (6th Cir. 2025)",
+    "United States v. Love, 20 F.4th 407 (8th Cir. 2021)",
+    "United States v. Warren, 984 F.2d 325 (9th Cir. 1993)",
+    "United States v. Perez, No. 24-4039 (4th Cir. Aug. 12, 2025)"
+   ]
+  },
+  {
+   "position": "Territorial jurisdictional status is an adjudicative fact for the jury, classified by its use in the case rather than by its nature.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Bello, 194 F.3d 18 (1st Cir. 1999)"
+   ]
+  }
+ ],
+ "this_court": "Court decides jurisdictional status as a legal question for the court, rejecting the First Circuit's Bello approach.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Perez and our dissenting colleague instead rely on the First Circuit's minority approach of classifying facts about territorial jurisdiction as adjudicative.",
+ "cluster_id": 10653250,
+ "cite": "United States v. Jesse Perez, No. 24-4039 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-08-12",
+ "url": "https://www.courtlistener.com/opinion/10653250/united-states-v-jesse-perez/",
+ "usage": {
+  "in": 1878,
+  "out": 2012
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10847941,
+ "cite": "United States v. State of Texas, No. 24-50149 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-04-24",
+ "url": "https://www.courtlistener.com/opinion/10847941/united-states-v-state-of-texas/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

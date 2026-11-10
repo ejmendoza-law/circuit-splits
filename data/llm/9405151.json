@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "What standard of appellate review applies to a district court's denial of a Franks hearing on a challenge to a warrant affidavit?",
+ "provision": "Franks v. Delaware, 438 U.S. 154 (1978)",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Review the district court's conclusions of law de novo and its factual findings for clear error when reviewing the denial of a Franks hearing.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Sandalo, 70 F.4th 77 (2d Cir. 2023)",
+    "United States v. Rajaratnam, 719 F.3d 139, 156 n.19 (2d Cir. 2013)"
+   ]
+  }
+ ],
+ "this_court": "Reviews conclusions of law de novo and factual findings for clear error; the excerpt does not say how the other side of the split reviews denials of Franks hearings.",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "While there is a circuit split on the appropriate standard of review for the denial of a Franks hearing, see United States v. Rajaratnam, 719 F.3d 139, 156 n.19 (2d Cir. 2013), and there appears to be some confusion on the matter within our own circuit",
+ "cluster_id": 9405151,
+ "cite": "United States v. Domenico Sandalo, 70 F.4th 77 (2d Cir. 2023)",
+ "court": "2d",
+ "date": "2023-06-08",
+ "url": "https://www.courtlistener.com/opinion/9405151/united-states-v-domenico-sandalo/",
+ "usage": {
+  "in": 1314,
+  "out": 2049
+ }
+}

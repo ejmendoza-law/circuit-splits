@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9488920,
+ "cite": "LaFayette DeShawn Upshaw v. George Stephenson, 97 F.4th 365 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-03-28",
+ "url": "https://www.courtlistener.com/opinion/9488920/lafayette-deshawn-upshaw-v-george-stephenson/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

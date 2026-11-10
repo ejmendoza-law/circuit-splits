@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Congress\u2019s amendment of this statute is not clearly irreconcilable with our precedent upholding a \u201cmotivating purpose\u201d as sufficient under \u00a7 2423(b) because Congress may have intended to clarify and confirm what had always been true\u2014 that a \u201cmotivating purpose\u201d is sufficient for conviction.",
+ "cluster_id": 9422817,
+ "cite": "United States v. Michael Pepe, 81 F.4th 961 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-08-28",
+ "url": "https://www.courtlistener.com/opinion/9422817/united-states-v-michael-pepe/",
+ "usage": {
+  "in": 1315,
+  "out": 688
+ }
+}

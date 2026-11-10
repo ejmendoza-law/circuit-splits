@@ -1,0 +1,54 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission's adoption of USSG \u00a7 1B1.13(b)(6), which the dissent describes as resolving the pre-amendment circuit split.",
+ "issue": "Can a nonretroactive change in federal law be an 'extraordinary and compelling reason' justifying a sentence reduction under the compassionate release statute?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "Nonretroactive changes in law can, on the face of the statute, be extraordinary and compelling reasons for a sentence reduction.",
+   "circuits": [
+    "1st",
+    "4th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Ruvalcaba, 26 F.4th 14 (1st Cir. 2022)",
+    "United States v. McCoy, 981 F.3d 271 (4th Cir. 2020)",
+    "United States v. Chen, 48 F.4th 1092 (9th Cir. 2022)",
+    "United States v. McGee, 992 F.3d 1035 (10th Cir. 2021)",
+    "United States v. Orta, No. 24-5182 (6th Cir. 2025) (dissent)"
+   ]
+  },
+  {
+   "position": "Nonretroactive changes in law cannot, on the face of the statute, be extraordinary and compelling reasons for a sentence reduction.",
+   "circuits": [
+    "3d",
+    "7th",
+    "8th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Andrews, 12 F.4th 255 (3d Cir. 2021)",
+    "United States v. Thacker, 4 F.4th 569 (7th Cir. 2021)",
+    "United States v. Crandall, 25 F.4th 582 (8th Cir. 2022)",
+    "United States v. Jenkins, 50 F.4th 1185 (D.C. Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "does not decide. The dissent argues the statute is ambiguous and does not unambiguously foreclose the reading in USSG \u00a7 1B1.13(b)(6), which would allow nonretroactive changes to count.",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "Prior to the Commission\u2019s adoption of USSG \u00a7 1B1.13(b)(6), there was a deep circuit split on whether \u201cextraordinary and compelling reasons\u201d could encompass nonretroactive changes in law and, if so, which ones.",
+ "cluster_id": 10382455,
+ "cite": "United States v. Lois Jochinto Orta, No. 24-5182 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-04-22",
+ "url": "https://www.courtlistener.com/opinion/10382455/united-states-v-lois-jochinto-orta/",
+ "usage": {
+  "in": 1315,
+  "out": 2077
+ }
+}

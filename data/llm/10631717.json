@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.9,
+ "quote": "Several circuits have held that prison o\ufb03cers need only reasonable suspicion to strip-search a visitor without her consent, see Majority Op. at 12. None have held to the contrary.",
+ "cluster_id": 10631717,
+ "cite": "Clarissa Gilmore v. Georgia Department of Corrections, No. 23-10343 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-07-11",
+ "url": "https://www.courtlistener.com/opinion/10631717/clarissa-gilmore-v-georgia-department-of-corrections/",
+ "usage": {
+  "in": 4280,
+  "out": 772
+ }
+}

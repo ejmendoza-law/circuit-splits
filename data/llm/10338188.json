@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Amendment 827 (2024) moved intended loss from the commentary into the text of \u00a7 2B1.1(b)(1), and the majority held that the amendment is clarifying and applies to Horn's case. The concurrence does not decide whether the 2021 version was ambiguous.",
+ "issue": "Under the 2021 Guidelines, does 'loss' in U.S.S.G. \u00a7 2B1.1(b)(1) include intended loss, or is the text ambiguous on that point, so that the commentary's inclusion of intended loss cannot be applied without more?",
+ "provision": "U.S.S.G. \u00a7 2B1.1(b)(1); U.S.S.G. \u00a7 1B1.3(a)(3)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "'Loss' in \u00a7 2B1.1(b)(1) is unambiguous and includes intended loss through \u00a7 1B1.3(a)(3).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. You, 74 F.4th 378 (6th Cir. 2023)",
+    "United States v. Jeffrey Alan Horn, 129 F.4th 1275 (11th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "'Loss' in \u00a7 2B1.1(b)(1) is ambiguous, so intended loss cannot be applied on the 2021 text alone; \u00a7 1B1.3 adds ambiguity rather than resolving it.",
+   "circuits": [
+    "3d",
+    "4th"
+   ],
+   "cases": [
+    "United States v. Banks, 55 F.4th 246 (3d Cir. 2022)",
+    "United States v. Boler, 115 F.4th 316 (4th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.6,
+ "quote": "Our sister circuits are divided on that question, compare United States v. You, 74 F.4th 378, 397\u201398 (6th Cir. 2023), with United States v. Banks, 55 F.4th 246, 258 (3d Cir. 2022), and the Fourth Circuit has concluded that \u00a7 2B1.1(b)(1) is ambiguous even after consulting \u00a7 1B1.3(a)(3).",
+ "cluster_id": 10338188,
+ "cite": "United States v. Jeffrey Alan Horn, 129 F.4th 1275 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-02-24",
+ "url": "https://www.courtlistener.com/opinion/10338188/united-states-v-jeffrey-alan-horn/",
+ "usage": {
+  "in": 1250,
+  "out": 2721
+ }
+}

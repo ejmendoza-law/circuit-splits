@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "According to a leading treatise, \u201cthere is a split of authority\u201d about whether Miranda warnings are required when the defendant\u2019s attorney \u201carranged for the contact\u201d but \u201cwas not present\u201d during the questioning. 2 LaFave \u00a7 6.8(a).We need not consider that issue here.",
+ "cluster_id": 9458541,
+ "cite": "United States v. Dricko Huskey, 90 F.4th 651 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-01-08",
+ "url": "https://www.courtlistener.com/opinion/9458541/united-states-v-dricko-huskey/",
+ "usage": {
+  "in": 1315,
+  "out": 744
+ }
+}

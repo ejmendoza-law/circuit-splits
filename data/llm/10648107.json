@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a discovery violation be willful, or made in bad faith, before a trial court may exclude evidence as a sanction under Taylor v. Illinois?",
+ "provision": "Taylor v. Illinois, 484 U.S. 400 (1988) (discovery-violation exclusion sanction)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Willfulness or bad faith is a prerequisite to a lawful exclusion sanction for a discovery violation under Taylor.",
+   "circuits": [
+    "2d",
+    "9th"
+   ],
+   "cases": [
+    "Noble v. Kelly, 246 F.3d 93 (2d Cir. 2001)",
+    "United States v. Peters, 937 F.2d 1422 (9th Cir. 1991)"
+   ]
+  },
+  {
+   "position": "Willfulness is not a prerequisite to exclusion; bad faith is an important factor but not a requirement.",
+   "circuits": [
+    "D.C.",
+    "10th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Johnson, 970 F.2d 907 (D.C. Cir. 1992)",
+    "Young v. Workman, 383 F.3d 1233 (10th Cir. 2004)",
+    "United States v. Pancholi, No. 24-1127 (6th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "Willfulness is not a prerequisite to exclusion; the courts that have not required willfulness have the stronger argument, since Taylor did not hold willfulness is required in every case.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Most relevant here, courts are divided on whether Taylor makes a \u201cwillful\u201d discovery violation a prerequisite to a lawful exclusion.",
+ "cluster_id": 10648107,
+ "cite": "United States v. Yogesh Pancholi, No. 24-1127 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-08-05",
+ "url": "https://www.courtlistener.com/opinion/10648107/united-states-v-yogesh-pancholi/",
+ "usage": {
+  "in": 1358,
+  "out": 1734
+ }
+}

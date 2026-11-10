@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Guidelines enhancement for an offense involving the conscious or reckless risk of death or serious bodily injury require the defendant's subjective awareness of the risk, or is it enough that the risk would have been obvious to a reasonable person in the defendant's position?",
+ "provision": "U.S.S.G. \u00a7 2B1.1(b)(16)(A)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Objective standard: the enhancement applies if the risk would have been obvious to a reasonable person in the defendant's position; the \"reckless\" modifier does not require subjective awareness.",
+   "circuits": [
+    "1st",
+    "2d",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Chin, 41 F.4th 16, 23 (1st Cir. 2022)",
+    "United States v. Lucien, 347 F.3d 45, 56\u201357 (2d Cir. 2003)",
+    "United States v. Johansson, 249 F.3d 848, 858\u201359 (9th Cir. 2001)",
+    "United States v. Maestas, 642 F.3d 1315, 1321 (10th Cir. 2013)"
+   ]
+  },
+  {
+   "position": "Subjective standard: the government must prove that the defendant was actually aware of the risk and consciously or recklessly disregarded it.",
+   "circuits": [
+    "7th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. McCord, Inc., 143 F.3d 1095, 1098 (8th Cir. 1998)",
+    "United States v. Mohsin, 904 F.3d 580, 584\u201385 (7th Cir. 2018)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our circuit has not yet decided this issue. See United States v. Silber, 456 F. App'x 559, 563 (6th Cir. 2012). We decline, however, to resolve this issue because the district court correctly c",
+ "cluster_id": 10784179,
+ "cite": "United States v. Omar Thomas Wala, No. 24-6021 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-02-04",
+ "url": "https://www.courtlistener.com/opinion/10784179/united-states-v-omar-thomas-wala/",
+ "usage": {
+  "in": 1314,
+  "out": 1346
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is restitution under the Mandatory Victim Restitution Act a criminal punishment for purposes of the Ex Post Facto Clause?",
+ "provision": "U.S. Const. art. I, \u00a7 9, cl. 3 (Ex Post Facto Clause); 18 U.S.C. \u00a7 3663A (MVRA)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "MVRA restitution is not a criminal punishment for Ex Post Facto purposes (as the opinion's description of the split implies; the excerpts do not state this holding expressly)",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Ellingburg, 113 F.4th 839 (8th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "MVRA restitution is a criminal penalty carrying characteristics of criminal punishment, so it cannot be applied retroactively in violation of the Ex Post Facto Clause",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Siegel, 153 F.3d 1256 (11th Cir. 1998)",
+    "United States v. Kluge, No. 23-10697 (11th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "to address a circuit split on whether restitution under the Mandatory Victim Restitution Act is a criminal punishment for purposes of the Ex Post Facto Clause.",
+ "cluster_id": 10645449,
+ "cite": "United States v. Karl Patrick Kluge, No. 23-10697 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-07-31",
+ "url": "https://www.courtlistener.com/opinion/10645449/united-states-v-karl-patrick-kluge/",
+ "usage": {
+  "in": 1316,
+  "out": 2512
+ }
+}

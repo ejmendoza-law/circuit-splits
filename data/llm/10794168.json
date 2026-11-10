@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In contrast, we could not agree with the government's position without creating a circuit split.",
+ "cluster_id": 10794168,
+ "cite": "Mario Lopez v. Pamela Bondi, No. 25-1076 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-02-13",
+ "url": "https://www.courtlistener.com/opinion/10794168/mario-lopez-v-pamela-bondi/",
+ "usage": {
+  "in": 1316,
+  "out": 1321
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the First Step Act's retroactivity provision (\u00a7 404) cover a defendant whose sentence for a covered offense was imposed before the Act's effective date but later vacated, or does the earlier sentence count as 'a sentence' imposed as a matter of historical fact, barring relief?",
+ "provision": "First Step Act of 2018, Pub. L. 115-391, \u00a7 404",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A sentence imposed before the Act's effective date counts as 'a sentence' as a matter of historical fact even if it was later vacated, so the defendant is not eligible for \u00a7 404 relief.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Jackson, 995 F.3d 511 (6th Cir. 2021)",
+    "United States v. Carpenter, 80 F.4th 790 (6th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "A sentence that was vacated does not bar \u00a7 404 relief, so the defendant may seek a reduced sentence under the Act's retroactivity provision.",
+   "circuits": [
+    "3d",
+    "4th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Mitchell, 38 F.4th 382 (3d Cir. 2022)",
+    "United States v. Merrell, 36 F.4th 571 (9th Cir. 2022)",
+    "United States v. Bethea, 841 F. App'x 544 (4th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "The Sixth Circuit, through Jackson and this denial of en banc review, holds that a pre-Act sentence counts as 'a sentence' even if vacated, so the defendant is not eligible for \u00a7 404 relief.",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "Jackson also splits from all our sister circuits to have reached the question.",
+ "cluster_id": 9426834,
+ "cite": "United States v. Timothy Carpenter, 80 F.4th 790 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-09-18",
+ "url": "https://www.courtlistener.com/opinion/9426834/united-states-v-timothy-carpenter/",
+ "usage": {
+  "in": 1598,
+  "out": 4020
+ }
+}

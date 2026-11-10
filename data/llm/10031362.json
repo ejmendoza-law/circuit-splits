@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under USSG \u00a7 4B1.2(b), must a prior state drug conviction be measured against the controlled-substance schedules in effect at the time of the prior state sentencing, or against the federal schedules in effect at the time of the federal sentencing, so that a substance later removed from federal control (here hemp-inclusive marijuana) no longer counts?",
+ "provision": "USSG \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "A prior state drug conviction counts as a controlled substance offense if the substance was controlled under state law at the time of that prior sentencing, even if federal law no longer controls it (hemp-inclusive Iowa marijuana).",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Henderson, 11 F.4th 713 (8th Cir. 2021)",
+    "United States v. Bailey, 37 F.4th 467 (8th Cir. 2022)",
+    "United States v. Gordon, 111 F.4th 899 (8th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "The state conviction must be measured against federal schedules as of the federal sentencing, so a substance later removed from federal control (such as hemp) does not qualify as a controlled substance offense.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The Eighth Circuit follows the first position, holding that the state-law definition at the time of the prior state sentencing controls and that Gordon's prior Iowa marijuana conviction qualifies.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "There is a circuit split on this Guidelines issue as well, but the Supreme Court has not addressed either issue.",
+ "cluster_id": 10031362,
+ "cite": "United States v. Nethaniah Gordon, 111 F.4th 899 (8th Cir. 2024)",
+ "court": "8th",
+ "date": "2024-08-05",
+ "url": "https://www.courtlistener.com/opinion/10031362/united-states-v-nethaniah-gordon/",
+ "usage": {
+  "in": 1699,
+  "out": 2559
+ }
+}

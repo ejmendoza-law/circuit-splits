@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission amended U.S.S.G. \u00a7 3C1.1 in 1998 (U.S.S.G. app. C, amend. 581), adopting the majority view and resolving the circuit conflict.",
+ "issue": "Can the obstruction-of-justice enhancement under U.S.S.G. \u00a7 3C1.1 apply when the defendant's obstructive conduct relates to a closely related offense rather than to the offense of conviction?",
+ "provision": "U.S.S.G. \u00a7 3C1.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Section 3C1.1 applies only to obstructive conduct specifically related to the offense of conviction.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "USA v. Perry, 908 F.2d 56 (6th Cir. 1990)"
+   ]
+  },
+  {
+   "position": "Section 3C1.1 also applies to obstructive conduct involving cases that are closely related to the defendant's case.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "USA v. Mollner, 643 F.3d 713 (10th Cir. 2011)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Before \u00a7 3C1.1 was amended, there was no conjunctive portion that followed, and a circuit conflict arose over whether \u00a7 3C1.1 applies only to acts specifically related to the offense of which the defendant was convicted or if it can also apply to conduct that obstructs a closely related offense.",
+ "cluster_id": 9403659,
+ "cite": "United States v. Mendoza-Gomez, 69 F.4th 273 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-06-01",
+ "url": "https://www.courtlistener.com/opinion/9403659/united-states-v-mendoza-gomez/",
+ "usage": {
+  "in": 1433,
+  "out": 1176
+ }
+}

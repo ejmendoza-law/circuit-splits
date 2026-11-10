@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a person with a felony conviction be included in 'the people' protected by the Second Amendment, and if so, can the government disarm them consistent with the nation's historical tradition of firearm regulation (i.e., is the felon-in-possession ban constitutional as applied to nonviolent felons)?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1); U.S. Const. amend. II",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "A person with a nonviolent felony conviction remains among 'the people' and cannot be disarmed consistent with the historical tradition of firearm regulation, so the felon-in-possession ban is unconstitutional as applied to such persons.",
+   "circuits": [
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "Range v. Att'y Gen., 69 F.4th 96, 101 (3d Cir. 2023) (en banc)",
+    "United States v. Duarte, 101 F.4th 657, 691 (9th Cir.)"
+   ]
+  },
+  {
+   "position": "Bruen did not displace the presumption that the felon-in-possession ban is lawful; historical disarmament of dangerous people supports the ban, and individualized as-applied inquiries for nonviolent felons are unnecessary.",
+   "circuits": [
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "Vincent v. Garland, 80 F.4th 1197, 1202 (10th Cir. 2023)",
+    "United States v. Jackson, 69 F.4th 495, 504 (8th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The answers to these questions post-Bruen are the subject of disagreement among the circuits and will require further analysis post-Rahimi.",
+ "cluster_id": 10033972,
+ "cite": "United States v. Randy Price, 111 F.4th 392 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-08-06",
+ "url": "https://www.courtlistener.com/opinion/10033972/united-states-v-randy-price/",
+ "usage": {
+  "in": 1318,
+  "out": 1878
+ }
+}

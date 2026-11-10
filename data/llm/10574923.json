@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Evidence",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "cf. Jaffal, 79 F.4th at 594 (\"acknowledging an . . . intra-circuit split regarding the standard of review for Rule 404(b) evidence, but concluding that the abuse of discretion and tripartite standards of review are not in fact inconsistent, because it is an abuse of discretion to make errors of law or clear errors of factual determination.\" (citation and internal quotation marks omitted))",
+ "cluster_id": 10574923,
+ "cite": "United States v. Jesse Fairley, 137 F.4th 503 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-05-08",
+ "url": "https://www.courtlistener.com/opinion/10574923/united-states-v-jesse-fairley/",
+ "usage": {
+  "in": 1314,
+  "out": 591
+ }
+}

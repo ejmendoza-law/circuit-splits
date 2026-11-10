@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Other circuits have split on whether an injunction \u201crefer[s]\u201d to a document that is physically attached.",
+ "cluster_id": 10585633,
+ "cite": "United States v. Facebook, Inc., 136 F.4th 1129 (D.C. Cir. 2025)",
+ "court": "D.C.",
+ "date": "2025-05-16",
+ "url": "https://www.courtlistener.com/opinion/10585633/united-states-v-facebook-inc/",
+ "usage": {
+  "in": 1316,
+  "out": 441
+ }
+}

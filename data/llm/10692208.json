@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Pleas & appeal waivers",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "First, Murphy resolved \"an unsettled question in this circuit\" rather than overruling any existing statutory interpretations.",
+ "cluster_id": 10692208,
+ "cite": "United States v. Doe, No. 25-9902 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-10-07",
+ "url": "https://www.courtlistener.com/opinion/10692208/united-states-v-doe/",
+ "usage": {
+  "in": 1311,
+  "out": 807
+ }
+}

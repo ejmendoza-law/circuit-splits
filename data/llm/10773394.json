@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "declines to revisit United States v. Hollis; no circuit split discussed",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "",
+ "cluster_id": 10773394,
+ "cite": "United States v. Wilson, No. 24-10633 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-01-12",
+ "url": "https://www.courtlistener.com/opinion/10773394/united-states-v-wilson/",
+ "usage": {
+  "in": 1319,
+  "out": 608
+ }
+}

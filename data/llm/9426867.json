@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in United States v. Davis, 139 S. Ct. 2319 (2019), which abrogated Ovalles and held the \u00a7 924(c)(3)(B) residual clause unconstitutionally vague",
+ "issue": "Is the residual clause of 18 U.S.C. \u00a7 924(c)(3)(B) void for vagueness, or can courts avoid that problem by applying a conduct-based rather than categorical approach?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)(B)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The \u00a7 924(c)(3)(B) residual clause operates in the present and can be applied through a conduct-based approach, so it avoids the vagueness problem that affected the ACCA and \u00a7 16(b) residual clauses",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Ovalles, 905 F.3d 1231 (11th Cir. 2018) (en banc), abrogated by United States v. Davis, 139 S. Ct. 2319 (2019)",
+    "Jones v. United States, No. 20-13365 (11th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.4,
+ "quote": "As it turned out, the Supreme Court rejected that distinction, abrogating our Ovalles decision and settling a circuit split.",
+ "cluster_id": 9426867,
+ "cite": "Charles Edward Jones v. United States, No. 20-13365 (11th Cir. 2023)",
+ "court": "11th",
+ "date": "2023-09-14",
+ "url": "https://www.courtlistener.com/opinion/9426867/charles-edward-jones-v-united-states/",
+ "usage": {
+  "in": 2223,
+  "out": 3126
+ }
+}

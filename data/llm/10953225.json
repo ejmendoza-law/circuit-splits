@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a defendant point to an actual state prosecution involving a substance not on the federal schedules before a state drug conviction can be disqualified as a predicate, or does a state statute that is facially broader than the federal schedules suffice?",
+ "provision": "18 U.S.C. \u00a7 924(e) (categorical approach to predicate offenses); Controlled Substances Act schedules, 21 U.S.C. \u00a7 802",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Actual-case requirement applies: a defendant must show a realistic probability, such as an actual state prosecution, that the state applies the statute to conduct outside the federal definition, even where the state statute is broader on its face",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Castillo-Rivera, 853 F.3d 218 (5th Cir. 2017) (en banc)",
+    "United States v. Augillard, No. 25-30192 (5th Cir. Aug. 18, 2026)"
+   ]
+  },
+  {
+   "position": "No actual-case showing needed: when the state statute on its face reaches conduct beyond the federal definition, the statute's text itself makes the conviction broader and disqualifies it",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "4th"
+   ],
+   "cases": [
+    "Swaby v. Yates, 847 F.3d 62 (1st Cir. 2017)",
+    "Hylton v. Sessions, 897 F.3d 57 (2d Cir. 2018)",
+    "Salmoran v. Att'y Gen., 909 F.3d 73 (3d Cir. 2018)",
+    "Gordon v. Barr, 965 F.3d 252 (4th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "adheres to the actual-case requirement (rejects the facial-mismatch rule)",
+ "source": "concurrence",
+ "confidence": 0.8,
+ "quote": "Our \u201cactual case\u201d requirement not only places us on the short side of a 10-1 circuit split, but, more importantly, puts our circuit\u2019s precedent in tension with the Supreme Court\u2019s.",
+ "cluster_id": 10953225,
+ "cite": "United States v. Augillard, No. 25-30192 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-08-18",
+ "url": "https://www.courtlistener.com/opinion/10953225/united-states-v-augillard/",
+ "usage": {
+  "in": 2979,
+  "out": 2760
+ }
+}

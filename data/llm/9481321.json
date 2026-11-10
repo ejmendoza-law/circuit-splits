@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the federal ban on firearm possession by convicted felons, 18 U.S.C. \u00a7 922(g)(1), violate the Second Amendment, at least as applied to a person with a nonviolent prior conviction, after New York State Rifle & Pistol Ass'n v. Bruen?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Section 922(g)(1) and felon-in-possession convictions do not violate the Second Amendment, because Congress acted within the historical tradition in enacting the felon prohibition.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Jackson, 69 F.4th 495 (8th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Section 922(g)(1) is unconstitutional as applied to a prospective gun owner whose only prior conviction was a state conviction for making a false statement to obtain federal food stamps.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "Range v. Att'y Gen., 69 F.4th 96 (3d Cir. 2023) (en banc)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "A circuit split exists regarding the constitutionality of felon-in-possession convictions.",
+ "cluster_id": 9481321,
+ "cite": "United States v. Marlon Johnson, 95 F.4th 404 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-03-05",
+ "url": "https://www.courtlistener.com/opinion/9481321/united-states-v-marlon-johnson/",
+ "usage": {
+  "in": 1491,
+  "out": 1433
+ }
+}

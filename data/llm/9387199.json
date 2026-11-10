@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Supervised release & probation",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "For one, Douglas assumed that the district court erred when it referred to \u201cthe need to punish\u201d the defendant but concluded that any error was not plain in light of a circuit split and no binding Tenth Circuit authority.",
+ "cluster_id": 9387199,
+ "cite": "United States v. Booker, 63 F.4th 1254 (10th Cir. 2023)",
+ "court": "10th",
+ "date": "2023-03-28",
+ "url": "https://www.courtlistener.com/opinion/9387199/united-states-v-booker/",
+ "usage": {
+  "in": 1313,
+  "out": 700
+ }
+}

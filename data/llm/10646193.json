@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "Badgerow resolved a circuit split on an issue on which we had never taken a position.",
+ "cluster_id": 10646193,
+ "cite": "Waetzig v. Halliburton Energy Services, No. 22-1252 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-08-01",
+ "url": "https://www.courtlistener.com/opinion/10646193/waetzig-v-halliburton-energy-services/",
+ "usage": {
+  "in": 1377,
+  "out": 646
+ }
+}

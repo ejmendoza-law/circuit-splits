@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a district court grant an open-ended continuance under the Speedy Trial Act's ends-of-justice provision, and if so, what limits apply (such as a reasonable length or periodic reevaluation)?",
+ "provision": "18 U.S.C. \u00a7 3161(h)(7)(A)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Open-ended ends-of-justice continuances are not prohibited, provided they are reasonable in length, and a continuance of any substantial length must be adequately justified by the circumstances.",
+   "circuits": [
+    "1st",
+    "3d",
+    "5th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Rush, 738 F.2d 497 (1st Cir. 1984)",
+    "United States v. Lattany, 982 F.2d 866 (3d Cir. 1992)",
+    "United States v. Jones, 56 F.3d 581 (5th Cir. 1995)",
+    "United States v. Spring, 80 F.3d 1450 (10th Cir. 1996)",
+    "United States v. Harris-Franklin, No. 24-2451 (8th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "An open-ended continuance is permissible only if it is effectively limited in time, for example because the district court periodically reevaluates it; a continuance not reevaluated during the period, with no case progress, does not satisfy the Act.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Harris-Franklin, No. 24-2451 (8th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The Eighth Circuit takes the restrictive position: an open-ended continuance must be effectively limited, such as by regular reevaluation, and the continuance here was not, so the Speedy Trial Act was violated.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "Our sister \u201ccircuits have split over whether a district court may grant an openended continuance under \u00a7 3161(h)([7])(A).\u201d",
+ "cluster_id": 10640350,
+ "cite": "United States v. Markhel Harris-Franklin, No. 24-2451 (8th Cir. 2025)",
+ "court": "8th",
+ "date": "2025-07-24",
+ "url": "https://www.courtlistener.com/opinion/10640350/united-states-v-markhel-harris-franklin/",
+ "usage": {
+  "in": 1317,
+  "out": 2261
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "U.S.S.G. supp. to app. C, amend. 693 (2006), which amended Note 1 to \u00a7 3C1.1 to adopt the majority view that pre-investigative obstructive conduct may be covered if purposefully calculated, and likely, to thwart the investigation or prosecution of the offense of conviction",
+ "issue": "Can obstructive conduct that occurred before the investigation of the offense of conviction began support a U.S.S.G. \u00a7 3C1.1 obstruction-of-justice enhancement?",
+ "provision": "U.S.S.G. \u00a7 3C1.1 cmt. n.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The Sentencing Commission added this language to Note 1 in 2006 to \u201caddress[] a circuit conflict regarding the issue of whether pre-investigative conduct can form the basis of an adjustment under \u00a73C1.1.\u201d",
+ "cluster_id": 10637710,
+ "cite": "United States v. Kay, No. 24-4018 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-07-21",
+ "url": "https://www.courtlistener.com/opinion/10637710/united-states-v-kay/",
+ "usage": {
+  "in": 1312,
+  "out": 1265
+ }
+}

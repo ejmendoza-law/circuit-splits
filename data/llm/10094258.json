@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The government highlights nothing demonstrating that laws designed to confine (and consequently, disarm) those so severely mentally ill that they presented a danger to themselves and others map onto \u00a7 922(g)(3)\u2019s rationale.",
+ "cluster_id": 10094258,
+ "cite": "United States v. Connelly, 117 F.4th 269 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-08-28",
+ "url": "https://www.courtlistener.com/opinion/10094258/united-states-v-connelly/",
+ "usage": {
+  "in": 1313,
+  "out": 831
+ }
+}

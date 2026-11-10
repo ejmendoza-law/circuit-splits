@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a state-law controlled substance offense serve as a predicate under U.S.S.G. \u00a7 2K2.1(a)(4)(A) when the state's definition of a controlled substance is broader than the federal Controlled Substances Act's?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(a)(4)(A)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Courts may consider state-law controlled substance offenses under \u00a7 2K2.1(a)(4)(A) even if the state defines a controlled substance differently from the federal CSA, based on the Guidelines' textual inclusion of state-law offenses.",
+   "circuits": [
+    "3d",
+    "4th",
+    "6th",
+    "7th",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Jones, 81 F.4th 591 (6th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "A state-law controlled substance offense must be measured against the federal definition of a controlled substance (federal-law-only approach), which the opinion says Jones advanced for uniformity. The excerpts do not identify which circuits hold this position.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "Sixth Circuit takes the side that courts may consider state-law controlled substance offenses under \u00a7 2K2.1(a)(4)(A), rejecting the federal-law-only approach.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Today, we take one side of a circuit split. Using a textual analysis, the Third, Fourth, Seventh, Eighth, and Tenth Circuits have held that courts may consider state-law controlled substance offenses under \u00a7 2K2.1(a)(4)(A).",
+ "cluster_id": 9423166,
+ "cite": "United States v. T'Shaun Omar Jones, 81 F.4th 591 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-08-29",
+ "url": "https://www.courtlistener.com/opinion/9423166/united-states-v-tshaun-omar-jones/",
+ "usage": {
+  "in": 1315,
+  "out": 2093
+ }
+}

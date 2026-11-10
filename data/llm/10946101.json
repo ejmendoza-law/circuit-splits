@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "U.S.S.G. amendment 822 (2023), which moved the inchoate-offense language from the commentary into the text of \u00a7 4B1.2(d) and, per the opinion, addressed the circuit conflict",
+ "issue": "Whether courts may treat the Guidelines application notes defining 'crime of violence' to include inchoate offenses like conspiracy after Kisor v. Wilkie",
+ "provision": "U.S.S.G. \u00a7 4B1.2",
+ "topic": "Sentencing & Guidelines",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The Commission explained that the move responded to a circuit split about the authoritative weight of \u00a7 4B1.2\u2019s application notes.",
+ "cluster_id": 10946101,
+ "cite": "United States v. Christopher Lloyd, No. 25-1967 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-08-12",
+ "url": "https://www.courtlistener.com/opinion/10946101/united-states-v-christopher-lloyd/",
+ "usage": {
+  "in": 1948,
+  "out": 1298
+ }
+}

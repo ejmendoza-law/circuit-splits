@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a court apply the rule of lenity before deferring to an agency's interpretation of an ambiguous criminal-law provision, such as a Sentencing Guidelines enhancement?",
+ "provision": "U.S.S.G. \u00a7 2B3.1(b)(2)(D)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Lenity trumps agency deference: a court must resolve genuine ambiguity in a criminal text in the defendant's favor before reaching deference (the Sixth Circuit position is reflected only in a concurrence).",
+   "circuits": [
+    "4th",
+    "5th",
+    "6th",
+    "11th"
+   ],
+   "cases": [
+    "Cargill v. Garland, 57 F.4th 447 (5th Cir. 2023) (en banc)",
+    "United States v. Campbell, 22 F.4th 438 (4th Cir. 2022)",
+    "United States v. Phifer, 909 F.3d 372 (11th Cir. 2018)",
+    "Carter v. Welles-Bowen Realty, Inc., 736 F.3d 722 (6th Cir. 2013) (Sutton, C.J., concurring)"
+   ]
+  },
+  {
+   "position": "Agency deference controls even where a criminal provision is ambiguous; the court defers to an anti-defendant reading of the Guidelines enhancement without first applying lenity.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. James Chandler, 114 F.4th 240 (3d Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Panel majority (in this case) took the deference side, holding agency deference trumps lenity. This opinion, which is a dissent, would side with lenity and says the panel holding 'put us on the wrong side of a circuit split.' The opinion also notes that Loper Bright overruled Chevron, but it does not address whether lenity yields to Kisor deference, so the conflict as framed here appears unresolved.",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "That holding put us on the wrong side of a circuit split.",
+ "cluster_id": 10049043,
+ "cite": "United States v. James Chandler, 114 F.4th 240 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-08-22",
+ "url": "https://www.courtlistener.com/opinion/10049043/united-states-v-james-chandler/",
+ "usage": {
+  "in": 1314,
+  "out": 2693
+ }
+}

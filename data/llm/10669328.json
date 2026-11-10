@@ -1,0 +1,53 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Rivers v. Guerrero, 605 U.S. 443 (2025), in which the Supreme Court granted certiorari to resolve the split and decided whether a second-in-time habeas filing made while an appeal from the denial of the first petition is pending is second or successive under \u00a7 2244(b).",
+ "issue": "Is a second-in-time habeas filing made while an appeal from the denial of the prisoner's first habeas petition is still pending a second or successive petition subject to \u00a7 2244(b)'s gatekeeping requirements, or may it be treated as an amendment to the first petition?",
+ "provision": "28 U.S.C. \u00a7 2244(b)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A second-in-time filing made while an appeal from the denial of the first habeas petition is pending is a second or successive petition subject to \u00a7 2244(b) (the Fifth Circuit's position in Rivers, which the Supreme Court took up).",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "Rivers v. Guerrero (5th Cir.), aff'd, 605 U.S. 443 (2025)",
+    "United States v. Taylor, No. 20-11238 (11th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "The excerpts describe the other side of the split as a group of courts that characterized such a filing differently from the Fifth Circuit. The excerpts do not state each circuit's specific holding, so the grouping below follows the opinion's citation of the cases on each side of the comparison.",
+   "circuits": [
+    "2d",
+    "3d",
+    "7th",
+    "8th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "Whab v. United States, 408 F.3d 116 (2d Cir. 2005)",
+    "United States v. Santarelli, 929 F.3d 95 (3d Cir. 2019)",
+    "Balbuena v. Sullivan, 980 F.3d 619 (9th Cir. 2020)",
+    "Phillips v. United States, 668 F.3d 433 (7th Cir. 2012)",
+    "Ochoa v. Sirmons, 485 F.3d 538 (10th Cir. 2007)",
+    "Williams v. Norris, 461 F.3d 999 (8th Cir. 2006)",
+    "United States v. Taylor, No. 20-11238 (11th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "does not decide (the court applies Rivers v. Guerrero and treats the split as resolved; the excerpts do not state its own holding on the question)",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Previously, there was a circuit split regarding how to characterize a prisoner\u2019s second-in-time habeas filing for purposes of 28 U.S.C. \u00a7 2244(b) when it is filed while the prisoner\u2019s appeal of the judgment of his first habeas filing is pending.",
+ "cluster_id": 10669328,
+ "cite": "United States v. Ephren Taylor, II, No. 20-11238 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-09-10",
+ "url": "https://www.courtlistener.com/opinion/10669328/united-states-v-ephren-taylor-ii/",
+ "usage": {
+  "in": 1871,
+  "out": 3210
+ }
+}

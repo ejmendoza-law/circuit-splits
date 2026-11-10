@@ -1,0 +1,59 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 8 U.S.C. \u00a7 1225(b)(2)(A) mandatorily detain noncitizens who entered without inspection and have lived in the United States for years, or does \u00a7 1226 govern them and entitle them to a bond hearing?",
+ "provision": "8 U.S.C. \u00a7 1225(b)(2)(A); 8 U.S.C. \u00a7 1226",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Section 1226 applies to noncitizens present in the United States for years regardless of how they entered, so they are entitled to a bond hearing and are not subject to mandatory detention under Section 1225.",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "4th",
+    "6th",
+    "7th",
+    "9th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "Guerrero Orellana v. Moniz, --- F.4th --- (1st Cir. Aug. 13, 2026)",
+    "Barbosa da Cunha v. Freden, 175 F.4th 61 (2d Cir. 2026)",
+    "Buele Morocho v. Warden Philadelphia FDC, --- F.4th --- (3d Cir. Aug. 28, 2026)",
+    "Juan Rivera v. Robert Guadian, No. 25-7050 (4th Cir. 2026)",
+    "Lopez-Campos v. Raycraft, 175 F.4th 713 (6th Cir. 2026)",
+    "Cirrus Rojas v. Olson, 183 F.4th 909 (7th Cir. 2026)",
+    "Rodriguez Vazquez v. Bostock, 183 F.4th 1160 (9th Cir. 2026)",
+    "Santillan Quiroz v. Mullin, 180 F.4th 1226 (10th Cir. 2026)",
+    "Hernandez Alvarez v. Warden, Fed. Det. Ctr. Miami, 175 F.4th 1258 (11th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Section 1225 applies to all noncitizens who have not been admitted to the United States, so they must be detained without bond.",
+   "circuits": [
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "Buenrostro-Mendez v. Bondi, 166 F.4th 494 (5th Cir. 2026)",
+    "Avila v. Bondi, 170 F.4th 1128 (8th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Section 1226 applies to these petitioners, so they are entitled to a bond hearing (the Fourth Circuit joins the majority position).",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The debate has now reached every numbered United States court of appeals and has led to a circuit split.",
+ "cluster_id": 10972092,
+ "cite": "Juan Rivera v. Robert Guadian, No. 25-7050 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-09-10",
+ "url": "https://www.courtlistener.com/opinion/10972092/juan-rivera-v-robert-guadian/",
+ "usage": {
+  "in": 2887,
+  "out": 1939
+ }
+}

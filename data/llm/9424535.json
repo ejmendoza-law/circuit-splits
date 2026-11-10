@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the joint participant exception to the spousal testimonial privilege survive Trammel v. United States, or should a spouse who is a co-participant in the charged crime be compellable to testify against the defendant-spouse?",
+ "provision": "Trammel v. United States, 445 U.S. 40 (1980); Fed. R. Evid. 501",
+ "topic": "Evidence",
+ "sides": [
+  {
+   "position": "The joint participant exception does not survive Trammel; a spouse who participated in the crime may be compelled to testify.",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "9th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Pineda-Mateo, 905 F.3d 13 (1st Cir. 2018)",
+    "In re Grand Jury Subpoena, 755 F.2d 1022 (2d Cir. 1985)",
+    "In re Grand Jury, 633 F.2d 276 (3d Cir. 1980)",
+    "United States v. Ramos-Oseguera, 120 F.3d 1028 (9th Cir. 1997)",
+    "United States v. Diggs, 81 F.4th 755 (7th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "The joint participant exception to the spousal testimonial privilege remains good law in this circuit.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Van Drunen, 501 F.2d 1393 (7th Cir. 1974)"
+   ]
+  }
+ ],
+ "this_court": "The excerpts come from a separate writing that urges abandoning the joint participant exception and says the court is isolated; the excerpts do not show the majority's holding, so this court's formal position is not established.",
+ "source": "concurrence",
+ "confidence": 0.7,
+ "quote": "That leaves our court isolated on the short end of a lopsided circuit split.",
+ "cluster_id": 9424535,
+ "cite": "United States v. Tobias Diggs, 81 F.4th 755 (7th Cir. 2023)",
+ "court": "7th",
+ "date": "2023-09-05",
+ "url": "https://www.courtlistener.com/opinion/9424535/united-states-v-tobias-diggs/",
+ "usage": {
+  "in": 1314,
+  "out": 2413
+ }
+}

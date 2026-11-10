@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Sentencing Commission Amendment 822 (effective Nov. 1, 2023), which struck the inchoate-offense language from Application Note 1 and added USSG \u00a7 4B1.2(d) to the Guideline text, expressly responding to the circuit conflict",
+ "issue": "Does a prior conviction for an attempt or conspiracy to commit a controlled substance offense count as a 'controlled substance offense' under USSG \u00a7 4B1.2(b) for career offender purposes, given that Application Note 1 is not entitled to Stinson deference after Kisor?",
+ "provision": "USSG \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Inchoate offenses (attempt, conspiracy) are included in the controlled substance offense definition under \u00a7 4B1.2(b), following Application Note 1 and binding Eighth Circuit precedent (Merritt; Mendoza-Figueroa)",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Mendoza-Figueroa (8th Cir.)",
+    "United States v. Merritt (8th Cir.)",
+    "United States v. Cupples, 105 F.4th 1096 (8th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Application Note 1's inclusion of inchoate offenses is not entitled to deference after Kisor v. Wilkie, so inchoate offenses are not included in the plain language of \u00a7 4B1.2(b)",
+   "circuits": [],
+   "cases": [
+    "Kisor v. Wilkie, 588 U.S. 558 (2019)"
+   ]
+  }
+ ],
+ "this_court": "does not decide. The panel affirmed under binding Eighth Circuit precedent (Merritt; Mendoza-Figueroa) and did not reach the merits of the conflict, noting the Commission's later amendment",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We recently considered these conflicting circuit authorities but concluded our panels are still bound by Mendoz-Figueroa \u201cuntil it is overruled by the Court sitting en banc.\u201d",
+ "cluster_id": 9947211,
+ "cite": "United States v. Scott Cupples, 105 F.4th 1096 (8th Cir. 2024)",
+ "court": "8th",
+ "date": "2024-06-27",
+ "url": "https://www.courtlistener.com/opinion/9947211/united-states-v-scott-cupples/",
+ "usage": {
+  "in": 1121,
+  "out": 2020
+ }
+}

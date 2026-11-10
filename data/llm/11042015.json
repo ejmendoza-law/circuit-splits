@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court resolved the split in County of Riverside v. McLaughlin, 500 U.S. 44 (1991), holding that a judicial probable cause determination within 48 hours of arrest will generally satisfy Gerstein's promptness requirement.",
+ "issue": "How promptly after a warrantless arrest must a judicial officer make a probable cause determination to satisfy the Fourth Amendment under Gerstein?",
+ "provision": "Gerstein v. Pugh, 420 U.S. 103 (1975); County of Riverside v. McLaughlin, 500 U.S. 44 (1991)",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.75,
+ "quote": "The Court therefore granted certiorari to resolve a circuit split \u201cas to what constitutes a \u2018prompt\u2019 probable cause determination under Gerstein.\u201d Id. at 50.",
+ "cluster_id": 11042015,
+ "cite": "Abedi v. Carter, No. 25-3179 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-10-21",
+ "url": "https://www.courtlistener.com/opinion/11042015/abedi-v-carter/",
+ "usage": {
+  "in": 1310,
+  "out": 1048
+ }
+}

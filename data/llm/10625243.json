@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "For a Schlup actual-innocence gateway claim, does 'new' evidence mean only evidence that was newly discovered after trial, or any evidence not presented to the fact-finder at trial, including evidence that was available but excluded or not offered?",
+ "provision": "28 U.S.C. \u00a7 2254; Schlup v. Delo, 513 U.S. 298 (1995) (actual-innocence gateway)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "'New' evidence under Schlup includes evidence that is newly presented, not only evidence newly discovered after trial. The Schlup standard is broad, covering both evidence that became available only after trial and evidence that was unavailable or excluded at trial.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "Royal v. Taylor, 188 F.3d 239 (4th Cir. 1999)",
+    "Wolfe v. Dotson, No. 24-6840 (4th Cir. July 7, 2025)"
+   ]
+  },
+  {
+   "position": "'New' evidence under Schlup is limited to evidence that was newly discovered and not available at the time of trial. The excerpt does not state this side's holding; it cites Cleveland only as discussing the circuit split on this question.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Cleveland v. Bradshaw, 693 F.3d 626 (6th Cir. 2012)"
+   ]
+  }
+ ],
+ "this_court": "The Fourth Circuit holds that 'new' evidence includes newly presented evidence and joins its sister circuits on that side.",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "The heart of their dispute is \"whether the 'new' evidence required under Schlup includes only newly discovered evidence that was not available at the time of trial, or broadly encompasses all evidence that was not presented to the fact-finder during trial, i.e., newly presented evidence.\"",
+ "cluster_id": 10625243,
+ "cite": "Justin Wolfe v. Chadwick Dotson, No. 24-6840 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-07-07",
+ "url": "https://www.courtlistener.com/opinion/10625243/justin-wolfe-v-chadwick-dotson/",
+ "usage": {
+  "in": 1314,
+  "out": 2193
+ }
+}

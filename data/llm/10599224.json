@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a plea agreement's appeal waiver covering any sentence imposed bar a claim that the written judgment conflicts with the oral sentence?",
+ "provision": "",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "A challenge to a conflict between the written judgment and the oral sentence falls within a waiver of the right to appeal 'any sentence imposed,' because both pronouncements qualify as the sentence.",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Higgins, 739 F.3d 733 (5th Cir. 2014)"
+   ]
+  },
+  {
+   "position": "A challenge to a conflict between the written judgment and the oral sentence does not fall within a waiver of the right to appeal 'any sentence imposed.'",
+   "circuits": [
+    "4th",
+    "7th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Singletary, 984 F.3d 341 (4th Cir. 2021)",
+    "United States v. Harris, 51 F.4th 705 (7th Cir. 2022)",
+    "United States v. Shaw, 139 F.4th 548 (6th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The majority agrees with the Fourth and Seventh Circuits that such a challenge is not barred by the waiver, and it rejects the claim on the merits.",
+ "source": "concurrence",
+ "confidence": 0.8,
+ "quote": "Yet the Fourth and Seventh Circuits have since disagreed.",
+ "cluster_id": 10599224,
+ "cite": "United States v. Tracey Shaw, 139 F.4th 548 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-06-05",
+ "url": "https://www.courtlistener.com/opinion/10599224/united-states-v-tracey-shaw/",
+ "usage": {
+  "in": 1456,
+  "out": 1865
+ }
+}

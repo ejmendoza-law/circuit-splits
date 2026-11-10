@@ -1,0 +1,46 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a semiautomatic firearm fitted with a bump stock a \"machinegun\" under the National Firearms Act's definition, so that the Bureau's rule banning bump stocks is lawful?",
+ "provision": "26 U.S.C. \u00a7 5845(b)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "A firearm fitted with a bump stock is not a machinegun, so the Act does not let the Bureau ban bump stocks.",
+   "circuits": [
+    "5th",
+    "6th"
+   ],
+   "cases": [
+    "Cargill v. Garland, 57 F.4th 447 (5th Cir. 2023) (en banc)",
+    "Hardin v. Bureau of Alcohol, Tobacco, Firearms and Explosives, 2023 WL 3065807 (6th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "A firearm fitted with a bump stock is a machinegun, so the Bureau's rule banning bump stocks is a valid reading of the Act.",
+   "circuits": [
+    "10th",
+    "D.C."
+   ],
+   "cases": [
+    "Aposhian v. Barr, 958 F.3d 969 (10th Cir. 2020)",
+    "Guedes v. ATF, 45 F.4th 310 (D.C. Cir. 2022) (Guedes II)",
+    "Guedes v. ATF, No. 21-5045 (D.C. Cir. 2023) (order denying reh'g en banc)"
+   ]
+  }
+ ],
+ "this_court": "upholds the Bureau's rule: bump-stocked firearms are machineguns (Guedes II)",
+ "source": "dissent",
+ "confidence": 0.6,
+ "quote": "Here, circuits are split on the best reading of the National Firearms Act\u2019s definition of \u201cmachinegun.\u201d",
+ "cluster_id": 9396024,
+ "cite": "Damien Guedes v. ATF (ORDER IN SLIP OPINION FORMAT), No. 21-5045 (D.C. Cir. 2023)",
+ "court": "D.C.",
+ "date": "2023-05-02",
+ "url": "https://www.courtlistener.com/opinion/9396024/damien-guedes-v-atf-order-in-slip-opinion-format/",
+ "usage": {
+  "in": 1511,
+  "out": 3182
+ }
+}

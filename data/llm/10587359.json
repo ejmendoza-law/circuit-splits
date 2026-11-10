@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "Whatever difference exists in this context is not a \u201ccompelling reason\u201d to create a circuit split, Padilla-Ramirez v. Bible, 882 F.3d 826, 836 (9th Cir. 2017), given the Third Circuit\u2019s decision to review the hardship determination for substantial evidence, Wilkinson, 131 F.4th at 140.",
+ "cluster_id": 10587359,
+ "cite": "Gonzalez-Juarez v. Bondi, 137 F.4th 996 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-05-20",
+ "url": "https://www.courtlistener.com/opinion/10587359/gonzalez-juarez-v-bondi/",
+ "usage": {
+  "in": 1315,
+  "out": 619
+ }
+}

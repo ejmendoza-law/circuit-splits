@@ -1,0 +1,58 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a 28 U.S.C. \u00a7 2255 proceeding, is a district court's ruling on a motion to amend a pleading under Rule 15(c)'s relation-back provision reviewed for abuse of discretion or de novo?",
+ "provision": "Fed. R. Civ. P. 15(c); 28 U.S.C. \u00a7 2255",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Relation-back rulings under Rule 15(c) in \u00a7 2255 proceedings are reviewed for abuse of discretion.",
+   "circuits": [
+    "1st",
+    "4th",
+    "7th",
+    "8th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Ciampi, 419 F.3d 20, 23 (1st Cir. 2005)",
+    "United States v. Pittman, 209 F.3d 314, 316 (4th Cir. 2000)",
+    "Frederick Coleman v. United States, 79 F.4th 822 (7th Cir. 2023)",
+    "Mandacina v. United States, 328 F.3d 995, 1000 (8th Cir. 2003)",
+    "Davenport v. United States, 217 F.3d 1341, 1343 n.4 (11th Cir. 2000)"
+   ]
+  },
+  {
+   "position": "Relation-back rulings under Rule 15(c) in \u00a7 2255 proceedings are reviewed de novo.",
+   "circuits": [
+    "2d",
+    "3d",
+    "6th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "Slayton v. Am. Exp. Co., 460 F.3d 215, 227\u201328 (2d Cir. 2006)",
+    "United States v. Santarelli, 929 F.3d 95, 100 (3d Cir. 2019)",
+    "Durand v. Hanover Ins. Grp., Inc., 806 F.3d 367, 374 (6th Cir. 2015)",
+    "United States v. Marulanda, 226 F. App'x 709, 710 (9th Cir. 2007)",
+    "United States v. Roe, 913 F.3d 1285, 1298 (10th Cir. 2019)",
+    "Anza Tech., Inc. v. Mushkin, Inc., 934 F.3d 1359, 1367 (Fed. Cir. 2019)"
+   ]
+  }
+ ],
+ "this_court": "abuse of discretion",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We also observe a split of authority in our sister circuits on this question.",
+ "cluster_id": 9420370,
+ "cite": "Frederick Coleman v. United States, 79 F.4th 822 (7th Cir. 2023)",
+ "court": "7th",
+ "date": "2023-08-15",
+ "url": "https://www.courtlistener.com/opinion/9420370/frederick-coleman-v-united-states/",
+ "usage": {
+  "in": 1322,
+  "out": 1894
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Supreme Court resolved the split in Rutherford, 146 S. Ct. 1330, holding that a nonretroactive change in sentencing law is not an extraordinary and compelling reason for compassionate release, which the Eighth Circuit applied here.",
+ "issue": "Can a nonretroactive change in sentencing law, such as a longer sentence that would no longer be imposed, count as an extraordinary and compelling reason for compassionate release under USSG \u00a7 1B1.13(b)(6)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A); USSG \u00a7 1B1.13(b)(6)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A nonretroactive change in sentencing law is not an extraordinary and compelling reason for compassionate release, so \u00a7 1B1.13(b)(6) cannot override circuit precedent holding otherwise.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Crandall (8th Cir.)",
+    "United States v. Loggins, Nos. 24-1488, 24-1569 (8th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Does not take a split position; it follows Rutherford and holds that the Defendants' arguments are foreclosed, consistent with its Crandall precedent.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "A circuit split developed over this issue.",
+ "cluster_id": 10925485,
+ "cite": "United States v. Isaac Loggins, Jr., No. 24-1488, 24-1569 (8th Cir. 2026)",
+ "court": "8th",
+ "date": "2026-07-10",
+ "url": "https://www.courtlistener.com/opinion/10925485/united-states-v-isaac-loggins-jr/",
+ "usage": {
+  "in": 1455,
+  "out": 1984
+ }
+}

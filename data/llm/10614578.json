@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Amendment to Fed. R. Evid. 106 effective December 1, 2023, which codified that the rule operates over a hearsay objection, consistent with the Fifth Circuit's earlier decision in United States v. Portillo, 969 F.3d 144 (5th Cir. 2020).",
+ "issue": "Does the rule of completeness in Federal Rule of Evidence 106 apply regardless of other rules of evidence, such as the rule against hearsay?",
+ "provision": "Fed. R. Evid. 106",
+ "topic": "Evidence",
+ "sides": [],
+ "this_court": "Rule 106 operates independently of the rule against hearsay, following United States v. Portillo, 969 F.3d 144, 176 (5th Cir. 2020).",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "At the time of trial, there was a circuit split as to whether Rule 106 applied regardless of other rules of evidence, such as the rule against hearsay.",
+ "cluster_id": 10614578,
+ "cite": "United States v. Carpenter, 140 F.4th 733 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-06-20",
+ "url": "https://www.courtlistener.com/opinion/10614578/united-states-v-carpenter/",
+ "usage": {
+  "in": 1434,
+  "out": 1233
+ }
+}

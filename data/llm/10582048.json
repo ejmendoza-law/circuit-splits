@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Do noncitizens who are unlawfully present in the United States possess a Second Amendment right to bear arms?",
+ "provision": "U.S. Const. amend. II",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Unlawfully present noncitizens do not possess Second Amendment rights",
+   "circuits": [
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Sitladeen, 64 F.4th 978 (8th Cir. 2023)",
+    "United States v. Portillo-Munoz, 643 F.3d 437 (5th Cir. 2011)"
+   ]
+  },
+  {
+   "position": "Unlawfully present noncitizens possess Second Amendment rights",
+   "circuits": [
+    "4th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Meza-Rodriguez, 798 F.3d 664 (7th Cir. 2015)",
+    "United States v. Carpio-Leon, 701 F.3d 974 (4th Cir. 2012)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Even if he were correct about the scope of the right, whether noncitizens possess a right to bear arms is an unanswered question currently dividing the circuits.",
+ "cluster_id": 10582048,
+ "cite": "United States v. Barragan-Gutierrez, 136 F.4th 998 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-05-12",
+ "url": "https://www.courtlistener.com/opinion/10582048/united-states-v-barragan-gutierrez/",
+ "usage": {
+  "in": 1316,
+  "out": 1558
+ }
+}

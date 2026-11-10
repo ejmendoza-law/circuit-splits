@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9390453,
+ "cite": "Leonard Baugh v. United States, 64 F.4th 779 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-04-10",
+ "url": "https://www.courtlistener.com/opinion/9390453/leonard-baugh-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

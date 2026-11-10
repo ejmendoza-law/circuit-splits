@@ -1,0 +1,60 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court, Jones v. Hendrix, 143 S. Ct. 1857 (2023), which held that \u00a7 2255(h) does not make \u00a7 2255 inadequate or ineffective for a claim based on an intervening change in statutory interpretation",
+ "issue": "Can a federal prisoner use the saving clause of \u00a7 2255(e) to bring a \u00a7 2241 petition based on a post-conviction change in statutory interpretation that may mean the conduct of conviction is no longer criminal?",
+ "provision": "28 U.S.C. \u00a7 2255(e)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The saving clause permits a \u00a7 2241 petition when a change in statutory interpretation raises the potential that the prisoner was convicted of conduct the law does not make criminal (the In re Dorsainvil exception).",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "4th",
+    "5th",
+    "6th",
+    "7th",
+    "8th",
+    "9th",
+    "D.C."
+   ],
+   "cases": [
+    "In re Dorsainvil, 119 F.3d 245 (3d Cir. 1997)",
+    "Trenkler v. United States, 536 F.3d 85 (1st Cir. 2008)",
+    "Poindexter v. Nash, 333 F.3d 372 (2d Cir. 2003)",
+    "In re Jones, 226 F.3d 328 (4th Cir. 2000)",
+    "Reyes-Requena v. United States, 243 F.3d 893 (5th Cir. 2001)",
+    "Wooten v. Cauley, 677 F.3d 303 (6th Cir. 2012)",
+    "Brown v. Caraway, 719 F.3d 583 (7th Cir. 2013)",
+    "Abdullah v. Hedrick, 392 F.3d 957 (8th Cir. 2004)",
+    "Marrero v. Ives, 682 F.3d 1190 (9th Cir. 2012)",
+    "In re Smith, 285 F.3d 6 (D.C. Cir. 2002)"
+   ]
+  },
+  {
+   "position": "Section 2255(h)'s limits on second or successive motions mean that \u00a7 2255 is not inadequate or ineffective, so a prisoner cannot use \u00a7 2241 to raise a post-conviction change in statutory interpretation; the Dorsainvil exception is abrogated.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "Jones v. Hendrix, 143 S. Ct. 1857 (2023)",
+    "Steven Voneida v. John Johnson, 88 F.4th 233 (3d Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "Follows Jones: the saving clause does not permit a \u00a7 2241 challenge based on an intervening change in statutory interpretation, and Dorsainvil is abrogated",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The Jones decision resolved the circuit split.",
+ "cluster_id": 9450237,
+ "cite": "Steven Voneida v. John Johnson, 88 F.4th 233 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-12-07",
+ "url": "https://www.courtlistener.com/opinion/9450237/steven-voneida-v-john-johnson/",
+ "usage": {
+  "in": 1313,
+  "out": 2421
+ }
+}

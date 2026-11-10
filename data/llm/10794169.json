@@ -1,0 +1,41 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the pre-2001 derivative citizenship statute, can a child whose father's paternity was established under Salvadoran law after the child's mother naturalized be treated as having paternity established by legitimation under 8 U.S.C. \u00a7 1432(a)(3)?",
+ "provision": "8 U.S.C. \u00a7 1432(a)(3) (1952)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Changes to Salvadoran law that abolished legal distinctions between children of married and unmarried parents did not establish paternity by legitimation under the federal statute, so the petitioner does not derive citizenship.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "Lainez v. Bondi, 141 F.4th 393 (2d Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Paternity established under Salvadoran law after the mother's naturalization is not dispositive; the question is whether paternity was established by legitimation under the governing federal statute, so the government's contrary argument is rejected.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "Lopez v. Bondi, No. 24-1208 (4th Cir. Feb. 13, 2026)"
+   ]
+  }
+ ],
+ "this_court": "Rejects the government's argument, expressly declining to adopt the Second Circuit's contrary holding in Lainez because doing so would create a circuit split.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "In contrast, we could not agree with the government's position without creating a circuit split.",
+ "cluster_id": 10794169,
+ "cite": "Mario Lopez v. Pamela Bondi, No. 24-1208 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-02-13",
+ "url": "https://www.courtlistener.com/opinion/10794169/mario-lopez-v-pamela-bondi/",
+ "usage": {
+  "in": 1316,
+  "out": 1310
+ }
+}

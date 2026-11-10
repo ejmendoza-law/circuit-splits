@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10283810,
+ "cite": "United States v. Davis, 122 F.4th 71 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-11-26",
+ "url": "https://www.courtlistener.com/opinion/10283810/united-states-v-davis/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

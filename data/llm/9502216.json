@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does First Step Act \u00a7 403(a) apply at resentencing after vacatur of an original sentence, where the Act was enacted after the original sentencing but before resentencing?",
+ "provision": "First Step Act of 2018, \u00a7 403(a); 18 U.S.C. \u00a7 924(c)(1)(C)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "First Step Act \u00a7 403(a) applies at resentencing following vacatur where the Act was enacted after the original sentencing but before resentencing (position as described in Eldridge n.17 as one side of a noted circuit split; the excerpts do not state the holding)",
+   "circuits": [],
+   "cases": [
+    "United States v. Eldridge, 2 F.4th 27 (2d Cir. 2021)",
+    "United States v. Barrett, 102 F.4th 60 (2d Cir. 2024)"
+   ]
+  },
+  {
+   "position": "First Step Act \u00a7 403(a) does not apply at such resentencing (the opposing side of the split as referenced in Eldridge n.17; the excerpts do not state the holding)",
+   "circuits": [],
+   "cases": [
+    "United States v. Eldridge, 2 F.4th 27 (2d Cir. 2021)",
+    "United States v. Barrett, 102 F.4th 60 (2d Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "we do not address that question on which this court has yet to rule conclusively, see United States v. Eldridge, 2 F.4th 27, 41 n.17 (2d Cir. 2021)",
+ "cluster_id": 9502216,
+ "cite": "United States v. Barrett, 102 F.4th 60 (2d Cir. 2024)",
+ "court": "2d",
+ "date": "2024-05-15",
+ "url": "https://www.courtlistener.com/opinion/9502216/united-states-v-barrett/",
+ "usage": {
+  "in": 1312,
+  "out": 2263
+ }
+}

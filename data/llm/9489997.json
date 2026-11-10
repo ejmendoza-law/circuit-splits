@@ -1,0 +1,62 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission amended U.S.S.G. \u00a7 4B1.2 effective November 1, 2023, moving Application Note 1's inclusion of inchoate offenses into the guideline text, which the opinion says addresses the circuit split.",
+ "issue": "Does Application Note 1 to U.S.S.G. \u00a7 4B1.2 validly extend the career-offender definition of 'controlled substance offense' to inchoate offenses such as conspiracy and attempt, given that the guideline's text does not mention them?",
+ "provision": "U.S.S.G. \u00a7 4B1.2 cmt. n.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Application Note 1 impermissibly expands the \u00a7 4B1.2 definition of 'controlled substance offense' to include inchoate offenses, so it is not entitled to deference under Stinson.",
+   "circuits": [
+    "3d",
+    "4th",
+    "6th",
+    "9th",
+    "11th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Castillo, 69 F.4th 648 (9th Cir. 2023)",
+    "United States v. Dupree, 57 F.4th 1269 (11th Cir. 2023) (en banc)",
+    "United States v. Campbell, 22 F.4th 438 (4th Cir. 2022)",
+    "United States v. Nasir, 982 F.3d 144 (3d Cir. 2020) (en banc)",
+    "United States v. Havis, 927 F.3d 382 (6th Cir. 2019) (en banc)",
+    "United States v. Winstead, 890 F.3d 1082 (D.C. Cir. 2018)"
+   ]
+  },
+  {
+   "position": "Application Note 1 is valid and authoritative under Stinson, so courts should continue to defer to it and include inchoate offenses in the controlled substance offense definition.",
+   "circuits": [
+    "1st",
+    "2d",
+    "5th",
+    "7th",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Vargas, 74 F.4th 673 (5th Cir. 2023) (en banc)",
+    "United States v. Maloid, 71 F.4th 795 (10th Cir. 2023)",
+    "United States v. Smith, 989 F.3d 575 (7th Cir. 2021)",
+    "United States v. Jefferson, 975 F.3d 700 (8th Cir. 2020)",
+    "United States v. Lewis, 963 F.3d 16 (1st Cir. 2020)",
+    "United States v. Richardson, 958 F.3d 151 (2d Cir. 2020)",
+    "United States v. White, 97 F.4th 532 (7th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Adheres to circuit precedent deferring to Application Note 1 and declines to switch sides; rejects the major questions challenge under Damerville.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Six circuits have held that Application Note 1 impermissibly expands \u00a7 4B1.2's definition of 'controlled substance offense.'",
+ "cluster_id": 9489997,
+ "cite": "United States v. Keith White, 97 F.4th 532 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-04-02",
+ "url": "https://www.courtlistener.com/opinion/9489997/united-states-v-keith-white/",
+ "usage": {
+  "in": 3258,
+  "out": 2178
+ }
+}

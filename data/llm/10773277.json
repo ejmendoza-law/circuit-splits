@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under 18 U.S.C. \u00a7 1152, must the government plead and prove a defendant's non-Indian status as an element of the offense, or is Indian status an affirmative defense that the defendant must first raise?",
+ "provision": "18 U.S.C. \u00a7 1152",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Non-Indian status is an element of the \u00a7 1152 offense that the government must allege and prove at trial.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Prentiss, 256 F.3d 971 (10th Cir. 2001) (en banc)",
+    "United States v. Ruiz, No. 24-2128 (10th Cir. Jan. 12, 2026)"
+   ]
+  },
+  {
+   "position": "Indian or non-Indian status is an affirmative defense: the defendant must first properly raise it, and the government bears the ultimate burden of proof only once it is raised.",
+   "circuits": [
+    "9th",
+    "5th"
+   ],
+   "cases": [
+    "United States v. Hester, 719 F.2d 1040 (9th Cir. 1983)",
+    "United States v. Haggerty, 997 F.3d 292 (5th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Tenth Circuit treats non-Indian status as an element under Prentiss and declines to depart from it, but urges en banc reconsideration",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Circuits have split on the question whether the Indian or non-Indian status of the defendant must be pleaded and proved by the government in a prosecution under 18 U.S.C.A. \u00a7 1152.",
+ "cluster_id": 10773277,
+ "cite": "United States v. Ruiz, No. 24-2128 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-01-12",
+ "url": "https://www.courtlistener.com/opinion/10773277/united-states-v-ruiz/",
+ "usage": {
+  "in": 1899,
+  "out": 1920
+ }
+}

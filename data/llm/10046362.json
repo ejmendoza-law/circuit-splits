@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal district court substitute the Crime Victims Fund as the payee of a restitution order after the judgment has become final, when the named victim has died?",
+ "provision": "18 U.S.C. \u00a7 3663A",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Substituting the Crime Victims Fund as restitution payee is permissible in some circumstances.",
+   "circuits": [
+    "2d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Johnson, 378 F.3d 230 (2d Cir. 2004)",
+    "United States v. Hankins, 858 F.3d 1273 (9th Cir. 2017)"
+   ]
+  },
+  {
+   "position": "Substituting the Crime Victims Fund as restitution payee is not permissible.",
+   "circuits": [
+    "7th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Pawlinski, 374 F.3d 536 (7th Cir. 2004)",
+    "United States v. Speakman, 594 F.3d 1165 (10th Cir. 2010)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "We take no position on if or when it is appropriate to substitute the Crime Victims Fund as the payee, which is currently the subject of a circuit split.",
+ "cluster_id": 10046362,
+ "cite": "United States v. John Jerome O'Hara, No. 23-5720 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-08-20",
+ "url": "https://www.courtlistener.com/opinion/10046362/united-states-v-john-jerome-ohara/",
+ "usage": {
+  "in": 1871,
+  "out": 3681
+ }
+}

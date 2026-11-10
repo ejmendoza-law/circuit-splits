@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a party raise an objection in the district court to preserve a claim, or may an appellate court review a claim never presented below with de novo review under Fed. R. Crim. P. 51(a)?",
+ "provision": "FED. R. CRIM. P. 51(a), 51(b), 52(b)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Claims never presented to the district court may be reviewed de novo because Rule 51(a) makes a postruling exception unnecessary. The court rejects this approach as contrary to the text of Rule 51 and to Supreme Court precedent.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": []
+  },
+  {
+   "position": "Under Rules 51(b) and 52(b), a party must inform the court of its objection, and an unpreserved claim is reviewed only for plain error.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Stapleton, No. 25-2201 (7th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Unpreserved claims are reviewed only for plain error under Rule 52(b); the court abandons its prior de novo review of claims never presented below.",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "They are also in considerable tension with Supreme Court precedent and have created a lopsided circuit split.",
+ "cluster_id": 10932084,
+ "cite": "United States v. Jermaine Stapleton, No. 25-2201 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-07-16",
+ "url": "https://www.courtlistener.com/opinion/10932084/united-states-v-jermaine-stapleton/",
+ "usage": {
+  "in": 1320,
+  "out": 1593
+ }
+}

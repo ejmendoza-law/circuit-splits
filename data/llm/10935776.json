@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission resolved the split by amending the Guidelines in 2006 (U.S.S.G. app. C amend. 691), adding Application Note 13 to \u00a7 2K2.1 to address the conflict.",
+ "issue": "Does the Guidelines enhancement for possessing a firearm in connection with another felony apply to a gun the defendant obtained through burglary, where no felony separate from the burglary is involved?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(b)(7)(B) and cmt. n.13",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The enhancement applies only when a second felony is separated by time or conduct from the felony through which the gun was obtained, so it does not apply to a gun taken in a burglary without a separate felony.",
+   "circuits": [
+    "1st",
+    "3d",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Brake, 904 F.3d 97 (1st Cir. 2018)",
+    "United States v. Fenton, 309 F.3d 825 (3d Cir. 2002)",
+    "United States v. Szakacs, 212 F.3d 344 (7th Cir. 2000)",
+    "United States v. Sanders, 162 F.3d 396 (6th Cir. 1998)"
+   ]
+  },
+  {
+   "position": "The enhancement applies without a separate felony, because a firearm obtained through burglary has the potential of facilitating that burglary.",
+   "circuits": [
+    "4th",
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Schaal, 340 F.3d 196 (4th Cir. 2003)",
+    "United States v. Kenney, 283 F.3d 934 (8th Cir. 2002)",
+    "United States v. Luna, 165 F.3d 316 (5th Cir. 1999)"
+   ]
+  }
+ ],
+ "this_court": "The Tenth Circuit, in United States v. Mims, No. 25-5139 (10th Cir. 2026), holds the enhancement applies to the stolen firearm, following the Commission's 2006 amendment and the broader reading of Application Note 13.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The Sentencing Commission amended the Guidelines in 2006 to include these Application Notes to address a circuit split about whether the \u00a7 2K2.1(b)(7)(B) enhancement applied to firearms obtained through burglary.",
+ "cluster_id": 10935776,
+ "cite": "United States v. Mims, No. 25-5139 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-07-28",
+ "url": "https://www.courtlistener.com/opinion/10935776/united-states-v-mims/",
+ "usage": {
+  "in": 2149,
+  "out": 1805
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10705936,
+ "cite": "United States v. Amado, No. 24-2002 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-10-17",
+ "url": "https://www.courtlistener.com/opinion/10705936/united-states-v-amado/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10622916,
+ "cite": "United States v. Rashun Suncar, 142 F.4th 259 (4th Cir. 2025)",
+ "court": "4th",
+ "date": "2025-07-02",
+ "url": "https://www.courtlistener.com/opinion/10622916/united-states-v-rashun-suncar/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10796973,
+ "cite": "United States v. Ebuka Umeti, No. 24-4478 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-02-19",
+ "url": "https://www.courtlistener.com/opinion/10796973/united-states-v-ebuka-umeti/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

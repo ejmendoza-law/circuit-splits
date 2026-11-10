@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9483803,
+ "cite": "United States v. Michael Hoover, 95 F.4th 763 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-03-12",
+ "url": "https://www.courtlistener.com/opinion/9483803/united-states-v-michael-hoover/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

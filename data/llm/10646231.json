@@ -1,0 +1,53 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must a district court rehear disputed testimony before rejecting a magistrate judge's credibility findings on a suppression motion, or may it reject them on the written record?",
+ "provision": "28 U.S.C. \u00a7 636(b)(1)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "A district court must hold its own hearing and hear the disputed testimony before rejecting a magistrate judge's credibility determinations.",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "5th",
+    "7th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "McIntosh v. Wexford Health Sources, Inc., 987 F.3d 662 (7th Cir. 2021)",
+    "United States v. Scribner, 832 F.3d 252 (5th Cir. 2016)",
+    "United States v. Thoms, 684 F.3d 893 (9th Cir. 2012)",
+    "United States v. Powell, 628 F.3d 1254 (11th Cir. 2010)",
+    "Carrion v. Smith, 549 F.3d 583 (2d Cir. 2008)",
+    "United States v. Hern\u00e1ndez-Rodr\u00edguez, 443 F.3d 138 (1st Cir. 2006)",
+    "Hill v. Beyer, 62 F.3d 474 (3d Cir. 1995)"
+   ]
+  },
+  {
+   "position": "A district court need not rehear testimony unless the magistrate judge's credibility findings were dispositive or material to the district court's holding.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Orrego-Fernandez, 78 F.3d 1497 (10th Cir. 1996)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.6,
+ "quote": "A circuit split exists as to whether a district court must rehear disputed testimony before rejecting a magistrate judge's credibility findings.",
+ "cluster_id": 10646231,
+ "cite": "United States v. Shue Moua, No. 24-2774 (8th Cir. 2025)",
+ "court": "8th",
+ "date": "2025-08-01",
+ "url": "https://www.courtlistener.com/opinion/10646231/united-states-v-shue-moua/",
+ "usage": {
+  "in": 1313,
+  "out": 2017
+ }
+}

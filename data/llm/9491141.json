@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 1326",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "In the end, like the other courts of appeals to weigh in, we find we need not resolve this issue.",
+ "cluster_id": 9491141,
+ "cite": "United States v. Nicolas Morales-Gutierrez, No. 22-4077 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-04-04",
+ "url": "https://www.courtlistener.com/opinion/9491141/united-states-v-nicolas-morales-gutierrez/",
+ "usage": {
+  "in": 1317,
+  "out": 807
+ }
+}

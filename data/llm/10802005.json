@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10802005,
+ "cite": "United States v. Connie Jamerson, No. 25-4045 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-02-27",
+ "url": "https://www.courtlistener.com/opinion/10802005/united-states-v-connie-jamerson/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

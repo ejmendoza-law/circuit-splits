@@ -1,0 +1,56 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When police give midstream Miranda warnings after an unwarned custodial interrogation, which test governs admissibility of the post-warning statements under Missouri v. Seibert: the plurality's objective test, or Justice Kennedy's concurrence test, which asks whether officers deliberately undermined Miranda?",
+ "provision": "Missouri v. Seibert, 542 U.S. 600 (2004); Miranda v. Arizona, 384 U.S. 436 (1966)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Justice Kennedy's concurrence in Seibert controls, so post-warning statements are suppressed if officers deliberately undermined Miranda (intent is relevant)",
+   "circuits": [
+    "2d",
+    "3d",
+    "4th",
+    "5th",
+    "8th",
+    "9th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Capers, 627 F.3d 470, 476 (2d Cir. 2010)",
+    "United States v. Naranjo, 426 F.3d 221, 231\u201332 (3d Cir. 2005)",
+    "United States v. Khweis, 971 F.3d 453, 461 (4th Cir. 2020)",
+    "United States v. Fernandez, 48 F.4th 405, 410 & n.1 (5th Cir. 2022)",
+    "United States v. Magallon, 984 F.3d 1263, 1283 (8th Cir. 2021)",
+    "United States v. Williams, 435 F.3d 1148, 1157 (9th Cir. 2006)",
+    "United States v. Guillen, 995 F.3d 1095, 1116 (10th Cir. 2021)",
+    "United States v. Street, 472 F.3d 1298, 1313 (11th Cir. 2006)"
+   ]
+  },
+  {
+   "position": "The Seibert plurality's objective approach controls, so the analysis does not consider the officer's intent in giving midstream warnings",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Ray I, 803 F.3d at 272 (6th Cir.)",
+    "United States v. Woolridge, 64 F.4th 757 (6th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Sixth Circuit adopts the Seibert plurality's objective approach, which does not consider the officers' intent. The court acknowledges it is alone in that position and questions whether it should keep its side of the split open.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Eight circuits hold that Justice Kennedy\u2019s concurrence controls, which also asks whether police deliberately undermined Miranda.",
+ "cluster_id": 9389983,
+ "cite": "United States v. Joshua Woolridge, 64 F.4th 757 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-04-06",
+ "url": "https://www.courtlistener.com/opinion/9389983/united-states-v-joshua-woolridge/",
+ "usage": {
+  "in": 1359,
+  "out": 2195
+ }
+}

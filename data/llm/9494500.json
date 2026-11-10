@@ -1,0 +1,50 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court, United States v. Taylor, 596 U.S. 845 (2022), which held that attempted Hobbs Act robbery is not a crime of violence under \u00a7 924(c) because the attempt must itself involve actual, attempted, or threatened force.",
+ "issue": "Is an attempt to commit an offense that qualifies as a crime of violence automatically a crime of violence under 18 U.S.C. \u00a7 924(c)?",
+ "provision": "18 U.S.C. \u00a7 924(c)(3)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "An attempt to commit a crime of violence is invariably a crime of violence, because \u00a7 924(c) reaches attempted use of force.",
+   "circuits": [
+    "3d",
+    "5th",
+    "7th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Walker, 990 F.3d 316, 328 (3d Cir. 2021)",
+    "United States v. Smith, 957 F.3d 590, 595 (5th Cir. 2020)",
+    "United States v. Ingram, 947 F.3d 1021, 1026 (7th Cir. 2020)",
+    "United States v. Dominguez, 954 F.3d 1251, 1261 (9th Cir. 2020)",
+    "United States v. St. Hubert, 909 F.3d 335, 351 (11th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "An attempt is a crime of violence only if the attempt itself involves attempted, actual, or threatened force; an attempt to threaten force does not constitute an attempt to use force.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Taylor, 979 F.3d 203, 209 (4th Cir. 2020), aff'd, 596 U.S. 845 (2022)",
+    "United States v. Hunt, 99 F.4th 161 (4th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "The Fourth Circuit follows the rule it announced in Taylor, which the Supreme Court affirmed, so an attempt is a crime of violence only if the attempt itself involves attempted, actual, or threatened force.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our decision in Taylor created a split with our sister circuits, and the Supreme Court promptly took up the case.",
+ "cluster_id": 9494500,
+ "cite": "United States v. Martin Hunt, 99 F.4th 161 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-04-16",
+ "url": "https://www.courtlistener.com/opinion/9494500/united-states-v-martin-hunt/",
+ "usage": {
+  "in": 1314,
+  "out": 1722
+ }
+}

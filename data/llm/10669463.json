@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can 18 U.S.C. \u00a7 922(g)(1) be constitutionally applied to a person with any prior felony conviction, or only to those whose predicate offenses show dangerousness, under the Second Amendment as clarified by Bruen and Rahimi?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Section 922(g)(1) is constitutional as applied to all felons, based on prior precedent and/or historical analysis, so no as-applied exception is required.",
+   "circuits": [
+    "2d",
+    "4th",
+    "8th",
+    "9th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "Zherka v. Bondi, 140 F.4th 68 (2d Cir. 2025)",
+    "United States v. Hunt, 123 F.4th 697 (4th Cir. 2024)",
+    "United States v. Jackson, 110 F.4th 1120 (8th Cir. 2024)",
+    "United States v. Duarte, 137 F.4th 743 (9th Cir. 2025) (en banc)",
+    "Vincent v. Bondi, 127 F.4th 1263 (10th Cir. 2025)",
+    "United States v. Dubois, 139 F.4th 887 (11th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Section 922(g)(1) must be applied only to felony predicates that qualify under a Second Amendment dangerousness or historical-analogue test, so courts must determine whether the particular predicate offense supports disarmament (the court favors this predicate-by-predicate approach as more administrable).",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Mancilla, No. 23-10952 (5th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The excerpts do not state the holding, but the reasoning favors the predicate-by-predicate, as-applied side, which is opposed to the categorical rule adopted by the sister circuits listed above.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "There is already a robust circuit split on this issue.",
+ "cluster_id": 10669463,
+ "cite": "United States v. Mancilla, No. 23-10952 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-09-10",
+ "url": "https://www.courtlistener.com/opinion/10669463/united-states-v-mancilla/",
+ "usage": {
+  "in": 1868,
+  "out": 2403
+ }
+}

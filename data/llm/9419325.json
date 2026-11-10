@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After Kisor v. Wilkie, should courts still defer to the Sentencing Guidelines commentary (such as the commentary to U.S.S.G. \u00a7 4B1.2) when interpreting the Guidelines?",
+ "provision": "U.S.S.G. \u00a7 4B1.2 cmt. n.1",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "After Kisor, courts should decline to defer to Guidelines commentary that expands or interprets the guideline text, so the commentary does not control the scope of the guideline, such as whether inchoate offenses are included in \u00a7 4B1.2.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Dupree, 57 F.4th 1269 (11th Cir. 2023) (en banc)",
+    "United States v. Rivera, 76 F.4th 1085 (8th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "The Guidelines commentary remains authoritative and binding after Kisor, so courts should continue to defer to it.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Smith, 989 F.3d 575 (7th Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "While there is circuit disagreement on the deference to be afforded the Guidelines' commentary, the weight of authority may suggest that Kisor undermines the Court's decision in Mendoza-Figueroa.",
+ "cluster_id": 9419325,
+ "cite": "United States v. Remberto Rivera, 76 F.4th 1085 (8th Cir. 2023)",
+ "court": "8th",
+ "date": "2023-08-10",
+ "url": "https://www.courtlistener.com/opinion/9419325/united-states-v-remberto-rivera/",
+ "usage": {
+  "in": 1747,
+  "out": 1687
+ }
+}

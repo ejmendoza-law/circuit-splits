@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.95,
+ "quote": "In short, this Court did not hold that Stephens's conduct \"in preparing and implementing a safety plan that allegedly prohibited Maddox from removing the child from the paternal grandmother's care\" violated Maddox's liberty interest.",
+ "cluster_id": 10355395,
+ "cite": "January Littlejohn v. School Board of Leon County Florida, 132 F.4th 1232 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-03-12",
+ "url": "https://www.courtlistener.com/opinion/10355395/january-littlejohn-v-school-board-of-leon-county-florida/",
+ "usage": {
+  "in": 1328,
+  "out": 242
+ }
+}

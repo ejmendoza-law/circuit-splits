@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10266136,
+ "cite": "United States v. DeAndre Jackson, 120 F.4th 1210 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-11-06",
+ "url": "https://www.courtlistener.com/opinion/10266136/united-states-v-deandre-jackson/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

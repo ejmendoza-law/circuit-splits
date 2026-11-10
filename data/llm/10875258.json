@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court's decision in Snyder v. United States, 603 U.S. 1 (2024), which resolved the circuit split and held that 18 U.S.C. \u00a7 666 reaches only quid pro quo bribery, not gratuities",
+ "issue": "Does 18 U.S.C. \u00a7 666 criminalize gratuities paid to or received by state or local officials, or only quid pro quo bribery?",
+ "provision": "18 U.S.C. \u00a7 666",
+ "topic": "Fraud & white-collar",
+ "sides": [
+  {
+   "position": "Section 666 reaches illegal gratuities as well as quid pro quo bribery (the pre-Snyder rule of this circuit)",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. McClain, Nos. 25-2349 & 25-2350 (7th Cir. 2026) (describing the prior precedent)"
+   ]
+  },
+  {
+   "position": "Section 666 reaches only quid pro quo bribery, not gratuities (the rule adopted in Snyder)",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Snyder v. United States, 603 U.S. 1 (2024)",
+    "United States v. McClain, Nos. 25-2349 & 25-2350 (7th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "applies Snyder: \u00a7 666 reaches only quid pro quo bribery, so the pre-Snyder jury instructions on gratuities were error",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "In Snyder, the Court resolved a circuit split and overturned our precedent that \u00a7 666 criminalized illegal gratuities as well as quid pro quo bribery, ruling that \u00a7 666 only punished quid pro quo bribery.",
+ "cluster_id": 10875258,
+ "cite": "United States v. Michael McClain, No. 25-2350 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-06-15",
+ "url": "https://www.courtlistener.com/opinion/10875258/united-states-v-michael-mcclain/",
+ "usage": {
+  "in": 1870,
+  "out": 2124
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the MVRA's automatic prison-trust-account turnover provision, 18 U.S.C. \u00a7 3664(n), reach outside deposits that are individually small but accumulate into a substantial sum over time, or only resources that are substantial when received?",
+ "provision": "18 U.S.C. \u00a7 3664(n)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Section 3664(n) reaches resources that accumulate from periodic deposits into a substantial amount, not only resources that are substantial when received; the statute is not limited to windfalls.",
+   "circuits": [
+    "9th",
+    "8th",
+    "6th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Myers, No. 23-1034 (9th Cir. 2026)",
+    "United States v. Kidd, 23 F.4th 781 (8th Cir. 2022)",
+    "United States v. Carson, 55 F.4th 1053 (6th Cir. 2022)",
+    "United States v. Elwood, 757 F. App'x 731 (10th Cir. 2018) (unpublished)"
+   ]
+  },
+  {
+   "position": "Section 3664(n) applies only to windfalls, or to resources that are substantial at the time of receipt; small deposits that accumulate over time are not covered and must be analyzed transaction by transaction.",
+   "circuits": [
+    "5th",
+    "1st"
+   ],
+   "cases": [
+    "United States v. Hughes, 914 F.3d 947 (5th Cir. 2019)",
+    "United States v. Saemisch, 70 F.4th 1 (1st Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Ninth Circuit panel majority takes the accumulation position: \u00a7 3664(n) can reach aggregated periodic deposits that become substantial, and it expressly disagrees with the First Circuit's windfall-only reading.",
+ "source": "dissent",
+ "confidence": 0.7,
+ "quote": "As the panel dissent noted, the \"substantial at the time of receipt\" approach rejects the First and Fifth Circuit's construction of the statute.",
+ "cluster_id": 10826292,
+ "cite": "United States v. Myers, No. 23-1034 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-03-27",
+ "url": "https://www.courtlistener.com/opinion/10826292/united-states-v-myers/",
+ "usage": {
+  "in": 4267,
+  "out": 2773
+ }
+}

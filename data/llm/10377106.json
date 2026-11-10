@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a federal habeas case under AEDPA, does admitting officer testimony about an informant's tip as course-of-investigation evidence, with a limiting instruction, violate clearly established Confrontation Clause law?",
+ "provision": "28 U.S.C. \u00a7 2254(d)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "Course-of-investigation testimony about an informant's tip, with a limiting instruction, does not violate clearly established Confrontation Clause law, so \u00a7 2254(d) bars habeas relief (majority view, which the dissent says is the position creating the split).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Reed v. May, 134 F.4th 455 (6th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "The contrary rule the dissent says the majority creates a split with. The excerpts do not identify the circuits or cases that hold it.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "6th Circuit majority holds that the testimony and limiting instructions do not violate clearly established law, so \u00a7 2254(d) bars relief.",
+ "source": "dissent",
+ "confidence": 0.2,
+ "quote": "creates a circuit split where none need exist.",
+ "cluster_id": 10377106,
+ "cite": "Patrick Reed v. Harold May, 134 F.4th 455 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-04-11",
+ "url": "https://www.courtlistener.com/opinion/10377106/patrick-reed-v-harold-may/",
+ "usage": {
+  "in": 1316,
+  "out": 2253
+ }
+}

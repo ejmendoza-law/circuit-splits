@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Sentencing Commission amendment to U.S.S.G. \u00a7 2K2.1(b)(4)(B), which the opinion says was adopted to resolve the circuit differences over the meaning of 'altered' (89 Fed. Reg. 36853, 36858\u201359 (May 3, 2024))",
+ "issue": "Does the four-level enhancement for a firearm with an altered or obliterated serial number apply when the firearm also bears a separate, legible serial number?",
+ "provision": "U.S.S.G. \u00a7 2K2.1(b)(4)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The enhancement applies when a single serial number on the firearm has been altered or made illegible, even if the firearm also has a separate legible serial number (pre-amendment reading of 'altered').",
+   "circuits": [
+    "6th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Thigpen, 848 F.3d 841, 845\u201346 (8th Cir. 2017)",
+    "United States v. Craddock, No. 25-2573 (3d Cir. 2026)"
+   ]
+  },
+  {
+   "position": "The enhancement does not apply when the firearm retains a complete and accurate serial number, so a separate legible number defeats the enhancement (defendant's reading, rejected by this court).",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Craddock, No. 25-2573 (3d Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit holds that the enhancement applies where a single serial number was altered or made illegible, and a separate legible serial number does not bar it. The court treats the 2024 amendment as having resolved the earlier circuit disagreement.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Sentencing Guidelines for United States Courts, 89 Fed. Reg. 36853, 36858\u201359 (May 3, 2024) (detailing circuit split).",
+ "cluster_id": 10883566,
+ "cite": "United States v. Noah Craddock, No. 25-2573 (3rd Cir. 2026)",
+ "court": "3d",
+ "date": "2026-07-01",
+ "url": "https://www.courtlistener.com/opinion/10883566/united-states-v-noah-craddock/",
+ "usage": {
+  "in": 1238,
+  "out": 2528
+ }
+}

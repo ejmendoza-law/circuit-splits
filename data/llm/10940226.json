@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "The Supreme Court recently granted certiorari to resolve a circuit split over whether Title IX provides a cause of action for employment discrimination.",
+ "cluster_id": 10940226,
+ "cite": "Mark Charlton-Perkins v. Univ. of Cincinnati, No. 25-3693 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-08-05",
+ "url": "https://www.courtlistener.com/opinion/10940226/mark-charlton-perkins-v-univ-of-cincinnati/",
+ "usage": {
+  "in": 1317,
+  "out": 510
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the Second Amendment as clarified in Bruen and Rahimi, can 18 U.S.C. \u00a7 922(g)(1), the felon-in-possession ban, be unconstitutional as applied to a particular felon, and if so, how is the historical analysis conducted?",
+ "provision": "18 U.S.C. \u00a7 922(g)(1)",
+ "topic": "Firearms",
+ "sides": [
+  {
+   "position": "Section 922(g)(1) may be unconstitutional as applied to at least some felons, and the as-applied inquiry considers only predicate crimes punishable by more than one year of imprisonment, with classification as a felony alone insufficient under Bruen.",
+   "circuits": [],
+   "cases": [
+    "United States v. Squire, No. 25-30324 (5th Cir. 2026)",
+    "United States v. Diaz, 116 F.4th 458 (5th Cir. 2024)",
+    "United States v. Mitchell, 160 F.4th 177 (5th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Section 922(g)(1) is not unconstitutional as applied to felons under the Second Amendment, or the as-applied framework is applied more narrowly than the position above. The excerpts describe this side only as part of the entrenched split and do not identify the circuits that hold it.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "This court holds that \u00a7 922(g)(1) may be unconstitutional as applied to at least some felons and that, under Diaz, only crimes punishable by more than one year of imprisonment may be considered as predicates. It does not resolve the broader split.",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "An entrenched circuit split has now emerged about its proper application.",
+ "cluster_id": 10869018,
+ "cite": "United States v. Squire, No. 25-30324 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-06-02",
+ "url": "https://www.courtlistener.com/opinion/10869018/united-states-v-squire/",
+ "usage": {
+  "in": 1312,
+  "out": 1402
+ }
+}

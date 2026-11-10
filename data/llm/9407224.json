@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Jumping on what he sees as a split of authority, and a dearth in our case law, Balser urges us to classify his case as being part and parcel of the more controversial horizontal variety.",
+ "cluster_id": 9407224,
+ "cite": "United States v. Balser, 70 F.4th 613 (1st Cir. 2023)",
+ "court": "1st",
+ "date": "2023-06-16",
+ "url": "https://www.courtlistener.com/opinion/9407224/united-states-v-balser/",
+ "usage": {
+  "in": 1313,
+  "out": 979
+ }
+}

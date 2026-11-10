@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the equipoise principle (that a conviction must be reversed when the evidence, viewed in the government's favor, gives equal or nearly equal support to guilt and innocence) remain part of federal sufficiency-of-the-evidence review, and if so, in what form?",
+ "provision": "Due Process Clause, U.S. Const. amend. V (sufficiency-of-the-evidence review)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "The equipoise principle remains a helpful tool in sufficiency review and is retained in some form; if the evidence is in equipoise after viewing it in the government's favor, a reasonable jury must entertain a reasonable doubt and the conviction must be reversed.",
+   "circuits": [
+    "1st",
+    "2d",
+    "6th",
+    "7th",
+    "8th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Goldesberry, 128 F.4th 1183 (10th Cir. 2025)",
+    "United States v. Lovern, 590 F.3d 1095 (10th Cir. 2009)",
+    "United States v. Simon, 12 F.4th 1 (1st Cir. 2021)",
+    "United States v. Glenn, 312 F.3d 58 (2d Cir. 2002)",
+    "United States v. Caseer, 399 F.3d 828 (6th Cir. 2005)",
+    "United States v. Johnson, 592 F.3d 749 (7th Cir. 2010)",
+    "Cosby v. Jones, 682 F.2d 1373 (11th Cir. 1982)"
+   ]
+  }
+ ],
+ "this_court": "Retains the equipoise principle as part of sufficiency review (the court's own position, drawing on Lovern).",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "We note our sister circuits are divided on how the equipoise principle informs sufficiency review.",
+ "cluster_id": 10335467,
+ "cite": "United States v. Goldesberry, 128 F.4th 1183 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-02-19",
+ "url": "https://www.courtlistener.com/opinion/10335467/united-states-v-goldesberry/",
+ "usage": {
+  "in": 1318,
+  "out": 1936
+ }
+}

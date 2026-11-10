@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "For a Guidelines 'controlled substance offense' enhancement based on a prior state drug conviction, should the court use the state drug schedules in effect when the prior state conviction occurred or those in effect at federal sentencing?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(b)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Time of the prior state conviction controls which drug schedules define a 'controlled substance' (adopted by this court).",
+   "circuits": [
+    "6th",
+    "8th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Clark, 46 F.4th 404 (6th Cir. 2022)",
+    "United States v. Perez, 46 F.4th 691 (8th Cir. 2022)",
+    "United States v. Dubois, 94 F.4th 1284 (11th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Time of federal sentencing controls which drug schedules define a 'controlled substance.'",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Abdulaziz, 998 F.3d 519 (1st Cir. 2021)"
+   ]
+  }
+ ],
+ "this_court": "Time of the prior state conviction controls; the court adopts a time-of-state-conviction rule.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Our sister circuits are split on this timing question.",
+ "cluster_id": 9481145,
+ "cite": "United States v. Andre Michael Dubois, 94 F.4th 1284 (11th Cir. 2024)",
+ "court": "11th",
+ "date": "2024-03-05",
+ "url": "https://www.courtlistener.com/opinion/9481145/united-states-v-andre-michael-dubois/",
+ "usage": {
+  "in": 1319,
+  "out": 1431
+ }
+}

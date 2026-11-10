@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the government benefits rule in U.S.S.G. \u00a7 2B1.1 cmt. n.3(F)(ii), which measures loss as the difference between the value of what the government received and what it paid, apply to fraud in Disadvantaged Business Enterprise (DBE) or similar special procurement programs?",
+ "provision": "U.S.S.G. \u00a7 2B1.1 cmt. n.3(F)(ii)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The government benefits rule applies to DBE and similar affirmative-action procurement fraud, so loss can be reduced by the value of the benefit the government received.",
+   "circuits": [
+    "4th",
+    "7th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Brothers Constr. Co. of Ohio, 219 F.3d 300 (4th Cir. 2000)",
+    "United States v. Leahy, 464 F.3d 773 (7th Cir. 2006)",
+    "United States v. Maxwell, 579 F.3d 1282 (11th Cir. 2009)"
+   ]
+  },
+  {
+   "position": "The government benefits rule does not apply to DBE procurement fraud because procurement contracts require performance in return for payment, so the government is not merely bestowing a unilateral benefit.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Kousisis, 66 F.4th 406 (3d Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit expressly holds that the government benefits rule under Note 3(F)(ii) does not apply to DBE procurement fraud cases.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "There is a circuit split regarding whether the government benefits rule extends to fraud in DBE (or similar special procurement) programs.",
+ "cluster_id": 9393269,
+ "cite": "United States v. Stamatios Kousisis, 66 F.4th 406 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-04-21",
+ "url": "https://www.courtlistener.com/opinion/9393269/united-states-v-stamatios-kousisis/",
+ "usage": {
+  "in": 1315,
+  "out": 1347
+ }
+}

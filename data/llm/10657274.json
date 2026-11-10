@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 922(g)(3)",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "The Tenth Circuit holds that what makes someone an \"unlawful user\" under \u00a7 922(g)(3) turns on the legal status of the drug used, and it declines to depart from its sister circuits.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Indeed, every circuit to address the issue, albeit mostly in a cursory fashion, has held that what renders someone an \u201cunlawful user\u201d turns on the legal status of the drug.",
+ "cluster_id": 10657274,
+ "cite": "United States v. Davey, No. 24-3132 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-08-20",
+ "url": "https://www.courtlistener.com/opinion/10657274/united-states-v-davey/",
+ "usage": {
+  "in": 1314,
+  "out": 734
+ }
+}

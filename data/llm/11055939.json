@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 11055939,
+ "cite": "Deandre Cherry v. United States, No. 21-2231 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-11-05",
+ "url": "https://www.courtlistener.com/opinion/11055939/deandre-cherry-v-united-states/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

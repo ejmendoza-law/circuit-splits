@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can police enter a home without a warrant under the emergency aid exception when no one reported an emergency and no relative or neighbor asked for help, but a hospital security guard reported that the resident's mother was missing?",
+ "provision": "U.S. Const. amend. IV; Brigham City v. Stuart, 547 U.S. 398 (2006)",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Warrantless emergency-aid entry requires an objectively reasonable basis, shown by facts such as a relative's or neighbor's request or signs of violence; a report from a hospital security guard that a person is unaccounted for does not suffice on these facts, and the entry here was unlawful.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Giambro, 126 F.4th 46 (1st Cir. 2025)"
+   ]
+  },
+  {
+   "position": "Emergency-aid entry is justified when police have reliable information that a person may be in medical distress, such as a concerned neighbor or doctor reporting that a person is unreachable, even without signs of violence inside the home.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Gaetjens v. City of Loves Park, 4 F.4th 487 (7th Cir. 2021)",
+    "United States v. Maxwell, 85 F.4th 1243 (7th Cir. 2023) (en banc)"
+   ]
+  }
+ ],
+ "this_court": "The majority holds that the entry was not justified under the emergency aid exception and states that its holding creates no circuit split. The dissent asserts that the holding conflicts with Seventh Circuit emergency-aid decisions.",
+ "source": "dissent",
+ "confidence": 0.4,
+ "quote": "The majority's holding also creates a circuit split.",
+ "cluster_id": 10314463,
+ "cite": "United States v. Giambro, 126 F.4th 46 (1st Cir. 2025)",
+ "court": "1st",
+ "date": "2025-01-15",
+ "url": "https://www.courtlistener.com/opinion/10314463/united-states-v-giambro/",
+ "usage": {
+  "in": 2431,
+  "out": 2313
+ }
+}

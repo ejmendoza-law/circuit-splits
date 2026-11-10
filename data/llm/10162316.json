@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.8,
+ "quote": "On my read, there remains a circuit split on the meaning of \u00a7 1355.",
+ "cluster_id": 10162316,
+ "cite": "United States v. Younes Nasri, 119 F.4th 1172 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-10-29",
+ "url": "https://www.courtlistener.com/opinion/10162316/united-states-v-younes-nasri/",
+ "usage": {
+  "in": 1881,
+  "out": 1140
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a defendant is convicted of conspiracy under 18 U.S.C. \u00a7 1594(c), is the base offense level under U.S.S.G. \u00a7 2G1.1(a) set by the statute of conviction or by the conduct the conspiracy aimed to commit?",
+ "provision": "U.S.S.G. \u00a7 2G1.1(a)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Base offense level is determined by the offense of conviction (\u00a7 1594(c) conspiracy, so the 'otherwise' level of 14 applies), not by the underlying conduct the conspiracy targeted.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Wei Lin, 841 F.3d 823 (9th Cir. 2016)"
+   ]
+  },
+  {
+   "position": "Base offense level may be set by the conduct the conspiracy aimed to commit (through \u00a7 1B1.3 cmt. n.7), so the \u00a7 1591(b)(1) level of 34 can apply to a \u00a7 1594(c) conspiracy conviction.",
+   "circuits": [
+    "3d",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Sims, 957 F.3d 362 (3d Cir. 2020)",
+    "United States v. Carter, 960 F.3d 1007 (8th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Since Nichols's sentencing, circuits have split as to how \u00a7 2G1.1 should be applied to those convicted of violating \u00a7 1594(c).",
+ "cluster_id": 9418769,
+ "cite": "United States v. Samuel Nichols, 77 F.4th 490 (7th Cir. 2023)",
+ "court": "7th",
+ "date": "2023-08-08",
+ "url": "https://www.courtlistener.com/opinion/9418769/united-states-v-samuel-nichols/",
+ "usage": {
+  "in": 1220,
+  "out": 1361
+ }
+}

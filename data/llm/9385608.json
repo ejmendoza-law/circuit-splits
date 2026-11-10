@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Search & seizure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We now officially join this unanimous circuit precedent.",
+ "cluster_id": 9385608,
+ "cite": "United States v. DeRon Edwards Robinson, 63 F.4th 530 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-03-21",
+ "url": "https://www.courtlistener.com/opinion/9385608/united-states-v-deron-edwards-robinson/",
+ "usage": {
+  "in": 1879,
+  "out": 1027
+ }
+}

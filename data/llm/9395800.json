@@ -1,0 +1,51 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The Sentencing Commission's 1998 amendment to U.S.S.G. \u00a7 5K2.13 resolved the split by directing district courts to examine the 'facts and circumstances' of the offense rather than apply the categorical approach.",
+ "issue": "When deciding whether a reduced-mental-capacity downward departure is barred, must the sentencing court apply the categorical approach (asking only whether the offense is a crime of violence), or may it examine the actual facts and circumstances of the offense?",
+ "provision": "U.S.S.G. \u00a7 5K2.13",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "The categorical approach applies: if the offense is a crime of violence under U.S.S.G. \u00a7 4B1.2, the defendant cannot be 'non-violent' under \u00a7 5K2.13. (Rejected after the 1998 amendment.)",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Clements, 144 F.3d 981 (6th Cir. 1998)"
+   ]
+  },
+  {
+   "position": "The sentencing court may examine all the facts and circumstances of the offense to determine whether it was actually non-violent under \u00a7 5K2.13. (Adopted by the Sentencing Commission in 1998 and followed by this court.)",
+   "circuits": [
+    "D.C.",
+    "3d",
+    "4th",
+    "5th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Chatman, 986 F.2d 1446 (D.C. Cir. 1993)",
+    "United States v. Askari, 159 F.3d 774 (3d Cir. 1998) (en banc)",
+    "United States v. Bowe, 257 F.3d 336 (4th Cir. 2001)",
+    "United States v. Bell, 371 F.3d 239 (5th Cir. 2004) (per curiam)",
+    "United States v. Anderson, 547 F.3d 831 (7th Cir. 2008)",
+    "United States v. Loos, 66 F.4th 620 (6th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the facts-and-circumstances approach. The court holds that the district court need not add a separate inquiry into whether the defendant remains a danger to the public, and that a departure is unavailable when the offense involved actual violence.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "In the context of this language, a circuit split arose over whether the categorical approach applied to this inquiry, namely whether the only job of the district court was to determine whether the offense amounted to a \"crime of violence\" under section 4B1.2 (the career offender Guideline) or whether it should conduct an inquiry into the actual facts and circumstances of the conviction.",
+ "cluster_id": 9395800,
+ "cite": "United States v. Hunter Loos, 66 F.4th 620 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-05-01",
+ "url": "https://www.courtlistener.com/opinion/9395800/united-states-v-hunter-loos/",
+ "usage": {
+  "in": 1530,
+  "out": 1694
+ }
+}

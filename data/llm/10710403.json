@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "That holding entrenches a split with the Eighth Circuit, which has squarely held that Mathews balancing does not apply to a challenge to detention under \u00a7 1226(c).",
+ "cluster_id": 10710403,
+ "cite": "Black v. Almodovar; G.M. v. Almodovar, No. 20-3224; 22-70 (2d Cir. 2025)",
+ "court": "2d",
+ "date": "2025-10-24",
+ "url": "https://www.courtlistener.com/opinion/10710403/black-v-almodovar-gm-v-almodovar/",
+ "usage": {
+  "in": 4275,
+  "out": 762
+ }
+}

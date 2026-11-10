@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10781353,
+ "cite": "Gibson v. City of Portland, No. 24-1663 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-01-29",
+ "url": "https://www.courtlistener.com/opinion/10781353/gibson-v-city-of-portland/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

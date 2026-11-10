@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a district court reduce, under \u00a7 404 of the First Step Act, the sentence for a non-covered offense that was packaged with the sentence for a covered crack offense?",
+ "provision": "First Step Act of 2018, \u00a7 404(b); 18 U.S.C. \u00a7 3584(c)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Yes. A court may reduce a non-covered sentence that was packaged with a covered sentence under the sentencing-package doctrine.",
+   "circuits": [
+    "4th",
+    "6th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Richardson, 96 F.4th 659 (4th Cir. 2024)",
+    "United States v. Hudson, 967 F.3d 605 (7th Cir. 2020)",
+    "United States v. Gordon, Nos. 23-1050/1069/1070/1071 (6th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "No. The First Step Act lets a court reduce only the sentence for the covered offense, and the sentencing-package doctrine does not supply the express statutory authority needed to modify a sentence.",
+   "circuits": [
+    "2d",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Young, 998 F.3d 43 (2d Cir. 2021)",
+    "United States v. Gladney, 44 F.4th 1253 (10th Cir. 2022)",
+    "United States v. Baptiste, 834 F. App'x 547 (11th Cir. 2020)"
+   ]
+  }
+ ],
+ "this_court": "The Sixth Circuit adopts the sentencing-package interpretation, finding the reasoning of the courts permitting such reductions more persuasive, and remands to decide whether the doctrine applies on these facts.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Although some circuits disagree on this issue, we find the reasoning of courts adopting a sentencing-package interpretation more persuasive.",
+ "cluster_id": 10703692,
+ "cite": "United States v. John Gordon, No. 23-1070 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-10-14",
+ "url": "https://www.courtlistener.com/opinion/10703692/united-states-v-john-gordon/",
+ "usage": {
+  "in": 2207,
+  "out": 1728
+ }
+}

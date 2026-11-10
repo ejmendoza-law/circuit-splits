@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9403901,
+ "cite": "United States v. Jarmaine Carter, 69 F.4th 361 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-06-02",
+ "url": "https://www.courtlistener.com/opinion/9403901/united-states-v-jarmaine-carter/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

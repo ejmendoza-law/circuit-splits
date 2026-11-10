@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Under the superseded 2009 CBP directive, must a border officer have reasonable suspicion before conducting a forensic (advanced) search of an electronic device?",
+ "provision": "U.S. Const. amend. IV (border search doctrine; CBP Directive 3340-049)",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Reasonable suspicion is required before a forensic (advanced) border search of an electronic device.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "No reasonable suspicion is required before a forensic (advanced) border search of an electronic device.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "We need not decide whether reasonable suspicion was required under the prior Directive, on which there is circuit conflict.",
+ "cluster_id": 9397097,
+ "cite": "United States v. Haitao Xiang, 67 F.4th 895 (8th Cir. 2023)",
+ "court": "8th",
+ "date": "2023-05-05",
+ "url": "https://www.courtlistener.com/opinion/9397097/united-states-v-haitao-xiang/",
+ "usage": {
+  "in": 1314,
+  "out": 1489
+ }
+}

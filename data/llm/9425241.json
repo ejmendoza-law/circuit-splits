@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Not only did the Supreme Court cabin its holding in Guzman Chavez to the finality of a removal order for purposes of detention, as opposed to judicial review, but in resolving the circuit split on that issue, the Supreme Court sided with our precedent.",
+ "cluster_id": 9425241,
+ "cite": "Jose Alonso-Juarez v. Merrick Garland, 80 F.4th 1039 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-09-08",
+ "url": "https://www.courtlistener.com/opinion/9425241/jose-alonso-juarez-v-merrick-garland/",
+ "usage": {
+  "in": 1668,
+  "out": 616
+ }
+}

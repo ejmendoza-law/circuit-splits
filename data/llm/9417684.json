@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After Kisor v. Wilkie, must a federal court defer to the Sentencing Guidelines commentary and application notes only if the Guideline itself is genuinely ambiguous, or does Stinson deference continue to apply?",
+ "provision": "U.S.S.G. commentary and application notes (Stinson v. United States, 508 U.S. 36 (1993); Kisor v. Wilkie, 139 S. Ct. 2400 (2019))",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Kisor's more demanding deference standard applies to Guidelines commentary; a court may defer to commentary only if the Guideline is ambiguous, so Stinson deference is no longer the standard.",
+   "circuits": [
+    "6th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Riccardi, 989 F.3d 476 (6th Cir. 2021)",
+    "United States v. Castillo, 69 F.4th 648 (9th Cir. 2023)",
+    "United States v. Scheu, 83 F.4th 1124 (9th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Kisor does not apply to the Guidelines; courts continue to apply Stinson deference to the Guidelines commentary.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Moses, 23 F.4th 347 (4th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the Kisor side: the Ninth Circuit agrees that the more demanding Kisor standard applies to Guidelines commentary, following its earlier decision in Castillo.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Since Kisor was decided, a circuit split has arisen over whether this more limited deference should apply to the Sentencing Guidelines commentary and application notes.",
+ "cluster_id": 9417684,
+ "cite": "United States v. Joshua Scheu, 83 F.4th 1124 (9th Cir. 2023)",
+ "court": "9th",
+ "date": "2023-08-02",
+ "url": "https://www.courtlistener.com/opinion/9417684/united-states-v-joshua-scheu/",
+ "usage": {
+  "in": 1314,
+  "out": 1785
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "The 2004 amendment to Fed. R. Crim. P. 35, which replaced \"imposition of sentence\" with \"sentencing\" and added Rule 35(c), defining sentencing as oral announcement of the sentence",
+ "issue": "For purposes of 18 U.S.C. \u00a7 3582(c) and Rule 35, is a sentence imposed when it is orally pronounced at the sentencing hearing, or when the written judgment is entered?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(B); Fed. R. Crim. P. 35",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A sentence is imposed when it is orally pronounced at the sentencing hearing (the sizable majority view before the 2004 amendment)",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Aguirre, 214 F.3d 1122 (9th Cir. 2000)",
+    "United States v. Melvin, 105 F.4th 620 (4th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "A sentence is imposed only when the written judgment is entered (the minority view before the 2004 amendment)",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Aguirre, 214 F.3d 1122 (9th Cir. 2000)"
+   ]
+  }
+ ],
+ "this_court": "Takes the oral-pronouncement view: a sentence is not imposed until it has been unequivocally pronounced during the sentencing hearing",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "The circuits were divided, with a sizable majority holding that Rule 35 refers to the sentencing hearing, and a minority holding that the clock starts only when written judgment is entered.",
+ "cluster_id": 9986834,
+ "cite": "United States v. Gilbert Melvin, 105 F.4th 620 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-06-26",
+ "url": "https://www.courtlistener.com/opinion/9986834/united-states-v-gilbert-melvin/",
+ "usage": {
+  "in": 1316,
+  "out": 2160
+ }
+}

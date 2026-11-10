@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "See, e.g., Thomas, 897 F.3d at 815 (holding that the district court would not abuse its discretion in denying good cause where a circuit split reflected the uncertainty as to the legal issue and the",
+ "cluster_id": 9494032,
+ "cite": "United States v. Bryant D. Aron, 98 F.4th 879 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-04-16",
+ "url": "https://www.courtlistener.com/opinion/9494032/united-states-v-bryant-d-aron/",
+ "usage": {
+  "in": 1314,
+  "out": 669
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the Fourth Amendment permit an officer to open a car door during a traffic stop without reasonable suspicion, or must the officer have reasonable suspicion to do so?",
+ "provision": "U.S. Const. amend. IV; Pennsylvania v. Mimms; Maryland v. Wilson",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Officers may open a car door during a traffic stop without reasonable suspicion, under Mimms and Wilson (the Fifth Circuit's version is limited to opening a door after an occupant is ordered out and claims inability to exit).",
+   "circuits": [
+    "5th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Cotton, 721 F.2d 350 (11th Cir. 1983)",
+    "United States v. Meredith, 480 F.3d 366 (5th Cir. 2007)"
+   ]
+  },
+  {
+   "position": "Officers may open a car door during a traffic stop only when they also have reasonable suspicion.",
+   "circuits": [
+    "D.C.",
+    "4th"
+   ],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "Whether an officer can open a car door during a traffic stop based on less than reasonable suspicion is an open question in our circuit. And our sister courts are divided on the question.",
+ "cluster_id": 9403840,
+ "cite": "United States v. Donte Dowdell, 70 F.4th 134 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-06-02",
+ "url": "https://www.courtlistener.com/opinion/9403840/united-states-v-donte-dowdell/",
+ "usage": {
+  "in": 1318,
+  "out": 1493
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "But to complicate matters, the circuits are divided on whether Heck is jurisdictional.",
+ "cluster_id": 9986841,
+ "cite": "Michael Kitchen v. Gretchen Whitmer, 106 F.4th 525 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-06-28",
+ "url": "https://www.courtlistener.com/opinion/9986841/michael-kitchen-v-gretchen-whitmer/",
+ "usage": {
+  "in": 1876,
+  "out": 499
+ }
+}

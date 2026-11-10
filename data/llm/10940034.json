@@ -1,0 +1,39 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After Kisor v. Wilkie, must courts defer to Sentencing Guidelines commentary that directs use of the greater of actual or intended loss under USSG \u00a7 2B1.1, or may they reject that commentary-based rule?",
+ "provision": "USSG \u00a7 2B1.1, note (A)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Courts still defer to \u00a7 2B1.1 commentary directing use of intended loss (greater of actual or intended loss) even after Kisor, so the commentary controls unless plainly erroneous.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Nock, 148 F.4th 607 (8th Cir. 2025)",
+    "United States v. Holthaus, 486 F.3d 451 (8th Cir. 2007)",
+    "United States v. Currie, No. 25-2666, 25-3141 (8th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "After Kisor, courts should not defer to the \u00a7 2B1.1 commentary on intended loss, so the Guideline's text alone governs loss calculation (the position the defendants urged).",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "defers to the commentary and follows Nock; the court holds that intended loss may be considered and does not resolve the split, noting the Supreme Court has granted certiorari in Beaird v. United States",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Supreme Court has granted certiorari to consider a circuit split on this issue.",
+ "cluster_id": 10940034,
+ "cite": "United States v. Latroy Currie, No. 25-2666, 25-3141 (8th Cir. 2026)",
+ "court": "8th",
+ "date": "2026-08-05",
+ "url": "https://www.courtlistener.com/opinion/10940034/united-states-v-latroy-currie/",
+ "usage": {
+  "in": 1276,
+  "out": 2189
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "In a federal habeas challenge based on false testimony, must the petitioner show that the prosecutor knew the testimony was false, or is it enough to show the testimony was false and material?",
+ "provision": "28 U.S.C. \u00a7 2254; Due Process Clause (Fourteenth Amendment)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The petitioner must show that the prosecution knowingly used perjured or false testimony; without state involvement or knowledge, there is no constitutional violation.",
+   "circuits": [
+    "3d",
+    "5th",
+    "6th",
+    "7th",
+    "8th",
+    "10th"
+   ],
+   "cases": [
+    "Smith, 358 F.2d 683 (cited in Marcy)",
+    "United States v. Jones, 614 F.2d 80 (5th Cir. 1980)",
+    "Burks v. Egeler, 512 F.2d 221 (6th Cir. 1975)",
+    "United States ex rel. Burnett v. Illinois, 619 F.2d 668 (7th Cir. 1980)",
+    "Lindhorst v. United States, 658 F.2d 598 (8th Cir. 1981)",
+    "Graham v. Wilson, 828 F.2d 656 (10th Cir. 1987)",
+    "Marcy v. Superintendent Phoenix SCI, 110 F.4th 210 (3d Cir. 2024)"
+   ]
+  },
+  {
+   "position": "A constitutional violation can be found without evidence that the prosecutor knew the testimony was false (the Sanders panel's rule).",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Sanders (as described in Marcy; full citation not given in excerpts)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit requires proof that the prosecution knowingly used the false testimony, and it rejects Marcy's contrary position.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "And they place Marcy on the wrong side of an eightto-two circuit split.",
+ "cluster_id": 10024616,
+ "cite": "Joseph Marcy v. Superintendent Phoenix SCI, 110 F.4th 210 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-07-30",
+ "url": "https://www.courtlistener.com/opinion/10024616/joseph-marcy-v-superintendent-phoenix-sci/",
+ "usage": {
+  "in": 1317,
+  "out": 3125
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Honeycutt v. United States's bar on joint and several forfeiture liability apply to civil forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C), so that imposing such liability is clear or obvious error under plain-error review?",
+ "provision": "18 U.S.C. \u00a7 981(a)(1)(C)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Honeycutt's limit on joint and several forfeiture liability applies to forfeitures under 18 U.S.C. \u00a7 981(a)(1)(C), so imposing joint and several liability is error. The excerpts do not identify which circuits hold this.",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "Channon's acknowledged split (cited as United States v. Channon, 973 F.3d 1105 (10th Cir. 2020)) is the only source for this side; the excerpts do not name a circuit adopting it"
+   ]
+  },
+  {
+   "position": "Honeycutt does not clearly or obviously reach \u00a7 981(a)(1)(C) forfeitures, given a split in authority, so the error is not plain and cannot be shown on plain-error review.",
+   "circuits": [
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Channon, 973 F.3d 1105 (10th Cir. 2020)",
+    "United States v. Cingari, 952 F.3d 1301, 1305\u201306 (11th Cir. 2020)",
+    "United States v. Dermen, No. 23-4074 (10th Cir. July 9, 2025)"
+   ]
+  }
+ ],
+ "this_court": "does not decide the underlying question; it holds that any Honeycutt error under \u00a7 981 is not clear or obvious on plain-error review because of the acknowledged split (Channon), so the position that Honeycutt does not clearly reach such forfeitures controls at prong two",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "observed \u201ca circuit split has developed over whether Honeycutt applies to a forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C).\u201d",
+ "cluster_id": 10625887,
+ "cite": "United States v. Dermen, No. 23-4074 (10th Cir. 2025)",
+ "court": "10th",
+ "date": "2025-07-09",
+ "url": "https://www.courtlistener.com/opinion/10625887/united-states-v-dermen/",
+ "usage": {
+  "in": 1456,
+  "out": 2750
+ }
+}

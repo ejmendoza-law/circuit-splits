@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9444239,
+ "cite": "United States v. Richard Carter, 87 F.4th 217 (4th Cir. 2023)",
+ "court": "4th",
+ "date": "2023-11-21",
+ "url": "https://www.courtlistener.com/opinion/9444239/united-states-v-richard-carter/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

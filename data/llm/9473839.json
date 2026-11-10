@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "After Kisor v. Wilkie, must a federal court exhaust traditional tools of statutory interpretation before deferring to Sentencing Guidelines commentary under Stinson v. United States, or does Stinson deference survive Kisor?",
+ "provision": "U.S.S.G. \u00a7 2B1.1 cmt. n.3; Stinson v. United States, 508 U.S. 36 (1993); Kisor v. Wilkie, 139 S. Ct. 2400 (2019)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Kisor overruled Stinson, so courts must exhaust the traditional tools of statutory interpretation before deferring to Guidelines commentary.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "Stinson deference to Guidelines commentary survives Kisor, so courts defer to commentary that interprets an ambiguous guideline unless it is plainly erroneous or inconsistent with the guideline.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.35,
+ "quote": "He asks us to conclude that Kisor overruled the Supreme Court's earlier decision in Stinson, 508 U.S. at 45, an issue presently subject to a circuit split.",
+ "cluster_id": 9473839,
+ "cite": "United States v. Junaid Gulzar, 92 F.4th 684 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-02-09",
+ "url": "https://www.courtlistener.com/opinion/9473839/united-states-v-junaid-gulzar/",
+ "usage": {
+  "in": 1314,
+  "out": 1547
+ }
+}

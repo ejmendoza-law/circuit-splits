@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9473545,
+ "cite": "United States v. Robert Whipple, III, 92 F.4th 605 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-02-08",
+ "url": "https://www.courtlistener.com/opinion/9473545/united-states-v-robert-whipple-iii/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "According to a leading treatise, \"there is a split of authority\" about whether Miranda warnings are required when the defendant's attorney \"arranged for the contact\" but \"was not present\" during the questioning.",
+ "cluster_id": 9458542,
+ "cite": "United States v. Alandus Smith, No. 20-4573 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-01-08",
+ "url": "https://www.courtlistener.com/opinion/9458542/united-states-v-alandus-smith/",
+ "usage": {
+  "in": 1315,
+  "out": 1136
+ }
+}

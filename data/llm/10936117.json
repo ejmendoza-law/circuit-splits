@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "",
+ "cluster_id": 10936117,
+ "cite": "Ohindo v. Ball, No. 23-6804 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-07-29",
+ "url": "https://www.courtlistener.com/opinion/10936117/ohindo-v-ball/",
+ "usage": {
+  "in": 1309,
+  "out": 697
+ }
+}

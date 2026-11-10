@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the substantive-versus-clarifying test govern whether the Sentencing Commission's 2023 amendment to the compassionate-release Policy Statement (U.S.S.G. \u00a7 1B1.13) can apply to a sentence-reduction motion, so that an amendment treated as substantive cannot be applied to motions pending or filed before it took effect?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A); U.S.S.G. \u00a7 1B1.13",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "The substantive-versus-clarifying test does not apply to sentence-modification proceedings, so the amended Policy Statement is not barred from applying to compassionate-release motions on that basis.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Rutherford, 120 F.4th 360 (3d Cir. 2024)"
+   ]
+  },
+  {
+   "position": "The amended Policy Statement is a substantive amendment that cannot be given retroactive effect to compassionate-release motions.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "United States v. Handlon, 97 F.4th 829, 833 (11th Cir. 2024)",
+    "United States v. Rutherford, 120 F.4th 360 (3d Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "The Third Circuit holds that the substantive-versus-clarifying test does not apply to a sentence modification, and it declines to follow Handlon.",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "We part ways here with the Eleventh Circuit. United States v. Handlon, 97 F.4th 829, 833 (11th Cir. 2024) (holding that the amended Policy Statement is a substantive amendment that cannot be given retroactive effect).",
+ "cluster_id": 10183299,
+ "cite": "United States v. Daniel Rutherford, 120 F.4th 360 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-11-01",
+ "url": "https://www.courtlistener.com/opinion/10183299/united-states-v-daniel-rutherford/",
+ "usage": {
+  "in": 3021,
+  "out": 3386
+ }
+}

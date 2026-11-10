@@ -1,0 +1,59 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Sentencing Commission Amendment 832 (2025), which amended U.S.S.G. \u00a7 2B3.1(b)(4)(B) to adopt the narrower view. The Eleventh Circuit in this opinion held the amendment clarifying and retroactive.",
+ "issue": "Does the U.S.S.G. \u00a7 2B3.1(b)(4)(B) enhancement for physically restraining a victim apply when a defendant only points a gun and demands money, or does it require more than psychological coercion, such as being tied, bound, or locked up?",
+ "provision": "U.S.S.G. \u00a7 2B3.1(b)(4)(B)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Pointing a gun and demanding money, creating circumstances leaving the victim no alternative but compliance, is enough to be 'physically restrained' under \u00a7 2B3.1(b)(4)(B), even without tying, binding, or locking.",
+   "circuits": [
+    "1st",
+    "4th",
+    "6th",
+    "10th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Wallace, 461 F.3d 15, 34\u201335 (1st Cir. 2006)",
+    "United States v. Dimache, 665 F.3d 603, 608 (4th Cir. 2011)",
+    "United States v. Howell, 17 F.4th 673, 692 (6th Cir. 2021)",
+    "United States v. Miera, 539 F.3d 1232, 1235\u201336 (10th Cir. 2008)",
+    "United States v. Deleon, 116 F.4th 1260, 1263 (11th Cir. 2024)",
+    "United States v. Jones, 32 F.3d 1512, 1519 (11th Cir. 1994)"
+   ]
+  },
+  {
+   "position": "\u00a7 2B3.1(b)(4)(B) requires more than the psychological coercion of pointing a gun. The enhancement requires physical contact or confinement, as the commentary's 'tied, bound, or locked up' examples illustrate.",
+   "circuits": [
+    "2d",
+    "3d",
+    "5th",
+    "7th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Anglin, 169 F.3d 154, 164 (2d Cir. 1999)",
+    "United States v. Bell, 947 F.3d 49, 57 (3d Cir. 2020)",
+    "United States v. Garcia, 857 F.3d 708, 713\u201314 (5th Cir. 2017)",
+    "United States v. Herman, 930 F.3d 872, 877 (7th Cir. 2019)",
+    "United States v. Parker, 241 F.3d 1114, 1118\u201319 (9th Cir. 2001)",
+    "United States v. Brown, No. 23-13326 (11th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide the split itself. The Eleventh Circuit previously sided with the broad view (Deleon), but Amendment 832 abrogated that view and adopted the narrow one. This court held the amendment clarifying and therefore retroactive.",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Here, the Commission resolved a robust circuit split over \u00a7 2B3.1(b)(4)(B)\u2019s proper interpretation.",
+ "cluster_id": 11016855,
+ "cite": "United States v. Antonio Brown, No. 23-13326 (11th Cir. 2026)",
+ "court": "11th",
+ "date": "2026-10-08",
+ "url": "https://www.courtlistener.com/opinion/11016855/united-states-v-antonio-brown/",
+ "usage": {
+  "in": 3307,
+  "out": 2378
+ }
+}

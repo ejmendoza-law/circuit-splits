@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10844992,
+ "cite": "United States v. Nathaniel Martin, No. 25-4233 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-04-17",
+ "url": "https://www.courtlistener.com/opinion/10844992/united-states-v-nathaniel-martin/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

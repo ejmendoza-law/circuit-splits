@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a hash-value match by a private party's automated system (such as Google's) count as a private search, so that law enforcement may later view the matched file without a warrant under the private-search doctrine?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "A hash-value match is a valid private search, so law enforcement's later examination of the same file falls within the private-search doctrine and needs no warrant, because hash matching is nearly perfectly accurate and reveals nothing new.",
+   "circuits": [
+    "5th",
+    "6th"
+   ],
+   "cases": [
+    "United States v. Reddick, 900 F.3d 636 (5th Cir. 2018)",
+    "United States v. Miller, 982 F.3d 412 (6th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "A hash-value match cannot constitute a valid private search, so law enforcement's examination of a matched file exceeds the private search and requires a warrant.",
+   "circuits": [
+    "2d",
+    "4th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Maher, 120 F.4th 297 (2d Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Our sister circuits are split over whether hash matching constitutes a valid private search.",
+ "cluster_id": 10925245,
+ "cite": "United States v. Richard Brillhart, No. 24-13232 (11th Cir. 2026)",
+ "court": "11th",
+ "date": "2026-07-09",
+ "url": "https://www.courtlistener.com/opinion/10925245/united-states-v-richard-brillhart/",
+ "usage": {
+  "in": 1318,
+  "out": 1386
+ }
+}

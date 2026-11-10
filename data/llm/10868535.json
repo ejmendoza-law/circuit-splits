@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Pleas & appeal waivers",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "We also note that Maldonado is simply incorrect when he asserts that the circuits are split as to whether challenges to grand jury proceedings are waived by a voluntary guilty plea, the issue here.",
+ "cluster_id": 10868535,
+ "cite": "United States v. Maldonado, No. 24-2088 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-06-02",
+ "url": "https://www.courtlistener.com/opinion/10868535/united-states-v-maldonado/",
+ "usage": {
+  "in": 1879,
+  "out": 709
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Whether federal courts of appeals may review colorable constitutional claims notwithstanding the Adam Walsh Act and 8 U.S.C. \u00a7 1252(a)(2)(B)(ii)",
+ "provision": "8 U.S.C. \u00a7 1252(a)(2)(B)(ii)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Constitutional claims are not reviewable outside a petition for review of a final removal order, so the court lacks jurisdiction over them",
+   "circuits": [
+    "4th",
+    "6th"
+   ],
+   "cases": [
+    "Roland, 850 F.3d at 629",
+    "Privett, 865 F.3d at 381\u201382"
+   ]
+  },
+  {
+   "position": "Courts may review colorable constitutional claims (those with some possible validity) despite \u00a7 1252(a)(2)(B)(ii)",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "Bremer, 834 F.3d at 932"
+   ]
+  },
+  {
+   "position": "Constitutional claims are addressed on the merits without specifying a jurisdictional threshold",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "Bakran, 894 F.3d at 564"
+   ]
+  },
+  {
+   "position": "Assumes, without deciding, that colorable constitutional claims are reviewable",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Gebhardt, 879 F.3d at 988"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "Our sister circuits have split over whether constitutional claims are reviewable notwithstanding the Adam Walsh Act and section 1252(a)(2)(B)(ii).",
+ "cluster_id": 10870787,
+ "cite": "Anqi Liu v. Markwayne Mullin, No. 25-1652 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-06-05",
+ "url": "https://www.courtlistener.com/opinion/10870787/anqi-liu-v-markwayne-mullin/",
+ "usage": {
+  "in": 1316,
+  "out": 1315
+ }
+}

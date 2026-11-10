@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court decision in Dubin v. United States, 599 U.S. 110 (2023), which resolved the circuit split over when a defendant 'uses' another's means of identification 'in relation to' a predicate offense.",
+ "issue": "Under the aggravated identity theft statute, when does a defendant 'use' another person's means of identification 'in relation to' a predicate fraud offense?",
+ "provision": "18 U.S.C. \u00a7 1028A(a)(1)",
+ "topic": "Fraud & white-collar",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "In Dubin, the Court resolved a circuit split over when a defendant \u201cuses\u201d another\u2019s identification \u201cin relation to\u201d a predicate offense under 18 U.S.C. \u00a7 1028A(a)(1).",
+ "cluster_id": 9454657,
+ "cite": "United States v. Conley, 89 F.4th 815 (10th Cir. 2023)",
+ "court": "10th",
+ "date": "2023-12-22",
+ "url": "https://www.courtlistener.com/opinion/9454657/united-states-v-conley/",
+ "usage": {
+  "in": 1313,
+  "out": 967
+ }
+}

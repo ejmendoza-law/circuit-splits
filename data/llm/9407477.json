@@ -1,0 +1,37 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a forensic search of a cell phone at the border require reasonable suspicion, as opposed to a manual search that requires no individualized suspicion?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "A forensic search of a cell phone at the border requires reasonable suspicion (manual searches need none).",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Cano, 934 F.3d 1002 (9th Cir. 2019)"
+   ]
+  },
+  {
+   "position": "A forensic border search of a cell phone does not require reasonable suspicion or other individualized suspicion, as the opposing side of the division.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "The circuits are divided over whether reasonable suspicion is required for a forensic search of a cell phone at the border.",
+ "cluster_id": 9407477,
+ "cite": "United States v. Castillo, 70 F.4th 894 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-06-19",
+ "url": "https://www.courtlistener.com/opinion/9407477/united-states-v-castillo/",
+ "usage": {
+  "in": 1644,
+  "out": 1914
+ }
+}

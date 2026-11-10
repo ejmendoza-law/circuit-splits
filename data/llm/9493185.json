@@ -1,0 +1,40 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a prisoner who wins resentencing relief in a habeas case get to challenge his undisturbed underlying conviction in a second-in-time petition without that petition being barred as second or successive under 28 U.S.C. \u00a7 2244(b)?",
+ "provision": "28 U.S.C. \u00a7 2244(b)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A prisoner who obtains relief as to his sentence is not barred from raising, in a second-in-time habeas petition, a challenge to an undisturbed conviction (the majority interpretation, following Magwood).",
+   "circuits": [
+    "2d",
+    "3d"
+   ],
+   "cases": [
+    "Johnson v. United States, 623 F.3d 41 (2d Cir. 2010)",
+    "Lesko v. Secretary Pennsylvania Department of Corrections, 34 F.4th 211 (3d Cir. 2022)",
+    "United States v. Hill, 98 F.4th 473 (3d Cir. 2024)"
+   ]
+  },
+  {
+   "position": "The contrary view described as the minority position, under which a challenge to an undisturbed conviction in a later petition is treated as second or successive under \u00a7 2244(b). The excerpt says a split exists but does not name the circuits on this side.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "Follows the majority interpretation: a prisoner who receives relief as to his sentence may raise a challenge to an undisturbed conviction in a second-in-time petition.",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "The Lesko panel acknowledged that a circuit split exists after Magwood but sided with the majority of circuits that have considered the issue:",
+ "cluster_id": 9493185,
+ "cite": "United States v. Carlos Hill, 98 F.4th 473 (3rd Cir. 2024)",
+ "court": "3d",
+ "date": "2024-04-12",
+ "url": "https://www.courtlistener.com/opinion/9493185/united-states-v-carlos-hill/",
+ "usage": {
+  "in": 1318,
+  "out": 2720
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10933318,
+ "cite": "United States v. McCrone, No. 22-3178 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-07-21",
+ "url": "https://www.courtlistener.com/opinion/10933318/united-states-v-mccrone/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When a \u00a7 924(c) conviction rests on an unclear record about whether it was predicated on the residual clause, must the \u00a7 2255 movant show only that the conviction may have rested on the residual clause, or that it more likely than not did?",
+ "provision": "28 U.S.C. \u00a7 2255; 18 U.S.C. \u00a7 924(c)(3)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A \u00a7 924(c) movant must show only that the conviction may have been predicated on the unconstitutional residual clause.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Winston, 850 F.3d 677 (4th Cir. 2017)"
+   ]
+  },
+  {
+   "position": "A \u00a7 924(c) movant must show that, more likely than not, the conviction resulted from application of solely the residual clause.",
+   "circuits": [],
+   "cases": [
+    "Fernandez, 114 F.4th 1181 (circuit not identified in excerpt)",
+    "Barnes v. United States, No. 24-830 (2d Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.55,
+ "quote": "As we acknowledged in Savoca I, \u201cthere is currently a circuit split as to a petitioner\u2019s burden of proof where the sentencing record is \u2018unclear\u2019 as to which . . . clause an original sentencing court relied on.\u201d",
+ "cluster_id": 10758296,
+ "cite": "Barnes v. United States, No. 24-830 (2d Cir. 2025)",
+ "court": "2d",
+ "date": "2025-12-15",
+ "url": "https://www.courtlistener.com/opinion/10758296/barnes-v-united-states/",
+ "usage": {
+  "in": 1311,
+  "out": 1769
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "U.S.S.G. \u00a7 1B1.13(b)(6) and (c), the Sentencing Commission's amendment effective November 1, 2023, which the opinion says resolved the split (the Commission's commentary states that it 'agrees with the circuits that authorize a district court to consider non-retroactive changes in the law')",
+ "issue": "Can a district court consider a non-retroactive change in federal sentencing law, alone or with other factors such as rehabilitation, as an extraordinary and compelling reason for compassionate release under 18 U.S.C. \u00a7 3582(c)(1)(A)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A district court may consider non-retroactive changes in the law as a factor in deciding whether extraordinary and compelling reasons exist for compassionate release.",
+   "circuits": [
+    "1st",
+    "4th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Chen, 48 F.4th 1092 (9th Cir. 2022)",
+    "United States v. Ruvalcaba, 26 F.4th 14 (1st Cir. 2022)",
+    "United States v. McCoy, 981 F.3d 271 (4th Cir. 2020)"
+   ]
+  },
+  {
+   "position": "A district court may not treat non-retroactive changes in the law as an extraordinary and compelling reason for compassionate release.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Crandall, 25 F.4th 582 (8th Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "The Fifth Circuit takes the permissive position: it is within a district court's sound discretion to hold that non-retroactive changes in the law, together with other factors such as extraordinary rehabilitation, support compassionate release (United States v. Jean, 108 F.4th 275 (5th Cir. 2024)).",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "Subsections (b)(6) and (c) operate together to respond to a circuit split concerning when, if ever, non-retroactive changes in law may be considered as extraordinary and compelling reasons within the meaning of section 3582(c)(1)(A).",
+ "cluster_id": 10003782,
+ "cite": "United States v. Jean, 108 F.4th 275 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-07-15",
+ "url": "https://www.courtlistener.com/opinion/10003782/united-states-v-jean/",
+ "usage": {
+  "in": 4268,
+  "out": 1736
+ }
+}

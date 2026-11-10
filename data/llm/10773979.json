@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "Fourth, Judge Bush asserts that the panel opinion created a circuit conflict over a question about who may seek injunctive relief.",
+ "cluster_id": 10773979,
+ "cite": "Academy of Allergy & Asthma v. Amerigroup Tennessee, Inc., No. 24-5153 (6th Cir. 2026)",
+ "court": "6th",
+ "date": "2026-01-13",
+ "url": "https://www.courtlistener.com/opinion/10773979/academy-of-allergy-asthma-v-amerigroup-tennessee-inc/",
+ "usage": {
+  "in": 1321,
+  "out": 499
+ }
+}

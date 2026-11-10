@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "The panel finds itself divided on this question.",
+ "cluster_id": 10281316,
+ "cite": "United States v. Clarence Bonds, 121 F.4th 1129 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-11-21",
+ "url": "https://www.courtlistener.com/opinion/10281316/united-states-v-clarence-bonds/",
+ "usage": {
+  "in": 1315,
+  "out": 522
+ }
+}

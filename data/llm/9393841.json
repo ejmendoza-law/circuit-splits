@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a nonretroactive change in sentencing law, whether by statute or guidelines amendment, be an extraordinary and compelling reason for compassionate release under 18 U.S.C. \u00a7 3582(c)(1)(A)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A nonretroactive change in law cannot be an extraordinary and compelling reason, because nonretroactivity is ordinary and serving a lawfully imposed sentence is routine",
+   "circuits": [
+    "3d",
+    "6th",
+    "7th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. McCall, 56 F.4th 1048 (6th Cir. 2022) (en banc)",
+    "United States v. Andrews, 12 F.4th 255 (3d Cir. 2021)",
+    "United States v. Thacker, 4 F.4th 569 (7th Cir. 2021)",
+    "United States v. Maumau, 993 F.3d 821 (10th Cir. 2021) (Tymkovich, C.J., concurring)",
+    "United States v. Crandall, 25 F.4th 582 (8th Cir. 2022)",
+    "United States v. Rodrigo Rodriguez-Mendez, 65 F.4th 1000 (8th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "A nonretroactive change in law can be considered as an extraordinary and compelling reason for relief",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide (notes that Crandall previously sided with the McCall side of the split)",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "There is also a circuit split on the merits of whether a nonretroactive change in the law -- whether by statute or by guidelines amendment -- can constitute an extraordinary and compelling reason for \u00a7 3582(c)(1)(A) relief.",
+ "cluster_id": 9393841,
+ "cite": "United States v. Rodrigo Rodriguez-Mendez, 65 F.4th 1000 (8th Cir. 2023)",
+ "court": "8th",
+ "date": "2023-04-25",
+ "url": "https://www.courtlistener.com/opinion/9393841/united-states-v-rodrigo-rodriguez-mendez/",
+ "usage": {
+  "in": 1872,
+  "out": 2839
+ }
+}

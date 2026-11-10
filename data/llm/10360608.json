@@ -1,0 +1,41 @@
+{
+ "criminal": false,
+ "status": "resolved",
+ "resolved_by": "Congress amended 28 U.S.C. \u00a7 46(c) in 1996 to allow senior judges to continue participating in en banc decisions, resolving the Cocke/Hudspeth split",
+ "issue": "Can a federal appellate judge who takes senior status after en banc argument continue to participate in the en banc decision?",
+ "provision": "28 U.S.C. \u00a7 46(c)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "A senior judge may continue to participate in the en banc decision even if he took senior status after oral argument",
+   "circuits": [
+    "5th"
+   ],
+   "cases": [
+    "United States v. Cocke, 399 F.2d 433 (5th Cir. 1968) (en banc)"
+   ]
+  },
+  {
+   "position": "A senior judge who took senior status after en banc argument may not participate in the en banc decision, because \u00a7 46(c) limits senior-judge participation to members of the original panel",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Hudspeth, 42 F.3d 1013 (7th Cir. 1994) (en banc)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.9,
+ "quote": "Two years later, in 1996, Congress resolved the circuit split by amending \u00a7 46(c) to its current form.",
+ "cluster_id": 10360608,
+ "cite": "Virginia Duncan v. Rob Bonta, No. 23-55805 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-03-20",
+ "url": "https://www.courtlistener.com/opinion/10360608/virginia-duncan-v-rob-bonta/",
+ "usage": {
+  "in": 4271,
+  "out": 1454
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10941479,
+ "cite": "United States v. Cooper, No. 24-1769 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-08-06",
+ "url": "https://www.courtlistener.com/opinion/10941479/united-states-v-cooper/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

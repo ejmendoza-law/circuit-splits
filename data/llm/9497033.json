@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a defendant who is representing himself pro se continue to do so at a competency hearing, or must counsel represent him at that hearing?",
+ "provision": "U.S. Const. amend. VI (right to counsel)",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "A pro se defendant may continue to represent himself at a competency hearing.",
+   "circuits": [],
+   "cases": []
+  },
+  {
+   "position": "A pro se defendant may not continue to represent himself at a competency hearing; counsel must be provided for that critical stage.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.4,
+ "quote": "Whether a pro se litigant can continue to represent himself at a competency hearing is an issue on which other circuits are divided, and it is an issue of first impression for our circuit.",
+ "cluster_id": 9497033,
+ "cite": "United States v. Sterling, 99 F.4th 783 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-04-25",
+ "url": "https://www.courtlistener.com/opinion/9497033/united-states-v-sterling/",
+ "usage": {
+  "in": 1314,
+  "out": 1724
+ }
+}

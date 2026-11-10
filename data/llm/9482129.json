@@ -1,0 +1,38 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "May a district court, when revoking supervised release under 18 U.S.C. \u00a7 3583(e), consider the retribution factor in 18 U.S.C. \u00a7 3553(a)(2)(A) (the need for the sentence to reflect the seriousness of the offense and promote respect for the law)?",
+ "provision": "18 U.S.C. \u00a7 3583(e)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "A court may consider retribution (\u00a7 3553(a)(2)(A)) when revoking supervised release, as the Sixth Circuit held in United States v. Lewis and the panel's amended order in this case. The dissents say this places the Sixth Circuit at the extreme of a split.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Lewis, 498 F.3d 393 (6th Cir. 2007)",
+    "United States v. Esteras, 95 F.4th 454 (6th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "A court may not consider retribution (\u00a7 3553(a)(2)(A)) when revoking supervised release. The excerpts describe this as the position of other circuits but do not name them.",
+   "circuits": [],
+   "cases": []
+  }
+ ],
+ "this_court": "The Sixth Circuit permits consideration of retribution when revoking supervised release (Lewis; the amended panel order), and the court denied rehearing en banc over dissents.",
+ "source": "dissent",
+ "confidence": 0.3,
+ "quote": "place the Sixth Circuit at the extreme of a circuit split, allowing our district courts expressly to punish defendants for violations of supervised release.",
+ "cluster_id": 9482129,
+ "cite": "United States v. Edgardo Esteras, 95 F.4th 454 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-03-07",
+ "url": "https://www.courtlistener.com/opinion/9482129/united-states-v-edgardo-esteras/",
+ "usage": {
+  "in": 1314,
+  "out": 2220
+ }
+}

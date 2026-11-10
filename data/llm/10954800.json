@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In the Eleventh Circuit, a voluntary dismissal creates finality regardless of prejudice.",
+ "cluster_id": 10954800,
+ "cite": "Air-Con, Inc. v. Daikin Applied Latin America, LLC, No. 24-1863 (1st Cir. 2026)",
+ "court": "1st",
+ "date": "2026-08-21",
+ "url": "https://www.courtlistener.com/opinion/10954800/air-con-inc-v-daikin-applied-latin-america-llc/",
+ "usage": {
+  "in": 1419,
+  "out": 464
+ }
+}

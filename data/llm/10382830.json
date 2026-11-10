@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "see also Knight v. Thompson, 797 F.3d 934, 946 (11th Cir. 2015) (acknowledging that, at least under the Religious Land Use and Institutionalized Persons Act, we split on this issue with the First and Third Circuits, which require that governments show they considered and rejected less restrictive alternatives)",
+ "cluster_id": 10382830,
+ "cite": "Bruce Henry v. Sheriff of Tuscaloosa County, Alabama, 135 F.4th 1271 (11th Cir. 2025)",
+ "court": "11th",
+ "date": "2025-04-23",
+ "url": "https://www.courtlistener.com/opinion/10382830/bruce-henry-v-sheriff-of-tuscaloosa-county-alabama/",
+ "usage": {
+  "in": 1330,
+  "out": 1060
+ }
+}

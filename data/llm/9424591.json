@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the joint participant exception to the spousal testimonial privilege survive Trammel v. United States, or has the Supreme Court's decision to vest the privilege in the testifying spouse eliminated it?",
+ "provision": "Fed. R. Evid. 501; Trammel v. United States, 445 U.S. 40 (1980)",
+ "topic": "Evidence",
+ "sides": [
+  {
+   "position": "The joint participant exception to the spousal testimonial privilege is rejected after Trammel; the privilege does not yield where spouses are joint participants in the crime.",
+   "circuits": [
+    "1st",
+    "2d",
+    "3d",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Pineda-Mateo, 905 F.3d 13 (1st Cir. 2018)",
+    "In re Grand Jury Subpoena, 755 F.2d 1022 (2d Cir. 1985), vacated as moot, 475 U.S. 133",
+    "In re Grand Jury, 633 F.2d 276 (3d Cir. 1980) (Malfitano)",
+    "United States v. Ramos-Oseguera, 120 F.3d 1028 (9th Cir. 1997), overruled on other grounds, 225 F.3d 1053"
+   ]
+  },
+  {
+   "position": "The joint participant exception to the spousal testimonial privilege still applies in this circuit under its prior precedent.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Van Drunen, 501 F.2d 1393 (7th Cir. 1974)",
+    "United States v. Diggs, No. 22-1502 (7th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "Retains the joint participant exception under its prior circuit precedent, though the separate writing expresses doubt about it and describes the circuit as isolated.",
+ "source": "concurrence",
+ "confidence": 0.55,
+ "quote": "In the meantime, every other circuit to consider the issue post-Trammel has rejected the joint participant exception to the spousal testimonial privilege.",
+ "cluster_id": 9424591,
+ "cite": "United States v. Tobias Diggs, No. 22-1502 (7th Cir. 2023)",
+ "court": "7th",
+ "date": "2023-09-05",
+ "url": "https://www.courtlistener.com/opinion/9424591/united-states-v-tobias-diggs/",
+ "usage": {
+  "in": 1313,
+  "out": 3252
+ }
+}

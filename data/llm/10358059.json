@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Dubin (599 U.S. 110), which resolved the circuit split over whether the means of identification must be used \"in relation to\" the predicate offense, holding that the relation exists when misuse of the identification is \"at the crux of what makes the underlying offense criminal.\"",
+ "issue": "Under 18 U.S.C. \u00a7 1028A, when is a means of identification 'used' 'in relation to' a predicate offense such that aggravated identity theft is committed?",
+ "provision": "18 U.S.C. \u00a7 1028A",
+ "topic": "Fraud & white-collar",
+ "sides": [],
+ "this_court": "Applies the Dubin standard, treating the split as resolved by the Supreme Court.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "In Dubin, the Supreme Court resolved a circuit split over the breadth of the statute\u2019s requirement that the means of identification be \u201cuse[d]\u201d \u201cin relation to\u201d a predicate offense.",
+ "cluster_id": 10358059,
+ "cite": "United States v. Mahsa Parviz, 131 F.4th 966 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-03-19",
+ "url": "https://www.courtlistener.com/opinion/10358059/united-states-v-mahsa-parviz/",
+ "usage": {
+  "in": 1314,
+  "out": 1069
+ }
+}

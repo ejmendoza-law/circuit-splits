@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Trial rights & procedure",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "According to a leading treatise, \u201cthere is a split of authority\u201d about whether Miranda warnings are required when the defendant\u2019s attorney \u201carranged for the contact\u201d but \u201cwas not present\u201d during the questioning.",
+ "cluster_id": 9458538,
+ "cite": "United States v. Renaire Lewis, Jr., No. 20-4572 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-01-08",
+ "url": "https://www.courtlistener.com/opinion/9458538/united-states-v-renaire-lewis-jr/",
+ "usage": {
+  "in": 1316,
+  "out": 811
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a Florida aggravated assault conviction qualify as a 'crime of violence' under the Sentencing Guidelines career offender provision, given that the Florida statute can be violated by recklessness and the predicate offense's elements are judged as they existed at the time of conviction?",
+ "provision": "U.S.S.G. \u00a7 4B1.2(a)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Florida aggravated assault is a crime of violence under the Guidelines, as held in Somers, which the panel is bound to follow",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Somers v. United States, 66 F.4th 890 (11th Cir. 2023)",
+    "United States v. Pinkston, No. 21-13391 (11th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Florida aggravated assault is not a crime of violence under the Guidelines; the concurrence describes these holdings as expressly disagreeing with Somers or as reaching incompatible conclusions",
+   "circuits": [
+    "4th",
+    "5th",
+    "7th",
+    "8th"
+   ],
+   "cases": [
+    "United States v. Anderson, 99 F.4th 1106 (7th Cir. 2024)",
+    "United States v. Cornette, 932 F.3d 204 (4th Cir. 2019)",
+    "United States v. Vickers, 967 F.3d 480 (5th Cir. 2020)",
+    "United States v. Roblero-Ramirez, 716 F.3d 1122 (8th Cir. 2013)"
+   ]
+  }
+ ],
+ "this_court": "The panel is bound by Somers and holds Florida aggravated assault is a crime of violence; the Chief Judge's concurrence agrees it is compelled by Somers",
+ "source": "concurrence",
+ "confidence": 0.7,
+ "quote": "One of our sister circuits has expressly disagreed with Somers. See United States v. Anderson, 99 F.4th 1106, 1112 (7th Cir. 2024).",
+ "cluster_id": 10874434,
+ "cite": "United States v. Christopher Pinkston, No. 21-13391 (11th Cir. 2026)",
+ "court": "11th",
+ "date": "2026-06-12",
+ "url": "https://www.courtlistener.com/opinion/10874434/united-states-v-christopher-pinkston/",
+ "usage": {
+  "in": 1322,
+  "out": 2166
+ }
+}

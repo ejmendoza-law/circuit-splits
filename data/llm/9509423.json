@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is a pretrial bail hearing a critical stage at which the Sixth Amendment right to counsel attaches?",
+ "provision": "U.S. Const. amend. VI",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "A bail hearing is a critical stage, so the accused has a right to counsel at it.",
+   "circuits": [
+    "2d",
+    "9th"
+   ],
+   "cases": [
+    "Higazy v. Templeton, 505 F.3d 161 (2d Cir. 2007)",
+    "Betschart v. Washington County Circuit Court Judges, 103 F.4th 607 (9th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "A bail hearing is not a critical stage because it is not a pretrial event that is part of the trial itself and does not test the merits. The excerpts do not name the circuits holding this view. The dissent relies on United States v. Ash and state cases from Maryland and Alaska.",
+   "circuits": [],
+   "cases": [
+    "United States v. Ash, 413 U.S. 300 (1973)"
+   ]
+  }
+ ],
+ "this_court": "bail hearings are critical stages under the Sixth Amendment",
+ "source": "majority",
+ "confidence": 0.3,
+ "quote": "The dissent attempts to distinguish Higazy (ignoring the resulting circuit split) by arguing that the hearing there was an adversarial preliminary hearing, not just a hearing to set bail.",
+ "cluster_id": 9509423,
+ "cite": "Betschart v. Washington County Circuit Court Judges, 103 F.4th 607 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-05-31",
+ "url": "https://www.courtlistener.com/opinion/9509423/betschart-v-washington-county-circuit-court-judges/",
+ "usage": {
+  "in": 1319,
+  "out": 2449
+ }
+}

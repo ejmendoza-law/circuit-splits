@@ -1,0 +1,50 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court's decision in Pulsifer v. United States, 601 U.S. 124 (2024), which adopted the disjunctive reading of 18 U.S.C. \u00a7 3553(f)(1)",
+ "issue": "Under the safety valve in 18 U.S.C. \u00a7 3553(f)(1), should the word 'and' linking the criminal-history disqualifiers be read conjunctively (defendant ineligible only if he has all three types of prior offenses) or disjunctively (ineligible if he has any one)?",
+ "provision": "18 U.S.C. \u00a7 3553(f)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Disjunctive reading: a defendant is safety-valve ineligible if he has any one of the three listed prior offenses (adopted in Pulsifer and followed by this court)",
+   "circuits": [
+    "5th",
+    "6th",
+    "7th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Pulsifer, 39 F.4th 1018 (8th Cir. 2022)",
+    "United States v. Palomares, 52 F.4th 640 (5th Cir. 2022)",
+    "United States v. Haynes, 55 F.4th 1075 (6th Cir. 2022)",
+    "United States v. Pace, 48 F.4th 741 (7th Cir. 2022)",
+    "Pulsifer v. United States, 601 U.S. 124 (2024)",
+    "United States v. Engstrom, No. 24-1878 (9th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Conjunctive reading: a defendant is safety-valve ineligible only if he has all three listed prior offenses (former Ninth Circuit position, since abrogated)",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Lopez, 58 F.4th 1108 (9th Cir.)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the disjunctive reading, following Pulsifer; the Ninth Circuit's contrary Lopez position is abrogated",
+ "source": "majority",
+ "confidence": 0.6,
+ "quote": "The Supreme Court decided Pulsifer in March 2024, shortly after Engstrom's resentencing hearing, to resolve a long-standing circuit split interpreting \u00a7 3553(f)(1).",
+ "cluster_id": 10784686,
+ "cite": "United States v. Engstrom, No. 24-1878 (9th Cir. 2026)",
+ "court": "9th",
+ "date": "2026-02-05",
+ "url": "https://www.courtlistener.com/opinion/10784686/united-states-v-engstrom/",
+ "usage": {
+  "in": 1868,
+  "out": 2392
+ }
+}

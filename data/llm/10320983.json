@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Only the Sixth Circuit has arguably come to a different conclusion.",
+ "cluster_id": 10320983,
+ "cite": "Topaz Johnson v. Hdsp, 127 F.4th 123 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-01-27",
+ "url": "https://www.courtlistener.com/opinion/10320983/topaz-johnson-v-hdsp/",
+ "usage": {
+  "in": 1312,
+  "out": 552
+ }
+}

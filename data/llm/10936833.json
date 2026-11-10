@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "This presents a stark choice between two competing readings of the INA, with the circuits split over the correct interpretation.",
+ "cluster_id": 10936833,
+ "cite": "Jaciel Rojas v. Samuel Olson, No. 25-3127 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-07-30",
+ "url": "https://www.courtlistener.com/opinion/10936833/jaciel-rojas-v-samuel-olson/",
+ "usage": {
+  "in": 1694,
+  "out": 604
+ }
+}

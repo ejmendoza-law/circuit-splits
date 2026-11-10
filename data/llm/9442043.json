@@ -1,0 +1,48 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 'loss' under U.S.S.G. \u00a7 2B1.1(b)(1) include intended loss, or is it limited to actual loss?",
+ "provision": "U.S.S.G. \u00a7 2B1.1(b)(1)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "'Loss' under U.S.S.G. \u00a7 2B1.1(b)(1) includes intended loss.",
+   "circuits": [
+    "1st",
+    "6th",
+    "7th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Gadson, 77 F.4th 16 (1st Cir. 2023)",
+    "United States v. You, 74 F.4th 378 (6th Cir. 2023)",
+    "United States v. Lee, 77 F.4th 565 (7th Cir. 2023)",
+    "United States v. Verdeza, 69 F.4th 780 (11th Cir. 2023)",
+    "United States v. Tellez Crespo, 86 F.4th 1148 (6th Cir. 2023)"
+   ]
+  },
+  {
+   "position": "'Loss' under U.S.S.G. \u00a7 2B1.1(b)(1) is limited to actual loss.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Banks, 55 F.4th 246 (3d Cir. 2022)"
+   ]
+  }
+ ],
+ "this_court": "Follows the intended-loss view under binding Sixth Circuit precedent (United States v. You), while noting that the opposing reading may be correct and not deciding the question on the merits.",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "The Third Circuit, we note, has held otherwise.",
+ "cluster_id": 9442043,
+ "cite": "United States v. Yanier Tellez Crespo, 86 F.4th 1148 (6th Cir. 2023)",
+ "court": "6th",
+ "date": "2023-11-17",
+ "url": "https://www.courtlistener.com/opinion/9442043/united-states-v-yanier-tellez-crespo/",
+ "usage": {
+  "in": 1317,
+  "out": 1699
+ }
+}

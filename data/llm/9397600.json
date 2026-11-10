@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Must an indictment charging a continuing criminal enterprise under 21 U.S.C. \u00a7 848 identify the three predicate narcotics violations by statutory reference, or must courts apply a facts-and-circumstances test to decide whether the indictment is sufficient?",
+ "provision": "21 U.S.C. \u00a7 848",
+ "topic": "Drug offenses",
+ "sides": [
+  {
+   "position": "An indictment charging a CCE offense is sufficient when it specifies the predicate violations by reference to statutory sections, or when other counts describe the predicate narcotics violations; no facts-and-circumstances test is needed.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Flaharty (2d Cir.)",
+    "United States v. Montague, 67 F.4th 520 (2d Cir. 2023)"
+   ]
+  },
+  {
+   "position": "Whether an indictment charging a CCE offense is sufficient is judged under a facts-and-circumstances test rather than by a fixed pleading rule.",
+   "circuits": [
+    "3d"
+   ],
+   "cases": [
+    "United States v. Bansal, 663 F.3d 634 (3d Cir. 2011)"
+   ]
+  }
+ ],
+ "this_court": "The Second Circuit follows the Flaharty approach and holds the Montague indictment sufficient. It does not adopt the Third Circuit's facts-and-circumstances test, and it says any split emerged from Bansal rather than from its own decision.",
+ "source": "dissent",
+ "confidence": 0.5,
+ "quote": "The dissent claims that our decision creates a circuit split with the Third Circuit's decision in Bansal.",
+ "cluster_id": 9397600,
+ "cite": "United States v. Montague, 67 F.4th 520 (2d Cir. 2023)",
+ "court": "2d",
+ "date": "2023-05-09",
+ "url": "https://www.courtlistener.com/opinion/9397600/united-states-v-montague/",
+ "usage": {
+  "in": 1358,
+  "out": 2638
+ }
+}

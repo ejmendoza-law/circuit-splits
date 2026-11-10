@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10807484,
+ "cite": "United States v. Nico Lowers, No. 24-4546 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-03-10",
+ "url": "https://www.courtlistener.com/opinion/10807484/united-states-v-nico-lowers/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

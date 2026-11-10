@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9418514,
+ "cite": "United States v. Moshe Porat, 76 F.4th 213 (3rd Cir. 2023)",
+ "court": "3d",
+ "date": "2023-08-07",
+ "url": "https://www.courtlistener.com/opinion/9418514/united-states-v-moshe-porat/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

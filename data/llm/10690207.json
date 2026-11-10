@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a state-court motion for a belated direct appeal count as 'collateral review' that tolls AEDPA's one-year limitations period under 28 U.S.C. \u00a7 2244(d)(2)?",
+ "provision": "28 U.S.C. \u00a7 2244(d)(2)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "A pending motion for belated direct appeal is collateral review and tolls AEDPA's limitations period.",
+   "circuits": [
+    "6th",
+    "8th"
+   ],
+   "cases": [
+    "Board v. Bradshaw, 805 F.3d 769 (6th Cir. 2015)",
+    "DiCenzi v. Rose, 452 F.3d 465 (6th Cir. 2006)",
+    "Garrett v. Payne, No. 23-3553 (8th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "A motion for belated appeal is not collateral review and does not toll AEDPA's limitations period.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Espinosa v. Sec'y, Dep't of Corr., 804 F.3d 1137 (11th Cir. 2015)",
+    "Danny v. Sec'y, Fla. Dep't of Corr., 811 F.3d 1301 (11th Cir. 2016)"
+   ]
+  }
+ ],
+ "this_court": "Adopts the Sixth Circuit's position: an Arkansas motion for belated direct appeal constitutes collateral review and tolls the limitations period.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In turn, our sister circuits have disagreed as to whether belated-appeal motions constitute \"collateral review.\"",
+ "cluster_id": 10690207,
+ "cite": "Harl Garrett v. Dexter Payne, No. 23-3553 (8th Cir. 2025)",
+ "court": "8th",
+ "date": "2025-10-03",
+ "url": "https://www.courtlistener.com/opinion/10690207/harl-garrett-v-dexter-payne/",
+ "usage": {
+  "in": 1872,
+  "out": 1264
+ }
+}

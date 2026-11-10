@@ -1,0 +1,45 @@
+{
+ "criminal": false,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Whether 8 U.S.C. \u00a7 1225(b)(2)(A) may be construed to deny bond hearings to noncitizens mandatorily detained after entering the country without authorization",
+ "provision": "8 U.S.C. \u00a7 1225(b)(2)(A)",
+ "topic": "Other",
+ "sides": [
+  {
+   "position": "Section 1225(b)(2)(A) may be construed to deny bond hearings to noncitizens mandatorily detained after entering without authorization",
+   "circuits": [
+    "5th",
+    "8th"
+   ],
+   "cases": [
+    "Buenrostro-Mendez v. Bondi, 166 F.4th 494 (5th Cir. 2026)",
+    "Avila v. Bondi, 170 F.4th 1128 (8th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Section 1225(b)(2)(A) does not deny bond hearings to such noncitizens",
+   "circuits": [
+    "2d",
+    "6th"
+   ],
+   "cases": [
+    "Barbosa da Cunha v. Freden, 175 F.4th 61 (2d Cir. 2026)",
+    "Lopez-Campos v. Raycraft, 175 F.4th 713 (6th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "I am aware that there is an active circuit split about whether Section 1225(b)(2)(A) of the IIRIRA may be construed to deny bond hearings to noncitizens mandatorily detained after entering the country without authorization.",
+ "cluster_id": 10934874,
+ "cite": "Badar Suri v. Donald Trump, No. 25-1560 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-07-23",
+ "url": "https://www.courtlistener.com/opinion/10934874/badar-suri-v-donald-trump/",
+ "usage": {
+  "in": 1872,
+  "out": 1321
+ }
+}

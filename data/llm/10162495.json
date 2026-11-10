@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a district court impermissibly delegate its Article III sentencing authority to the probation officer when a supervised-release condition requires mental-health treatment but does not specify whether it must be inpatient or outpatient?",
+ "provision": "18 U.S.C. \u00a7 3583(d)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "No impermissible delegation: leaving the inpatient-versus-outpatient choice to the probation officer does not improperly delegate judicial authority.",
+   "circuits": [
+    "5th",
+    "7th"
+   ],
+   "cases": [
+    "United States v. Aguilar-Cerda, 27 F.4th 1093 (5th Cir. 2022)",
+    "United States v. Cutler, 259 F. App'x 883 (7th Cir. 2008)"
+   ]
+  },
+  {
+   "position": "Impermissible delegation: a district court may not let the probation officer decide whether inpatient treatment is required.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Matta, 777 F.3d 116 (2d Cir. 2015)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "and circuits are split on this inpatient-outpatient claim, compare United States v. Aguilar-Cerda, 27 F.4th 1093, 1095\u201396 (5th Cir. 2022) (finding no impermissible delegation), and United States v. Cutler, 259 F. App\u2019x 883, 886\u201387 (7th Cir. 2008) (same), with United States v. Matta, 777 F.3d 116, 122\u201323 (2d Cir. 2015) (finding impermissible delegation).",
+ "cluster_id": 10162495,
+ "cite": "United States v. Eric Vaughn, 119 F.4th 1084 (6th Cir. 2024)",
+ "court": "6th",
+ "date": "2024-10-29",
+ "url": "https://www.courtlistener.com/opinion/10162495/united-states-v-eric-vaughn/",
+ "usage": {
+  "in": 1349,
+  "out": 1682
+ }
+}

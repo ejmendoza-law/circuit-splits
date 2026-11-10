@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Evidence",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "In any case, we need not determine whether our circuit is truly split and, if so, which formulation is correct, because Underwood's argument fails under any formulation.",
+ "cluster_id": 10340565,
+ "cite": "United States v. Duane Gary Underwood, II, 129 F.4th 912 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-02-26",
+ "url": "https://www.courtlistener.com/opinion/10340565/united-states-v-duane-gary-underwood-ii/",
+ "usage": {
+  "in": 1317,
+  "out": 468
+ }
+}

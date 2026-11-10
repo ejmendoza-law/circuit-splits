@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Seven circuits had said the opposite.",
+ "cluster_id": 9468119,
+ "cite": "FTC v. Elite IT Partners, 91 F.4th 1042 (10th Cir. 2024)",
+ "court": "10th",
+ "date": "2024-01-23",
+ "url": "https://www.courtlistener.com/opinion/9468119/ftc-v-elite-it-partners/",
+ "usage": {
+  "in": 1606,
+  "out": 888
+ }
+}

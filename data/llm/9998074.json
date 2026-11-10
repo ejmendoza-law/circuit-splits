@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the First Amendment require a reasonable mistake-of-age defense to a charge of producing child pornography under 18 U.S.C. \u00a7 2251(a)?",
+ "provision": "18 U.S.C. \u00a7 2251(a)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The First Amendment requires that a defendant be allowed to present a reasonable mistake-of-age defense to a \u00a7 2251 charge.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. U.S. District Court for the Central District of California, 858 F.2d 534 (9th Cir. 1988)"
+   ]
+  },
+  {
+   "position": "The First Amendment does not require a reasonable mistake-of-age defense to charges of producing child pornography under \u00a7 2251(a).",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Wilson, 565 F.3d 1059 (8th Cir. 2008)",
+    "United States v. Thurber, 106 F.4th 814 (8th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "does not require a reasonable mistake-of-age defense under the First Amendment, following Wilson and rejecting the Ninth Circuit's contrary holding",
+ "source": "majority",
+ "confidence": 0.75,
+ "quote": "[o]ther circuits have split as to whether the First Amendment requires reading a reasonable-mistake-of-age defense into [\u00a7 2251]",
+ "cluster_id": 9998074,
+ "cite": "United States v. Norman Thurber, 106 F.4th 814 (8th Cir. 2024)",
+ "court": "8th",
+ "date": "2024-07-08",
+ "url": "https://www.courtlistener.com/opinion/9998074/united-states-v-norman-thurber/",
+ "usage": {
+  "in": 1316,
+  "out": 1282
+ }
+}

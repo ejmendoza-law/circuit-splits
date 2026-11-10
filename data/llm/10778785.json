@@ -1,0 +1,43 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the new-evidence exception for successive habeas petitions (28 U.S.C. \u00a7 2255(h)(1) and the parallel \u00a7 2244(b)(2)(B)(ii) provision) reach challenges to a death sentence?",
+ "provision": "28 U.S.C. \u00a7 2255(h)(1)",
+ "topic": "Habeas & post-conviction",
+ "sides": [
+  {
+   "position": "The new-evidence provision in \u00a7 2244(b)(2)(B)(ii) encompasses challenges to death sentences.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "Babbitt v. Woodford, 177 F.3d 744 (9th Cir. 1999)"
+   ]
+  },
+  {
+   "position": "The new-evidence provision in \u00a7 2255(h)(1) (and \u00a7 2244(b)(2)(B)(ii)) does not encompass challenges to death sentences.",
+   "circuits": [
+    "5th",
+    "11th"
+   ],
+   "cases": [
+    "In re Webster, 605 F.3d 256 (5th Cir. 2010)",
+    "In re Jones, 137 F.3d 1271 (11th Cir. 1998)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "We limit this holding by noting a circuit split on the scope of the new evidence provision in \u00a7 2254(b)(2)(B)(ii) and \u00a7 2255(h)(1) in death penalty cases.",
+ "cluster_id": 10778785,
+ "cite": "In re: Wesley, No. 25-3075 (10th Cir. 2026)",
+ "court": "10th",
+ "date": "2026-01-23",
+ "url": "https://www.courtlistener.com/opinion/10778785/in-re-wesley/",
+ "usage": {
+  "in": 1310,
+  "out": 1454
+ }
+}

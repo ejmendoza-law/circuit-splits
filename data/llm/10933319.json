@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 10933319,
+ "cite": "Mahdawi v. Trump, No. 25-1113 (2d Cir. 2026)",
+ "court": "2d",
+ "date": "2026-07-21",
+ "url": "https://www.courtlistener.com/opinion/10933319/mahdawi-v-trump/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.9,
+ "quote": "The only hope for wronged noncustodial plaintiffs like Erma Wilson is that the Supreme Court will at last confront the persistent circuit split",
+ "cluster_id": 10116259,
+ "cite": "Wilson v. Midland County, 116 F.4th 384 (5th Cir. 2024)",
+ "court": "5th",
+ "date": "2024-09-13",
+ "url": "https://www.courtlistener.com/opinion/10116259/wilson-v-midland-county/",
+ "usage": {
+  "in": 1153,
+  "out": 970
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does 18 U.S.C. \u00a7 1505 reach obstruction of an agency proceeding that involves enforcement rather than adjudicative or rulemaking authority, such as ICE enforcement against noncitizens?",
+ "provision": "18 U.S.C. \u00a7 1505",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Section 1505 is limited to agencies exercising adjudicative or rulemaking authority; ICE enforcement activity does not qualify as a pending proceeding.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "United States v. Hernandez, No. 24-4665 (4th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "Section 1505 applies to any pending proceeding before an agency, including proceedings where the agency enforces an order, and is not limited to agencies with adjudicative or rulemaking power.",
+   "circuits": [],
+   "cases": [
+    "United States v. Kirst, 54 F.4th 605 (cited as 54 F.4th at 620)",
+    "United States v. Hopper, 177 F.3d 824 (cited as 177 F.3d at 828\u201331)",
+    "United States v. Senffner, 280 F.3d 757 (cited as 280 F.3d at 760\u201361)"
+   ]
+  }
+ ],
+ "this_court": "The majority adopts the narrow reading, limiting \u00a7 1505 to agencies with adjudicative or rulemaking authority.",
+ "source": "dissent",
+ "confidence": 0.5,
+ "quote": "Worse still, it does so without even giving these courts the respect to acknowledge the circuit split it has made.",
+ "cluster_id": 10844710,
+ "cite": "United States v. Dennis Hernandez, No. 24-4665 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-04-16",
+ "url": "https://www.courtlistener.com/opinion/10844710/united-states-v-dennis-hernandez/",
+ "usage": {
+  "in": 1318,
+  "out": 2109
+ }
+}

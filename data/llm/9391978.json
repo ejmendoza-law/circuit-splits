@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9391978,
+ "cite": "United States v. Munoz, No. 22-10451 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-04-17",
+ "url": "https://www.courtlistener.com/opinion/9391978/united-states-v-munoz/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

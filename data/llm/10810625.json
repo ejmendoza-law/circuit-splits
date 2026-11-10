@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Esteras v. United States, 606 U.S. 185 (2025) (Supreme Court) resolved the split by holding that district courts may not consider 18 U.S.C. \u00a7 3553(a)(2)(A) when revoking supervised release.",
+ "issue": "May a district court consider the retributive purpose in 18 U.S.C. \u00a7 3553(a)(2)(A) when imposing a reimprisonment term after revoking supervised release?",
+ "provision": "18 U.S.C. \u00a7 3583(e)",
+ "topic": "Supervised release & probation",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "Before Esteras, a circuit split had arisen regarding the extent to which district courts may consider \u00a7 3553(a)(2)(A) in supervised-release revocation proceedings.",
+ "cluster_id": 10810625,
+ "cite": "United States v. Steven Bradford, No. 24-2687 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-03-18",
+ "url": "https://www.courtlistener.com/opinion/10810625/united-states-v-steven-bradford/",
+ "usage": {
+  "in": 1314,
+  "out": 923
+ }
+}

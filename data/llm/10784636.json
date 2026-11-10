@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Supreme Court in Esteras v. United States, 145 S. Ct. 2031 (2025), which held that Congress intentionally omitted 18 U.S.C. \u00a7 3553(a)(2)(A) from \u00a7 3583(e), so district courts may not consider 'respect for the law' when imposing revocation sentences.",
+ "issue": "Before Esteras, may a district court consider the \u00a7 3553(a)(2)(A) 'respect for the law' or just-punishment factor when imposing a revocation sentence under 18 U.S.C. \u00a7 3583(e), and if so, how much weight may it give that factor?",
+ "provision": "18 U.S.C. \u00a7 3583(e); 18 U.S.C. \u00a7 3553(a)(2)(A)",
+ "topic": "Supervised release & probation",
+ "sides": [
+  {
+   "position": "District courts may consider the \u00a7 3553(a)(2)(A) factor in revocation sentencing, but may give it only insignificant weight, not dominant weight. The excerpt identifies this as the Eighth Circuit's approach.",
+   "circuits": [
+    "8th"
+   ],
+   "cases": [
+    "United States v. Martin, 757 F.3d 776 (8th Cir. 2014)",
+    "United States v. Hall, 931 F.3d 694 (8th Cir. 2019)",
+    "United States v. Feemster, 572 F.3d 455 (8th Cir. 2009) (en banc)",
+    "United States v. Higgerson, No. 24-3109 (8th Cir. 2026)"
+   ]
+  },
+  {
+   "position": "District courts may not consider the \u00a7 3553(a)(2)(A) factor at all in revocation sentencing, or may not give it dominant weight. The excerpt says some circuits took these positions but does not name them.",
+   "circuits": [],
+   "cases": [
+    "United States v. Higgerson, No. 24-3109 (8th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.45,
+ "quote": "Due to textual ambiguity in \u00a7 3583(e), which governs revocation sentencing, a circuit split arose.",
+ "cluster_id": 10784636,
+ "cite": "United States v. Benjamin Higgerson, No. 24-3109 (8th Cir. 2026)",
+ "court": "8th",
+ "date": "2026-02-05",
+ "url": "https://www.courtlistener.com/opinion/10784636/united-states-v-benjamin-higgerson/",
+ "usage": {
+  "in": 1726,
+  "out": 2273
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does Kisor v. Wilkie's framework for deference to agency interpretations, including its threshold requirement that a regulation be genuinely ambiguous, also govern deference to Sentencing Guidelines commentary under Stinson v. United States?",
+ "provision": "U.S.S.G. commentary (Stinson v. United States, 508 U.S. 36 (1993); Kisor v. Wilkie, 588 U.S. 558 (2019))",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Kisor modifies Stinson, so Guidelines commentary receives deference only if the guideline is genuinely ambiguous after traditional interpretive tools are exhausted, and the commentary's reading is reasonable and entitled to controlling weight.",
+   "circuits": [
+    "3d",
+    "4th",
+    "6th",
+    "9th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Castillo, 69 F.4th 648 (9th Cir. 2023)",
+    "United States v. Dupree, 57 F.4th 1269 (11th Cir. 2023) (en banc)",
+    "United States v. Nasir, 17 F.4th 459 (3d Cir. 2021) (en banc)",
+    "United States v. Riccardi, 989 F.3d 476 (6th Cir. 2021)",
+    "United States v. Campbell, 22 F.4th 438 (4th Cir. 2022)",
+    "United States v. Johnson, 104 F.4th 662 (7th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Kisor does not modify Stinson, so Guidelines commentary keeps its Stinson deference without the Kisor prerequisites.",
+   "circuits": [
+    "4th",
+    "5th",
+    "7th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Vargas, 74 F.4th 673 (5th Cir. 2023) (en banc)",
+    "United States v. Maloid, 71 F.4th 795 (10th Cir. 2023)",
+    "United States v. Moses, 23 F.4th 347 (4th Cir. 2022)",
+    "United States v. Johnson, 104 F.4th 662 (7th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Kisor does not modify Stinson; this court follows its earlier decision in White, holding that Kisor does not change the deference owed to Guidelines commentary.",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "Our sister circuits are divided as to whether Kisor's prerequisites for the deference owed to agency interpretations also apply to the deference owed to guidelines commentary.",
+ "cluster_id": 9567807,
+ "cite": "United States v. Christopher Johnson, 104 F.4th 662 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-06-18",
+ "url": "https://www.courtlistener.com/opinion/9567807/united-states-v-christopher-johnson/",
+ "usage": {
+  "in": 1319,
+  "out": 2024
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "As both parties acknowledge, only one circuit -- the Sixth Circuit -- has decided the question Daniells asks us to decide, and it has construed the guideline as Daniells contends that it must be construed.",
+ "cluster_id": 9421922,
+ "cite": "United States v. Daniells, 79 F.4th 57 (1st Cir. 2023)",
+ "court": "1st",
+ "date": "2023-08-22",
+ "url": "https://www.courtlistener.com/opinion/9421922/united-states-v-daniells/",
+ "usage": {
+  "in": 1321,
+  "out": 706
+ }
+}

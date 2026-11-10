@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "not reported; the opinion holds that 8 U.S.C. \u00a7 1226 governs bond hearings for noncitizens present without admission, but the question is immigration detention, which is outside the criminal scope",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "The debate has now reached every numbered United States court of appeals and has led to a circuit split.",
+ "cluster_id": 10972091,
+ "cite": "Oscar Lopez Garcia v. Robert Guadian, No. 25-7044 (4th Cir. 2026)",
+ "court": "4th",
+ "date": "2026-09-10",
+ "url": "https://www.courtlistener.com/opinion/10972091/oscar-lopez-garcia-v-robert-guadian/",
+ "usage": {
+  "in": 2889,
+  "out": 741
+ }
+}

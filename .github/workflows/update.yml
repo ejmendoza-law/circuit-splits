@@ -1,0 +1,46 @@
+name: Weekly update
+on:
+  schedule:
+    - cron: "17 9 * * 1"        # Mondays, 9:17 UTC
+  workflow_dispatch:
+    inputs:
+      after:
+        description: "Only look at opinions filed after this date (YYYY-MM-DD). Blank = last 45 days."
+        required: false
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: site
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Find and classify new opinions
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AFTER: ${{ inputs.after }}
+        run: |
+          AFTER="${AFTER:-$(date -u -d '45 days ago' +%F)}" ./run_weekly.sh
+      - name: Save results
+        run: |
+          git config user.name "circuit-splits-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data site/data
+          git diff --cached --quiet || git commit -m "Weekly update"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,45 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does the reasonable-belief standard for searching a supervised releasee or parolee under a search condition require probable cause?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Reasonable belief for a search condition requires a lesser showing than probable cause.",
+   "circuits": [
+    "D.C.",
+    "3d"
+   ],
+   "cases": [
+    "United States v. Thomas, 429 F.3d 282 (D.C. Cir. 2005)",
+    "United States v. Vasquez-Algarin, 821 F.3d 467 (3d Cir. 2016)"
+   ]
+  },
+  {
+   "position": "Reasonable belief for a search condition is equated with probable cause.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Grandberry, 730 F.3d 968 (9th Cir. 2013)",
+    "United States v. Howard, 447 F.3d 1257 (9th Cir. 2006)",
+    "United States v. Barry, 140 F.4th 1105 (9th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "Equates reasonable belief with probable cause under the Ninth Circuit's existing rule (Grandberry, Howard), and applies it in this case.",
+ "source": "concurrence",
+ "confidence": 0.7,
+ "quote": "There is a considerable circuit split on that question.",
+ "cluster_id": 10606479,
+ "cite": "United States v. Barry, 140 F.4th 1105 (9th Cir. 2025)",
+ "court": "9th",
+ "date": "2025-06-17",
+ "url": "https://www.courtlistener.com/opinion/10606479/united-states-v-barry/",
+ "usage": {
+  "in": 1312,
+  "out": 1618
+ }
+}

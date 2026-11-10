@@ -1,0 +1,33 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "United States v. Sanders, 106 F.4th 466 (6th Cir. 2024), which the opinion says resolved an intra- and inter-circuit split",
+ "issue": "Does a known drug dealer's residence establish probable cause to search it when the dealer is engaged in continual and ongoing drug operations?",
+ "provision": "U.S. Const. amend. IV",
+ "topic": "Search & seizure",
+ "sides": [
+  {
+   "position": "Probable cause to search a known drug dealer's residence is established where the dealer is engaged in continual and ongoing operations typically involving large amounts of drugs.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "United States v. Sanders, 106 F.4th 466 (6th Cir. 2024)",
+    "United States v. Higgins, 141 F.4th 811 (6th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "follows Sanders' rule",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "See Sanders, 106 F.4th at 466 (resolving intra- and inter-circuit split and recognizing that \u201cprobable cause to search a known drug dealer\u2019s residence is established where the dealer is engaged in continual and ongoing operations typically involving large amounts of drugs\u201d (citations and quotations omitted))",
+ "cluster_id": 10618993,
+ "cite": "United States v. Rodney Hamilton Higgins, Jr., 141 F.4th 811 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-06-27",
+ "url": "https://www.courtlistener.com/opinion/10618993/united-states-v-rodney-hamilton-higgins-jr/",
+ "usage": {
+  "in": 1318,
+  "out": 2026
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Firearms",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "This court's jurisprudence forecloses Porter's Second Amendment challenge to 18 U.S.C. \u00a7 922(o) argument\u2014machineguns \"do not receive Second Amendment protection.\"",
+ "cluster_id": 10810059,
+ "cite": "United States v. Porter, No. 25-60163 (5th Cir. 2026)",
+ "court": "5th",
+ "date": "2026-03-17",
+ "url": "https://www.courtlistener.com/opinion/10810059/united-states-v-porter/",
+ "usage": {
+  "in": 1318,
+  "out": 516
+ }
+}

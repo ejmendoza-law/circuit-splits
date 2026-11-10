@@ -1,0 +1,276 @@
+<title>Circuit Split Tracker</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<style>
+/* Layout: one reading column. Each split is a row whose signature is a 12-chip strip of the circuits, colored by side. */
+:root{
+  --bg:#f5f7fa; --surface:#ffffff; --ink:#16223a; --muted:#5b6679; --line:#d9dfe8;
+  --accent:#1d4f9c; --accent-soft:#e6eefb;
+  --sideA:#1d4f9c; --sideB:#b8650a; --sideC:#6b3fa0; --sideD:#0f7a6c; --on-side:#ffffff;
+  --ok:#1b7a43; --ok-soft:#e2f3e8; --warn:#8a5a00; --warn-soft:#fbf0d6; --bad:#a3271f; --bad-soft:#fbe6e4;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --sans:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0f1522; --surface:#182033; --ink:#e7ebf3; --muted:#9aa5b8; --line:#2c3750;
+  --accent:#8db4f5; --accent-soft:#1d2c4a;
+  --sideA:#5e94ea; --sideB:#e09a3c; --sideC:#b08be0; --sideD:#4cc0b0; --on-side:#0f1522;
+  --ok:#6fd198; --ok-soft:#173326; --warn:#e8bd5b; --warn-soft:#3a2f12; --bad:#f08a80; --bad-soft:#3d1c19;
+  color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#0f1522; --surface:#182033; --ink:#e7ebf3; --muted:#9aa5b8; --line:#2c3750;
+  --accent:#8db4f5; --accent-soft:#1d2c4a;
+  --sideA:#5e94ea; --sideB:#e09a3c; --sideC:#b08be0; --sideD:#4cc0b0; --on-side:#0f1522;
+  --ok:#6fd198; --ok-soft:#173326; --warn:#e8bd5b; --warn-soft:#3a2f12; --bad:#f08a80; --bad-soft:#3d1c19;
+  color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans)}
+.wrap{max-width:920px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:20px}
+h1{font:600 30px/1.15 var(--serif);margin:0;text-wrap:balance}
+.lede{color:var(--muted);max-width:65ch;margin:6px 0 0}
+.tabs{display:flex;gap:6px;flex-wrap:wrap}
+.tab{font:600 13px var(--sans);padding:7px 12px;border:1px solid var(--line);background:var(--surface);color:var(--muted);border-radius:6px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.filters{display:grid;grid-template-columns:2fr 1.3fr 1fr 1fr;gap:10px}
+.filters label{display:flex;flex-direction:column;gap:4px;font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);min-width:0}
+input,select,textarea{font:15px var(--sans);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 10px;width:100%;min-width:0}
+textarea{resize:vertical;line-height:1.45}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{color:var(--muted);font-size:13px}
+.list{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.row{border-bottom:1px solid var(--line)}
+.head{display:grid;grid-template-columns:1fr auto;gap:6px 18px;padding:16px 4px;cursor:pointer;background:none;border:0;width:100%;text-align:left;color:inherit;font:inherit}
+.head:hover .q{color:var(--accent)}
+.meta{grid-column:1/-1;display:flex;gap:8px 12px;flex-wrap:wrap;align-items:center;font-size:12.5px;color:var(--muted)}
+.topic{font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:11px;color:var(--accent)}
+.q{font:600 18px/1.3 var(--serif);margin:0;text-wrap:balance;min-width:0}
+.strip{display:grid;grid-template-columns:repeat(12,22px);gap:3px;align-self:start;padding-top:3px}
+.chip{height:22px;border-radius:3px;border:1px solid var(--line);font:600 10px/20px var(--sans);text-align:center;color:var(--muted);font-variant-numeric:tabular-nums}
+.chip.s0{background:var(--sideA);border-color:var(--sideA);color:var(--on-side)}
+.chip.s1{background:var(--sideB);border-color:var(--sideB);color:var(--on-side)}
+.chip.s2{background:var(--sideC);border-color:var(--sideC);color:var(--on-side)}
+.chip.s3{background:var(--sideD);border-color:var(--sideD);color:var(--on-side)}
+.badge{font:600 11px var(--sans);padding:2px 7px;border-radius:99px}
+.b-unreviewed{background:var(--warn-soft);color:var(--warn)}
+.b-approved{background:var(--ok-soft);color:var(--ok)}
+.b-needs_review{background:var(--accent-soft);color:var(--accent)}
+.b-rejected{background:var(--bad-soft);color:var(--bad)}
+.body{padding:0 4px 20px;display:flex;flex-direction:column;gap:16px}
+.sides{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.side{border-left:4px solid var(--line);padding-left:12px;min-width:0}
+.side.s0{border-color:var(--sideA)}.side.s1{border-color:var(--sideB)}.side.s2{border-color:var(--sideC)}.side.s3{border-color:var(--sideD)}
+.side h3{font:700 12px var(--sans);letter-spacing:.05em;text-transform:uppercase;margin:0 0 4px;color:var(--muted)}
+.side p{margin:0 0 6px}
+.cases{margin:0;padding-left:18px;color:var(--muted);font-size:13.5px;overflow-wrap:anywhere}
+h4{font:700 12px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+.ops{display:flex;flex-direction:column;gap:10px;margin:0;padding:0;list-style:none}
+.ops a{color:var(--accent);font-weight:600;overflow-wrap:anywhere}
+.ops q{display:block;color:var(--muted);font:500 14.5px/1.45 var(--serif);margin-top:2px}
+.note{background:var(--accent-soft);padding:10px 12px;border-radius:6px}
+.actions{display:flex;gap:8px;flex-wrap:wrap;align-items:center;border-top:1px dashed var(--line);padding-top:14px}
+.btn{font:600 13.5px var(--sans);padding:8px 14px;border-radius:6px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.btn.ok{background:var(--ok);border-color:var(--ok);color:var(--bg)}
+.btn.bad{color:var(--bad);border-color:var(--bad)}
+.btn:disabled{opacity:.5;cursor:default}
+.edit{display:flex;flex-direction:column;gap:10px}
+.edit label{display:flex;flex-direction:column;gap:4px;font:600 12px var(--sans);color:var(--muted)}
+.edit .pair{display:grid;grid-template-columns:2fr 1fr;gap:10px}
+.status{font-size:13px;color:var(--muted)}
+.empty{padding:28px 4px;color:var(--muted)}
+footer{color:var(--muted);font-size:13px;max-width:70ch}
+@media (max-width:640px){
+  .filters{grid-template-columns:1fr 1fr}.filters label:first-child{grid-column:1/-1}
+  .head{grid-template-columns:1fr}.edit .pair{grid-template-columns:1fr}
+  .strip{grid-template-columns:repeat(12,minmax(0,22px))}
+}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Circuit Split Tracker</h1>
+    <p class="lede">Open disagreements among the federal courts of appeals on questions of criminal law, drawn from published opinions since 2020. Each entry shows which circuits are on which side.</p>
+  </header>
+
+  <div class="note" id="ghnote" hidden>Review mode. Each button opens GitHub with the request filled in. Click <strong>Create</strong> there to confirm. The site updates about two minutes later.</div>
+  <div class="tabs" id="tabs" role="tablist" hidden></div>
+
+  <div class="filters">
+    <label for="f-q">Search<input id="f-q" type="search" placeholder="e.g. 922(g), compassionate release, loss amount"></label>
+    <label for="f-topic">Topic<select id="f-topic"><option value="">All topics</option></select></label>
+    <label for="f-circ">Circuit<select id="f-circ"><option value="">Any circuit</option></select></label>
+    <label for="f-sort">Sort<select id="f-sort"><option value="latest">Newest opinion</option><option value="circuits">Most circuits</option></select></label>
+  </div>
+  <div class="count" id="count">Loading splits…</div>
+  <div class="list" id="list"></div>
+
+  <footer>
+    <p><strong>How this works.</strong> Each week a program searches CourtListener for new published federal appellate opinions that use circuit-split language, reads the relevant passages, and records the question and the circuits on each side. Entries marked <em>Unreviewed</em> were generated by software and have not been checked by a lawyer. Entries marked <em>Reviewed</em> have.</p>
+    <p>This is a research starting point, not legal advice. Read the opinions and confirm that a split still exists before you rely on it.</p>
+  </footer>
+</div>
+
+<script>
+const CIRCS=["1st","2d","3d","4th","5th","6th","7th","8th","9th","10th","11th","D.C."];
+const SHORT=["1","2","3","4","5","6","7","8","9","10","11","DC"];
+const LABEL={unreviewed:"Unreviewed",approved:"Reviewed",needs_review:"Needs review",rejected:"Rejected"};
+const $=s=>document.querySelector(s);
+const el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e};
+const REPO="ejmendoza-law/circuit-splits";
+let splits=[],reviews={},db=null,gh=false,sent={},canReview=false,view="published",open=new Set(),editing=null,busy=false;
+
+function eff(s){const r=reviews[s.id];return r?{...s,...(r.edits||{}),status:r.status}:s}
+function fmtDate(d){return new Date(d+"T12:00:00").toLocaleDateString("en-US",{year:"numeric",month:"short",day:"numeric"})}
+function inView(s){
+  if(view==="queue")return s.status==="needs_review";
+  if(view==="rejected")return s.status==="rejected";
+  return s.status==="approved"||s.status==="unreviewed";
+}
+function matches(s){
+  const q=$("#f-q").value.trim().toLowerCase(),t=$("#f-topic").value,c=$("#f-circ").value;
+  if(t&&s.topic!==t)return false;
+  if(c&&!s.sides.some(x=>x.circuits.includes(c)))return false;
+  if(!q)return true;
+  const hay=[s.title,s.issue,s.provision,s.topic,s.note,...s.sides.flatMap(x=>[x.position,...x.cases]),...s.opinions.map(o=>o.cite)].join(" ").toLowerCase();
+  return q.split(/\s+/).every(w=>hay.includes(w));
+}
+function strip(s){
+  const d=el("div","strip");d.setAttribute("role","img");
+  const parts=[];
+  CIRCS.forEach((c,i)=>{const k=s.sides.findIndex(x=>x.circuits.includes(c));d.append(el("span","chip"+(k>=0&&k<4?" s"+k:""),SHORT[i]))});
+  s.sides.forEach((x,i)=>{if(x.circuits.length)parts.push("Side "+"ABCD"[i]+": "+x.circuits.join(", "))});
+  d.setAttribute("aria-label",parts.join("; ")||"No circuits identified");
+  return d;
+}
+function row(s){
+  const r=el("div","row"),h=el("button","head");h.type="button";h.setAttribute("aria-expanded",open.has(s.id));
+  const m=el("div","meta");
+  m.append(el("span","topic",s.topic||"Other"));
+  if(s.provision)m.append(el("span",null,s.provision));
+  m.append(el("span",null,"Latest opinion "+fmtDate(s.latest)));
+  m.append(el("span","badge b-"+s.status,LABEL[s.status]));
+  h.append(m,el("h2","q",s.issue),strip(s));
+  h.onclick=()=>{open.has(s.id)?open.delete(s.id):open.add(s.id);render()};
+  r.append(h);
+  if(open.has(s.id))r.append(editing===s.id?editForm(s):body(s));
+  return r;
+}
+function body(s){
+  const b=el("div","body"),sides=el("div","sides");
+  s.sides.forEach((x,i)=>{
+    const d=el("div","side s"+i);
+    d.append(el("h3",null,"Side "+"ABCD"[i]+(x.circuits.length?" · "+x.circuits.join(", ")+" Cir.":" · circuits not identified")),el("p",null,x.position));
+    if(x.cases.length){const ul=el("ul","cases");x.cases.forEach(c=>ul.append(el("li",null,c)));d.append(ul)}
+    sides.append(d);
+  });
+  b.append(sides);
+  if(s.note)b.append(el("div","note",s.note));
+  const w=el("div");w.append(el("h4",null,s.opinions.length>1?"Opinions acknowledging the split":"Opinion acknowledging the split"));
+  const ul=el("ul","ops");
+  s.opinions.forEach(o=>{
+    const li=el("li"),a=el("a",null,o.cite);a.href=o.url;a.target="_blank";a.rel="noopener";
+    li.append(a);
+    if(o.source&&o.source!=="majority")li.append(el("span","status"," ("+o.source+")"));
+    if(o.quote)li.append(el("q",null,o.quote));
+    ul.append(li);
+  });
+  w.append(ul);b.append(w);
+  if(canReview)b.append(actions(s));
+  return b;
+}
+function actions(s){
+  const a=el("div","actions");
+  const mk=(label,cls,fn)=>{const x=el("button","btn "+cls,label);x.type="button";x.disabled=busy;x.onclick=fn;return x};
+  if(s.status!=="approved")a.append(mk("Approve","ok",()=>save(s.id,{status:"approved"})));
+  a.append(mk("Edit","",()=>{editing=s.id;render()}));
+  if(s.status!=="rejected")a.append(mk("Reject — not a real split","bad",()=>save(s.id,{status:"rejected"})));
+  if(reviews[s.id]||(gh&&(s.status==="approved"||s.status==="rejected")))a.append(mk("Undo review","",()=>save(s.id,null)));
+  if(sent[s.id])a.append(el("span","status","Sent to GitHub: "+sent[s.id]+"."));
+  a.append(el("span","status","Software confidence "+Math.round(s.confidence*100)+"%"));
+  return a;
+}
+function editForm(s){
+  const f=el("form","body edit");
+  const field=(id,label,val,tag)=>{const l=el("label",null,label),i=el(tag||"input");i.id="e-"+id+"-"+s.id;i.value=val||"";if(tag==="textarea")i.rows=2;l.htmlFor=i.id;l.append(i);return [l,i]};
+  const [l1,issue]=field("issue","Question",s.issue,"textarea");
+  const [l2,prov]=field("prov","Statute, guideline, or rule",s.provision);
+  const [l3,note]=field("note","Note for readers (optional)",s.note,"textarea");
+  f.append(l1,l2);
+  const sideInputs=s.sides.map((x,i)=>{
+    const p=el("div","pair");
+    const [a,pos]=field("pos"+i,"Side "+"ABCD"[i]+" position",x.position,"textarea");
+    const [b,circ]=field("circ"+i,"Circuits (e.g. 2d, 5th, D.C.)",x.circuits.join(", "));
+    p.append(a,b);f.append(p);return {pos,circ,cases:x.cases};
+  });
+  f.append(l3);
+  const a=el("div","actions"),sv=el("button","btn ok","Save and approve"),cn=el("button","btn","Cancel"),msg=el("span","status");
+  sv.type="submit";cn.type="button";cn.onclick=()=>{editing=null;render()};
+  a.append(sv,cn,msg);f.append(a);
+  f.onsubmit=e=>{
+    e.preventDefault();
+    const sides=[];
+    for(const x of sideInputs){
+      const cs=x.circ.value.split(/[,;]+/).map(t=>t.trim()).filter(Boolean);
+      const bad=cs.find(c=>!CIRCS.includes(c));
+      if(bad){msg.textContent='"'+bad+'" is not a circuit. Use: '+CIRCS.join(", ");return}
+      sides.push({position:x.pos.value.trim(),circuits:cs,cases:x.cases});
+    }
+    editing=null;
+    save(s.id,{status:"approved",edits:{issue:issue.value.trim(),provision:prov.value.trim(),note:note.value.trim(),sides}});
+  };
+  return f;
+}
+function ghSave(id,rec){
+  const act=rec===null?"undo":rec.status==="approved"?"approve":"reject";
+  let body="Review request from the Circuit Split Tracker. Click Create to record it.";
+  if(rec&&rec.edits)body+="\n\n```json\n"+JSON.stringify(rec.edits,null,1)+"\n```";
+  const url="https://github.com/"+REPO+"/issues/new?title="+encodeURIComponent("[review] "+act+" "+id)+"&body="+encodeURIComponent(body);
+  window.open(url,"_blank","noopener");
+  sent[id]=act;render();
+}
+async function save(id,rec){
+  if(gh){ghSave(id,rec);return}
+  if(!db||busy)return;busy=true;render();
+  try{
+    if(rec===null)await db.doc("reviews/"+id).delete();
+    else{const prev=reviews[id]||{};await db.doc("reviews/"+id).set({status:rec.status,edits:rec.edits||prev.edits||{},at:new Date().toISOString()})}
+    $("#count").dataset.msg="";
+  }catch(e){$("#count").dataset.msg="Could not save that review. Check your connection and try again.";}
+  busy=false;render();
+}
+function render(){
+  const all=splits.map(eff);
+  const n=k=>all.filter(s=>k==="published"?(s.status==="approved"||s.status==="unreviewed"):s.status===k).length;
+  const tabs=$("#tabs");tabs.hidden=!canReview;
+  if(canReview){
+    tabs.replaceChildren(...[["published","Published ("+n("published")+")"],["queue","Review queue ("+n("needs_review")+")"],["rejected","Rejected ("+n("rejected")+")"]].map(([k,t])=>{
+      const b=el("button","tab",t);b.type="button";b.setAttribute("role","tab");b.setAttribute("aria-selected",view===k);b.onclick=()=>{view=k;render()};return b}));
+  }
+  let rows=all.filter(inView).filter(matches);
+  if($("#f-sort").value==="circuits")rows.sort((a,b)=>b.sides.flatMap(x=>x.circuits).length-a.sides.flatMap(x=>x.circuits).length);
+  else rows.sort((a,b)=>b.latest.localeCompare(a.latest));
+  const msg=$("#count").dataset.msg;
+  $("#count").textContent=msg||(rows.length+(rows.length===1?" split":" splits")+(view==="queue"?" waiting for review":view==="rejected"?" rejected":""));
+  const list=$("#list");
+  if(!rows.length){list.replaceChildren(el("div","empty",splits.length?(view==="queue"?"Nothing is waiting for review.":"No splits match those filters."):"Split data has not loaded."));return}
+  list.replaceChildren(...rows.map(row));
+}
+async function start(){
+  try{splits=await (await fetch("data/splits.json")).json()}catch(e){splits=[]}
+  const topics=[...new Set(splits.map(s=>s.topic||"Other"))].sort();
+  topics.forEach(t=>$("#f-topic").append(new Option(t,t)));
+  CIRCS.forEach(c=>$("#f-circ").append(new Option(c+" Cir.",c)));
+  ["#f-q","#f-topic","#f-circ","#f-sort"].forEach(s=>$(s).addEventListener("input",render));
+  render();
+  const ghMode=()=>{if(location.hash==="#review"&&!db){gh=true;canReview=true;$("#ghnote").hidden=false;render()}};
+  if(!window.claude||!window.claude.use){ghMode();addEventListener("hashchange",ghMode);return}
+  const [d,user]=await Promise.all([claude.use("db"),claude.use("user")]);
+  if(!d)return;
+  db=d;
+  canReview=user?await user.canEdit():false;
+  db.collection("reviews").onSnapshot(snap=>{
+    reviews={};snap.docs.forEach(x=>{reviews[x.id]=x.data()});render();
+  },()=>{canReview=false;render()});
+  render();
+}
+start();
+</script>

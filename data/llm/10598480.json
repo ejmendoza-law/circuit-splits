@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "18 U.S.C. \u00a7 2261A(2)(B)",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "In these instances, we are \u201cchary to create a circuit split.\u201d",
+ "cluster_id": 10598480,
+ "cite": "United States v. Jubert, 139 F.4th 484 (5th Cir. 2025)",
+ "court": "5th",
+ "date": "2025-06-04",
+ "url": "https://www.courtlistener.com/opinion/10598480/united-states-v-jubert/",
+ "usage": {
+  "in": 1314,
+  "out": 569
+ }
+}

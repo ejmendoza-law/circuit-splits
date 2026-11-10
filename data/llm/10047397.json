@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "concurrence",
+ "confidence": 0.9,
+ "quote": "I write separately (1) to criticize some of our Rooker-Feldman precedents and (2) to highlight an unresolved circuit split on the question of whether attorneys who allegedly abuse the federal bankruptcy process, like Cogan, may be held accountable in state court.",
+ "cluster_id": 10047397,
+ "cite": "Jeffrey Cogan v. Arnaldo Trabucco, 114 F.4th 1054 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-08-21",
+ "url": "https://www.courtlistener.com/opinion/10047397/jeffrey-cogan-v-arnaldo-trabucco/",
+ "usage": {
+  "in": 1871,
+  "out": 796
+ }
+}

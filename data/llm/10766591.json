@@ -1,0 +1,41 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a federal court modify a sentence that the President has already commuted, such that a \u00a7 3582(c)(1)(A) motion to reduce that sentence is not moot?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "A court cannot disturb a presidentially commuted sentence, even by further reducing it.",
+   "circuits": [
+    "4th"
+   ],
+   "cases": [
+    "Blount v. Clarke, 890 F.3d 456, 462 (4th Cir. 2018)"
+   ]
+  },
+  {
+   "position": "An executive commutation only modifies the execution of the judgment, so a court can still correct its own errors in the original sentence and may sometimes reduce a commuted sentence.",
+   "circuits": [
+    "6th"
+   ],
+   "cases": [
+    "Dennis v. Terris, 927 F.3d 955, 959-61 (6th Cir. 2019)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "A circuit split exists on whether a court can modify a commuted sentence.",
+ "cluster_id": 10766591,
+ "cite": "United States v. Jonathan Wright, No. 24-2057 (8th Cir. 2025)",
+ "court": "8th",
+ "date": "2025-12-30",
+ "url": "https://www.courtlistener.com/opinion/10766591/united-states-v-jonathan-wright/",
+ "usage": {
+  "in": 1314,
+  "out": 1044
+ }
+}

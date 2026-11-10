@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a defendant challenge the substantive reasonableness of a sentence imposed under a Rule 11(c)(1)(C) plea agreement, such that the sentence is 'imposed in violation of law' and reviewable under 18 U.S.C. \u00a7 3742(a)(1)?",
+ "provision": "18 U.S.C. \u00a7 3742(a)(1); Fed. R. Crim. P. 11(c)(1)(C)",
+ "topic": "Pleas & appeal waivers",
+ "sides": [
+  {
+   "position": "Appellate jurisdiction exists under \u00a7 3742(a)(1) to review the substantive reasonableness of a sentence imposed under a Rule 11(c)(1)(C) agreement.",
+   "circuits": [
+    "3d",
+    "6th",
+    "8th",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Olson, 544 F. App'x 114, 117 n.1 (3d Cir. 2013)",
+    "United States v. Garcia, 522 F.3d 855, 860 (9th Cir. 2008)",
+    "United States v. Lovell, 811 F.3d 1061, 1063 (8th Cir. 2016)",
+    "United States v. Perez, 464 F. App'x 467, 469 (6th Cir. 2012) (resolving the challenge on waiver grounds without addressing jurisdiction)"
+   ]
+  },
+  {
+   "position": "A sentence imposed pursuant to a Rule 11(c)(1)(C) agreement is not 'imposed in violation of law' because the defendant bargained for it, so there is no jurisdiction to review its reasonableness under \u00a7 3742(a)(1).",
+   "circuits": [
+    "10th"
+   ],
+   "cases": [
+    "United States v. Armendariz-Reza, 502 F. App'x 810, 812-13 (10th Cir. 2012)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "Our fellow circuits are divided on this question.",
+ "cluster_id": 9385461,
+ "cite": "United States v. Gonzalez, 62 F.4th 954 (5th Cir. 2023)",
+ "court": "5th",
+ "date": "2023-03-21",
+ "url": "https://www.courtlistener.com/opinion/9385461/united-states-v-gonzalez/",
+ "usage": {
+  "in": 1314,
+  "out": 1560
+ }
+}

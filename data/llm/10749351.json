@@ -1,0 +1,49 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Is criminal contempt under 18 U.S.C. \u00a7 401 automatically classified as a Class A felony under 18 U.S.C. \u00a7 3559(a), or is its classification determined by the most analogous underlying offense or a case-by-case approach?",
+ "provision": "18 U.S.C. \u00a7 3559(a)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Criminal contempt should automatically be classified as a Class A felony under \u00a7 3559(a), based on the literal reading of \u00a7 401.",
+   "circuits": [
+    "1st"
+   ],
+   "cases": [
+    "United States v. Wright, 812 F.3d 27 (1st Cir. 2016)"
+   ]
+  },
+  {
+   "position": "Classification under \u00a7 3559(a) turns on the statutory maximum of the most analogous underlying offense, not a literal reading of \u00a7 401.",
+   "circuits": [
+    "9th"
+   ],
+   "cases": [
+    "United States v. Broussard, 611 F.3d 1069 (9th Cir. 2010)",
+    "United States v. Carpenter, 91 F.3d 1282 (9th Cir. 1996) (per curiam)"
+   ]
+  },
+  {
+   "position": "Classification is decided through a flexible, case-by-case sentencing approach rather than a uniform rule.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": []
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "Circuits are divided on the proper classification of criminal contempt.",
+ "cluster_id": 10749351,
+ "cite": "United States v. Stacy Owens, No. 25-5015 (6th Cir. 2025)",
+ "court": "6th",
+ "date": "2025-12-08",
+ "url": "https://www.courtlistener.com/opinion/10749351/united-states-v-stacy-owens/",
+ "usage": {
+  "in": 1315,
+  "out": 1151
+ }
+}

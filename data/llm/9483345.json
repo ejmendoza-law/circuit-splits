@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.9,
+ "quote": "To reach a contrary result would be to go against this clear weight of authority and create a circuit split, and Vasquez Castaneda hasn't come close to showing how the substantial costs associated with creating such a split in this sensitive area of the law are justified here.",
+ "cluster_id": 9483345,
+ "cite": "Edgardo Vasquez Castaneda v. Paul Perry, 95 F.4th 750 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-03-11",
+ "url": "https://www.courtlistener.com/opinion/9483345/edgardo-vasquez-castaneda-v-paul-perry/",
+ "usage": {
+  "in": 1347,
+  "out": 444
+ }
+}

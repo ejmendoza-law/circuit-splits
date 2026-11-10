@@ -1,0 +1,56 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "When the government intentionally and unjustifiably intrudes into attorney-client communications about defense strategy, must the defendant show prejudice to establish a Sixth Amendment violation, and if prejudice is at issue, is it presumed or must the defendant prove it?",
+ "provision": "U.S. Const. amend. VI",
+ "topic": "Trial rights & procedure",
+ "sides": [
+  {
+   "position": "Prejudice is presumed, but the presumption is rebuttable, so the government must disprove prejudice.",
+   "circuits": [
+    "1st",
+    "9th"
+   ],
+   "cases": [
+    "United States v. Mastroianni, 749 F.2d 900 (1st Cir. 1984)",
+    "United States v. Danielson, 325 F.3d 1054 (9th Cir. 2003)",
+    "United States v. Irwin, 612 F.2d 1182 (9th Cir. 1980)"
+   ]
+  },
+  {
+   "position": "Prejudice is conclusively presumed, so an intentional intrusion into defense strategy requires structural-error relief without any showing of prejudice.",
+   "circuits": [
+    "3d",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Levy, 577 F.2d 200 (3d Cir. 1978)",
+    "United States v. Shillinger, 70 F.3d 1132 (10th Cir. 1995)"
+   ]
+  },
+  {
+   "position": "Defendant must show actual prejudice from the intrusion, and no presumption applies.",
+   "circuits": [
+    "D.C."
+   ],
+   "cases": [
+    "ACLU Found. of S. Cal. v. Barr, 952 F.2d 457 (D.C. Cir. 1991)",
+    "United States v. Hohn, 123 F.4th 1084 (10th Cir. 2024)"
+   ]
+  }
+ ],
+ "this_court": "Defendant must show prejudice, and neither a rebuttable nor a conclusive presumption applies; the court rejects Shillinger's structural-error rule.",
+ "source": "majority",
+ "confidence": 0.65,
+ "quote": "We disagree with the minority of circuits that construe prejudice as a rebuttable presumption in the defendant\u2019s favor.",
+ "cluster_id": 10293371,
+ "cite": "United States v. Hohn, 123 F.4th 1084 (10th Cir. 2024)",
+ "court": "10th",
+ "date": "2024-12-16",
+ "url": "https://www.courtlistener.com/opinion/10293371/united-states-v-hohn/",
+ "usage": {
+  "in": 4018,
+  "out": 3751
+ }
+}

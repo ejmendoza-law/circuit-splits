@@ -1,0 +1,61 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a First Step Act change to \u00a7 924(c)'s anti-stacking rule, which applies only prospectively, count as an extraordinary and compelling reason for a compassionate release sentence reduction under \u00a7 3582(c)(1)(A)?",
+ "provision": "18 U.S.C. \u00a7 3582(c)(1)(A)",
+ "topic": "Compassionate release & sentence reduction",
+ "sides": [
+  {
+   "position": "The \u00a7 924(c) anti-stacking amendment cannot be an extraordinary and compelling reason for a sentence reduction, because treating it as one would give the prospective-only change retroactive effect that Congress withheld in the First Step Act.",
+   "circuits": [
+    "3d",
+    "5th",
+    "6th",
+    "7th",
+    "8th",
+    "D.C."
+   ],
+   "cases": [
+    "United States v. Thacker, 4 F.4th 569 (7th Cir. 2021)",
+    "United States v. Andrews, 12 F.4th 255 (3d Cir. 2021)",
+    "United States v. Rutherford, 120 F.4th 360 (3d Cir. 2024)",
+    "United States v. Austin, 125 F.4th 688 (5th Cir. 2025)",
+    "United States v. McCall, 56 F.4th 1048 (6th Cir. 2022)",
+    "United States v. Crandall, 25 F.4th 582 (8th Cir. 2022)",
+    "United States v. Jenkins, 50 F.4th 1185 (D.C. Cir. 2022)",
+    "United States v. Black, No. 24-1191 (7th Cir. 2025)"
+   ]
+  },
+  {
+   "position": "The \u00a7 924(c) anti-stacking amendment can be an extraordinary and compelling reason for a sentence reduction, at least under U.S.S.G. \u00a7 1B1.13(b)(6) for defendants with unusually long sentences who have served at least ten years and face a gross disparity.",
+   "circuits": [
+    "1st",
+    "4th",
+    "7th",
+    "9th",
+    "10th"
+   ],
+   "cases": [
+    "United States v. Ruvalcaba, 26 F.4th 14 (1st Cir. 2022)",
+    "United States v. McCoy, 981 F.3d 271 (4th Cir. 2020)",
+    "United States v. Chen, 48 F.4th 1092 (9th Cir. 2022)",
+    "United States v. McGee, 992 F.3d 1035 (10th Cir. 2021)",
+    "United States v. Black, No. 24-1191 (7th Cir. 2025)"
+   ]
+  }
+ ],
+ "this_court": "The Seventh Circuit departs from Thacker and holds that U.S.S.G. \u00a7 1B1.13(b)(6) is a reasonable exercise of the Commission's delegated authority, so the anti-stacking change can support a reduction in qualifying cases. It remands for the district court to exercise its discretion.",
+ "source": "majority",
+ "confidence": 0.7,
+ "quote": "We recognize Thacker\u2019s holding that \u00a7 924(c)\u2019s anti-stacking amendment cannot constitute an extraordinary and compelling reason for a sentence reduction is not consensus; the courts of appeals have split on the issue.",
+ "cluster_id": 10355347,
+ "cite": "United States v. Eural Black, No. 24-1191 (7th Cir. 2025)",
+ "court": "7th",
+ "date": "2025-03-12",
+ "url": "https://www.courtlistener.com/opinion/10355347/united-states-v-eural-black/",
+ "usage": {
+  "in": 2565,
+  "out": 3338
+ }
+}

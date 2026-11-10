@@ -1,0 +1,47 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Can a defendant be convicted of attempted bank robbery under the first paragraph of 18 U.S.C. \u00a7 2113(a) without using actual force, violence, or intimidation in the attempt?",
+ "provision": "18 U.S.C. \u00a7 2113(a)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "The phrase \"by force and violence, or by intimidation\" modifies both \"takes\" and \"attempts to take,\" so attempted bank robbery requires actual force, violence, or intimidation.",
+   "circuits": [
+    "5th",
+    "7th",
+    "8th",
+    "11th"
+   ],
+   "cases": [
+    "United States v. Thornton, 539 F.3d 741 (7th Cir. 2008)",
+    "United States v. Bellew, 369 F.3d 450 (5th Cir. 2004)",
+    "United States v. Brown, 412 F.2d 381 (8th Cir. 1969)",
+    "United States v. Armstrong, No. 21-11252 (11th Cir. Dec. 11, 2024)"
+   ]
+  },
+  {
+   "position": "Attempted bank robbery under \u00a7 2113(a) does not require actual force, violence, or intimidation; the attempt need only be a substantial step toward a taking.",
+   "circuits": [
+    "2d"
+   ],
+   "cases": [
+    "United States v. Stallworth, 543 F.2d 1038 (2d Cir. 1976)"
+   ]
+  }
+ ],
+ "this_court": "requires actual force, violence, or intimidation for attempted bank robbery (the majority's position, which the Jordan opinion says is the minority view)",
+ "source": "majority",
+ "confidence": 0.8,
+ "quote": "We recognize that our sister circuits are divided on this question.",
+ "cluster_id": 10292093,
+ "cite": "United States v. John Armstrong, Jr., No. 21-11252 (11th Cir. 2024)",
+ "court": "11th",
+ "date": "2024-12-11",
+ "url": "https://www.courtlistener.com/opinion/10292093/united-states-v-john-armstrong-jr/",
+ "usage": {
+  "in": 2986,
+  "out": 2059
+ }
+}

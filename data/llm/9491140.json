@@ -1,0 +1,22 @@
+{
+ "criminal": true,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other offenses",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.85,
+ "quote": "while the district courts that have heard equal protection challenges to \u00a7 1326 are unanimous on the merits, they are divided on the correct standard of review.",
+ "cluster_id": 9491140,
+ "cite": "United States v. Vincente Rodriguez, No. 22-4075 (4th Cir. 2024)",
+ "court": "4th",
+ "date": "2024-04-04",
+ "url": "https://www.courtlistener.com/opinion/9491140/united-states-v-vincente-rodriguez/",
+ "usage": {
+  "in": 1315,
+  "out": 556
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "resolved",
+ "resolved_by": "Snyder v. United States, 603 U.S. 1 (2024), in which the Supreme Court held that 18 U.S.C. \u00a7 666 does not reach gratuities. This court applies that holding.",
+ "issue": "Does 18 U.S.C. \u00a7 666 criminalize payments made to a state or local official after an official act (gratuities), or only payments made before or in exchange for an official act (bribes)?",
+ "provision": "18 U.S.C. \u00a7 666(a)(2)",
+ "topic": "Other offenses",
+ "sides": [
+  {
+   "position": "Section 666 reaches gratuities as well as bribes, so payments made after an official act are covered.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Hawkins, 777 F.3d 880 (7th Cir. 2015)"
+   ]
+  },
+  {
+   "position": "Section 666 reaches only bribes, meaning payments agreed to before an official act. Gratuities paid after an official act are not covered.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "Snyder v. United States, 603 U.S. 1 (2024)",
+    "United States v. Cui, No. 24-2495 (7th Cir. 2026)"
+   ]
+  }
+ ],
+ "this_court": "Does not decide a live split; it follows Snyder, which rejected this circuit's earlier gratuity holding in Hawkins.",
+ "source": "majority",
+ "confidence": 0.5,
+ "quote": "The Supreme Court took up the circuit split, rejected our position, and held that \u00a7 666 criminalizes bribery, not gratuities.",
+ "cluster_id": 10772505,
+ "cite": "United States v. Charles Cui, No. 24-2495 (7th Cir. 2026)",
+ "court": "7th",
+ "date": "2026-01-09",
+ "url": "https://www.courtlistener.com/opinion/10772505/united-states-v-charles-cui/",
+ "usage": {
+  "in": 1480,
+  "out": 1568
+ }
+}

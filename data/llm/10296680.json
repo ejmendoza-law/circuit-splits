@@ -1,0 +1,42 @@
+{
+ "criminal": true,
+ "status": "live",
+ "resolved_by": "",
+ "issue": "Does a pre-2022 Florida aggravated assault conviction based on reckless conduct qualify as an ACCA violent felony, given that the Florida Supreme Court's 2022 Somers decision held reckless aggravated assault was never covered and the question is whether Somers applies retroactively?",
+ "provision": "18 U.S.C. \u00a7 924(e)",
+ "topic": "Sentencing & Guidelines",
+ "sides": [
+  {
+   "position": "Somers does not apply retroactively under Florida law, so a pre-2022 Florida aggravated assault conviction can still qualify as an ACCA predicate and the reckless-conduct question does not defeat the enhancement.",
+   "circuits": [
+    "7th"
+   ],
+   "cases": [
+    "United States v. Anderson, 99 F.4th (7th Cir. 2024)",
+    "United States v. Page, 123 F.4th 851 (7th Cir. 2024)"
+   ]
+  },
+  {
+   "position": "Somers applies retroactively, so a pre-2022 Florida aggravated assault conviction cannot serve as an ACCA predicate because the statute did not reach reckless conduct.",
+   "circuits": [
+    "11th"
+   ],
+   "cases": [
+    "Somers v. United States, 66 F.4th 890 (11th Cir. 2023)"
+   ]
+  }
+ ],
+ "this_court": "does not decide",
+ "source": "dissent",
+ "confidence": 0.45,
+ "quote": "as our majority opinion needed to distinguish a Florida Supreme Court decision on point and created a split with the Eleventh Circuit on an identical question.",
+ "cluster_id": 10296680,
+ "cite": "United States v. Royel Page, 123 F.4th 851 (7th Cir. 2024)",
+ "court": "7th",
+ "date": "2024-12-18",
+ "url": "https://www.courtlistener.com/opinion/10296680/united-states-v-royel-page/",
+ "usage": {
+  "in": 2613,
+  "out": 5151
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "criminal": null,
+ "status": "none",
+ "confidence": 1.0,
+ "no_passage": true,
+ "cluster_id": 9428921,
+ "cite": "United States v. Diana Robinson, 83 F.4th 868 (11th Cir. 2023)",
+ "court": "11th",
+ "date": "2023-09-28",
+ "url": "https://www.courtlistener.com/opinion/9428921/united-states-v-diana-robinson/",
+ "usage": {
+  "in": 0,
+  "out": 0
+ }
+}

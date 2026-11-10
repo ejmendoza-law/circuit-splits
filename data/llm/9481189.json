@@ -1,0 +1,22 @@
+{
+ "criminal": false,
+ "status": "none",
+ "resolved_by": "",
+ "issue": "",
+ "provision": "",
+ "topic": "Other",
+ "sides": [],
+ "this_court": "does not decide",
+ "source": "majority",
+ "confidence": 0.95,
+ "quote": "However, a circuit split developed as to whether, as a result, RFRA\u2019s protections were limited to only those practices that are \u201ccentral\u201d to, or \u201cmandated\u201d by, a person\u2019s faith.",
+ "cluster_id": 9481189,
+ "cite": "Apache Stronghold v. USA, No. 21-15295 (9th Cir. 2024)",
+ "court": "9th",
+ "date": "2024-03-01",
+ "url": "https://www.courtlistener.com/opinion/9481189/apache-stronghold-v-usa/",
+ "usage": {
+  "in": 2403,
+  "out": 1017
+ }
+}
