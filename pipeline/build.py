@@ -38,6 +38,17 @@ STALE_SYS = """You are a federal criminal appellate lawyer. Below is a circuit s
 Reply with ONLY JSON: {"resolved": "yes" | "no" | "unsure", "by": "the decision or amendment, with year; empty unless yes"}"""
 
 
+TITLE_SYS = """Write a headline for this circuit split, for a list that criminal defense lawyers scan. At most 9 words. Name the statute, guideline, or doctrine and the point in dispute. No question mark, no "Circuit split on", no ending period. Reply with ONLY JSON: {"title": "..."}"""
+
+
+def title_for(e):
+    try:
+        t, _ = ask(TITLE_SYS, json.dumps({"question": e["issue"], "provision": e.get("provision", "")}))
+        return t["title"].strip().rstrip(".")
+    except Exception:
+        return ""
+
+
 def load(name, default):
     f = OUT / name
     return json.loads(f.read_text()) if f.exists() else default
@@ -91,7 +102,10 @@ def make(sid, recs, cache):
     recs = sorted(recs, key=lambda r: r["date"], reverse=True)
     members = sorted(r["cluster_id"] for r in recs)
     if cache.get(sid, {}).get("members") == members:
-        return cache[sid]["entry"]
+        e = cache[sid]["entry"]
+        if not e.get("title"):
+            e["title"] = title_for(e)
+        return e
     r = recs[0]
     e = {"issue": r["issue"], "provision": r.get("provision", ""), "topic": r.get("topic", "Other"),
          "sides": r.get("sides", []), "note": ""}
@@ -123,6 +137,7 @@ def make(sid, recs, cache):
         opinions=[{"cite": x["cite"], "url": x["url"], "date": x["date"], "court": x["court"],
                    "takes": x.get("this_court", ""), "source": x.get("source", "majority"),
                    "quote": x.get("quote", "")} for x in recs])
+    e["title"] = title_for(e)
     cache[sid] = {"members": members, "entry": e}
     return e
 

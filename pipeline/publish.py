@@ -3,7 +3,7 @@
 
 Uses no AI and no network, so it is safe to run any time.
 """
-import json
+import datetime, json
 from common import OUT, ROOT
 
 
@@ -19,6 +19,8 @@ def main():
     site = ROOT / "site" / "data"
     site.mkdir(parents=True, exist_ok=True)
     (site / "splits.json").write_text(json.dumps(entries, indent=1))
+    scanned = len(list((OUT / "llm").glob("*.json")))
+    (site / "meta.json").write_text(json.dumps({"updated": datetime.date.today().isoformat(), "opinions": scanned}))
     n = lambda s: sum(e["status"] == s for e in entries)
     print(f"{len(entries)} splits: {n('approved')} reviewed, {n('unreviewed')} unreviewed, "
           f"{n('needs_review')} in the review queue, {n('rejected')} rejected")

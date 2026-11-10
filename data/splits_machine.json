@@ -56,7 +56,8 @@
     "source": "majority",
     "quote": "Our circuit has not yet decided this issue. See United States v. Silber, 456 F. App'x 559, 563 (6th Cir. 2012). We decline, however, to resolve this issue because the district court correctly c"
    }
-  ]
+  ],
+  "title": "\u00a72B1.1(b)(16)(A) Risk of Death: Actual Knowledge or Objective Obviousness"
  },
  {
   "issue": "For purposes of 18 U.S.C. \u00a7 3292's suspension of the limitations period, is a foreign government's response to an MLAT request 'dispositive' based on the foreign government's subjective belief that it has finished, or on an objective assessment of whether each item in the request has received a definitive answer?",
@@ -101,7 +102,8 @@
     "source": "majority",
     "quote": "The parties' disagreement tracks a split of authority between the Fifth and Eleventh Circuits."
    }
-  ]
+  ],
+  "title": "\u00a7 3292 Tolling: Subjective Versus Objective MLAT Response Finality"
  },
  {
   "issue": "Must a prior state drug offense be measured against the federal definition of a controlled substance to qualify as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b)?",
@@ -182,7 +184,8 @@
     "source": "majority",
     "quote": "Today, we take one side of a circuit split. Using a textual analysis, the Third, Fourth, Seventh, Eighth, and Tenth Circuits have held that courts may consider state-law controlled substance offenses under \u00a7 2K2.1(a)(4)(A)."
    }
-  ]
+  ],
+  "title": "\u00a74B1.2(b) Priors: Must State Drug Offenses Match Federal Definition"
  },
  {
   "issue": "Can 18 U.S.C. \u00a7 922(g)(1) be unconstitutional as applied to some felons under the Second Amendment, so that courts must test the disarmament against Bruen's historical tradition for the individual defendant?",
@@ -334,7 +337,8 @@
     "source": "majority",
     "quote": "In fact, there is already a circuit split on the constitutionality of \u00a7 922(g)(1), the federal felon-in-possession statute."
    }
-  ]
+  ],
+  "title": "\u00a7 922(g)(1) felon ban: as-applied challenges under Bruen"
  },
  {
   "issue": "After Kisor v. Wilkie, must a federal court find the Sentencing Guideline genuinely ambiguous before deferring to the Sentencing Commission's commentary, or does the older Stinson deference continue to apply?",
@@ -472,7 +476,8 @@
     "source": "dissent",
     "quote": "And Moses frankly acknowledged that its holding departed from the law of the Third and Sixth Circuits."
    }
-  ]
+  ],
+  "title": "Stinson vs. Kisor: Ambiguity Threshold for Guidelines Commentary"
  },
  {
   "issue": "Must a prisoner file a notice of appeal from the amended criminal judgment, rather than seek a certificate of appealability, to challenge the court's choice of remedy after granting relief under 28 U.S.C. \u00a7 2255?",
@@ -507,7 +512,8 @@
     "source": "majority",
     "quote": "Both sides note that the circuits are split on whether a prisoner must file a NOA from the amended criminal judgment or a COA when assailing the judge's choice of a \u00a7 2255 remedy."
    }
-  ]
+  ],
+  "title": "\u00a7 2255 Remedy Challenge: Amended Judgment Appeal Versus COA"
  },
  {
   "issue": "Must a defendant point to an actual state prosecution involving a substance not on the federal schedules before a state drug conviction can be disqualified as a predicate, or does a state statute that is facially broader than the federal schedules suffice?",
@@ -556,7 +562,8 @@
     "source": "concurrence",
     "quote": "Our \u201cactual case\u201d requirement not only places us on the short side of a 10-1 circuit split, but, more importantly, puts our circuit\u2019s precedent in tension with the Supreme Court\u2019s."
    }
-  ]
+  ],
+  "title": "924(e) Categorical Approach: Overbroad Drug Statute Needs Actual Case"
  },
  {
   "issue": "What standard of appellate review applies to mixed questions of law and fact in reviewing a district court's pretrial detention order under the Bail Reform Act: de novo, or deferential?",
@@ -590,7 +597,8 @@
     "source": "dissent",
     "quote": "And our sister circuits have split on the issue."
    }
-  ]
+  ],
+  "title": "\u00a7 3142 Detention Appeals: De Novo or Deferential Mixed-Question Review"
  },
  {
   "issue": "Does 'loss' under the Sentencing Guidelines' fraud table include intended loss, and must courts follow commentary that directs use of the greater of actual or intended loss?",
@@ -653,7 +661,8 @@
     "source": "majority",
     "quote": "The Third Circuit, we note, has held otherwise."
    }
-  ]
+  ],
+  "title": "\u00a72B1.1 Commentary: Binding Force of Greater-of-Intended-Loss Rule"
  },
  {
   "issue": "Is a Rule 32(f) error in the handling of an untimely objection to the presentence report harmless when the defendant shows no prejudice, such that an ACCA-based sentence should be affirmed?",
@@ -686,7 +695,8 @@
     "source": "dissent",
     "quote": "Moreover, the circuit split expanded by the majority opinion here augurs for review by the Supreme Court to definitively resolve the issue."
    }
-  ]
+  ],
+  "title": "Rule 32(f) Untimely PSR Objections: Harmless Error Absent Prejudice"
  },
  {
   "issue": "Must a party who never raised a claim in the district court get only plain-error review under Rule 52(b), or may the appellate court review it de novo because Rule 51(a) makes a postruling exception unnecessary?",
@@ -733,7 +743,8 @@
     "source": "majority",
     "quote": "They are also in considerable tension with Supreme Court precedent and have created a lopsided circuit split."
    }
-  ]
+  ],
+  "title": "52(b) Plain Error Versus De Novo for Unpreserved Claims"
  },
  {
   "issue": "Under the Mandatory Victims Restitution Act, may a federal court order restitution for psychiatric or psychological care when the victim suffered no bodily injury, or is such care compensable only when the offense resulted in bodily injury?",
@@ -782,7 +793,8 @@
     "source": "majority",
     "quote": "We decline to follow the Seventh Circuit's reasoning."
    }
-  ]
+  ],
+  "title": "MVRA \u00a73663A(b)(2): Whether Psychological Care Restitution Requires Bodily Injury"
  },
  {
   "issue": "Does a private party's hash-value match of a digital file let law enforcement open and view that file without a warrant under the private-search doctrine?",
@@ -837,7 +849,8 @@
     "source": "majority",
     "quote": "Three Courts of Appeals have considered that question, with the Fifth and Sixth Circuits answering it in the affirmative and the Ninth Circuit responding in the negati"
    }
-  ]
+  ],
+  "title": "Private-Search Doctrine: Whether Hash Match Permits Warrantless File Viewing"
  },
  {
   "issue": "Does the no-proximate-cause rule in 21 U.S.C. \u00a7 841(b) for drug penalty enhancements extend to other federal statutes with 'results from' language?",
@@ -888,7 +901,8 @@
     "source": "majority",
     "quote": "What is more, our sister circuits are divided about whether (and if so, when) Section 841(b)\u2019s no-proximate-cause rule extends beyond that provision\u2019s specific context."
    }
-  ]
+  ],
+  "title": "Burrage but-for 'results from' test: extending beyond \u00a7 841(b)"
  },
  {
   "issue": "Does a Florida aggravated assault conviction qualify as a 'crime of violence' under the Sentencing Guidelines career offender provision, given that the Florida statute can be violated by recklessness and the predicate offense's elements are judged as they existed at the time of conviction?",
@@ -937,7 +951,8 @@
     "source": "concurrence",
     "quote": "One of our sister circuits has expressly disagreed with Somers. See United States v. Anderson, 99 F.4th 1106, 1112 (7th Cir. 2024)."
    }
-  ]
+  ],
+  "title": "\u00a74B1.2(a) Reckless Florida Aggravated Assault as Crime of Violence"
  },
  {
   "issue": "On a general remand for resentencing, may the district court consider arguments or evidence that were waived or forfeited at the original sentencing, including a restitution request the government expressly disclaimed?",
@@ -975,7 +990,8 @@
     "source": "majority",
     "quote": "Starting with the scope issue, the circuits are split regarding the breadth of a mandate for resentencing on remand."
    }
-  ]
+  ],
+  "title": "\u00a7 3663A: Waived or disclaimed restitution on general remand"
  },
  {
   "issue": "Does a conviction under Va. Code \u00a7 18.2-53.1 for using or displaying a firearm while committing Virginia robbery qualify as a crime of violence under the Guidelines elements clause, U.S.S.G. \u00a7 4B1.2(a)(1)?",
@@ -1017,7 +1033,8 @@
     "source": "majority",
     "quote": "But having carefully reviewed the reasons the First Circuit gave for reaching its conclusion about the elements clause, we respectfully disagree."
    }
-  ]
+  ],
+  "title": "\u00a7 18.2-53.1 Firearm Use: Elements-Clause Crime of Violence, \u00a74B1.2"
  },
  {
   "issue": "Does Supreme Court precedent (Chambers v. Mississippi) require courts to assess cumulative prejudice when reviewing a state conviction under the Due Process Clause?",
@@ -1059,7 +1076,8 @@
     "source": "majority",
     "quote": "Other circuits disagree. See Williams v. Anderson, 460 F.3d 789, 817 (6th Cir. 2006)."
    }
-  ]
+  ],
+  "title": "Chambers cumulative-error review as clearly established under AEDPA"
  },
  {
   "issue": "Does a conviction for conspiracy or attempt to commit a drug offense qualify as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b) when Application Note 1 says it does?",
@@ -1160,7 +1178,8 @@
     "source": "majority",
     "quote": "A split of authority exists among many of the circuits as to whether courts are to defer to Application Note 1 when applying \u00a7 4B1.2."
    }
-  ]
+  ],
+  "title": "\u00a74B1.2(b) Commentary Adding Conspiracy, Attempt to Drug Predicates"
  },
  {
   "issue": "Can a defendant's subjective belief that he is a soldier of ISIS, together with statements referring to ISIS as 'we' or describing his country as the Islamic State, support a material-support conviction for providing personnel or services to ISIS?",
@@ -1203,7 +1222,8 @@
     "source": "dissent",
     "quote": "By holding that it does not matter that Ullah \u201csubjectively conceived of himself as a soldier of ISIS,\u201d ante at 15, today\u2019s decision creates a circuit split regarding the evidence that supports a conviction for material support."
    }
-  ]
+  ],
+  "title": "\u00a7 2339B Personnel: Whether Self-Identification As ISIS Soldier Suffices"
  },
  {
   "issue": "Does 18 U.S.C. \u00a7 1505 reach obstruction of an agency proceeding that involves enforcement rather than adjudicative or rulemaking authority, such as ICE enforcement against noncitizens?",
@@ -1245,7 +1265,8 @@
     "source": "dissent",
     "quote": "Worse still, it does so without even giving these courts the respect to acknowledge the circuit split it has made."
    }
-  ]
+  ],
+  "title": "18 U.S.C. 1505 Scope: Agency Enforcement Versus Adjudicative Proceedings"
  },
  {
   "issue": "Under U.S.S.G. \u00a7 3B1.1, is the phrase \"otherwise extensive\" measured only by the number of participants in the criminal activity, or may courts also consider other indicia of extensiveness such as breadth, scope, complexity, geographic reach, and duration?",
@@ -1289,7 +1310,8 @@
     "source": "majority",
     "quote": "Whereas the Second Circuit\u2014whose test we adopted in Helbling\u2014 limited the focus to the headcount of individuals involved, other circuits permit a broader consideration of other indicia of extensiveness including the breadth, scope, complexity, geographical reach, and duration of the scheme."
    }
-  ]
+  ],
+  "title": "\u00a7 3B1.1 'Otherwise Extensive': Participants Alone or Broader Indicia"
  },
  {
   "issue": "Does the MVRA's automatic prison-trust-account turnover provision, 18 U.S.C. \u00a7 3664(n), reach outside deposits that are individually small but accumulate into a substantial sum over time, or only resources that are substantial when received?",
@@ -1339,7 +1361,8 @@
     "source": "dissent",
     "quote": "As the panel dissent noted, the \"substantial at the time of receipt\" approach rejects the First and Fifth Circuit's construction of the statute."
    }
-  ]
+  ],
+  "title": "MVRA 3664(n): Whether Small Prison Deposits Aggregate for Turnover"
  },
  {
   "issue": "On plain-error review of a Rule 11(b)(3) challenge to a guilty plea's factual basis, must a defendant show a reasonable probability that he would not have pleaded guilty but for the error, or only that the record as a whole fails to supply a sufficient factual basis?",
@@ -1395,7 +1418,8 @@
     "source": "majority",
     "quote": "There is some disagreement among our sister circuits as to what is required to satisfy this standard in the context of a Rule 11(b)(3) challenge to the sufficiency of a guilty plea's factual basis."
    }
-  ]
+  ],
+  "title": "Rule 11(b)(3) Plain Error: Prejudice Needed for Factual-Basis Gaps"
  },
  {
   "issue": "Under the 'reason to believe' language in Application Note 13 to U.S.S.G. \u00a7 2K2.1(b)(5), must the recipient of a firearm actually be an unlawful possessor or prohibited person, or is it enough that the defendant had reason to believe so?",
@@ -1433,7 +1457,8 @@
     "source": "majority",
     "quote": "Notably, Amendment 819 retained the \"reason to believe\" language, notwithstanding the existing Circuit split over how to interpret it."
    }
-  ]
+  ],
+  "title": "\u00a72K2.1(b)(5): Actual Prohibited Recipient or Defendant's Reason to Believe"
  },
  {
   "issue": "Can a federal prisoner use a 28 U.S.C. \u00a7 2241 habeas petition to challenge a BOP decision about how to apply First Step Act time credits, where the relief sought is earlier placement in prerelease custody rather than a shorter sentence?",
@@ -1474,7 +1499,8 @@
     "source": "majority",
     "quote": "The longstanding circuit split regarding habeas jurisdiction to consider conditions of confinement claims persists."
    }
-  ]
+  ],
+  "title": "\u00a7 2241 Cognizability: First Step Act Prerelease Custody Placement"
  },
  {
   "issue": "Is a supervised release condition barring association with any person known or reasonably expected to be a member of or associated with a gang impermissibly vague or overbroad?",
@@ -1527,7 +1553,8 @@
     "source": "majority",
     "quote": "Our sister circuits are split on whether such a prohibition on associating with gang \u201cassociates\u201d is impermissibly vague or overbroad."
    }
-  ]
+  ],
+  "title": "\u00a7 3583(d) gang-association supervised release condition: vagueness, overbreadth"
  },
  {
   "issue": "After Dubin v. United States, must the 'during and in relation to' element of aggravated identity theft under 18 U.S.C. \u00a7 1028A be satisfied only where the means of identification is at the crux of the criminality, or is a looser showing (facilitation, purpose, role, or effect) enough?",
@@ -1569,7 +1596,8 @@
     "source": "majority",
     "quote": "In short, whatever Dubin may ultimately require in future cases, the absence of controlling Third Circuit authority and the split among our sister circuits means that any instructional omission here was not plain."
    }
-  ]
+  ],
+  "title": "\u00a7 1028A: Whether Dubin's crux test governs 'in relation to'"
  },
  {
   "issue": "Under 18 U.S.C. \u00a7 1152, must the government plead and prove the defendant's non-Indian status as an element of the offense, or is Indian status an affirmative defense that the defendant must first raise?",
@@ -1643,7 +1671,8 @@
     "source": "majority",
     "quote": "A circuit split exists on this issue."
    }
-  ]
+  ],
+  "title": "\u00a7 1152: Indian Status as Element or Affirmative Defense"
  },
  {
   "issue": "Does the new-evidence exception for successive habeas petitions (28 U.S.C. \u00a7 2255(h)(1) and the parallel \u00a7 2244(b)(2)(B)(ii) provision) reach challenges to a death sentence?",
@@ -1687,7 +1716,8 @@
     "source": "majority",
     "quote": "We limit this holding by noting a circuit split on the scope of the new evidence provision in \u00a7 2254(b)(2)(B)(ii) and \u00a7 2255(h)(1) in death penalty cases."
    }
-  ]
+  ],
+  "title": "Whether \u00a72255(h)(1) New-Evidence Exception Reaches Death Sentences"
  },
  {
   "issue": "Does a hotel guest keep a reasonable expectation of privacy in a room after checkout time, such that a grace period applies when the hotel's pattern or practice or its communications with the guest make the late stay reasonable?",
@@ -1731,7 +1761,8 @@
     "source": "majority",
     "quote": "Circuits disagree on these questions, and we need not weigh in here."
    }
-  ]
+  ],
+  "title": "Fourth Amendment: hotel guest privacy after checkout grace period"
  },
  {
   "issue": "Does the oath requirement in 18 U.S.C. \u00a7 1546(a)'s paragraph four (false statements 'under oath') also apply to the separate 'knowingly presents' offense in that paragraph?",
@@ -1769,7 +1800,8 @@
     "source": "majority",
     "quote": "Other circuits are split on this question."
    }
-  ]
+  ],
+  "title": "\u00a7 1546(a) Oath Requirement Scope: 'Knowingly Presents' Offense"
  },
  {
   "issue": "Can a federal court modify a sentence that the President has already commuted, such that a \u00a7 3582(c)(1)(A) motion to reduce that sentence is not moot?",
@@ -1811,7 +1843,8 @@
     "source": "majority",
     "quote": "A circuit split exists on whether a court can modify a commuted sentence."
    }
-  ]
+  ],
+  "title": "Whether Commuted Sentences Can Be Reduced Under \u00a7 3582(c)(1)(A)"
  },
  {
   "issue": "Does a resentencing that leaves an original conviction undisturbed create a new judgment under AEDPA, so that a later habeas petition challenging that conviction is not treated as second or successive under 28 U.S.C. \u00a7 2244(b)?",
@@ -1883,7 +1916,8 @@
     "source": "majority",
     "quote": "the Seventh Circuit has adhered to its precedent and held that a second-in-time habeas petition is barred as second or successive where it attempts to challenge a prisoner's undisturbed conviction after he already litigated a habeas petition."
    }
-  ]
+  ],
+  "title": "\u00a72244(b): Whether Resentencing Creates New Judgment Avoiding Successive Bar"
  },
  {
   "issue": "When a sentence rests on an unclear record about whether the court relied on the residual clause, must the movant show only that the conviction may have rested on that clause, or that it more likely than not did?",
@@ -1936,7 +1970,8 @@
     "source": "majority",
     "quote": "As Mr. Savoca notes, there is currently a circuit split as to a petitioner\u2019s burden of proof where the sentencing record is \u201cunclear\u201d as to which ACCA clause an original sentencing court relied on."
    }
-  ]
+  ],
+  "title": "\u00a7 2255 Residual Clause Reliance: More Likely Than Not"
  },
  {
   "issue": "Is criminal contempt under 18 U.S.C. \u00a7 401 automatically classified as a Class A felony under 18 U.S.C. \u00a7 3559(a), or is its classification determined by the most analogous underlying offense or a case-by-case approach?",
@@ -1986,7 +2021,8 @@
     "source": "majority",
     "quote": "Circuits are divided on the proper classification of criminal contempt."
    }
-  ]
+  ],
+  "title": "\u00a7 401 Contempt Classification: \u00a7 3559(a) Automatic or Analogous"
  },
  {
   "issue": "Must a court apply the Biggers two-step reliability analysis before admitting an in-court identification, or can it admit such an identification without that analysis?",
@@ -2025,7 +2061,8 @@
     "source": "majority",
     "quote": "We have observed that the law is currently unsettled as to whether courts must apply the reliability analysis to admit an in-court identification."
    }
-  ]
+  ],
+  "title": "Biggers Reliability Test for In-Court Identifications Absent Police Suggestiveness"
  },
  {
   "issue": "Under 18 U.S.C. \u00a7 4241, which party bears the burden of proof at a federal competency-to-stand-trial hearing?",
@@ -2059,7 +2096,8 @@
     "source": "concurrence",
     "quote": "I write separately because I believe the circuit split is misguided."
    }
-  ]
+  ],
+  "title": ""
  },
  {
   "issue": "Can a district court reduce, under \u00a7 404 of the First Step Act, the sentence on a non-covered offense that was grouped with a covered crack cocaine offense?",
@@ -2131,7 +2169,8 @@
     "source": "majority",
     "quote": "We note that this holding in Mannie created a circuit split because, approximately a month before Mannie was issued, the Seventh Circuit held that Section 404(b) of the First Step Act \u201cdoes not bar a court from reducing [the sentence for] a non-covered offense\u201d in cases where the non-covered offense \u201cwas grouped with [the] covered offenses for sentencing, and the resulting aggregate sentence included . . . sentences for both the [non-covered] and covered offenses.\u201d"
    }
-  ]
+  ],
+  "title": "First Step Act \u00a7404: Reducing Grouped Non-Covered Counts"
  },
  {
   "issue": "Can an error be plain under Rule 52(b) when no binding Supreme Court or circuit precedent addresses the issue, and the court may consider other circuits' decisions to decide whether the issue is subject to reasonable dispute?",
@@ -2186,7 +2225,8 @@
     "source": "majority",
     "quote": "I acknowledge that a few decisions by some circuit courts suggest that binding precedent is required for an error to be plain."
    }
-  ]
+  ],
+  "title": "Rule 52(b) plain error: does lack of binding precedent defeat plainness?"
  },
  {
   "issue": "Does Honeycutt v. United States, which limits forfeiture to property the defendant himself obtained and bars joint and several liability for it, apply to civil forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C)?",
@@ -2271,7 +2311,8 @@
     "source": "majority",
     "quote": "We note that a circuit split has developed over whether Honeycutt applies to a forfeiture under 18 U.S.C. \u00a7 981(a)(1)(C)."
    }
-  ]
+  ],
+  "title": "Whether Honeycutt Limits Joint Liability in \u00a7981 Civil Forfeiture"
  },
  {
   "issue": "Does a state-court motion for a belated direct appeal count as 'collateral review' that tolls AEDPA's one-year limitations period under 28 U.S.C. \u00a7 2244(d)(2)?",
@@ -2317,7 +2358,8 @@
     "source": "majority",
     "quote": "In turn, our sister circuits have disagreed as to whether belated-appeal motions constitute \"collateral review.\""
    }
-  ]
+  ],
+  "title": "Whether Belated-Appeal Motions Toll \u00a72244(d)(2) as Collateral Review"
  },
  {
   "issue": "Do the due-process protections of U.S.S.G. \u00a7 6A1.3(a), including a defendant's right to contest factual matters reasonably in dispute, apply to sentence-reduction proceedings under 18 U.S.C. \u00a7 3582(c)(2)?",
@@ -2367,7 +2409,8 @@
     "source": "majority",
     "quote": "But there is a circuit split on this issue."
    }
-  ]
+  ],
+  "title": "\u00a7 3582(c)(2): Contesting Facts Under USSG \u00a7 6A1.3 Protections"
  },
  {
   "issue": "Whether the federal jurisdictional status of a place (such as a federal prison's status under the special maritime and territorial jurisdiction) is a legal question the court decides, or an adjudicative fact the jury must find?",
@@ -2417,7 +2460,8 @@
     "source": "majority",
     "quote": "Perez and our dissenting colleague instead rely on the First Circuit's minority approach of classifying facts about territorial jurisdiction as adjudicative."
    }
-  ]
+  ],
+  "title": "\u00a7 7(3) Special Maritime Jurisdiction: Judge or Jury Decides"
  },
  {
   "issue": "Must a discovery violation be willful, or made in bad faith, before a trial court may exclude evidence as a sanction under Taylor v. Illinois?",
@@ -2465,7 +2509,8 @@
     "source": "majority",
     "quote": "Most relevant here, courts are divided on whether Taylor makes a \u201cwillful\u201d discovery violation a prerequisite to a lawful exclusion."
    }
-  ]
+  ],
+  "title": "Taylor v. Illinois Exclusion: Willfulness or Bad Faith Required"
  },
  {
   "issue": "Must a district court rehear disputed testimony before rejecting a magistrate judge's credibility findings on a suppression motion, or may it reject them on the written record?",
@@ -2519,7 +2564,8 @@
     "source": "concurrence",
     "quote": "A circuit split exists as to whether a district court must rehear disputed testimony before rejecting a magistrate judge's credibility findings."
    }
-  ]
+  ],
+  "title": "\u00a7 636(b)(1): Rejecting Magistrate Credibility Findings Without Rehearing Testimony"
  },
  {
   "issue": "Is restitution under the Mandatory Victim Restitution Act a criminal punishment for purposes of the Ex Post Facto Clause?",
@@ -2563,7 +2609,8 @@
     "source": "majority",
     "quote": "to address a circuit split on whether restitution under the Mandatory Victim Restitution Act is a criminal punishment for purposes of the Ex Post Facto Clause."
    }
-  ]
+  ],
+  "title": "MVRA Restitution as Punishment Under Ex Post Facto Clause"
  },
  {
   "issue": "In assessing an entrapment defense, is the government's inducement tested objectively, by how a reasonable, law-abiding person would respond, or subjectively, by the particular defendant's predisposition and susceptibility?",
@@ -2605,7 +2652,8 @@
     "source": "majority",
     "quote": "We not only have a circuit split but also lack any briefing on the objectivity or subjectivity of the test."
    }
-  ]
+  ],
+  "title": "Entrapment Defense: Objective Versus Subjective Inducement and Predisposition Test"
  },
  {
   "issue": "When a district court allows a defendant to proceed pro se at a supervised release revocation hearing, what standard of appellate review applies to whether the defendant validly waived the statutory right to counsel: abuse of discretion, harmless error, or de novo?",
@@ -2660,7 +2708,8 @@
     "source": "dissent",
     "quote": "A. Before today, this Court has not opined on the proper standard of review when a district court allows a defendant to proceed pro se in a supervised release revocation, and our sister courts have split on this question."
    }
-  ]
+  ],
+  "title": "Rule 32.1(b)(2)(D) Pro Se Waiver: Standard of Appellate Review"
  },
  {
   "issue": "Can a district court grant an open-ended continuance under the Speedy Trial Act's ends-of-justice provision, and if so, what limits apply (such as a reasonable length or periodic reevaluation)?",
@@ -2709,7 +2758,8 @@
     "source": "majority",
     "quote": "Our sister \u201ccircuits have split over whether a district court may grant an openended continuance under \u00a7 3161(h)([7])(A).\u201d"
    }
-  ]
+  ],
+  "title": "Speedy Trial Act \u00a73161(h)(7)(A): open-ended ends-of-justice continuances, reevaluation limits"
  },
  {
   "issue": "Can a federal court of appeals hear a habeas petitioner's cross-appeal arguments on an alternative claim that the district court declined to certify for appeal, when the state appeals a grant of habeas relief?",
@@ -2753,7 +2803,8 @@
     "source": "majority",
     "quote": "When a state appeals a grant of habeas relief, our sister circuits are split on whether federal appellate courts have jurisdiction to hear a petitioner's arguments on cross-appeal about an alternative habeas claim that has not been certified."
    }
-  ]
+  ],
+  "title": "Whether \u00a7 2253(c) COA Covers Habeas Cross-Appeal Alternative Claims"
  },
  {
   "issue": "Does the limited confrontation right in Federal Rule of Criminal Procedure 32.1(b)(2)(C) apply to the sentencing phase of a supervised release revocation hearing, or only to the phase deciding whether the releasee violated the conditions?",
@@ -2810,7 +2861,8 @@
     "source": "majority",
     "quote": "See United States v. Torres-Santana, 991 F.3d 257, 265 (1st Cir. 2021) (recognizing circuit split on the issue and declining to resolve the legal question where facts made it unnecessary to do so)."
    }
-  ]
+  ],
+  "title": "Whether Rule 32.1(b)(2)(C) Confrontation Right Extends to Revocation Sentencing"
  },
  {
   "issue": "Can a person who regularly uses marijuana be disarmed under 18 U.S.C. \u00a7 922(g)(3) consistent with the Second Amendment, and if so, what showing of dangerousness is required?",
@@ -2848,7 +2900,8 @@
     "source": "dissent",
     "quote": "The majority leaves us with an amorphous holding that flouts precedent, defies common sense, and creates a circuit split."
    }
-  ]
+  ],
+  "title": "922(g)(3) Marijuana Users: Second Amendment Dangerousness Showing Required"
  },
  {
   "issue": "Under the Schlup actual-innocence gateway, does 'new' evidence mean only evidence that was newly discovered after trial, or any evidence not presented to the fact-finder at trial, even if it was available then?",
@@ -2909,7 +2962,8 @@
     "source": "majority",
     "quote": "[t]here is a circuit split about whether the 'new' evidence required under Schlup includes only newly discovered evidence that was not available at the time of trial, or broadly encompasses all evidence that was not presented to the fact-finder during the trial, i.e., newly presented evidence.\u201d"
    }
-  ]
+  ],
+  "title": "Schlup Actual-Innocence Gateway: Whether 'New' Excludes Trial-Available Evidence"
  },
  {
   "issue": "Under the third Dunn curtilage factor (how the area was used), should courts consider the homeowner's actual use of the area, or only objective evidence of whether a reasonable officer would view it as used for domestic activities?",
@@ -2954,7 +3008,8 @@
     "source": "majority",
     "quote": "Circuits have split over whether to focus on how the homeowner used the area or how it looks objectively to a reasonable officer."
    }
-  ]
+  ],
+  "title": "Dunn Curtilage Factor Three: Actual Use Versus Objective Appearance"
  },
  {
   "issue": "Is a competency-to-stand-trial challenge that was not raised in the trial court procedurally defaulted when raised later in habeas proceedings?",
@@ -2991,7 +3046,8 @@
     "source": "dissent",
     "quote": "It also should not go unacknowledged that this case is situated amidst a deep and entrenched circuit split involving at least eight federal courts of appeals about the preservation of arguments related to competency to stand trial."
    }
-  ]
+  ],
+  "title": "\u00a7 4241 Competency Claim Raised First on Habeas: Default Rule"
  },
  {
   "issue": "Does the reasonable-belief standard for searching a supervised releasee or parolee under a search condition require probable cause?",
@@ -3037,7 +3093,8 @@
     "source": "concurrence",
     "quote": "There is a considerable circuit split on that question."
    }
-  ]
+  ],
+  "title": "Supervised Release Search Condition: Reasonable Belief Versus Probable Cause"
  },
  {
   "issue": "Does a defendant waive his Sixth Amendment right to a public trial just by failing to object to a courtroom closure?",
@@ -3090,7 +3147,8 @@
     "source": "majority",
     "quote": "Although failing to object does not result in a waiver in our court, the Fifth Circuit has held the opposite. United States v. Hitt, 473 F.3d 146, 155 (5th Cir. 2006);"
    }
-  ]
+  ],
+  "title": "Sixth Amendment public trial: failure to object as waiver"
  },
  {
   "issue": "Does a plea agreement's appeal waiver covering any sentence imposed bar a claim that the written judgment conflicts with the oral sentence?",
@@ -3136,7 +3194,8 @@
     "source": "concurrence",
     "quote": "Yet the Fourth and Seventh Circuits have since disagreed."
    }
-  ]
+  ],
+  "title": "Plea Appeal Waiver Versus Oral-Written Sentence Conflict Claims"
  },
  {
   "issue": "Must an appellate court raise the waiver created by an unconditional guilty plea (which bars review of nonjurisdictional pretrial rulings such as a denied suppression motion) on its own when the government does not invoke it, or is the plea a jurisdictional bar enforced sua sponte?",
@@ -3181,7 +3240,8 @@
     "source": "majority",
     "quote": "On that point, our sister circuits split."
    }
-  ]
+  ],
+  "title": "Unconditional Guilty Plea Waiver: Sua Sponte Under \u00a7 1291"
  },
  {
   "issue": "Can a defendant who misses the deadline for a Rule 12 objection, such as venue or suppression, obtain plain-error review on appeal without showing good cause?",
@@ -3239,7 +3299,8 @@
     "source": "majority",
     "quote": "But we note that there is a circuit split as to whether under Federal Rule of Criminal Procedure 12 defendants may still"
    }
-  ]
+  ],
+  "title": "Rule 12(c)(3) Good Cause Governs Rule 52(b) Plain-Error Review"
  },
  {
   "issue": "Can a federal court toll a defendant's term of supervised release while he is a fugitive, so that the court keeps jurisdiction to revoke it for violations committed after the scheduled expiration date?",
@@ -3298,7 +3359,8 @@
     "source": "majority",
     "quote": "The circuits are divided over the application of \u201cfugitive tolling\u201d to terms of supervised release."
    }
-  ]
+  ],
+  "title": "\u00a7 3583: Whether Fugitive Status Tolls Supervised Release Term"
  },
  {
   "issue": "Do unlawfully present noncitizens have a Second Amendment right to bear arms?",
@@ -3353,7 +3415,8 @@
     "source": "majority",
     "quote": "Even if he were correct about the scope of the right, whether noncitizens possess a right to bear arms is an unanswered question currently dividing the circuits."
    }
-  ]
+  ],
+  "title": "Whether \u00a7 922(g)(5) Violates Second Amendment for Unlawful Aliens"
  },
  {
   "issue": "Does the phrase \"in connection with\" in U.S.S.G. \u00a7 2K2.1(b)(6)(B) require an articulable connection between the firearm and the other felony, so that accidental or coincidental presence does not count, or is the phrase too vague to apply without a narrower reading?",
@@ -3405,7 +3468,8 @@
     "source": "majority",
     "quote": "And this disagreement continues among circuit courts today."
    }
-  ]
+  ],
+  "title": "\u00a7 2K2.1(b)(6)(B) 'In Connection With' Felony: Whether Articulable Nexus Required"
  },
  {
   "issue": "Does attempted bank robbery under 18 U.S.C. \u00a7 2113(a) require proof of actual force, violence, or intimidation, given that the phrase 'by force and violence, or by intimidation' may modify only 'takes' and not 'attempts to take'?",
@@ -3470,7 +3534,8 @@
     "source": "majority",
     "quote": "We recognize that our sister circuits are divided on this question."
    }
-  ]
+  ],
+  "title": "\u00a7 2113(a) attempted robbery: whether force or intimidation required"
  },
  {
   "issue": "In a federal habeas case under AEDPA, does admitting officer testimony about an informant's tip as course-of-investigation evidence, with a limiting instruction, violate clearly established Confrontation Clause law?",
@@ -3508,7 +3573,8 @@
     "source": "dissent",
     "quote": "creates a circuit split where none need exist."
    }
-  ]
+  ],
+  "title": "Confrontation Clause: Informant Tips as Course-of-Investigation Evidence Under AEDPA"
  },
  {
   "issue": "Does the Sixth Amendment Confrontation Clause apply to statements a prosecutor makes in closing argument?",
@@ -3552,7 +3618,8 @@
     "source": "concurrence",
     "quote": "Other circuits are divided over whether the Confrontation Clause applies to statements in closing arguments."
    }
-  ]
+  ],
+  "title": "Confrontation Clause Reach to Prosecutor's Closing Argument Statements"
  },
  {
   "issue": "Can a nonretroactive change in federal sentencing law, such as the First Step Act's prospective-only \u00a7 924(c) anti-stacking amendment, be an extraordinary and compelling reason for compassionate release under 18 U.S.C. \u00a7 3582(c)(1)(A)?",
@@ -3694,7 +3761,8 @@
     "source": "majority",
     "quote": "A panel has recently endorsed a decision that aligns the court with the Third, Seventh, and Eighth Circuits."
    }
-  ]
+  ],
+  "title": "Nonretroactive \u00a7924(c) Changes as Extraordinary Reasons Under \u00a73582(c)(1)(A)"
  },
  {
   "issue": "Does the equipoise principle (that a conviction must be reversed when the evidence, viewed in the government's favor, gives equal or nearly equal support to guilt and innocence) remain part of federal sufficiency-of-the-evidence review, and if so, in what form?",
@@ -3739,7 +3807,8 @@
     "source": "majority",
     "quote": "We note our sister circuits are divided on how the equipoise principle informs sufficiency review."
    }
-  ]
+  ],
+  "title": "Equipoise Rule Survival Under Jackson v. Virginia Sufficiency Review"
  },
  {
   "issue": "Does a sentence imposed after the original sentence but before a later resentencing count as a 'prior sentence' for criminal history points under the Sentencing Guidelines?",
@@ -3787,7 +3856,8 @@
     "source": "majority",
     "quote": "Initially, because our court has not yet had the occasion to address the interpretative issue addressed by the other circuits, it is difficult for Mr. Hopper to assert successfully that the district court committed plain error."
    }
-  ]
+  ],
+  "title": "\u00a7 4A1.2 Prior Sentence Scoring: Intervening Sentence Before Resentencing"
  },
  {
   "issue": "Does the Foreign Commerce Clause give Congress broader power than the Interstate Commerce Clause to regulate the conduct of U.S. citizens abroad, so that 18 U.S.C. \u00a7 2423(c) can validly reach foreign sexual conduct by citizens?",
@@ -3835,7 +3905,8 @@
     "source": "majority",
     "quote": "Meanwhile, a circuit split has emerged regarding the scope of the Foreign Commerce Clause relative to its interstate counterpart."
    }
-  ]
+  ],
+  "title": "Foreign Commerce Clause Power Behind 18 U.S.C. \u00a7 2423(c) Extraterritorial Reach"
  },
  {
   "issue": "Does proof that a communication was sent over the Internet, without more, satisfy the interstate-commerce element, or must the government prove that it actually crossed state lines?",
@@ -3895,7 +3966,8 @@
     "source": "majority",
     "quote": "A circuit split has developed around this point."
    }
-  ]
+  ],
+  "title": "\u00a71343 Wire Fraud: Internet Transmission Alone Establishes Interstate Element"
  },
  {
   "issue": "Can police enter a home without a warrant under the emergency aid exception when no one reported an emergency and no relative or neighbor asked for help, but a hospital security guard reported that the resident's mother was missing?",
@@ -3938,7 +4010,8 @@
     "source": "dissent",
     "quote": "The majority's holding also creates a circuit split."
    }
-  ]
+  ],
+  "title": "Brigham City Emergency Aid: Warrantless Entry on Missing-Person Report"
  },
  {
   "issue": "When police question a suspect before giving Miranda warnings and then repeat the questioning after warning, which test under Missouri v. Seibert governs whether the post-warning statements are admissible: Justice Kennedy's deliberateness test from his concurrence, or the plurality's objective test?",
@@ -4011,7 +4084,8 @@
     "source": "majority",
     "quote": "Eight circuits hold that Justice Kennedy\u2019s concurrence controls, which also asks whether police deliberately undermined Miranda."
    }
-  ]
+  ],
+  "title": "Seibert Two-Step Interrogation: Whether Kennedy or Plurality Test Controls"
  },
  {
   "issue": "Does the Florida Supreme Court's 2022 Somers decision, holding that aggravated assault cannot rest on reckless conduct, apply retroactively so that a pre-2022 Florida aggravated assault conviction based on reckless conduct cannot serve as an ACCA predicate?",
@@ -4072,7 +4146,8 @@
     "source": "dissent",
     "quote": "Anderson, and opinions like it, would turn out differently under a proper application of this standard."
    }
-  ]
+  ],
+  "title": "ACCA 924(e): Somers Retroactivity for Reckless Florida Aggravated Assault"
  },
  {
   "issue": "When the government intentionally and unjustifiably intrudes into attorney-client communications about defense strategy, must the defendant show prejudice to establish a Sixth Amendment violation, and if so, is prejudice presumed or must the defendant prove it?",
@@ -4137,7 +4212,8 @@
     "source": "majority",
     "quote": "see Cutillo v. Cinelli, 485 U.S. 1037, 1037-38 (1988) (White, J., dissenting from denial of cert.) (noting circuit split on who bears the burden to prove prejudice)."
    }
-  ]
+  ],
+  "title": "Intentional Sixth Amendment Intrusion: Presumed or Proven Prejudice"
  },
  {
   "issue": "When a prior drug conviction triggers a Guidelines controlled-substance enhancement (career offender under \u00a7 4B1.1 or the \u00a7 4B1.2(b) definition), must the court use the drug schedules in effect when the prior conviction occurred, or those in effect at federal sentencing?",
@@ -4210,7 +4286,8 @@
     "source": "majority",
     "quote": "Our sister circuits are split on this timing question."
    }
-  ]
+  ],
+  "title": "\u00a7 4B1.2(b) Controlled Substance Schedules: Conviction or Sentencing Date"
  },
  {
   "issue": "Does the substantive-versus-clarifying test govern whether the Sentencing Commission's 2023 amendment to the compassionate-release Policy Statement (U.S.S.G. \u00a7 1B1.13) can apply to a sentence-reduction motion, so that an amendment treated as substantive cannot be applied to motions pending or filed before it took effect?",
@@ -4253,7 +4330,8 @@
     "source": "majority",
     "quote": "We part ways here with the Eleventh Circuit. United States v. Handlon, 97 F.4th 829, 833 (11th Cir. 2024) (holding that the amended Policy Statement is a substantive amendment that cannot be given retroactive effect)."
    }
-  ]
+  ],
+  "title": "\u00a71B1.13 2023 Amendment: Substantive Versus Clarifying; Pending Motions"
  },
  {
   "issue": "Does a district court impermissibly delegate its Article III sentencing authority to the probation officer when a supervised-release condition requires mental-health treatment but does not specify whether it must be inpatient or outpatient?",
@@ -4297,7 +4375,8 @@
     "source": "majority",
     "quote": "and circuits are split on this inpatient-outpatient claim, compare United States v. Aguilar-Cerda, 27 F.4th 1093, 1095\u201396 (5th Cir. 2022) (finding no impermissible delegation), and United States v. Cutler, 259 F. App\u2019x 883, 886\u201387 (7th Cir. 2008) (same), with United States v. Matta, 777 F.3d 116, 122\u201323 (2d Cir. 2015) (finding impermissible delegation)."
    }
-  ]
+  ],
+  "title": "\u00a7 3583(d) Delegating Inpatient Versus Outpatient Treatment to Probation"
  },
  {
   "issue": "May the government withhold the third-level acceptance-of-responsibility motion under U.S.S.G. \u00a7 3E1.1(b) because the defendant litigates pretrial issues (such as a suppression hearing) or in good faith objects to presentence report facts?",
@@ -4368,7 +4447,8 @@
     "source": "majority",
     "quote": "And while the amendment expressly resolves a circuit split on whether the government can withhold the motion because the defendant refused to sign an appeal waiver, it tellingly does not directly address the circuit split that has long existed on whether the government\u2019s having to go through a suppression hearing is a valid basis for not requesting the third point."
    }
-  ]
+  ],
+  "title": "3E1.1(b) Third Level: Pretrial Litigation Can Justify Withholding Motion"
  },
  {
   "issue": "Under the robbery physical-restraint enhancement in U.S.S.G. \u00a7 2B3.1(b)(4)(B), must the restraint be sustained with a focus on the victim for a meaningful period, or can a brief restraint, such as ordering a victim to the floor at gunpoint, be enough?",
@@ -4441,7 +4521,8 @@
     "source": "dissent",
     "quote": "Although I refrain from commenting on the propriety of adopting this factor \u2014 that is, whether the majority was correct to adopt the narrow view of the Court of Appeals for the Ninth Circuit in the circuit split on this issue \u2014 I believe that Bell's conduct also satisfies this factor."
    }
-  ]
+  ],
+  "title": "\u00a72B3.1(b)(4)(B) Physical Restraint: Whether Brief Restraint Suffices"
  },
  {
   "issue": "Must a court apply the rule of lenity before deferring to an agency's interpretation of an ambiguous criminal-law provision, such as a Sentencing Guidelines enhancement?",
@@ -4489,7 +4570,8 @@
     "source": "dissent",
     "quote": "That holding put us on the wrong side of a circuit split."
    }
-  ]
+  ],
+  "title": "Lenity Before Stinson Deference for \u00a72B3.1(b)(2)(D) Enhancement"
  },
  {
   "issue": "Can a federal district court substitute the Crime Victims Fund as the payee of a restitution order after the judgment has become final, when the named victim has died?",
@@ -4535,7 +4617,8 @@
     "source": "majority",
     "quote": "We take no position on if or when it is appropriate to substitute the Crime Victims Fund as the payee, which is currently the subject of a circuit split."
    }
-  ]
+  ],
+  "title": "\u00a7 3663A: Crime Victims Fund as Payee After Victim's Death"
  },
  {
   "issue": "In AEDPA habeas review of an ineffective-assistance claim, does doubly deferential review under Strickland and 28 U.S.C. \u00a7 2254(d) apply at both the performance and prejudice steps, or only at the performance step?",
@@ -4571,7 +4654,8 @@
     "source": "majority",
     "quote": "In Waiters v. Lee, 857 F.3d 466 (2d Cir. 2017), this court observed that it is an \u201copen question\u201d in this circuit whether double deference applies at both steps of Strickland analysis, id. at 477 n.20, and that while Cullen v. Pinholster, 563 U.S. at 202, appears to support an affirmative answer, circuit courts are divided on the question."
    }
-  ]
+  ],
+  "title": "Strickland prejudice prong: whether \u00a72254(d) deference applies"
  },
  {
   "issue": "Does an appeal or collateral-attack waiver in a plea agreement bar a post-conviction challenge to a \u00a7 924(c) conviction based on a predicate offense later held invalid under Johnson and Davis, where the record shows another valid predicate?",
@@ -4617,7 +4701,8 @@
     "source": "concurrence",
     "quote": "As Judge Robinson notes, multiple circuits have split on this question."
    }
-  ]
+  ],
+  "title": "Waiver Bars \u00a7 924(c) Challenge Despite Alternate Valid Predicate"
  },
  {
   "issue": "In a federal habeas challenge based on false testimony, must the petitioner show that the prosecutor knew the testimony was false, or is it enough to show the testimony was false and material?",
@@ -4670,7 +4755,8 @@
     "source": "majority",
     "quote": "And they place Marcy on the wrong side of an eightto-two circuit split."
    }
-  ]
+  ],
+  "title": "Napue false testimony: prosecutor knowledge versus falsity and materiality"
  },
  {
   "issue": "Does the First Amendment require a reasonable mistake-of-age defense to a charge of producing child pornography under 18 U.S.C. \u00a7 2251(a)?",
@@ -4713,7 +4799,8 @@
     "source": "majority",
     "quote": "[o]ther circuits have split as to whether the First Amendment requires reading a reasonable-mistake-of-age defense into [\u00a7 2251]"
    }
-  ]
+  ],
+  "title": "\u00a7 2251(a): Whether First Amendment Requires Reasonable Mistake-of-Age Defense"
  },
  {
   "issue": "Is an appeal from a Hyde Amendment fee order, whether an award or a denial, governed by the civil 60-day deadline or the criminal 14-day deadline under Federal Rule of Appellate Procedure 4?",
@@ -4772,7 +4859,8 @@
     "source": "majority",
     "quote": "Despite a circuit conflict over whether an appeal from a Hyde Amendment application is civil or criminal for purposes of Federal Rule of Appellate Procedure 4, compare, e.g., United States v. Truesdale, 211 F.3d 898, 902\u201304 (5th Cir. 2000) (civil), with, e.g., United States v. Robbins, 179 F.3d 1268, 1269\u201370 (10th Cir. 1999) (criminal), we are assured of our jurisdiction and need not decide the issue"
    }
-  ]
+  ],
+  "title": "Hyde Amendment Appeals: Civil 60-Day or Criminal 14-Day Deadline"
  },
  {
   "issue": "Is a pretrial bail hearing a critical stage at which the Sixth Amendment right to counsel attaches?",
@@ -4814,7 +4902,8 @@
     "source": "majority",
     "quote": "The dissent attempts to distinguish Higazy (ignoring the resulting circuit split) by arguing that the hearing there was an adversarial preliminary hearing, not just a hearing to set bail."
    }
-  ]
+  ],
+  "title": "Bail Hearing as Critical Stage Under Sixth Amendment Counsel"
  },
  {
   "issue": "Does the First Step Act's sentencing relief (\u00a7 403) apply at resentencing when the defendant's pre-Act sentence was vacated?",
@@ -4899,7 +4988,8 @@
     "source": "dissent",
     "quote": "The majority creates a circuit conflict where none should exist."
    }
-  ]
+  ],
+  "title": "Whether First Step Act \u00a7 403 Reaches Vacated-Sentence Resentencings"
  },
  {
   "issue": "When more than one guideline is sufficiently analogous to an offense, should an appellate court review the district court's choice of the most analogous guideline de novo or give it deference?",
@@ -4964,7 +5054,8 @@
     "source": "majority",
     "quote": "Appellate courts differ on whether the district court's decision at this step should be reviewed de novo or given due deference."
    }
-  ]
+  ],
+  "title": "\u00a72X5.1 Most Analogous Guideline: De Novo or Deferential Review"
  },
  {
   "issue": "Can a defendant who is representing himself pro se continue to do so at a competency hearing, or must counsel represent him at that hearing?",
@@ -4998,7 +5089,8 @@
     "source": "majority",
     "quote": "Whether a pro se litigant can continue to represent himself at a competency hearing is an issue on which other circuits are divided, and it is an issue of first impression for our circuit."
    }
-  ]
+  ],
+  "title": "Faretta Self-Representation at Competency Hearings Under Indiana v. Edwards"
  },
  {
   "issue": "Does Virginia v. Black comprehensively define the category of unprotected true threats, so that a threat is unprotected only if it targets a particular individual or group of individuals?",
@@ -5046,7 +5138,8 @@
     "source": "majority",
     "quote": "But other courts of appeals have read Black as comprehensively defining the category of true threats."
    }
-  ]
+  ],
+  "title": "Virginia v. Black: whether true threats need particular targets"
  },
  {
   "issue": "May a district court, when revoking supervised release under 18 U.S.C. \u00a7 3583(e), consider the retribution factor in 18 U.S.C. \u00a7 3553(a)(2)(A) (the need for the sentence to reflect the seriousness of the offense and promote respect for the law)?",
@@ -5086,7 +5179,8 @@
     "source": "dissent",
     "quote": "place the Sixth Circuit at the extreme of a circuit split, allowing our district courts expressly to punish defendants for violations of supervised release."
    }
-  ]
+  ],
+  "title": "\u00a7 3583(e) Revocation: Considering Retribution Under \u00a7 3553(a)(2)(A)"
  },
  {
   "issue": "In a federal criminal case under CIPA, must the government formally invoke the state-secrets privilege through the head of the department that controls the information (or its political head), as Reynolds requires, or may a lower-level official or the agency head decline to personally invoke it?",
@@ -5143,7 +5237,8 @@
     "source": "majority",
     "quote": "Other circuit courts are divided on this issue."
    }
-  ]
+  ],
+  "title": "CIPA \u00a74, Reynolds: Whether State-Secrets Invocation Can Be Delegated"
  },
  {
   "issue": "Must a continuing criminal enterprise indictment allege the facts of the three predicate offenses, or is citing the violated statutory provisions enough?",
@@ -5196,7 +5291,8 @@
     "source": "dissent",
     "quote": "The dissent claims that our decision creates a circuit split with the Third Circuit's decision in Bansal."
    }
-  ]
+  ],
+  "title": "\u00a7 848 Indictment: Must Predicate Offenses Be Pleaded Factually"
  },
  {
   "issue": "Does the Guidelines' government-benefits loss rule, which reduces loss by the value of the benefit the government received, apply to fraud in Disadvantaged Business Enterprise (DBE) or similar special procurement programs?",
@@ -5256,7 +5352,8 @@
     "source": "majority",
     "quote": "There is a circuit split regarding whether the government benefits rule extends to fraud in DBE (or similar special procurement) programs."
    }
-  ]
+  ],
+  "title": "\u00a72B1.1 n.3(F)(ii) Benefit Offset Scope in DBE Fraud"
  },
  {
   "issue": "Does the First Step Act's retroactivity provision (\u00a7 404) cover a defendant whose sentence for a covered offense was imposed before the Act's effective date but later vacated, or does the earlier sentence count as 'a sentence' imposed as a matter of historical fact, barring relief?",
@@ -5304,7 +5401,8 @@
     "source": "dissent",
     "quote": "Jackson also splits from all our sister circuits to have reached the question."
    }
-  ]
+  ],
+  "title": "First Step Act \u00a7 404: Vacated Pre-Act Sentence Eligibility"
  },
  {
   "issue": "Which constitutional provision supplies a criminal defendant's right to be present at sentencing: the Due Process Clause or the Confrontation Clause?",
@@ -5350,7 +5448,8 @@
     "source": "majority",
     "quote": "The Supreme Court has not directly addressed the constitutional basis for a defendant\u2019s right to be present during sentencing, and the circuits are split on the basis for this right."
    }
-  ]
+  ],
+  "title": "Rule 32(i)(2) Sentencing Presence: Due Process Versus Confrontation Clause"
  },
  {
   "issue": "Does the joint participant exception to the spousal testimonial privilege survive Trammel v. United States, so that a spouse who participated in the charged crime can be compelled to testify against the defendant-spouse?",
@@ -5418,7 +5517,8 @@
     "source": "concurrence",
     "quote": "In the meantime, every other circuit to consider the issue post-Trammel has rejected the joint participant exception to the spousal testimonial privilege."
    }
-  ]
+  ],
+  "title": "Trammel Joint-Participant Exception to Spousal Testimonial Privilege"
  },
  {
   "issue": "When a district court rules on whether an amended \u00a7 2255 motion relates back under Rule 15(c), is that ruling reviewed for abuse of discretion or de novo?",
@@ -5485,7 +5585,8 @@
     "source": "majority",
     "quote": "We also observe a split of authority in our sister circuits on this question."
    }
-  ]
+  ],
+  "title": "Rule 15(c) relation back: de novo or abuse-of-discretion standard"
  },
  {
   "issue": "When a defendant is convicted of conspiracy under 18 U.S.C. \u00a7 1594(c), is the base offense level under U.S.S.G. \u00a7 2G1.1(a) set by the statute of conviction or by the conduct the conspiracy aimed to commit?",
@@ -5529,7 +5630,8 @@
     "source": "majority",
     "quote": "Since Nichols's sentencing, circuits have split as to how \u00a7 2G1.1 should be applied to those convicted of violating \u00a7 1594(c)."
    }
-  ]
+  ],
+  "title": "\u00a72G1.1(a) Base Level, \u00a71594(c) Conspiracy: Statute or Object Conduct"
  },
  {
   "issue": "Does a due process violation from the government's selective grant or withholding of immunity require proof that the prosecutor subjectively intended to distort the fact-finding process, or is it enough that the immunity decision in fact distorted fact-finding?",
@@ -5568,7 +5670,8 @@
     "source": "majority",
     "quote": "The parties also disagree about which side of a circuit split we have come down on in regard to whether, in addition to distorting the fact-finding process, the prosecutor must have subjectively intended to cause such manipulation."
    }
-  ]
+  ],
+  "title": "\u00a76002 Immunity Due Process: Prosecutorial Intent Versus Actual Effect"
  },
  {
   "issue": "Can an anonymous tip that came through the 911 system, but whose caller did not use 911 in the way the tracing rationale assumes, still supply the reliability needed for reasonable suspicion for a stop under Navarette v. California?",
@@ -5610,7 +5713,8 @@
     "source": "dissent",
     "quote": "Although the majority seeks to differentiate countervailing authority, it discredits the circuit split recognizing the critical importance of the 911 system\u2019s tracing abilities."
    }
-  ]
+  ],
+  "title": "Navarette 911 Reliability Presumption When Caller Bypasses Tracing Assumptions"
  },
  {
   "issue": "On federal habeas review of a state court's Napue (false or uncorrected testimony) ruling, must the court also apply the Brecht harmless-error 'actual prejudice' standard, or does the Napue materiality standard alone govern?",
@@ -5672,7 +5776,8 @@
     "source": "majority",
     "quote": "We recognize, however, that the circuits have split on whether the Brecht standard applies when reviewing a state court's Napue determination."
    }
-  ]
+  ],
+  "title": "Napue Materiality Versus Brecht Harmless Error on Habeas Review"
  },
  {
   "issue": "In a criminal forfeiture ancillary proceeding, does the government's interest in substitute property relate back to the date of the indictment or to the date of the underlying crime?",
@@ -5714,7 +5819,8 @@
     "source": "majority",
     "quote": "(We take no position on whether that reading of the law is right; the circuits are split on that question. United States v. Erpenbeck, 682 F.3d 472, 477\u201378 (6th Cir. 2012) (Sutton, J.) (describing the circuit split).)"
    }
-  ]
+  ],
+  "title": "\u00a7 853(c) Substitute Property Relation-Back: Offense or Indictment Date"
  },
  {
   "issue": "Must a border officer have reasonable suspicion before conducting a forensic search of a cell phone or other electronic device at the border?",
@@ -5761,7 +5867,8 @@
     "source": "majority",
     "quote": "We need not decide whether reasonable suspicion was required under the prior Directive, on which there is circuit conflict."
    }
-  ]
+  ],
+  "title": "Border Search Doctrine: Reasonable Suspicion for Forensic Phone Searches"
  },
  {
   "issue": "Can a federal habeas petitioner use evidence outside the state-court record to establish cause for a procedural default under Martinez v. Ryan after Shinn v. Ramirez?",
@@ -5803,7 +5910,8 @@
     "source": "majority",
     "quote": "We acknowledge the circuit split on the question. Compare Williams v. Superintendent Mahanoy SCI, 45 F.4th 713, 723 (3d Cir. 2022) (holding that Ramirez did not abrogate the circuit\u2019s holding that AEDPA does not forbid factual development regarding excusing procedural default), with Stokes v. Stirling, 64 F.4th 131, 136 (4th Cir. 2023) (concluding that Ramirez prohibits the introduction of new evidence in support of Martinez claims)."
    }
-  ]
+  ],
+  "title": "\u00a72254(e)(2) and Martinez: out-of-record evidence for cause post-Shinn"
  },
  {
   "issue": "What standard of appellate review applies to a district court's denial of a Franks hearing on a challenge to a warrant affidavit?",
@@ -5846,7 +5954,8 @@
     "source": "majority",
     "quote": "There is also a circuit split on the question."
    }
-  ]
+  ],
+  "title": "Franks Hearing Denial: De Novo Versus Abuse of Discretion"
  },
  {
   "issue": "Is the D.C. Superior Court a \"State court\" under 28 U.S.C. \u00a7 2253(c)(1)(A), so that a D.C. prisoner's habeas appeal requires a certificate of appealability?",
@@ -5894,7 +6003,8 @@
     "source": "majority",
     "quote": "Madley reasoned that Garris's decision and Congress's later enactment of AEDPA means that \"a court of the District is a state court for the purposes of [\u00a7 2253(c)].\""
    }
-  ]
+  ],
+  "title": "\u00a7 2253(c)(1)(A) COA: D.C. Superior Court as 'State Court'"
  },
  {
   "issue": "Does the Fourth Amendment permit an officer to open a car door during a traffic stop without reasonable suspicion, or must the officer have reasonable suspicion to do so?",
@@ -5937,7 +6047,8 @@
     "source": "majority",
     "quote": "Whether an officer can open a car door during a traffic stop based on less than reasonable suspicion is an open question in our circuit. And our sister courts are divided on the question."
    }
-  ]
+  ],
+  "title": "Mimms/Wilson Stop: Opening Car Door Without Reasonable Suspicion"
  },
  {
   "issue": "Is a semiautomatic firearm fitted with a bump stock a \"machinegun\" under the National Firearms Act's definition, so that the Bureau's rule banning bump stocks is lawful?",
@@ -5985,7 +6096,8 @@
     "source": "dissent",
     "quote": "Here, circuits are split on the best reading of the National Firearms Act\u2019s definition of \u201cmachinegun.\u201d"
    }
-  ]
+  ],
+  "title": "NFA \u00a7 5845(b): Bump-Stocked Semiautomatics as Machineguns"
  },
  {
   "issue": "Can a sentencing court draw an adverse inference about a defendant's lack of remorse from the defendant's silence without violating the Fifth Amendment privilege against self-incrimination?",
@@ -6019,7 +6131,8 @@
     "source": "majority",
     "quote": "Cf. United States v. Caro, 597 F.3d 608, 629 (4th Cir. 2010) (describing circuit split on whether Mitchell extends to adverse inferences about remorse in the capital sentencing context)."
    }
-  ]
+  ],
+  "title": "Fifth Amendment: Adverse sentencing inference from silence on remorse"
  },
  {
   "issue": "Can a defendant challenge the substantive reasonableness of a sentence imposed under a Rule 11(c)(1)(C) plea agreement, such that the sentence is 'imposed in violation of law' and reviewable under 18 U.S.C. \u00a7 3742(a)(1)?",
@@ -6067,7 +6180,8 @@
     "source": "majority",
     "quote": "Our fellow circuits are divided on this question."
    }
-  ]
+  ],
+  "title": "Rule 11(c)(1)(C) Sentences: Reasonableness Review Under \u00a7 3742(a)(1) Disputed"
  },
  {
   "issue": "Does the relitigation bar in 28 U.S.C. \u00a7 2244(b)(1), which requires dismissal of a claim in a second or successive application that was already presented in a prior application, apply to second or successive \u00a7 2255 motions filed by federal prisoners?",
@@ -6141,7 +6255,8 @@
     "source": "majority",
     "quote": "This court has not yet decided whether the bar in \u00a7 2244(b)(1) applies to second or successive \u00a7 2255 motions, and our sister circuits are divided on the matter."
    }
-  ]
+  ],
+  "title": "Whether \u00a72244(b)(1) Relitigation Bar Governs Federal \u00a72255 Motions"
  },
  {
   "issue": "For an ACCA sentence, should a prior state drug conviction be checked against the federal drug schedules in effect when the defendant committed the federal offense, or those in effect at federal sentencing?",
@@ -6188,7 +6303,8 @@
     "source": "majority",
     "quote": "Next, the Third Circuit explicitly parted ways with the Fourth Circuit\u2019s decision in Hope and held \u201cthat courts must look to the federal law in effect when the defendant committed the federal offense.\u201d United States v. Brown, 47 F.4th 147, 153 (3d Cir. 2022)."
    }
-  ]
+  ],
+  "title": "ACCA 924(e) drug predicates: offense-date or sentencing-date schedules"
  },
  {
   "issue": "Does a defendant who has only one or two of the three criminal-history characteristics listed in 18 U.S.C. \u00a7 3553(f)(1) remain eligible for safety-valve relief, or does having any one of them disqualify her?",
@@ -6268,7 +6384,8 @@
     "source": "majority",
     "quote": "A circuit split has emerged over this issue."
    }
-  ]
+  ],
+  "title": "\u00a7 3553(f)(1) safety valve: any one criminal-history factor disqualifies"
  },
  {
   "issue": "Does 18 U.S.C. \u00a7 666(a)(2) criminalize only quid pro quo bribery, or also gratuities given to local officials without any reciprocal exchange?",
@@ -6323,7 +6440,8 @@
     "source": "dissent",
     "quote": "In doing so, the panel noted that it was putting our circuit on the short end of a \u201clopsided split\u201d on this issue\u2014joining the First Circuit against the Second, Sixth, Seventh, Eighth, and Eleventh Circuits."
    }
-  ]
+  ],
+  "title": "Whether \u00a7666(a)(2) reaches gratuities without quid pro quo"
  },
  {
   "issue": "Before entering a third party's home without a warrant to arrest a suspect, must police have probable cause to believe the suspect is inside, or is a lesser 'reasonable belief' or 'reason to believe' standard enough?",
@@ -6385,7 +6503,8 @@
     "source": "majority",
     "quote": "However, there is a circuit split over the meaning of \u201creason to believe\u201d under Payton."
    }
-  ]
+  ],
+  "title": "Payton Third-Party Entry: Probable Cause or Reason to Believe"
  },
  {
   "issue": "Under U.S.S.G. \u00a7 4B1.2(b), must 'controlled substance' be defined by the federal Controlled Substances Act, or can a prior state drug conviction count even when state law covers substances the federal Act does not?",
@@ -6499,7 +6618,8 @@
     "source": "majority",
     "quote": "We recognize that a circuit split exists on this issue, and that the weight of authority favors Ruth."
    }
-  ]
+  ],
+  "title": "\u00a7 4B1.2(b) Controlled Substance: Federal CSA Definition vs. State Schedules"
  },
  {
   "issue": "Can a state court's fact-finding procedures alone render its decision unreasonable under AEDPA's 28 U.S.C. \u00a7 2254(d)(2)?",
@@ -6542,7 +6662,8 @@
     "source": "majority",
     "quote": "Even before Wilson, we had noted the circuit split over whether \u201cstate court\u2019s fact-finding procedures\u201d can render its decision unreasonable under AEDPA, and we declined to adopt the Ninth Circuit\u2019s approach in Taylor."
    }
-  ]
+  ],
+  "title": "2254(d)(2): Whether defective state fact-finding alone makes decision unreasonable"
  },
  {
   "issue": "When an appellate court remands for resentencing without specifying the scope, is the district court's resentencing presumptively de novo, or is it limited to the issues the remand made relevant?",
@@ -6598,7 +6719,8 @@
     "source": "majority",
     "quote": "When a remand is silent as to the scope of resentencing, our sister circuits are divided."
    }
-  ]
+  ],
+  "title": "Federal General Remand: De Novo or Limited Resentencing Scope"
  },
  {
   "issue": "Must the government prove intent to defraud as an element of a 18 U.S.C. \u00a7 912 impersonation offense, even though Congress removed that language in 1948?",
@@ -6638,7 +6760,8 @@
     "source": "majority",
     "quote": "Specifically, he argues the \"intent to defraud\" remains an inherent part of a \u00a7 912 violation which the government must prove, despite the removal of that language by Congress in 1948, a position which is supported by some of our sister circuits."
    }
-  ]
+  ],
+  "title": "\u00a7 912 Impersonation: Whether Intent to Defraud Is Required"
  },
  {
   "issue": "Must the government prove that a defendant knew the person he persuaded, induced, or enticed was a minor for a conviction under 18 U.S.C. \u00a7 2422(b), or is mistake of age a available defense?",
@@ -6672,7 +6795,8 @@
     "source": "majority",
     "quote": "We note the circuits have divided concerning whether a defendant must know the individual being persuaded, induced, or enticed was a minor."
    }
-  ]
+  ],
+  "title": "\u00a7 2422(b) Enticement: Knowledge of Minor's Age, Mistake-of-Age Defense"
  },
  {
   "issue": "Must a sentence under 18 U.S.C. \u00a7 924(j) for discharging a firearm during a crime of violence resulting in death run consecutively to the sentences on the other counts, or may the court impose it concurrently?",
@@ -6707,7 +6831,8 @@
     "source": "majority",
     "quote": "A circuit conflict existed over whether a sentence under \u00a7 924(j) must run consecutively with the sentences for the other counts."
    }
-  ]
+  ],
+  "title": "18 U.S.C. \u00a7924(j) Death-Resulting Offense: Consecutive or Concurrent Sentence"
  },
  {
   "issue": "On plain-error review of a Rehaif claim, may the court of appeals supplement the record under Federal Rule of Appellate Procedure 10(e)(2) with evidence the government never introduced in the district court?",
@@ -6756,7 +6881,8 @@
     "source": "dissent",
     "quote": "Before today, each circuit to have applied this rule to plain-error Rehaif claims permitted the Government to introduce evidence not first introduced in the district court."
    }
-  ]
+  ],
+  "title": "FRAP 10(e)(2) record supplementation on Rehaif plain-error review"
  },
  {
   "issue": "Does a state's law or parole policy determine whether a parolee's Fourth Amendment rights require reasonable suspicion for a search, or is the parolee's Fourth Amendment right fixed by federal law under Samson?",
@@ -6800,7 +6926,8 @@
     "source": "dissent",
     "quote": "The Third Circuit disagreed and, like the Tenth Circuit in Freeman, read Sampson as holding that state law (or state regulation or local policy) determines a parolee's Fourth Amendment rights"
    }
-  ]
+  ],
+  "title": "Samson Parolee Searches: State Parole Policy Versus Federal Floor"
  },
  {
   "issue": "Do the federal mail fraud, wire fraud, and health care fraud statutes require that the misrepresentation converge with the deceived victim, meaning the defendant must intend to obtain money or property from the person deceived?",
@@ -6840,7 +6967,8 @@
     "source": "majority",
     "quote": "Other circuits are split on whether the statutes at issue here\u201418 U.S.C. \u00a7\u00a7 1341, 1343, 1347\u2014require convergence."
    }
-  ]
+  ],
+  "title": "\u00a7\u00a71341, 1343, 1347: Convergence of Deceit and Victim's Property"
  },
  {
   "issue": "Does 28 U.S.C. \u00a7 2254(e)(1)'s clear-and-convincing presumption of correctness provide the mechanism for proving that a state court's factual finding was unreasonable under \u00a7 2254(d)(2)?",
@@ -6888,7 +7016,8 @@
     "source": "majority",
     "quote": "And there appears to be a circuit split over their proper interpretation."
    }
-  ]
+  ],
+  "title": "Whether \u00a72254(e)(1) Clear-and-Convincing Standard Applies to \u00a72254(d)(2)"
  },
  {
   "issue": "Can a federal prisoner use the \u00a7 2255(e) saving clause to bring a \u00a7 2241 petition raising a statutory-interpretation claim that he could not raise in a successive \u00a7 2255 motion?",
@@ -6961,7 +7090,8 @@
     "source": "majority",
     "quote": "The circuits have split over this question."
    }
-  ]
+  ],
+  "title": "\u00a7 2255(e) Saving Clause Reaches Successive-Barred Statutory Claims"
  },
  {
   "issue": "Does a government motion in limine count as a 'pretrial motion' that excludes time from the Speedy Trial Act clock under 18 U.S.C. \u00a7 3161(h)(1)(D)?",
@@ -7000,7 +7130,8 @@
     "source": "majority",
     "quote": "Our sister circuits are split concerning the speedy trial implications of motions in limine."
    }
-  ]
+  ],
+  "title": "\u00a7 3161(h)(1)(D): Government Motions in Limine as Pretrial Motions"
  },
  {
   "issue": "Does the $5,000 special assessment under the Justice for Victims of Trafficking Act apply once per defendant per case, or once for each qualifying conviction?",
@@ -7044,7 +7175,8 @@
     "source": "majority",
     "quote": "The Third Circuit agrees with the government, see United States v. Johnman, 948 F.3d 612, 616\u201320 (3d Cir. 2020), while the Second Circuit concurs with Randall, see United States v. Haverkamp, 958 F.3d 145, 149 (2d Cir. 2020)."
    }
-  ]
+  ],
+  "title": "\u00a7 3014 JVTA assessment: per defendant or per count"
  },
  {
   "issue": "Does the Sixth Amendment require appellate counsel to notify a client of an adverse appellate decision and advise the client of remaining avenues of review, such as discretionary appeals?",
@@ -7085,7 +7217,8 @@
     "source": "majority",
     "quote": "Indeed, our sister circuits have taken conflicting positions on this issue."
    }
-  ]
+  ],
+  "title": "Sixth Amendment Duty to Advise on Discretionary Review Avenues"
  },
  {
   "issue": "May a court apply the $500-per-access-device loss floor in U.S.S.G. \u00a7 2B1.1 cmt. n.3(F)(i) to each unauthorized access device, including each card a defendant possessed, or is that per-device multiplier invalid under Stinson and Kisor?",
@@ -7139,7 +7272,8 @@
     "source": "dissent",
     "quote": "The Seventh Circuit, for instance, has held that the $500per-card multiplier applies to all access devices a defendant possesses."
    }
-  ]
+  ],
+  "title": "\u00a72B1.1 n.3(F)(i) $500 Floor: Per-Device Multiplication Under Stinson, Kisor"
  },
  {
   "issue": "Does Brady v. Maryland require the prosecution to disclose exculpatory evidence to a defendant before the defendant pleads guilty?",
@@ -7193,7 +7327,8 @@
     "source": "majority",
     "quote": "at the least definitively resolve the acknowledged circuit split."
    }
-  ]
+  ],
+  "title": "Brady Pre-Plea Disclosure of Exculpatory Evidence After Ruiz"
  },
  {
   "issue": "Does an improper denial of a defendant's Faretta right to self-representation automatically render a later voluntary guilty plea involuntary, so that the plea voids the claim?",
@@ -7241,7 +7376,8 @@
     "source": "majority",
     "quote": "As we are barred by Williams's forfeiture from addressing the circuit split on the question of whether an improper denial of a defendant's Faretta right to self-representation automatically renders a guilty plea involuntary, we make no comment on the decisions of our sister circuits."
    }
-  ]
+  ],
+  "title": "Whether Guilty Plea Waives Faretta Self-Representation Denial Claim"
  },
  {
   "issue": "Is a conviction for intentionally causing bodily harm, without a separate element of physical force, a violent felony under the ACCA or a crime of violence under the career offender Guideline?",
@@ -7302,7 +7438,8 @@
     "source": "majority",
     "quote": "As Mr. Thomas characterizes the split, the Third, Fifth, Sixth, and Ninth Circuits have held that such offenses cannot be considered violent felonies or crimes of violence, while the First, Second, Seventh, Eighth, Tenth, and Eleventh Circuits on the other hand have held that they can be."
    }
-  ]
+  ],
+  "title": "ACCA, \u00a74B1.2: Whether Intentional Bodily Injury Requires Physical Force"
  },
  {
   "issue": "Is a district court order disentitling a foreign citizen who remains abroad from seeking relief in his pending federal criminal case immediately appealable under the collateral order doctrine?",
@@ -7356,7 +7493,8 @@
     "source": "dissent",
     "quote": "In doing so, it creates a split with our sister circuits who have held fugitive disentitlement orders\u2014and specifically involving, as here, a foreign citizen located abroad\u2014are not immediately appealable."
    }
-  ]
+  ],
+  "title": "Appealability of Fugitive Disentitlement Orders Under \u00a7 1291 Collateral Order"
  },
  {
   "issue": "Does the statutory maximum default term of supervised release under 18 U.S.C. \u00a7 3583(b) cap the term for offenses under 21 U.S.C. \u00a7 841(b)(1), or does the 2002 'notwithstanding' clause in \u00a7 841(b)(1) allow a term of life?",
@@ -7400,7 +7538,8 @@
     "source": "majority",
     "quote": "except for our circuit, every circuit with jurisdiction over criminal appeals has held that the maximum term of supervised release for \u00a7 841(b)(1) offenses is life, and that the shorter default"
    }
-  ]
+  ],
+  "title": "\u00a7 3583(b) Cap Versus \u00a7 841(b)(1) Life Supervised Release"
  },
  {
   "issue": "When a defendant's supervised release is revoked and the defendant was serving multiple concurrent supervised release terms from a multi-count conviction, does the Revocation Table under the Guidelines require a separate revocation sentence for each term, or a single sentence for the violation?",
@@ -7444,7 +7583,8 @@
     "source": "majority",
     "quote": "Convinced that our instinct in these cases was correct, we decline to follow the Ninth Circuit down its \u201cbaffling\u201d path."
    }
-  ]
+  ],
+  "title": "\u00a77B1.4(a): Single or Separate Revocation Sentences for Concurrent Releases"
  },
  {
   "issue": "When deciding whether to give a lesser-included possession instruction in a possession-with-intent-to-distribute prosecution, may the district court weigh the evidence of distribution against the evidence of possession, or must it only ask whether any evidence fairly tends to bear on the lesser offense?",
@@ -7484,7 +7624,8 @@
     "source": "dissent",
     "quote": "In doing so, it disregards binding precedent and creates a circuit split."
    }
-  ]
+  ],
+  "title": "Rule 31(c) lesser-included possession: weighing evidence versus fairly-tends standard"
  },
  {
   "issue": "Does the Brady due process disclosure requirement apply to evidence that is material only to a pretrial motion to suppress?",
@@ -7539,7 +7680,8 @@
     "source": "majority",
     "quote": "This court has not determined whether Brady applies to a suppression hearing, and circuits are split on the issue."
    }
-  ]
+  ],
+  "title": "Brady Duty for Evidence Material Only to Suppression Motions"
  },
  {
   "issue": "After the Supreme Court struck down the FDAMA's compounding advertising provisions in Thompson v. Western States, do the remaining FDAMA provisions that exempt compounded drugs from the FDCA's new-drug requirements survive, or was the whole statute invalid?",
@@ -7582,7 +7724,8 @@
     "source": "majority",
     "quote": "But, thereafter, a circuit split ensued as to what, if anything, remained of the FDAMA and its provisions regulating compounders."
    }
-  ]
+  ],
+  "title": "\u00a7 353a Compounding Exemptions After Thompson: Severability Disputed"
  },
  {
   "issue": "Is an alien excused from proving the exhaustion and deprivation-of-judicial-review prongs of 8 U.S.C. \u00a7 1326(d) in a collateral attack on a removal order when the immigration judge did not inform him of his eligibility for discretionary relief such as voluntary departure?",
@@ -7639,7 +7782,8 @@
     "source": "majority",
     "quote": "We acknowledge the circuit split on this question, with the majority of our sister circuits likewise holding that an alien has no constitutional right to be informed of eligibility for, or to be considered for, discretionary relief."
    }
-  ]
+  ],
+  "title": "\u00a71326(d): IJ's Failure to Advise of Relief Excuses Exhaustion"
  },
  {
   "issue": "When a defendant was sentenced under a mandatory guidelines scheme in violation of the Sixth Amendment, must the court grant full resentencing, or is a Crosby hearing (resentencing only if the judge would have imposed a materially different sentence) enough?",
@@ -7677,7 +7821,8 @@
     "source": "majority",
     "quote": "[T]he Supreme Court has not spoken to this issue, and there is a circuit split concerning whether violations of the Sixth Amendment require a full resentencing or a Crosby hearing."
    }
-  ]
+  ],
+  "title": "Booker Sixth Amendment Error: Crosby Remand or Full Resentencing"
  },
  {
   "issue": "Can a district court waive accrued interest on a restitution order after sentencing, based on the defendant's changed ability to pay, under 18 U.S.C. \u00a7 3612(f)(3)?",
@@ -7715,7 +7860,8 @@
     "source": "majority",
     "quote": "Although the circuits are split on the issue, and the statutory language is not clear, the fairest reading of the statute is that the district court\u2019s power to waive interest on restitution because of a defendant\u2019s inability to pay can be exercised not only at initial sentencing but also at a point after initial sentencing in light of changed circumstances regarding ability to pay."
    }
-  ]
+  ],
+  "title": "\u00a7 3612(f)(3) Post-Sentencing Interest Waiver, Changed Ability to Pay"
  },
  {
   "issue": "Under 18 U.S.C. \u00a7 3582(c)(1)(A), must a prisoner fully exhaust BOP administrative appeals before filing a compassionate release motion, or may he file once 30 days pass after the warden receives the request, even if the warden denied it within that period?",
@@ -7759,7 +7905,8 @@
     "source": "majority",
     "quote": "The circuit courts also appear to be divided on this issue."
    }
-  ]
+  ],
+  "title": "\u00a7 3582(c)(1)(A): Must Exhaust BOP Appeals After Warden Denial"
  },
  {
   "issue": "When deciding whether to authorize a second or successive federal habeas petition under 28 U.S.C. \u00a7 2244(b)(3), may the court of appeals consider whether the petition is time-barred under \u00a7 2244(d)?",
@@ -7814,7 +7961,8 @@
     "source": "majority",
     "quote": "Our sister circuits are split on the scope of our gatekeeping review."
    }
-  ]
+  ],
+  "title": "Whether \u00a7 2244(b)(3) Authorization Considers \u00a7 2244(d) Timeliness"
  },
  {
   "issue": "When ruling on a motion for a sentence reduction under \u00a7 404 of the First Step Act, must the district court consider the 18 U.S.C. \u00a7 3553(a) sentencing factors?",
@@ -7882,7 +8030,8 @@
     "source": "majority",
     "quote": "We decline to follow our sister circuits for four reasons."
    }
-  ]
+  ],
+  "title": "First Step Act \u00a7404 Motions: Whether \u00a73553(a) Factors Apply"
  },
  {
   "issue": "Is warrantless, long-term (more than 30 days) pole camera surveillance of the plainly visible exterior of a home a search under the Fourth Amendment?",
@@ -7926,7 +8075,8 @@
     "source": "majority",
     "quote": "The answer\u2014and even how to reach it\u2014is the subject of disagreement among our sister circuits and counterparts in state courts."
    }
-  ]
+  ],
+  "title": "Warrantless Long-Term Pole Camera Surveillance as Fourth Amendment Search"
  },
  {
   "issue": "When resentencing under First Step Act \u00a7 404, may or must the district court recalculate the Guidelines range using changes in law beyond Sections 2 and 3 of the Fair Sentencing Act, such as new Guidelines amendments or later judicial decisions?",
@@ -8041,7 +8191,8 @@
     "source": "majority",
     "quote": "In reaching this conclusion, we deepen a circuit split."
    }
-  ]
+  ],
+  "title": "First Step Act \u00a7404: Whether Later Guidelines Changes Apply"
  },
  {
   "issue": "When a defendant who is proceeding pro se, or who is represented but fails to raise his own competency at a Faretta hearing, does the court review a failure to inquire into competency under \u00a7 4241(a) for plain error?",
@@ -8080,7 +8231,8 @@
     "source": "majority",
     "quote": "Applying plain error in this arena is the subject of thoughtful debate and has led to a circuit split."
    }
-  ]
+  ],
+  "title": "4241(a) Competency Inquiry: Plain Error for Pro Se Defendants"
  },
  {
   "issue": "Is a fact that only increases the maximum sentence, such as a 'death results' allegation, an element of the offense of conviction for purposes of the statutory elements and divisibility analysis?",
@@ -8122,7 +8274,8 @@
     "source": "majority",
     "quote": "We disagree with the First Circuit\u2019s premise that an \u201celement\u201d relevant only to an enhanced sentence is necessarily an element of the crime of conviction."
    }
-  ]
+  ],
+  "title": "Apprendi: Whether Death-Results Facts Are Elements for Divisibility"
  },
  {
   "issue": "What standard of appellate review applies to a sufficiency-of-the-evidence challenge in a criminal case that the defendant did not preserve?",
@@ -8202,7 +8355,8 @@
     "source": "majority",
     "quote": "The circuits are more divided on this question than on the preservation standard itself."
    }
-  ]
+  ],
+  "title": "Rule 29 Unpreserved Sufficiency: Plain Error or Manifest Miscarriage"
  },
  {
   "issue": "Does a prior state conviction for consensual sexual activity with a 17-year-old, which is not criminal in most states, qualify as a conviction 'relating to . . . abusive sexual conduct involving a minor' under the recidivist enhancement of the federal child-pornography statute?",
@@ -8242,7 +8396,8 @@
     "source": "dissent",
     "quote": "In my view, the majority\u2019s expansive interpretation of \u00a7 2252A misreads binding case law, creates a circuit split, misapplies the categorical approach, and adopts a definition of the phrase \u201crelating to abusive sexual conduct involving a minor\u201d that triples mandatoryminimum sentences based on prior convictions for conduct that is not criminal in forty-two states."
    }
-  ]
+  ],
+  "title": "\u00a7 2252A(b)(1) enhancement: consensual 17-year-old sex as abusive conduct"
  },
  {
   "issue": "Does 18 U.S.C. \u00a7 1114 apply to the murder or attempted murder of a U.S. officer committed outside U.S. territory?",
@@ -8288,7 +8443,8 @@
     "source": "dissent",
     "quote": "Two circuits disagree with this court\u2019s decision in Garcia Sota and hold that \u00a7 1114 applies beyond the sovereign territory of the United States."
    }
-  ]
+  ],
+  "title": "\u00a7 1114 extraterritorial reach over killing federal officers abroad"
  },
  {
   "issue": "What standard of appellate review applies to a challenge to the adequacy of a district court's sentencing explanation: de novo, or abuse of discretion?",
@@ -8332,7 +8488,8 @@
     "source": "majority",
     "quote": "And there is a circuit split as to the proper standard of review for this issue."
    }
-  ]
+  ],
+  "title": "\u00a7 3553(c) Explanation Adequacy: De Novo or Abuse of Discretion"
  },
  {
   "issue": "Can reasonable suspicion for an investigatory stop rest on an anonymous tip whose details police corroborate only as innocent, or must the corroborated facts point to criminal activity?",
@@ -8389,7 +8546,8 @@
     "source": "dissent",
     "quote": "Second, the majority\u2019s criminal-corroboration rule creates a circuit split."
    }
-  ]
+  ],
+  "title": "Terry Stops: Whether Innocent-Detail Corroboration of Anonymous Tip Suffices"
  },
  {
   "issue": "Is attempted Hobbs Act robbery categorically a 'crime of violence' under the elements clause of 18 U.S.C. \u00a7 924(c)(3)(A)?",
@@ -8439,7 +8597,8 @@
     "source": "majority",
     "quote": "Our sister courts of appeals are split on the answer to that question."
    }
-  ]
+  ],
+  "title": "924(c)(3)(A) elements clause: attempted Hobbs Act robbery post-Taylor"
  },
  {
   "issue": "Does a conspiracy conviction under 21 U.S.C. \u00a7 846, which has no overt-act element, qualify as a 'controlled substance offense' under U.S.S.G. \u00a7 4B1.2(b) and its Application Note 1?",
@@ -8500,7 +8659,8 @@
     "source": "majority",
     "quote": "There is no controlling authority on this issue in this circuit, and the other circuits remain divided in their response to it."
    }
-  ]
+  ],
+  "title": "Overt-act-free \u00a7846 conspiracy as USSG \u00a74B1.2 controlled substance offense"
  },
  {
   "issue": "Can a state court's exclusion of defense evidence under a discretionary evidentiary rule be an unreasonable application of the Supreme Court's complete-defense cases (Chambers and Crane) under AEDPA, or do those cases reach only categorical exclusion rules?",
@@ -8553,7 +8713,8 @@
     "source": "dissent",
     "quote": "Therefore, even if this case concerned a \"discretionary evidence rule\" (which it does not), our holding that the state habeas court unreasonably applied Crane and Chambers would not create a circuit split\u2014 the Ninth Circuit has already done so with a decision inconsistent with seven other circuits, including ours."
    }
-  ]
+  ],
+  "title": "\u00a72254(d)(1): Whether Chambers, Crane Reach Discretionary Evidence Exclusions"
  },
  {
   "issue": "Does a released prisoner's 28 U.S.C. \u00a7 2241 challenge to an allegedly excessive prison term remain live (not moot) when the only relief is a speculative possible modification of supervised release under 18 U.S.C. \u00a7 3583(e)?",
@@ -8602,7 +8763,8 @@
     "source": "majority",
     "quote": "Moreover, Johnson v. Pettiford sits at the center of a circuit split."
    }
-  ]
+  ],
+  "title": "Released Prisoner's \u00a72241 Challenge Moot Given Speculative \u00a73583(e) Relief"
  },
  {
   "issue": "Under the compassionate-release catch-all for 'other reasons,' may federal courts independently find extraordinary and compelling reasons for a sentence reduction, or does that determination belong only to the Bureau of Prisons?",
@@ -8643,7 +8805,8 @@
     "source": "majority",
     "quote": "We recognize and opt not to weigh in on the split of authority as to whether this catch-all provision delegates only to the Bureau of Prisons\u2014and not the courts\u2014the task of identifying \u201cother reasons\u201d justifying early release."
    }
-  ]
+  ],
+  "title": "\u00a73582(c)(1)(A) 'Other Reasons' Catch-All: Courts' Independent Authority Disputed"
  },
  {
   "issue": "Is a Rehaif error, where the court fails to require proof or advise the defendant that the government must prove knowledge of his prohibited status under 18 U.S.C. \u00a7 922(g), structural so that reversal is required without a showing of prejudice?",
@@ -8713,7 +8876,8 @@
     "source": "concurrence",
     "quote": "It not only creates a circuit split of yawning proportions, but also an equally profound schism with the Supreme Court's whole approach to error review and remediation."
    }
-  ]
+  ],
+  "title": "Rehaif Knowledge Element Omission: Structural Error for \u00a7 922(g)"
  },
  {
   "issue": "Under Rehaif, must the government prove a \u00a7 922(g)(9) defendant knew he had been convicted of a misdemeanor crime of domestic violence, and can the complexity of that statutory definition make a claim of unawareness plausible enough to warrant remand on plain-error review?",
@@ -8755,7 +8919,8 @@
     "source": "dissent",
     "quote": "I also believe the majority\u2019s decision does all that while conducting a flawed plain error review and creating a split with the Seventh Circuit in Triggs."
    }
-  ]
+  ],
+  "title": "\u00a7 922(g)(9) Rehaif Knowledge of MCDV Status, Plain-Error Remand"
  },
  {
   "issue": "When reviewing an unpreserved error for plain error, may the appellate court look beyond the trial record to the whole record, including evidence the jury never considered, in deciding whether the error affected substantial rights or the fairness of the proceedings?",
@@ -8827,7 +8992,8 @@
     "source": "majority",
     "quote": "Our sister circuits are split on this issue."
    }
-  ]
+  ],
+  "title": "Rule 52(b) plain error: whole record beyond trial evidence"
  },
  {
   "issue": "Is a Rule 60(b) motion filed while an appeal from the denial of an initial federal habeas petition is still pending a second or successive habeas petition under 28 U.S.C. \u00a7 2244(b)?",
@@ -8899,7 +9065,8 @@
     "source": "concurrence",
     "quote": "I write separately to register my disagreement with Beaty and to urge the Supreme Court to recognize the circuit split and to adopt the rule stated in Ching v. United States, 298 F.3d 174, 178 (2d Cir. 2002), and United States v. Santarelli, 929 F.3d 95, 104\u201305 (3d Cir. 2019)."
    }
-  ]
+  ],
+  "title": "Rule 60(b) during pending habeas appeal: successive under 2244(b)"
  },
  {
   "issue": "Can a defendant bring a constitutional claim (under the Sixth Amendment speedy-trial right or the Fourteenth Amendment's Due Process Clause) based on unreasonable delay between conviction and sentencing?",
@@ -8945,7 +9112,8 @@
     "source": "majority",
     "quote": "But these cases were not controlling; did not reflect a single unified framework; and largely relied on the Sixth Amendment's Speedy Trial Clause, not the Fourteenth Amendment's Due Process Clause."
    }
-  ]
+  ],
+  "title": "Speedy Trial Clause, Due Process: Post-Conviction Sentencing Delay Claims"
  },
  {
   "issue": "When a jury's special-interrogatory answer finds drug quantity below a statutory threshold, may the sentencing judge find by a preponderance of the evidence a larger quantity that increases the sentence?",
@@ -9003,7 +9171,8 @@
     "source": "dissent",
     "quote": "The upshot is that the majority opinion joins what I believe is the wrong side of a deeply entrenched circuit split, which has developed without careful parsing of the actual words of the relevant special interrogatories."
    }
-  ]
+  ],
+  "title": "Apprendi, \u00a7841(b)(1): Judge-Found Drug Quantity Above Jury Verdict"
  },
  {
   "issue": "Can a federal prisoner use the \u00a7 2255(e) savings clause to bring a \u00a7 2241 petition challenging a career-offender designation, where a later retroactive Supreme Court decision shows a prior conviction is not a valid predicate, without showing actual innocence of the crime of conviction?",
@@ -9081,7 +9250,8 @@
     "source": "dissent",
     "quote": "Second, I recognize that there is currently a circuit split on this issue. Some other circuits have allowed sentencing challenges similar to Allen's under the escape hatch."
    }
-  ]
+  ],
+  "title": "\u00a7 2255(e) Savings Clause: Career-Offender Claims Without Actual Innocence"
  },
  {
   "issue": "On federal habeas review of a state conviction, must a state court's harmless-error ruling receive AEDPA deference under 28 U.S.C. \u00a7 2254(d)(1) before relief is granted under Brecht, or may the court apply Brecht alone?",
@@ -9142,7 +9312,8 @@
     "source": "dissent",
     "quote": "It appears that we are alone in taking a \u201cstraight to Brecht approach\u201d in determining on habeas review whether a state court\u2019s constitutional error was harmless."
    }
-  ]
+  ],
+  "title": "AEDPA \u00a7 2254(d)(1) Deference Before Brecht Harmless-Error Relief"
  },
  {
   "issue": "Under Federal Rule of Evidence 404(b), may the government introduce uncharged, practice-wide prior acts (here, uncharged prescriptions) without showing a nexus to the charged healthcare fraud, and must it meet a heightened burden for that evidence?",
@@ -9185,7 +9356,8 @@
     "source": "majority",
     "quote": "Simply put, Merrill and Jones are irreconcilable."
    }
-  ]
+  ],
+  "title": "FRE 404(b) Nexus, Heightened Proof for Uncharged Practice-Wide Prescriptions"
  },
  {
   "issue": "Does a federal offense that can be committed with only recklessness qualify as a 'crime of violence' under the elements clause of 18 U.S.C. \u00a7 924(c)(3)(A)?",
@@ -9230,7 +9402,8 @@
     "source": "majority",
     "quote": "The Supreme Court granted certiorari to resolve a circuit split regarding whether a crime involving \"ordinary recklessness can satisfy the ACCA's [elements] clause.\""
    }
-  ]
+  ],
+  "title": "Reckless Offenses as Crimes of Violence under 924(c)(3)(A)"
  },
  {
   "issue": "Is the accessibility of a firearm (such as its strategic location near the drugs or the defendant) an absolute requirement for showing that the gun was possessed 'in furtherance of' a drug-trafficking crime under 18 U.S.C. \u00a7 924(c), or is it only one non-decisive factor in a holistic inquiry?",
@@ -9276,7 +9449,8 @@
     "source": "majority",
     "quote": "Such a mandate would also create a circuit conflict."
    }
-  ]
+  ],
+  "title": "\u00a7 924(c) 'In Furtherance': Gun Accessibility Mandatory or One Factor"
  },
  {
   "issue": "Does forcing robbery victims from a store's sales floor to a back room of the same store count as accompanying them to a 'different location' under the abduction enhancement in U.S.S.G. \u00a7 2B3.1(b)(4)(A)?",
@@ -9327,7 +9501,8 @@
     "source": "majority",
     "quote": "A \"split of authority\" has developed over \"whether the forced movement of victims from one room or area to another room or area within the same building constitutes an abduction for purposes of \u00a7 2B3.1(b)(4)(A).\""
    }
-  ]
+  ],
+  "title": "\u00a72B3.1(b)(4)(A) Abduction: Back-Room Move as \"Different Location\""
  },
  {
   "issue": "Can a federal prisoner use 28 U.S.C. \u00a7 2255 and Johnson to challenge a sentence enhanced under the pre-Booker mandatory Sentencing Guidelines residual clause, and is such a motion timely?",
@@ -9384,7 +9559,8 @@
     "source": "majority",
     "quote": "The circuits have split over this same question."
    }
-  ]
+  ],
+  "title": "Section 2255 Johnson Vagueness Claims: Pre-Booker Guidelines Residual Clause"
  },
  {
   "issue": "When a sentencing enhancement turns on an offense involving child pornography under 18 U.S.C. \u00a7 2252, should the statute's listed actus reus terms be read by their ordinary, generic meaning or by reference to the federal statutory definitions?",
@@ -9427,7 +9603,8 @@
     "source": "majority",
     "quote": "As we explain in Section II.A.2, infra, other circuits have split on the appropriate treatment of individual terms in \u00a7 2252."
    }
-  ]
+  ],
+  "title": "\u00a7 2252 Actus Reus Terms: Ordinary Meaning or Federal Definitions"
  },
  {
   "issue": "In a \u00a7 2255 challenge to an ACCA sentence under Johnson, can the court deny relief by relying on currently valid prior convictions that were not considered at the original sentencing, or must the movant's sentence be assessed based on what the sentencing court actually relied on?",
@@ -9472,7 +9649,8 @@
     "source": "dissent",
     "quote": "Finally, the panel opinion creates a split with the Fourth and Seventh Circuits, which confronted the same question presented by Mr. Tribue\u2019s case and came out differently."
    }
-  ]
+  ],
+  "title": "ACCA Johnson \u00a72255: Whether Unconsidered Predicates Can Defeat Relief"
  },
  {
   "issue": "Does a Florida robbery conviction under Fla. Stat. \u00a7 812.13, as it stood before 1997 and could be committed by mere snatching, qualify as a violent felony under the ACCA's elements clause, which requires the use of violent force?",
@@ -9514,7 +9692,8 @@
     "source": "majority",
     "quote": "He is referring to a decision from the Ninth Circuit, United States v. Geozos, where that court concluded that a defendant could violate \u00a7 812.13 \u201cwithout using violent force.\u201d"
    }
-  ]
+  ],
+  "title": "Fla. Stat. 812.13 Snatching: ACCA Elements Clause Violent Force"
  },
  {
   "issue": "Where is venue proper for a federal wire fraud prosecution: only where the wire transmission has a direct or causal connection to the misuse of the wires, or wherever the transmission originated, passed through, was received, or was orchestrated?",
@@ -9562,7 +9741,8 @@
     "source": "majority",
     "quote": "There is a circuit split regarding the standard to determine venue in wire fraud cases."
    }
-  ]
+  ],
+  "title": "\u00a71343 venue: causal wire nexus, or any transmission point"
  },
  {
   "issue": "When deciding whether a supervised-release violation is a Grade A 'crime of violence' or 'controlled substance offense' under U.S.S.G. \u00a7 7B1.1(a), must the court apply the categorical approach to the elements of the new offense, or may it look to the defendant's actual conduct as the commentary to \u00a7 7B1.1 provides?",
@@ -9609,7 +9789,8 @@
     "source": "majority",
     "quote": "In concluding that the categorical approach applies here, we part ways with three other circuits."
    }
-  ]
+  ],
+  "title": "7B1.1(a) Grade A Violations: Categorical Approach or Actual Conduct"
  },
  {
   "issue": "After United States v. Cotton, does a defect in a federal indictment deprive the court of jurisdiction, or does the Cotton rule apply only where the indictment charges some federal crime, leaving defects in an indictment that fails to state any federal offense jurisdictional?",
@@ -9664,7 +9845,8 @@
     "source": "majority",
     "quote": "The circuits are split on the proper interpretation of Cotton."
    }
-  ]
+  ],
+  "title": "\u00a7 3231 Jurisdiction: Cotton's Reach Over Facially Non-Federal Indictments"
  },
  {
   "issue": "Is morphed child pornography, which depicts identifiable real children's faces on sexually explicit images of others, categorically excluded from First Amendment protection, so that it can be criminalized like real child pornography?",
@@ -9709,7 +9891,8 @@
     "source": "majority",
     "quote": "As is typically the case when a circuit split exists, there are reasoned arguments on both sides of this issue."
    }
-  ]
+  ],
+  "title": "Morphed Real-Child CSAM: First Amendment Exclusion Under 2252A"
  },
  {
   "issue": "Does federal second-degree murder qualify as a crime of violence under 18 U.S.C. \u00a7 924(c)'s elements clause even though it requires no showing of recklessness?",
@@ -9753,7 +9936,8 @@
     "source": "majority",
     "quote": "We therefore decline to follow the majority in the Ninth Circuit's decision in Begay, 934 F.3d at 1038\u201341 (holding that federal second-degree murder is not a crime of violence for purposes of \u00a7 924(c)), and align instead with the Fourth Circuit's decision in In re Irby, 858 F.3d 231, 237 (4th Cir. 2017) (holding that federal second-degree murder is a crime of violence, although not considering the precise argument made here)."
    }
-  ]
+  ],
+  "title": "924(c)(3)(A) Crime of Violence: Second-Degree Murder Without Recklessness"
  },
  {
   "issue": "May the government use a defendant's post-arrest, pre-Miranda silence as substantive evidence of guilt in its case-in-chief?",
@@ -9793,7 +9977,8 @@
     "source": "majority",
     "quote": "Palacios-Solis points out a circuit split on this issue."
    }
-  ]
+  ],
+  "title": "Fifth Amendment: Substantive Use of Post-Arrest, Pre-Miranda Silence"
  },
  {
   "issue": "Can a tribal officer detain a non-Indian on fee land on reasonable suspicion, or must the officer have probable cause?",
@@ -9834,7 +10019,8 @@
     "source": "dissent",
     "quote": "decision in Jones underscores that the panel's analysis reflects a circuit split on this point."
    }
-  ]
+  ],
+  "title": "Fourth Amendment: Reasonable Suspicion for Tribal Detention of Non-Indians"
  },
  {
   "issue": "When a defendant challenges the sufficiency of an indictment for the first time on appeal, without a pretrial motion under Rule 12, should the appellate court review for plain error or construe the challenge liberally in favor of sufficiency?",
@@ -9882,7 +10068,8 @@
     "source": "concurrence",
     "quote": "But the circuits are split on how to review these challenges."
    }
-  ]
+  ],
+  "title": "Rule 12(b)(3)(B) late indictment defects: plain error, liberal construction"
  },
  {
   "issue": "Can a federal prisoner use the \u00a7 2255(e) savings clause to seek \u00a7 2241 relief based on an intervening circuit decision that changed the sentencing circuit's law, or must the new interpretation come from the Supreme Court?",
@@ -9925,6 +10112,7 @@
     "source": "majority",
     "quote": "But a circuit conflict would exist over the meaning of \u00a7 2255(e) no matter how we resolved Hueso's case."
    }
-  ]
+  ],
+  "title": "\u00a7 2255(e) Savings Clause: Circuit Precedent Changes as \u00a7 2241 Grounds"
  }
 ]

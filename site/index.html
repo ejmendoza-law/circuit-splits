@@ -1,154 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Circuit Split Tracker</title>
-<meta name="claude:viewport-fit-sides" content="cover">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<meta name="description" content="Open circuit splits in federal criminal law, by circuit. Updated weekly from published court of appeals opinions.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;1,8..60,400&display=swap">
 <style>
-/* Layout: one reading column. Each split is a row whose signature is a 12-chip strip of the circuits, colored by side. */
+/* One light look. White page, dark ink, color reserved for the two sides of a split. */
 :root{
-  --bg:#f5f7fa; --surface:#ffffff; --ink:#16223a; --muted:#5b6679; --line:#d9dfe8;
-  --accent:#1d4f9c; --accent-soft:#e6eefb;
-  --sideA:#1d4f9c; --sideB:#b8650a; --sideC:#6b3fa0; --sideD:#0f7a6c; --on-side:#ffffff;
-  --ok:#1b7a43; --ok-soft:#e2f3e8; --warn:#8a5a00; --warn-soft:#fbf0d6; --bad:#a3271f; --bad-soft:#fbe6e4;
+  color-scheme:light;
+  --bg:#ffffff; --panel:#f5f6f8; --ink:#1b1f24; --text:#30363d; --muted:#656d76; --line:#e1e4e8;
+  --link:#1a4f8f;
+  --A:#2c5aa0; --B:#d4761a; --C:#7b4bb0; --D:#1f8a7a;
+  --A-soft:#e8eff8; --B-soft:#fbeedd; --C-soft:#f0e9f8; --D-soft:#e2f3f0;
+  --ok:#1a7f43; --bad:#b3261e;
+  --sans:"Libre Franklin",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
   --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
-  --sans:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
 }
-@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#0f1522; --surface:#182033; --ink:#e7ebf3; --muted:#9aa5b8; --line:#2c3750;
-  --accent:#8db4f5; --accent-soft:#1d2c4a;
-  --sideA:#5e94ea; --sideB:#e09a3c; --sideC:#b08be0; --sideD:#4cc0b0; --on-side:#0f1522;
-  --ok:#6fd198; --ok-soft:#173326; --warn:#e8bd5b; --warn-soft:#3a2f12; --bad:#f08a80; --bad-soft:#3d1c19;
-  color-scheme:dark } }
-:root[data-theme="dark"]{
-  --bg:#0f1522; --surface:#182033; --ink:#e7ebf3; --muted:#9aa5b8; --line:#2c3750;
-  --accent:#8db4f5; --accent-soft:#1d2c4a;
-  --sideA:#5e94ea; --sideB:#e09a3c; --sideC:#b08be0; --sideD:#4cc0b0; --on-side:#0f1522;
-  --ok:#6fd198; --ok-soft:#173326; --warn:#e8bd5b; --warn-soft:#3a2f12; --bad:#f08a80; --bad-soft:#3d1c19;
-  color-scheme:dark }
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans)}
-.wrap{max-width:920px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:20px}
-h1{font:600 30px/1.15 var(--serif);margin:0;text-wrap:balance}
-.lede{color:var(--muted);max-width:65ch;margin:6px 0 0}
-.tabs{display:flex;gap:6px;flex-wrap:wrap}
-.tab{font:600 13px var(--sans);padding:7px 12px;border:1px solid var(--line);background:var(--surface);color:var(--muted);border-radius:6px;cursor:pointer}
-.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
-.filters{display:grid;grid-template-columns:2fr 1.3fr 1fr 1fr;gap:10px}
-.filters label{display:flex;flex-direction:column;gap:4px;font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);min-width:0}
-input,select,textarea{font:15px var(--sans);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 10px;width:100%;min-width:0}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 var(--sans)}
+[hidden]{display:none!important}
+a{color:var(--link)}
+.wrap{max-width:1060px;margin:0 auto;padding:0 20px}
+header.top{border-bottom:1px solid var(--line)}
+header.top .wrap{padding-block:26px 22px;display:flex;flex-wrap:wrap;gap:8px 32px;align-items:flex-end;justify-content:space-between}
+h1{font:700 27px/1.15 var(--sans);letter-spacing:-.01em;color:var(--ink);margin:0}
+.lede{margin:6px 0 0;max-width:58ch;color:var(--text)}
+.stats{margin:0;color:var(--muted);font-size:13.5px;font-variant-numeric:tabular-nums}
+.stats b{color:var(--ink);font-weight:600}
+
+/* map section */
+.where{background:var(--panel);border-bottom:1px solid var(--line)}
+.where .wrap{padding-block:22px;display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:28px;align-items:center}
+.map svg{display:block;width:100%;height:auto}
+.map .circ{stroke:#fff;stroke-width:1.5;cursor:pointer;transition:fill .15s}
+.map .circ:hover{stroke:var(--ink);stroke-width:2}
+.map .mesh{fill:none;stroke:#fff;stroke-width:.6;opacity:.7;pointer-events:none}
+.map text{font:700 24px var(--sans);text-anchor:middle;dominant-baseline:central;pointer-events:none;fill:var(--ink)}
+.map text.on-dark{fill:#fff}
+.detail .map text{font-size:36px}
+.map .lead{stroke:var(--muted);stroke-width:1;pointer-events:none}
+.pick h2{font:700 18px/1.25 var(--sans);color:var(--ink);margin:0 0 4px}
+.pick p{margin:0 0 12px;color:var(--text)}
+.cbtns{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;margin-bottom:14px}
+.cbtn{font:600 13.5px var(--sans);padding:8px 0;border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:5px;cursor:pointer}
+.cbtn:hover{border-color:var(--ink)}
+.cbtn[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.summary{border-top:1px solid var(--line);padding-top:12px}
+.summary .big{font:700 20px/1.2 var(--sans);color:var(--ink);margin:0 0 4px}
+.legend{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);margin-top:10px}
+.legend i{display:inline-block;width:16px;height:10px;border-radius:2px}
+.fine{font-size:12.5px;color:var(--muted);margin:10px 0 0}
+.linkbtn{background:none;border:0;padding:0;font:inherit;color:var(--link);text-decoration:underline;cursor:pointer}
+
+/* list */
+main .wrap{padding-block:22px 48px}
+.note{background:#fff8e6;border:1px solid #f0dca8;padding:10px 12px;border-radius:6px;margin-bottom:14px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.tab{font:600 13px var(--sans);padding:7px 12px;border:1px solid var(--line);background:#fff;color:var(--text);border-radius:5px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.tools{display:grid;grid-template-columns:2fr 1.2fr 1fr;gap:10px}
+.tools label{display:flex;flex-direction:column;gap:4px;font:500 12.5px var(--sans);color:var(--muted);min-width:0}
+input,select,textarea{font:15px var(--sans);color:var(--ink);background:#fff;border:1px solid #c9ced6;border-radius:5px;padding:8px 10px;width:100%;min-width:0}
 textarea{resize:vertical;line-height:1.45}
-:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.count{color:var(--muted);font-size:13px}
-.list{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+:focus-visible{outline:2px solid var(--A);outline-offset:2px}
+.count{color:var(--muted);font-size:13.5px;margin:14px 0 6px}
+.list{border-top:1px solid var(--line)}
 .row{border-bottom:1px solid var(--line)}
-.head{display:grid;grid-template-columns:1fr auto;gap:6px 18px;padding:16px 4px;cursor:pointer;background:none;border:0;width:100%;text-align:left;color:inherit;font:inherit}
-.head:hover .q{color:var(--accent)}
-.meta{grid-column:1/-1;display:flex;gap:8px 12px;flex-wrap:wrap;align-items:center;font-size:12.5px;color:var(--muted)}
-.topic{font-weight:700;letter-spacing:.05em;text-transform:uppercase;font-size:11px;color:var(--accent)}
-.q{font:600 18px/1.3 var(--serif);margin:0;text-wrap:balance;min-width:0}
-.strip{display:grid;grid-template-columns:repeat(12,22px);gap:3px;align-self:start;padding-top:3px}
-.chip{height:22px;border-radius:3px;border:1px solid var(--line);font:600 10px/20px var(--sans);text-align:center;color:var(--muted);font-variant-numeric:tabular-nums}
-.chip.s0{background:var(--sideA);border-color:var(--sideA);color:var(--on-side)}
-.chip.s1{background:var(--sideB);border-color:var(--sideB);color:var(--on-side)}
-.chip.s2{background:var(--sideC);border-color:var(--sideC);color:var(--on-side)}
-.chip.s3{background:var(--sideD);border-color:var(--sideD);color:var(--on-side)}
-.badge{font:600 11px var(--sans);padding:2px 7px;border-radius:99px}
-.b-unreviewed{background:var(--warn-soft);color:var(--warn)}
-.b-approved{background:var(--ok-soft);color:var(--ok)}
-.b-needs_review{background:var(--accent-soft);color:var(--accent)}
-.b-rejected{background:var(--bad-soft);color:var(--bad)}
-.body{padding:0 4px 20px;display:flex;flex-direction:column;gap:16px}
-.sides{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
-.side{border-left:4px solid var(--line);padding-left:12px;min-width:0}
-.side.s0{border-color:var(--sideA)}.side.s1{border-color:var(--sideB)}.side.s2{border-color:var(--sideC)}.side.s3{border-color:var(--sideD)}
-.side h3{font:700 12px var(--sans);letter-spacing:.05em;text-transform:uppercase;margin:0 0 4px;color:var(--muted)}
-.side p{margin:0 0 6px}
-.cases{margin:0;padding-left:18px;color:var(--muted);font-size:13.5px;overflow-wrap:anywhere}
-h4{font:700 12px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
-.ops{display:flex;flex-direction:column;gap:10px;margin:0;padding:0;list-style:none}
-.ops a{color:var(--accent);font-weight:600;overflow-wrap:anywhere}
-.ops q{display:block;color:var(--muted);font:500 14.5px/1.45 var(--serif);margin-top:2px}
-.note{background:var(--accent-soft);padding:10px 12px;border-radius:6px}
+.head{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 24px;padding:16px 0;cursor:pointer;background:none;border:0;width:100%;text-align:left;color:inherit;font:inherit}
+.head h3{font:600 17px/1.3 var(--sans);color:var(--ink);margin:0;text-wrap:balance}
+.head:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.q{margin:3px 0 0;color:var(--text);max-width:72ch}
+.meta{display:flex;flex-wrap:wrap;gap:2px 0;margin-top:6px;font-size:13px;color:var(--muted)}
+.meta span+span::before{content:"·";margin:0 7px;color:#b3b9c1}
+.meta .yours{font-weight:600}
+.right{display:flex;flex-direction:column;align-items:flex-end;gap:6px;padding-top:3px}
+.score{font:600 13px var(--sans);color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
+.score .a{color:var(--A)}.score .b{color:var(--B)}.score .c{color:var(--C)}.score .d{color:var(--D)}
+.strip{display:grid;grid-template-columns:repeat(12,20px);gap:2px}
+.chip{height:20px;border-radius:3px;background:#eef0f3;font:600 10px/20px var(--sans);text-align:center;color:#8a929c;font-variant-numeric:tabular-nums}
+.chip.s0{background:var(--A);color:#fff}.chip.s1{background:var(--B);color:#fff}.chip.s2{background:var(--C);color:#fff}.chip.s3{background:var(--D);color:#fff}
+.chip.me{outline:2px solid var(--ink);outline-offset:1px}
+.body{padding:2px 0 22px;display:flex;flex-direction:column;gap:18px}
+.sides{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px}
+.side{border-radius:6px;padding:12px 14px;min-width:0}
+.side.s0{background:var(--A-soft)}.side.s1{background:var(--B-soft)}.side.s2{background:var(--C-soft)}.side.s3{background:var(--D-soft)}
+.side h4{font:700 13.5px var(--sans);margin:0 0 4px}
+.side.s0 h4{color:var(--A)}.side.s1 h4{color:#a85a0d}.side.s2 h4{color:var(--C)}.side.s3 h4{color:#14695d}
+.side p{margin:0 0 6px;color:var(--ink)}
+.cases{margin:0;padding-left:18px;color:var(--text);font-size:13.5px;overflow-wrap:anywhere}
+.detail{display:grid;grid-template-columns:minmax(0,340px) minmax(0,1fr);gap:24px;align-items:start}
+.sub{font:600 13px var(--sans);color:var(--muted);margin:0 0 6px}
+.ops{display:flex;flex-direction:column;gap:12px;margin:0;padding:0;list-style:none}
+.ops a{font-weight:600;overflow-wrap:anywhere}
+.ops q{display:block;color:var(--text);font:italic 400 15px/1.5 var(--serif);margin-top:2px}
+.small{font-size:13px;color:var(--muted)}
 .actions{display:flex;gap:8px;flex-wrap:wrap;align-items:center;border-top:1px dashed var(--line);padding-top:14px}
-.btn{font:600 13.5px var(--sans);padding:8px 14px;border-radius:6px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
-.btn.ok{background:var(--ok);border-color:var(--ok);color:var(--bg)}
+.btn{font:600 13.5px var(--sans);padding:8px 14px;border-radius:5px;border:1px solid #c9ced6;background:#fff;color:var(--ink);cursor:pointer}
+.btn.ok{background:var(--ok);border-color:var(--ok);color:#fff}
 .btn.bad{color:var(--bad);border-color:var(--bad)}
-.btn:disabled{opacity:.5;cursor:default}
 .edit{display:flex;flex-direction:column;gap:10px}
-.edit label{display:flex;flex-direction:column;gap:4px;font:600 12px var(--sans);color:var(--muted)}
+.edit label{display:flex;flex-direction:column;gap:4px;font:500 12.5px var(--sans);color:var(--muted)}
 .edit .pair{display:grid;grid-template-columns:2fr 1fr;gap:10px}
-.status{font-size:13px;color:var(--muted)}
-.empty{padding:28px 4px;color:var(--muted)}
-footer{color:var(--muted);font-size:13px;max-width:70ch}
-@media (max-width:640px){
-  .filters{grid-template-columns:1fr 1fr}.filters label:first-child{grid-column:1/-1}
-  .head{grid-template-columns:1fr}.edit .pair{grid-template-columns:1fr}
-  .strip{grid-template-columns:repeat(12,minmax(0,22px))}
+.empty{padding:28px 0;color:var(--muted)}
+footer{border-top:1px solid var(--line);color:var(--muted);font-size:13.5px}
+footer .wrap{padding-block:22px 40px}
+footer p{max-width:76ch;margin:0 0 8px}
+@media (max-width:760px){
+  .wrap{padding:0 16px}
+  .where .wrap{grid-template-columns:1fr;gap:16px}
+  .tools{grid-template-columns:1fr 1fr}.tools label:first-child{grid-column:1/-1}
+  .head{grid-template-columns:1fr}.right{align-items:flex-start;flex-direction:row;flex-wrap:wrap;align-items:center;gap:10px}
+  .detail{grid-template-columns:1fr}.edit .pair{grid-template-columns:1fr}
+  .strip{grid-template-columns:repeat(12,minmax(0,20px))}
 }
+@media (prefers-reduced-motion:reduce){.map .circ{transition:none}}
 </style>
-
-<div class="wrap">
-  <header>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div>
     <h1>Circuit Split Tracker</h1>
-    <p class="lede">Open disagreements among the federal courts of appeals on questions of criminal law, drawn from published opinions since 2020. Each entry shows which circuits are on which side.</p>
-  </header>
+    <p class="lede">Open disagreements among the federal courts of appeals on questions of criminal law. See where your circuit stands and which issues may be headed to the Supreme Court.</p>
+  </div>
+  <p class="stats" id="stats"></p>
+</div></header>
 
+<section class="where" aria-label="Choose a circuit"><div class="wrap">
+  <div class="map" id="map"></div>
+  <div class="pick">
+    <h2 id="pick-h">Where do you practice?</h2>
+    <p id="pick-p">Choose a circuit on the map or below to see the splits it is part of.</p>
+    <div class="cbtns" id="cbtns"></div>
+    <div class="summary" id="summary" hidden></div>
+    <div class="legend" id="legend"></div>
+    <p class="fine">Puerto Rico is in the 1st Circuit, the Virgin Islands in the 3d, and Guam and the Northern Mariana Islands in the 9th.</p>
+  </div>
+</div></section>
+
+<main><div class="wrap">
   <div class="note" id="ghnote" hidden>Review mode. Each button opens GitHub with the request filled in. Click <strong>Create</strong> there to confirm. The site updates about two minutes later.</div>
   <div class="tabs" id="tabs" role="tablist" hidden></div>
-
-  <div class="filters">
-    <label for="f-q">Search<input id="f-q" type="search" placeholder="e.g. 922(g), compassionate release, loss amount"></label>
+  <div class="tools">
+    <label for="f-q">Search<input id="f-q" type="search" placeholder="Try 922(g), compassionate release, or restitution"></label>
     <label for="f-topic">Topic<select id="f-topic"><option value="">All topics</option></select></label>
-    <label for="f-circ">Circuit<select id="f-circ"><option value="">Any circuit</option></select></label>
-    <label for="f-sort">Sort<select id="f-sort"><option value="latest">Newest opinion</option><option value="circuits">Most circuits</option></select></label>
+    <label for="f-sort">Sort by<select id="f-sort"><option value="latest">Newest opinion</option><option value="circuits">Most circuits involved</option><option value="close">Most evenly divided</option></select></label>
   </div>
-  <div class="count" id="count">Loading splits…</div>
+  <div class="count" id="count">Loading…</div>
   <div class="list" id="list"></div>
+</div></main>
 
-  <footer>
-    <p><strong>How this works.</strong> Each week a program searches CourtListener for new published federal appellate opinions that use circuit-split language, reads the relevant passages, and records the question and the circuits on each side. Entries marked <em>Unreviewed</em> were generated by software and have not been checked by a lawyer. Entries marked <em>Reviewed</em> have.</p>
-    <p>This is a research starting point, not legal advice. Read the opinions and confirm that a split still exists before you rely on it.</p>
-  </footer>
-</div>
+<footer><div class="wrap">
+  <p><strong>How this works.</strong> Each week a program searches CourtListener for new published federal appellate opinions that use circuit-split language, reads the relevant passages, and records the question and the circuits on each side. Entries are generated by software and may contain errors. An editor may check or correct an entry; those are marked “Editor-checked.”</p>
+  <p>This is a research starting point, not legal advice. Read the opinions and confirm that a split still exists before you rely on it.</p>
+</div></footer>
 
+<script src="map.js"></script>
 <script>
+const REPO="ejmendoza-law/circuit-splits";
 const CIRCS=["1st","2d","3d","4th","5th","6th","7th","8th","9th","10th","11th","D.C."];
 const SHORT=["1","2","3","4","5","6","7","8","9","10","11","DC"];
-const LABEL={unreviewed:"Unreviewed",approved:"Reviewed",needs_review:"Needs review",rejected:"Rejected"};
+const LABEL={unreviewed:"Automated entry",approved:"Editor-checked",needs_review:"In review queue",rejected:"Rejected"};
+const SIDE_COLOR=["#2c5aa0","#d4761a","#7b4bb0","#1f8a7a"];
+const BLUES=["#e9edf2","#cfdcee","#a9c1e3","#7d9fd2","#4f7bbd"];
+const ORANGES=["#e9edf2","#fbe1c4","#f5bf8a","#e99a4a","#d4761a"];
+const SVGNS="http://www.w3.org/2000/svg";
 const $=s=>document.querySelector(s);
 const el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e};
-const REPO="ejmendoza-law/circuit-splits";
-let splits=[],reviews={},db=null,gh=false,sent={},canReview=false,view="published",open=new Set(),editing=null,busy=false;
+const sv=(tag,attrs)=>{const e=document.createElementNS(SVGNS,tag);for(const k in attrs)e.setAttribute(k,attrs[k]);return e};
+let splits=[],review=false,sent={},view="published",open=new Set(),editing=null,mine="";
 
-function eff(s){const r=reviews[s.id];return r?{...s,...(r.edits||{}),status:r.status}:s}
+const full=c=>c==="D.C."?"D.C. Circuit":c+" Circuit";
+const pub=s=>s.status==="approved"||s.status==="unreviewed";
+const sideOf=(s,c)=>s.sides.findIndex(x=>x.circuits.includes(c));
 function fmtDate(d){return new Date(d+"T12:00:00").toLocaleDateString("en-US",{year:"numeric",month:"short",day:"numeric"})}
+function bucket(n,max){return n<=0?0:Math.min(4,1+Math.floor(3*(n-1)/Math.max(1,max-1)))}
+
+/* ---------- map ---------- */
+function drawMap(fill,onClick,mini){
+  const svg=sv("svg",{viewBox:"0 0 975 610",role:"img","aria-label":"Map of the federal judicial circuits"});
+  const dark={};
+  CIRCS.forEach(c=>{
+    if(c==="D.C.")return;
+    const f=fill(c);dark[c]=f.dark;
+    const p=sv("path",{d:MAP.paths[c],fill:f.color,class:"circ"});
+    const t=sv("title",{});t.textContent=f.title||full(c);p.append(t);
+    if(onClick)p.addEventListener("click",()=>onClick(c));
+    svg.append(p);
+  });
+  svg.append(sv("path",{d:MAP.mesh,class:"mesh"}));
+  const f=fill("D.C."),[dx,dy]=MAP.labels["D.C."];
+  svg.append(sv("line",{x1:dx,y1:dy,x2:900,y2:300,class:"lead"}));
+  const dc=sv("circle",{cx:915,cy:306,r:19,fill:f.color,class:"circ"});
+  const t=sv("title",{});t.textContent=f.title||full("D.C.");dc.append(t);
+  if(onClick)dc.addEventListener("click",()=>onClick("D.C."));
+  svg.append(dc);dark["D.C."]=f.dark;
+  CIRCS.forEach((c,i)=>{
+    const [x,y]=c==="D.C."?[915,306]:MAP.labels[c];
+    const tx=sv("text",{x,y,class:dark[c]?"on-dark":""});tx.textContent=SHORT[i];
+    if(c==="D.C.")tx.setAttribute("style","font-size:"+(mini?"22px":"15px"));
+    svg.append(tx);
+  });
+  return svg;
+}
+function mainMap(){
+  const P=splits.filter(pub);
+  const n={},opp={};
+  CIRCS.forEach(c=>{n[c]=P.filter(s=>sideOf(s,c)>=0).length;opp[c]=0});
+  if(mine)P.forEach(s=>{const k=sideOf(s,mine);if(k<0)return;CIRCS.forEach(c=>{const j=sideOf(s,c);if(j>=0&&j!==k)opp[c]++})});
+  const maxN=Math.max(1,...Object.values(n)),maxO=Math.max(1,...Object.values(opp));
+  const fill=c=>{
+    if(mine){
+      if(c===mine)return {color:"#1b1f24",dark:true,title:full(c)+": "+n[c]+" open splits"};
+      const b=bucket(opp[c],maxO);
+      return {color:ORANGES[b],dark:b>=3,title:full(c)+": on the opposite side from the "+full(mine)+" in "+opp[c]+(opp[c]===1?" split":" splits")};
+    }
+    const b=bucket(n[c],maxN);
+    return {color:BLUES[b],dark:b>=4,title:full(c)+": "+n[c]+" open splits"};
+  };
+  $("#map").replaceChildren(drawMap(fill,pick));
+  // buttons
+  $("#cbtns").replaceChildren(...CIRCS.map(c=>{const b=el("button","cbtn",c);b.type="button";b.setAttribute("aria-pressed",c===mine);b.setAttribute("aria-label",full(c));b.onclick=()=>pick(c);return b}));
+  // summary + legend
+  const sum=$("#summary"),lg=$("#legend");
+  lg.replaceChildren();
+  const scale=(colors,text)=>{colors.slice(1).forEach(c=>{const i=el("i");i.style.background=c;lg.append(i)});lg.append(el("span",null,text))};
+  if(!mine){
+    $("#pick-h").textContent="Where do you practice?";
+    $("#pick-p").hidden=false;sum.hidden=true;
+    scale(BLUES,"Darker means more open splits");
+  }else{
+    $("#pick-h").textContent=full(mine);
+    $("#pick-p").hidden=true;sum.hidden=false;sum.replaceChildren();
+    sum.append(el("p","big",n[mine]+(n[mine]===1?" open split":" open splits")));
+    const top=CIRCS.filter(c=>c!==mine&&opp[c]>0).sort((a,b)=>opp[b]-opp[a]).slice(0,3);
+    if(top.length)sum.append(el("p",null,"Most often on the other side: "+top.map(c=>(c==="D.C."?"D.C.":c)+" ("+opp[c]+")").join(", ")+"."));
+    const clr=el("button","linkbtn","Show all circuits");clr.type="button";clr.onclick=()=>pick(mine);sum.append(clr);
+    scale(ORANGES,"Darker means more often on the opposite side");
+  }
+}
+function pick(c){
+  mine=mine===c?"":c;
+  try{localStorage.setItem("circuit",mine)}catch(e){}
+  mainMap();render();
+}
+function miniMap(s){
+  return drawMap(c=>{const k=sideOf(s,c);return k>=0&&k<4?{color:SIDE_COLOR[k],dark:true,title:full(c)+": Side "+"ABCD"[k]}:{color:"#e9edf2",dark:false,title:full(c)+": no position recorded"}},null,true);
+}
+
+/* ---------- list ---------- */
 function inView(s){
   if(view==="queue")return s.status==="needs_review";
   if(view==="rejected")return s.status==="rejected";
-  return s.status==="approved"||s.status==="unreviewed";
+  return pub(s);
 }
 function matches(s){
-  const q=$("#f-q").value.trim().toLowerCase(),t=$("#f-topic").value,c=$("#f-circ").value;
+  const q=$("#f-q").value.trim().toLowerCase(),t=$("#f-topic").value;
   if(t&&s.topic!==t)return false;
-  if(c&&!s.sides.some(x=>x.circuits.includes(c)))return false;
+  if(mine&&sideOf(s,mine)<0)return false;
   if(!q)return true;
   const hay=[s.title,s.issue,s.provision,s.topic,s.note,...s.sides.flatMap(x=>[x.position,...x.cases]),...s.opinions.map(o=>o.cite)].join(" ").toLowerCase();
   return q.split(/\s+/).every(w=>hay.includes(w));
 }
 function strip(s){
   const d=el("div","strip");d.setAttribute("role","img");
-  const parts=[];
-  CIRCS.forEach((c,i)=>{const k=s.sides.findIndex(x=>x.circuits.includes(c));d.append(el("span","chip"+(k>=0&&k<4?" s"+k:""),SHORT[i]))});
-  s.sides.forEach((x,i)=>{if(x.circuits.length)parts.push("Side "+"ABCD"[i]+": "+x.circuits.join(", "))});
-  d.setAttribute("aria-label",parts.join("; ")||"No circuits identified");
+  CIRCS.forEach((c,i)=>{const k=sideOf(s,c);d.append(el("span","chip"+(k>=0&&k<4?" s"+k:"")+(c===mine?" me":""),SHORT[i]))});
+  d.setAttribute("aria-label",s.sides.map((x,i)=>x.circuits.length?"Side "+"ABCD"[i]+": "+x.circuits.join(", "):"").filter(Boolean).join("; ")||"No circuits identified");
+  return d;
+}
+function score(s){
+  const d=el("div","score");
+  s.sides.filter(x=>x.circuits.length).forEach((x,i)=>{if(i)d.append(" v. ");d.append(el("span","abcd"[s.sides.indexOf(x)]||"",String(x.circuits.length)))});
+  if(d.childNodes.length)d.append(s.sides.filter(x=>x.circuits.length).length>1?" circuits":" circuit");
   return d;
 }
 function row(s){
   const r=el("div","row"),h=el("button","head");h.type="button";h.setAttribute("aria-expanded",open.has(s.id));
+  const left=el("div");
+  left.append(el("h3",null,s.title||s.issue));
+  if(s.title)left.append(el("p","q",s.issue));
   const m=el("div","meta");
-  m.append(el("span","topic",s.topic||"Other"));
-  if(s.provision)m.append(el("span",null,s.provision));
+  m.append(el("span",null,s.topic||"Other"));
+  if(s.provision){let pv=s.provision.split(/;|\(see|\(cat/)[0].trim();if(pv.length>48)pv=pv.slice(0,46).trim()+"…";m.append(el("span",null,pv))}
   m.append(el("span",null,"Latest opinion "+fmtDate(s.latest)));
-  m.append(el("span","badge b-"+s.status,LABEL[s.status]));
-  h.append(m,el("h2","q",s.issue),strip(s));
+  if(mine){const k=sideOf(s,mine);if(k>=0){const y=el("span","yours",(mine==="D.C."?"D.C.":mine)+" Cir. is on Side "+"ABCD"[k]);y.style.color=SIDE_COLOR[k]||"";m.append(y)}}
+  m.append(el("span",null,LABEL[s.status]));
+  left.append(m);
+  const right=el("div","right");right.append(score(s),strip(s));
+  h.append(left,right);
   h.onclick=()=>{open.has(s.id)?open.delete(s.id):open.add(s.id);render()};
   r.append(h);
   if(open.has(s.id))r.append(editing===s.id?editForm(s):body(s));
@@ -158,53 +300,58 @@ function body(s){
   const b=el("div","body"),sides=el("div","sides");
   s.sides.forEach((x,i)=>{
     const d=el("div","side s"+i);
-    d.append(el("h3",null,"Side "+"ABCD"[i]+(x.circuits.length?" · "+x.circuits.join(", ")+" Cir.":" · circuits not identified")),el("p",null,x.position));
+    d.append(el("h4",null,"Side "+"ABCD"[i]+(x.circuits.length?": "+x.circuits.join(", ")+" Cir.":": circuits not identified")),el("p",null,x.position));
     if(x.cases.length){const ul=el("ul","cases");x.cases.forEach(c=>ul.append(el("li",null,c)));d.append(ul)}
     sides.append(d);
   });
   b.append(sides);
   if(s.note)b.append(el("div","note",s.note));
-  const w=el("div");w.append(el("h4",null,s.opinions.length>1?"Opinions acknowledging the split":"Opinion acknowledging the split"));
+  const det=el("div","detail"),mapBox=el("div","map"),w=el("div");
+  mapBox.append(el("p","sub","Where the circuits stand"),miniMap(s));
+  w.append(el("p","sub",s.opinions.length>1?"Opinions acknowledging the split":"Opinion acknowledging the split"));
   const ul=el("ul","ops");
   s.opinions.forEach(o=>{
     const li=el("li"),a=el("a",null,o.cite);a.href=o.url;a.target="_blank";a.rel="noopener";
     li.append(a);
-    if(o.source&&o.source!=="majority")li.append(el("span","status"," ("+o.source+")"));
+    if(o.source&&o.source!=="majority")li.append(el("span","small"," ("+o.source+")"));
     if(o.quote)li.append(el("q",null,o.quote));
     ul.append(li);
   });
-  w.append(ul);b.append(w);
-  if(canReview)b.append(actions(s));
+  w.append(ul);det.append(mapBox,w);b.append(det);
+  if(review)b.append(actions(s));
   return b;
 }
+
+/* ---------- review mode (address ends in #review) ---------- */
 function actions(s){
   const a=el("div","actions");
-  const mk=(label,cls,fn)=>{const x=el("button","btn "+cls,label);x.type="button";x.disabled=busy;x.onclick=fn;return x};
+  const mk=(label,cls,fn)=>{const x=el("button","btn "+cls,label);x.type="button";x.onclick=fn;return x};
   if(s.status!=="approved")a.append(mk("Approve","ok",()=>save(s.id,{status:"approved"})));
   a.append(mk("Edit","",()=>{editing=s.id;render()}));
-  if(s.status!=="rejected")a.append(mk("Reject — not a real split","bad",()=>save(s.id,{status:"rejected"})));
-  if(reviews[s.id]||(gh&&(s.status==="approved"||s.status==="rejected")))a.append(mk("Undo review","",()=>save(s.id,null)));
-  if(sent[s.id])a.append(el("span","status","Sent to GitHub: "+sent[s.id]+"."));
-  a.append(el("span","status","Software confidence "+Math.round(s.confidence*100)+"%"));
+  if(s.status!=="rejected")a.append(mk("Reject: not a live split","bad",()=>save(s.id,{status:"rejected"})));
+  if(s.status==="approved"||s.status==="rejected")a.append(mk("Undo review","",()=>save(s.id,null)));
+  if(sent[s.id])a.append(el("span","small","Sent to GitHub: "+sent[s.id]+"."));
+  a.append(el("span","small","Software confidence "+Math.round(s.confidence*100)+"%"));
   return a;
 }
 function editForm(s){
   const f=el("form","body edit");
   const field=(id,label,val,tag)=>{const l=el("label",null,label),i=el(tag||"input");i.id="e-"+id+"-"+s.id;i.value=val||"";if(tag==="textarea")i.rows=2;l.htmlFor=i.id;l.append(i);return [l,i]};
+  const [l0,title]=field("title","Headline",s.title);
   const [l1,issue]=field("issue","Question",s.issue,"textarea");
   const [l2,prov]=field("prov","Statute, guideline, or rule",s.provision);
   const [l3,note]=field("note","Note for readers (optional)",s.note,"textarea");
-  f.append(l1,l2);
+  f.append(l0,l1,l2);
   const sideInputs=s.sides.map((x,i)=>{
     const p=el("div","pair");
     const [a,pos]=field("pos"+i,"Side "+"ABCD"[i]+" position",x.position,"textarea");
-    const [b,circ]=field("circ"+i,"Circuits (e.g. 2d, 5th, D.C.)",x.circuits.join(", "));
+    const [b,circ]=field("circ"+i,"Circuits (for example: 2d, 5th, D.C.)",x.circuits.join(", "));
     p.append(a,b);f.append(p);return {pos,circ,cases:x.cases};
   });
   f.append(l3);
-  const a=el("div","actions"),sv=el("button","btn ok","Save and approve"),cn=el("button","btn","Cancel"),msg=el("span","status");
-  sv.type="submit";cn.type="button";cn.onclick=()=>{editing=null;render()};
-  a.append(sv,cn,msg);f.append(a);
+  const a=el("div","actions"),ok=el("button","btn ok","Save and approve"),cn=el("button","btn","Cancel"),msg=el("span","small");
+  ok.type="submit";cn.type="button";cn.onclick=()=>{editing=null;render()};
+  a.append(ok,cn,msg);f.append(a);
   f.onsubmit=e=>{
     e.preventDefault();
     const sides=[];
@@ -215,62 +362,55 @@ function editForm(s){
       sides.push({position:x.pos.value.trim(),circuits:cs,cases:x.cases});
     }
     editing=null;
-    save(s.id,{status:"approved",edits:{issue:issue.value.trim(),provision:prov.value.trim(),note:note.value.trim(),sides}});
+    save(s.id,{status:"approved",edits:{title:title.value.trim(),issue:issue.value.trim(),provision:prov.value.trim(),note:note.value.trim(),sides}});
   };
   return f;
 }
-function ghSave(id,rec){
+function save(id,rec){
   const act=rec===null?"undo":rec.status==="approved"?"approve":"reject";
   let body="Review request from the Circuit Split Tracker. Click Create to record it.";
   if(rec&&rec.edits)body+="\n\n```json\n"+JSON.stringify(rec.edits,null,1)+"\n```";
-  const url="https://github.com/"+REPO+"/issues/new?title="+encodeURIComponent("[review] "+act+" "+id)+"&body="+encodeURIComponent(body);
-  window.open(url,"_blank","noopener");
+  window.open("https://github.com/"+REPO+"/issues/new?title="+encodeURIComponent("[review] "+act+" "+id)+"&body="+encodeURIComponent(body),"_blank","noopener");
   sent[id]=act;render();
 }
-async function save(id,rec){
-  if(gh){ghSave(id,rec);return}
-  if(!db||busy)return;busy=true;render();
-  try{
-    if(rec===null)await db.doc("reviews/"+id).delete();
-    else{const prev=reviews[id]||{};await db.doc("reviews/"+id).set({status:rec.status,edits:rec.edits||prev.edits||{},at:new Date().toISOString()})}
-    $("#count").dataset.msg="";
-  }catch(e){$("#count").dataset.msg="Could not save that review. Check your connection and try again.";}
-  busy=false;render();
-}
+
 function render(){
-  const all=splits.map(eff);
-  const n=k=>all.filter(s=>k==="published"?(s.status==="approved"||s.status==="unreviewed"):s.status===k).length;
-  const tabs=$("#tabs");tabs.hidden=!canReview;
-  if(canReview){
-    tabs.replaceChildren(...[["published","Published ("+n("published")+")"],["queue","Review queue ("+n("needs_review")+")"],["rejected","Rejected ("+n("rejected")+")"]].map(([k,t])=>{
-      const b=el("button","tab",t);b.type="button";b.setAttribute("role","tab");b.setAttribute("aria-selected",view===k);b.onclick=()=>{view=k;render()};return b}));
-  }
-  let rows=all.filter(inView).filter(matches);
-  if($("#f-sort").value==="circuits")rows.sort((a,b)=>b.sides.flatMap(x=>x.circuits).length-a.sides.flatMap(x=>x.circuits).length);
+  const n=k=>splits.filter(s=>k==="published"?pub(s):s.status===k).length;
+  const tabs=$("#tabs");tabs.hidden=!review;$("#ghnote").hidden=!review;
+  if(review)tabs.replaceChildren(...[["published","Published ("+n("published")+")"],["queue","Review queue ("+n("needs_review")+")"],["rejected","Rejected ("+n("rejected")+")"]].map(([k,t])=>{
+    const b=el("button","tab",t);b.type="button";b.setAttribute("role","tab");b.setAttribute("aria-selected",view===k);b.onclick=()=>{view=k;render()};return b}));
+  let rows=splits.filter(inView).filter(matches);
+  const tot=s=>s.sides.reduce((a,x)=>a+x.circuits.length,0);
+  const gap=s=>{const c=s.sides.map(x=>x.circuits.length).filter(Boolean).sort((a,b)=>b-a);return c.length<2?99:c[0]-c[1]};
+  const sort=$("#f-sort").value;
+  if(sort==="circuits")rows.sort((a,b)=>tot(b)-tot(a)||b.latest.localeCompare(a.latest));
+  else if(sort==="close")rows.sort((a,b)=>gap(a)-gap(b)||tot(b)-tot(a));
   else rows.sort((a,b)=>b.latest.localeCompare(a.latest));
-  const msg=$("#count").dataset.msg;
-  $("#count").textContent=msg||(rows.length+(rows.length===1?" split":" splits")+(view==="queue"?" waiting for review":view==="rejected"?" rejected":""));
+  let label=rows.length+(rows.length===1?" split":" splits");
+  if(view==="queue")label+=" waiting for review";else if(view==="rejected")label+=" rejected";
+  if(mine)label+=" involving the "+full(mine);
+  $("#count").textContent=label;
   const list=$("#list");
-  if(!rows.length){list.replaceChildren(el("div","empty",splits.length?(view==="queue"?"Nothing is waiting for review.":"No splits match those filters."):"Split data has not loaded."));return}
+  if(!rows.length){list.replaceChildren(el("div","empty",splits.length?(view==="queue"?"Nothing is waiting for review.":"No splits match. Try a different search, topic, or circuit."):"The split list could not be loaded. Refresh the page to try again."));return}
   list.replaceChildren(...rows.map(row));
 }
 async function start(){
-  try{splits=await (await fetch("data/splits.json")).json()}catch(e){splits=[]}
-  const topics=[...new Set(splits.map(s=>s.topic||"Other"))].sort();
-  topics.forEach(t=>$("#f-topic").append(new Option(t,t)));
-  CIRCS.forEach(c=>$("#f-circ").append(new Option(c+" Cir.",c)));
-  ["#f-q","#f-topic","#f-circ","#f-sort"].forEach(s=>$(s).addEventListener("input",render));
-  render();
-  const ghMode=()=>{if(location.hash==="#review"&&!db){gh=true;canReview=true;$("#ghnote").hidden=false;render()}};
-  if(!window.claude||!window.claude.use){ghMode();addEventListener("hashchange",ghMode);return}
-  const [d,user]=await Promise.all([claude.use("db"),claude.use("user")]);
-  if(!d)return;
-  db=d;
-  canReview=user?await user.canEdit():false;
-  db.collection("reviews").onSnapshot(snap=>{
-    reviews={};snap.docs.forEach(x=>{reviews[x.id]=x.data()});render();
-  },()=>{canReview=false;render()});
-  render();
+  try{mine=localStorage.getItem("circuit")||""}catch(e){}
+  if(!CIRCS.includes(mine))mine="";
+  let meta={};
+  try{[splits,meta]=await Promise.all([fetch("data/splits.json").then(r=>r.json()),fetch("data/meta.json").then(r=>r.json()).catch(()=>({}))])}catch(e){splits=[]}
+  const st=$("#stats");
+  const add=(b,t)=>{st.append(el("b",null,b),t)};
+  add(String(splits.filter(pub).length)," open splits");
+  if(meta.opinions){st.append(" · ");add(meta.opinions.toLocaleString("en-US")," opinions screened")}
+  if(meta.updated){st.append(" · Updated "+fmtDate(meta.updated))}
+  [...new Set(splits.map(s=>s.topic||"Other"))].sort().forEach(t=>$("#f-topic").append(new Option(t,t)));
+  ["#f-q","#f-topic","#f-sort"].forEach(s=>$(s).addEventListener("input",render));
+  const mode=()=>{review=location.hash==="#review";if(!review)view="published";render()};
+  addEventListener("hashchange",mode);
+  mainMap();mode();
 }
 start();
 </script>
+</body>
+</html>
